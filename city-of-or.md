@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2022-10-22T19:24:35.803Z
+date: 2022-10-22T21:42:44.271Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
