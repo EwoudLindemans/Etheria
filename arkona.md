@@ -1,8 +1,8 @@
 ---
-title: /settlement/city/arkona
+title: Arkona
 description: 
 published: 1
-date: 2022-10-22T21:41:25.116Z
+date: 2022-10-22T21:41:48.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T21:41:25.116Z
