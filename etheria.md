@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-22T20:44:04.937Z
+date: 2022-10-22T21:22:31.381Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -15,6 +15,8 @@ Etheria was a world of chaos and uncertainty for decades. Those who survived wer
 
 ## [Magic](/essence)
 From every place in the land remaining scales of the ancient creature could be seen reaching unbelievable heights. The scales containing immense magic are almost impossible to penetrate and thus are left alone by most of the inhabitants of Etheria. But there are few that managed to pierce small gaps into the thick plates, more often than not paying it with their lives. From those gaps sparks of magic can be seen hitting the land that surrounds it. With special means cities managed to stabalize the sparks using it as a power source. Nowadays its stricly forbidden attempting to create new cavities.
+
+Some people have managed to find ways to harness the magic inside the scales. In order to do so, they need to use special tools called scalespeakers. A scalespeaker is a device that contains a crystal that resonates with the magic inside the scales. When the scalespeaker is placed over the scale, the magic inside the scale will resonate with the crystal and cause it to emit a strong beam of magic.
 
 ## The Five Scales
 Up until now there are Five [Scales](/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
