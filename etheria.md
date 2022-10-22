@@ -2,21 +2,23 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-22T21:22:31.381Z
+date: 2022-10-22T21:37:30.148Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
 # Etheria
-In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/the-collapse)
+In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/the-collapse) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
-Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. 
+Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. Those scattered pockets of civilization, fighting tooth and nail to stay alive.
+
+But in time, the people of Etheria banded together and began to rebuild. They formed city-states, each ruled by a powerful lord or lady. And slowly but surely, they pushed back the monsters and began to reclaim their world. Now, after centuries of struggle, Etheria is finally at peace. But it is a fragile peace, constantly threatened by the forces of evil that lurk in the shadows.
 
 ## [Magic](/essence)
 From every place in the land remaining scales of the ancient creature could be seen reaching unbelievable heights. The scales containing immense magic are almost impossible to penetrate and thus are left alone by most of the inhabitants of Etheria. But there are few that managed to pierce small gaps into the thick plates, more often than not paying it with their lives. From those gaps sparks of magic can be seen hitting the land that surrounds it. With special means cities managed to stabalize the sparks using it as a power source. Nowadays its stricly forbidden attempting to create new cavities.
 
-Some people have managed to find ways to harness the magic inside the scales. In order to do so, they need to use special tools called scalespeakers. A scalespeaker is a device that contains a crystal that resonates with the magic inside the scales. When the scalespeaker is placed over the scale, the magic inside the scale will resonate with the crystal and cause it to emit a strong beam of magic.
+Some people have managed to find ways to harness the magic inside the scales. In order to do so, they need to use special tools called scalespeakers. A scalespeaker is a device that contains a crystal that resonates with the magic inside the scales. When the scalespeaker is placed over the scale, the magic inside the scale will resonate with the crystal and cause it to emit a strong beam of magic. The magic that is emitted from the scale can be used for many purposes, such as powering magical devices, or even used as a weapon. However, using the magic in this way is very dangerous and often results in death or serious injury.
 
 ## The Five Scales
 Up until now there are Five [Scales](/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
@@ -55,6 +57,7 @@ Crack's are formed between continents they lead into a place called [The Dense](
 [City of Or](/city-of-or)
 [Triz Valley](/triz-valley)
 [Momentus Outpost](/momentus-outpost)
+[Arkona](/arkona)
 
 ### Places
 [Mountains of Triz](/mountains-of-triz)
