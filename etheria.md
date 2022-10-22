@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-22T18:40:43.518Z
+date: 2022-10-22T20:44:04.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -10,6 +10,8 @@ dateCreated: 2022-01-24T15:39:06.265Z
 
 # Etheria
 In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/the-collapse)
+
+Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. 
 
 ## [Magic](/essence)
 From every place in the land remaining scales of the ancient creature could be seen reaching unbelievable heights. The scales containing immense magic are almost impossible to penetrate and thus are left alone by most of the inhabitants of Etheria. But there are few that managed to pierce small gaps into the thick plates, more often than not paying it with their lives. From those gaps sparks of magic can be seen hitting the land that surrounds it. With special means cities managed to stabalize the sparks using it as a power source. Nowadays its stricly forbidden attempting to create new cavities.
