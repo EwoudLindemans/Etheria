@@ -2,7 +2,7 @@
 title: The Collapse
 description: 
 published: 1
-date: 2022-08-16T22:12:59.646Z
+date: 2022-10-22T21:45:06.921Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:44:24.005Z
