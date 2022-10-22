@@ -2,7 +2,7 @@
 title: Triz Valley
 description: Small town near the Mountains of Triz, popular amongst travelers.
 published: 1
-date: 2022-10-22T20:54:02.524Z
+date: 2022-10-22T20:56:54.462Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
@@ -21,3 +21,6 @@ Triz Valley has many taverns and inns where adventurers meet each other and make
 
 ## Stoneworks
 The area outside of Triz Valley is known for its many quarries. Marble, limestone, onyx, andesite and granite  are important export product for Triz Valley, used as building materials and by many artists throughout the continent.
+
+## Guilds
+The Merchants Guild in Triz Valley is well respected.
