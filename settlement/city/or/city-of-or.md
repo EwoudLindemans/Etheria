@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2022-10-23T17:36:55.467Z
+date: 2022-10-23T18:01:24.451Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -22,6 +22,14 @@ Homes were built into the underground caves of Or where the mines were depleted 
 | (Half-)Elves | ...        | 6.9%       |
 | Half-lings   | ...        | 5.5%       |
 | Others       | ...        | 4.4%       |
+
+### Local brews
+Some of the more notable brews include:
+- An elven ale that is a light golden, almost white color
+- A stout, brewed from the local mushrooms
+- A light ale, brewed from the local grains
+- A dark ale, brewed from the local berries
+- A cider, brewed from the local apples
 
 ## Rulers of Or
 Present day, the Great Dwarven [Flatstone Family](/flatstone-dynasty) is the richest family on all of [Etheria](/etheria). [The Council of Or](/council-of-or) (consisting mostly of members of the Flatstone family) rules the city with a no-nonse attitude. Crime is not tollerated and severly punished. Some may say the family is harsh, but all agree that they are just.
