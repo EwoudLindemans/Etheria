@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2022-10-23T18:04:50.989Z
+date: 2022-10-23T18:12:59.044Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -40,3 +40,6 @@ Present day, the Great Dwarven [Flatstone Family](/flatstone-dynasty) is the ric
 - [Karath Flatstone](/karath-flatstone), the current ruler of Or has not been seen for several months. High rankning council members claim to still be in contact with him through letters bearing his official signature and seal. A gossip about this situation is spreading through the City of Or like wildfire, with rumours ranging from sickness to a coup by another dwarven family.
 - Deep beneath the City of Or, miners have been disappearing. Some miners that have been very deep into the mines are spreading stories about the sound of drums and roars. Some even claim to have seen ghosts and other unnatural occurances. The official statement from the Council of Or is that nothing is the matter, although adventurers in the employ of the council have been seen entering the deepest mines and never return.
 - According to local bartenders, the [Flatstone Family](/flatstone-dynasty) possesses a bright blue gem that is made of the Scale of [Asara Plate](asara-plate). Any inquiries about this rumour is denied vehemently, which (according to the local bartenders) is as good as a confirmation of this rumour.
+
+## Story
+The truth is that Karath Flatstone has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
