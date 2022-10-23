@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-23T18:17:44.955Z
+date: 2022-10-23T18:27:38.636Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -29,15 +29,15 @@ Some people have managed to find ways to harness the magic inside the scales. In
 ## The Five Scales
 Up until now there are Five [Scales](/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
 
-- [The Armour of Or](/armour-of-or) (slightly red with white, largest, lowest)
+- [The Armour of Or](/scale/armour-of-or) (slightly red with white, largest, lowest)
 	- While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange. Underneath the armor lies the [City of Or](/city-of-or) that is Build by Dwarves
-- [Batès Lamina](/bates-lamina)
+- [Batès Lamina](/scale/bates-lamina)
 	- The smallest of all scales, Its a bright red colored scale. it became a precious place to the Followers of Irion. Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself.
-- [Eldeviérs Shell](/eldeviers-shell)
+- [Eldeviérs Shell](/scale/eldeviers-shell)
 	- The Shell is colored in a bright opal green. On this scale that mostly represents a tall looking spire the city Mohinders is build hanging suspeded in the air.  It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground.
-- [Umperas Hull](/umperas-hull) (yellow)
+- [Umperas Hull](/scale/umperas-hull) (yellow)
 	- A large curved scale with the top broken off, it pretty much resembles a long running wall, that curves away making for a great city surrounded by the hull, its color is a beatifull yellow with slight hints of orange.
-- [The Asara Plate](/asara-plate)
+- [The Asara Plate](/scale/asara-plate)
 	- The plate sits in the ground at a 30° angle and broke in half. Underneath the overhang of this plate runs a route, with a side road that runs between the two halves. The roads are used by merchants and travelers, it has a blue almost ice like color that shines bright when the sun hits the surface. 
 
 - The Orinite Ring
