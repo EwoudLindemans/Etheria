@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2022-10-23T18:01:24.451Z
+date: 2022-10-23T18:02:58.519Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -24,6 +24,8 @@ Homes were built into the underground caves of Or where the mines were depleted 
 | Others       | ...        | 4.4%       |
 
 ### Local brews
+The Flatstone Family has invested heavily in the production of fine ales and ciders, which they sell to visitors who come through their town. They also have a small fruit orchard that produces various kinds of fruits, such as apples and apricots.
+
 Some of the more notable brews include:
 - An elven ale that is a light golden, almost white color
 - A stout, brewed from the local mushrooms
