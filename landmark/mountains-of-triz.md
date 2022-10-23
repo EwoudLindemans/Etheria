@@ -2,14 +2,14 @@
 title: Mountains of Triz
 description: A mountainous area near the city of Triz Valley.
 published: 1
-date: 2022-01-27T08:59:57.360Z
+date: 2022-10-23T17:40:10.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T19:16:27.603Z
 ---
 
 # The Mountains of Triz
-A mountain range near the city of [Triz Valley](/triz-valley). The mountains of Triz contains a labyrinth of tunnels. Known to be the home of several goblin tribes, trolls and other mountain dwelling creatures.
+Locally known as Mountains of Trizefal is a mountain range near the city of [Triz Valley](/triz-valley). The mountains of Triz contains a labyrinth of tunnels. Known to be the home of several goblin tribes, trolls and other mountain dwelling creatures.
 
 ## Tunnels
 There are many tunnels inside the mountains of Triz, and without a guide or a keen sense of direction, one is certain to get lost. These tunnels possibly formed by lava flows. It is believed that the mountains of Triz are volcanic in nature, although there are no known occurences of any volcanic activity in the area.
