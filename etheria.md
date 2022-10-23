@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-23T17:10:31.112Z
+date: 2022-10-23T17:17:48.387Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -36,6 +36,8 @@ Up until now there are Five [Scales](/the-scales) that penetrate the surface. Bu
 - [The Asara Plate](/asara-plate)
 	- The plate sits in the ground at a 30° angle and broke in half. Underneath the overhang of this plate runs a route, with a side road that runs between the two halves. The roads are used by merchants and travelers, it has a blue almost ice like color that shines bright when the sun hits the surface. 
 
+- The Orinite Ring
+  - A black circle with a red inner lining. It is the only scale that doesn't have any land on it and orbits around the world. It has a magical field that protects those inside from the vacuum of space.
 
 ## Religions
 - **Followers of Irion**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.
