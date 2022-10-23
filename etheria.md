@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-23T17:17:48.387Z
+date: 2022-10-23T18:17:44.955Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -14,6 +14,10 @@ In the old days past, a world collided with the magical creature Irion. Rupturin
 Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. Those scattered pockets of civilization, fighting tooth and nail to stay alive.
 
 But in time, the people of Etheria banded together and began to rebuild. They formed city-states, each ruled by a powerful lord or lady. And slowly but surely, they pushed back the monsters and began to reclaim their world. Now, after centuries of struggle, Etheria is finally at peace. But it is a fragile peace, constantly threatened by the forces of evil that lurk in the shadows.
+
+The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes it so special.
+
+There is no one ruler of Etheria. Each race has its own territory that it controls. But there is an overall peace throughout Etheria that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Etheria
 
 ## [Magic](/essence)
 From every place in the land remaining scales of the ancient creature could be seen reaching unbelievable heights. The scales containing immense magic are almost impossible to penetrate and thus are left alone by most of the inhabitants of Etheria. But there are few that managed to pierce small gaps into the thick plates, more often than not paying it with their lives. From those gaps sparks of magic can be seen hitting the land that surrounds it. With special means cities managed to stabalize the sparks using it as a power source. Nowadays its stricly forbidden attempting to create new cavities.
