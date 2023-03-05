@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2022-10-23T18:27:38.636Z
+date: 2023-03-05T22:24:20.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -29,19 +29,20 @@ Some people have managed to find ways to harness the magic inside the scales. In
 ## The Five Scales
 Up until now there are Five [Scales](/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
 
-- [The Armour of Or](/scale/armour-of-or) (slightly red with white, largest, lowest)
-	- While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange. Underneath the armor lies the [City of Or](/city-of-or) that is Build by Dwarves
-- [Batès Lamina](/scale/bates-lamina)
-	- The smallest of all scales, Its a bright red colored scale. it became a precious place to the Followers of Irion. Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself.
-- [Eldeviérs Shell](/scale/eldeviers-shell)
-	- The Shell is colored in a bright opal green. On this scale that mostly represents a tall looking spire the city Mohinders is build hanging suspeded in the air.  It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground.
-- [Umperas Hull](/scale/umperas-hull) (yellow)
-	- A large curved scale with the top broken off, it pretty much resembles a long running wall, that curves away making for a great city surrounded by the hull, its color is a beatifull yellow with slight hints of orange.
-- [The Asara Plate](/scale/asara-plate)
-	- The plate sits in the ground at a 30° angle and broke in half. Underneath the overhang of this plate runs a route, with a side road that runs between the two halves. The roads are used by merchants and travelers, it has a blue almost ice like color that shines bright when the sun hits the surface. 
+### [The Armour of Or](/scale/armour-of-or) (slightly red with white, largest, lowest)
+While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange.
+  In addition to being the largest scale, the Armour of Or has unique crystalline formations that grow on its surface, which are highly prized by alchemists for their magical properties. The [City of Or](/city-of-or), built by dwarves beneath the scale, is known for its impressive forges and metallurgy.
+### [Batès Lamina](/scale/bates-lamina)
+The smallest of all scales, Its a bright red colored scale. it became a precious place to the Followers of Irion. Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself. Batès Lamina has a highly unusual property in that it emits a low-frequency hum that can be felt throughout the city built around it. The hum is said to have a calming effect on the inhabitants and is even used as a form of meditation by the Followers of Irion.
+### [Eldeviérs Shell](/scale/eldeviers-shell)
+The Shell is colored in a bright opal green. On this scale that mostly represents a tall looking spire the city Mohinders is build hanging suspeded in the air.  It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground. The opal green color of the Eldeviérs Shell is not just for show - the scale actually emits a soft green light that illuminates the city of Mohinders suspended above it. The light is also said to have healing properties, making Mohinders a popular destination for those seeking to heal from ailments.
+### [Umperas Hull](/scale/umperas-hull) (yellow)
+A large curved scale with the top broken off, it pretty much resembles a long running wall, that curves away making for a great city surrounded by the hull, its color is a beatifull yellow with slight hints of orange.
+### [The Asara Plate](/scale/asara-plate)
+The Asara Plate sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique scale is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
 
-- The Orinite Ring
-  - A black circle with a red inner lining. It is the only scale that doesn't have any land on it and orbits around the world. It has a magical field that protects those inside from the vacuum of space.
+### [The Orinite Ring](/scale/ornite-ring)
+A black circle with a red inner lining. It is the only scale that doesn't have any land on it and orbits around the world. It has a magical field that protects those inside from the vacuum of space.
 
 ## Religions
 - **Followers of Irion**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.
