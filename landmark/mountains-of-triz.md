@@ -2,7 +2,7 @@
 title: Mountains of Triz
 description: A mountainous area near the city of Triz Valley.
 published: 1
-date: 2022-10-23T17:40:10.844Z
+date: 2023-08-12T21:28:38.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T19:16:27.603Z
@@ -21,8 +21,8 @@ There are many goblin tribes and villages in the Mountains of Triz, ranging from
 ### Gurdalk's Gang
 A nomadic tribe, famous for their deathly traps.
 
-## The [Passage of Or](/passage-of-or)
-Dwarves from the [City of Or](/city-of-or) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/triz-valley) for many years. Work on the tunnels has been slow in recent years.
+## The [Passage of Or](/settlement/city/or/passage-of-or)
+Dwarves from the [City of Or](/settlement/city/or/city-of-or) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/settlement/city/triz-valley) for many years. Work on the tunnels has been slow in recent years.
 
 ## Notable events
 - [Or Flatstone](/or-flatstone) and his band are amongst the first to have found a passage through the Mountains of Triz.
