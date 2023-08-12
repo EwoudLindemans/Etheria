@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2023-08-12T21:30:15.936Z
+date: 2023-08-12T21:30:28.261Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -34,7 +34,7 @@ Some of the more notable brews include:
 - A cider, brewed from the local apples
 
 ## Rulers of Or
-Present day, the Great Dwarven [Flatstone Family](/flatstone-dynasty) is the richest family on all of [Etheria](/etheria). [The Council of Or](/council-of-or) (consisting mostly of members of the Flatstone family) rules the city with a no-nonse attitude. Crime is not tollerated and severly punished. Some may say the family is harsh, but all agree that they are just.
+Present day, the Great Dwarven [Flatstone Family](/settlement/city/or/flatstone-dynasty) is the richest family on all of [Etheria](/etheria). [The Council of Or](/settlement/city/or/council-of-or) (consisting mostly of members of the Flatstone family) rules the city with a no-nonse attitude. Crime is not tollerated and severly punished. Some may say the family is harsh, but all agree that they are just.
 
 ## Rumours
 - [Karath Flatstone](/karath-flatstone), the current ruler of Or has not been seen for several months. High rankning council members claim to still be in contact with him through letters bearing his official signature and seal. A gossip about this situation is spreading through the City of Or like wildfire, with rumours ranging from sickness to a coup by another dwarven family.
