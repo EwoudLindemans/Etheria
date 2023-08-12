@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-12T21:27:02.156Z
+date: 2023-08-12T21:28:16.544Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -69,8 +69,8 @@ Crack's are formed between continents they lead into a place called [The Dense](
 [Arkona](/settlement/city/arkona)
 
 ### Places
-[Mountains of Triz](/mountains-of-triz)
-[The Desert of the Rendishing Night](/the-desert-of-the-rendishing-night)
+[Mountains of Triz](/landmark/mountains-of-triz)
+[The Desert of the Rendishing Night](/landmark/the-desert-of-the-rendishing-night)
 
 ## Wars
 
