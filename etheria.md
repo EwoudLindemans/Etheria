@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-12T21:25:40.515Z
+date: 2023-08-12T21:26:34.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -31,7 +31,7 @@ Up until now there are Five [Scales](/the-scales) that penetrate the surface. Bu
 
 ### [The Armour of Or](/scale/armour-of-or) (slightly red with white, largest, lowest)
 While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange.
-  In addition to being the largest scale, the Armour of Or has unique crystalline formations that grow on its surface, which are highly prized by alchemists for their magical properties. The [City of Or](/city-of-or), built by dwarves beneath the scale, is known for its impressive forges and metallurgy.
+  In addition to being the largest scale, the Armour of Or has unique crystalline formations that grow on its surface, which are highly prized by alchemists for their magical properties. The [City of Or](/settlement/city/or/city-of-or), built by dwarves beneath the scale, is known for its impressive forges and metallurgy.
 ### [Batès Lamina](/scale/bates-lamina)
 The smallest of all scales, Its a bright red colored scale. it became a precious place to the Followers of Irion. Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself. Batès Lamina has a highly unusual property in that it emits a low-frequency hum that can be felt throughout the city built around it. The hum is said to have a calming effect on the inhabitants and is even used as a form of meditation by the Followers of Irion.
 ### [Eldeviérs Shell](/scale/eldeviers-shell)
