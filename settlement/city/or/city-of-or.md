@@ -2,14 +2,14 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2023-08-12T21:21:52.178Z
+date: 2023-08-12T21:30:15.936Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
 ---
 
 # The Dwarven City of Or
-Not long after [The Collapse](/the-collapse), an opportunistic dwarf named [Or Flatstone](/or-flatstone) gathered a band of miners and started digging and hewing beneath the white scales of what is now called The Armour of Or. The [Mines of Or](/settlement/city/or/mines-of-or) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the [Flatstone Family](/flatstone-dynasty).
+Not long after [The Collapse](/event/the-collapse), an opportunistic dwarf named [Or Flatstone](/settlement/city/or/or-flatstone) gathered a band of miners and started digging and hewing beneath the white scales of what is now called The Armour of Or. The [Mines of Or](/settlement/city/or/mines-of-or) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the [Flatstone Family](/settlement/city/or/flatstone-dynasty).
 
 ## Citizens of Or
 Homes were built into the underground caves of Or where the mines were depleted of precious resources. Many elves and humans with an interest in the magical properties of the white scales of Or have moved into the heart of the City of Or to provide their services to the locals and travelers. Besides jewels, the City of Or is known for its excellent selection of ales, brewed in the depths of the mines to appease the miners and attract visitors to the many taverns of Or. The outside of the city has attracted many farmers, providing the City of Or with a steady flow of food.
