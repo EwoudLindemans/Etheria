@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-12T21:28:16.544Z
+date: 2023-08-12T21:32:58.366Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -27,7 +27,7 @@ The largest such cavity is located in the old ruins of an ancient kingdom, now c
 Some people have managed to find ways to harness the magic inside the scales. In order to do so, they need to use special tools called scalespeakers. A scalespeaker is a device that contains a crystal that resonates with the magic inside the scales. When the scalespeaker is placed over the scale, the magic inside the scale will resonate with the crystal and cause it to emit a strong beam of magic. The magic that is emitted from the scale can be used for many purposes, such as powering magical devices, or even used as a weapon. However, using the magic in this way is very dangerous and often results in death or serious injury.
 
 ## The Five Scales
-Up until now there are Five [Scales](/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
+Up until now there are Five [Scales](/scale/the-scales) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](/ragged-goons) made it their sole purpose to find and exploit new (unprotected) scales.
 
 ### [The Armour of Or](/scale/armour-of-or) (slightly red with white, largest, lowest)
 While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange.
