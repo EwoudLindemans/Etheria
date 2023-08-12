@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-12T21:32:58.366Z
+date: 2023-08-12T21:33:09.492Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -65,7 +65,7 @@ Crack's are formed between continents they lead into a place called [The Dense](
 ### Cities
 [City of Or](/settlement/city/or/city-of-or)
 [Triz Valley](/settlement/city/triz-valley)
-[Momentus Outpost](/momentus-outpost)
+[Momentus Outpost](/settlement/city/momentus-outpost)
 [Arkona](/settlement/city/arkona)
 
 ### Places
