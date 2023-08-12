@@ -2,7 +2,7 @@
 title: Mountains of Triz
 description: A mountainous area near the city of Triz Valley.
 published: 1
-date: 2023-08-12T21:28:38.971Z
+date: 2023-08-12T21:29:04.420Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-25T19:16:27.603Z
@@ -25,5 +25,5 @@ A nomadic tribe, famous for their deathly traps.
 Dwarves from the [City of Or](/settlement/city/or/city-of-or) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/settlement/city/triz-valley) for many years. Work on the tunnels has been slow in recent years.
 
 ## Notable events
-- [Or Flatstone](/or-flatstone) and his band are amongst the first to have found a passage through the Mountains of Triz.
-- [Gorgrath the Brute](/gorgrath-the-brute) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/or-flatstone).
+- [Or Flatstone](/settlement/city/or/or-flatstone) and his band are amongst the first to have found a passage through the Mountains of Triz.
+- [Gorgrath the Brute](/gorgrath-the-brute) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/settlement/city/or/or-flatstone).
