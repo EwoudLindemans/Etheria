@@ -2,14 +2,14 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-03-05T22:24:20.145Z
+date: 2023-08-12T21:25:40.515Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
 # Etheria
-In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/the-collapse) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
+In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/event/the-collapse) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
 Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. Those scattered pockets of civilization, fighting tooth and nail to stay alive.
 
