@@ -2,20 +2,35 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-12T21:33:09.492Z
+date: 2023-08-14T20:44:51.540Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
 # Etheria
-In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a million pieces. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/event/the-collapse) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
-
-Etheria was a world of chaos and uncertainty for decades. Those who survived were quickly murdered by the monsters that followed, or left to fend for themselves. Those scattered pockets of civilization, fighting tooth and nail to stay alive.
-
-But in time, the people of Etheria banded together and began to rebuild. They formed city-states, each ruled by a powerful lord or lady. And slowly but surely, they pushed back the monsters and began to reclaim their world. Now, after centuries of struggle, Etheria is finally at peace. But it is a fragile peace, constantly threatened by the forces of evil that lurk in the shadows.
+In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a thousand. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/event/the-collapse) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes it so special.
+It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
+
+In the aftermath of The Collapse, the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature Irion. These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors.
+
+
+The following events happened in chronological order:
+
+
+Aurorhythmic Resonance Cycle (ARC)
+
+
+- Scale Sanctuaries:
+Communities quickly discovered that areas where these magical scales were concentrated had unique properties. The scales emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these scale sanctuaries, utilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
+
+- Scale-Backed Infrastructure:
+The immense size of the magical scales allowed survivors to build intricate shelters and structures by incorporating the scales into their architecture. Scales served as roofs, walls, and even bridges between settlements. This integration not only provided robust protection but also fostered a sense of connection with the magical essence that had reshaped their world.
+
+- Scale Conduits:
+Over time, the survivors learned to harness the latent magic within the scales to power various devices and technologies. Scales could be infused into tools, lighting systems, and communication devices, creating a kind of "scale-driven" technological renaissance that facilitated their resurgence as a civilization.
 
 There is no one ruler of Etheria. Each race has its own territory that it controls. But there is an overall peace throughout Etheria that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Etheria
 
