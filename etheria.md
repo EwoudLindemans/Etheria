@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2023-08-14T20:44:51.540Z
+date: 2023-08-14T20:54:21.667Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -15,13 +15,6 @@ The magical essence of the creature is what gives Etheria its unique properties.
 It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
 
 In the aftermath of The Collapse, the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature Irion. These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors.
-
-
-The following events happened in chronological order:
-
-
-Aurorhythmic Resonance Cycle (ARC)
-
 
 - Scale Sanctuaries:
 Communities quickly discovered that areas where these magical scales were concentrated had unique properties. The scales emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these scale sanctuaries, utilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
