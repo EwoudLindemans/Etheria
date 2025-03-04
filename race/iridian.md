@@ -2,7 +2,7 @@
 title: Iridian
 description: 
 published: 1
-date: 2025-03-04T22:44:03.409Z
+date: 2025-03-04T22:54:25.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T18:17:56.349Z
@@ -45,10 +45,10 @@ No two Iridian are exactly alike. Each carries a unique appearance, shaped by th
 
 An Iridian who has spent time near Batès Lamina may develop a faint crimson sheen in their skin, while one who resonated with Eldeviérs Shell might shimmer with opalescent hues. Some retain the form they were created with, remaining unchanged throughout their lives, while others gradually shift, their bodies reflecting the lingering echoes of past attunements.
 
-| Armour of OR | Eldeviérs Shell | Batès Lamina | Umperas Hull | The Asara Plate | The Ornite Ring |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| ![iridia-armor-of-or.webp](/races/iridia-armor-of-or.webp =150x) ![iridia-armor-of-or-male.webp](/races/iridia-armor-of-or-male.webp  =150x) | ![iridia-eldeviérs-shell.webp](/races/iridia-eldeviérs-shell.webp =150x)   | ![iridia-batès-lamina-female.webp](/races/iridia-batès-lamina-female.webp =150x) ![iridia-batès-lamina.webp](/races/iridia-batès-lamina.webp =150x)   | ![iridia-umperas-hull-male.webp](/races/iridia-umperas-hull-male.webp =150x) ![iridia-umperas-hull.webp](/races/iridia-umperas-hull.webp =150x) | ![iridia-asara-plate.webp](/races/iridia-asara-plate.webp =150x) | ![iridia-obsidian-crest-female.webp](/races/iridia-obsidian-crest-female.webp =150x) ![iridia-obsidian-crest-male.webp](/races/iridia-obsidian-crest-male.webp =150x)|
-| **Fortified Aegis** 🛡️ Gain +1 AC. Once per short rest, reduce incoming non-magical damage by 3. | **Tidal Flow** 🌊 Gain a swim speed of 40 feet. You can breathe underwater and cast *Shape Water* at will. | **Umbral Sight** 🌑 Gain Darkvision 60 ft. You can see through magical darkness up to 30 ft. | **Mechanized Endurance** ⚙️ Gain resistance to poison and disease. Advantage on Constitution saving throws vs. exhaustion. | **Asara’s Flow** Once per long rest you can make your body fluid moving through any gap | **Unstable Essence** ❓ Your abilities shift unpredictably. Roll 1d8 at dawn to determine your daily effect.|
+| Armour of OR | Eldeviérs Shell | Batès Lamina | Umperas Hull | The Asara Plate | The Ornite Ring | ?
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| ![iridia-armor-of-or.webp](/races/iridia-armor-of-or.webp =150x) ![iridia-armor-of-or-male.webp](/races/iridia-armor-of-or-male.webp  =150x) | ![iridia-eldeviérs-shell.webp](/races/iridia-eldeviérs-shell.webp =150x)   | ![iridia-batès-lamina-female.webp](/races/iridia-batès-lamina-female.webp =150x) ![iridia-batès-lamina.webp](/races/iridia-batès-lamina.webp =150x)   | ![iridia-umperas-hull-male.webp](/races/iridia-umperas-hull-male.webp =150x) ![iridia-umperas-hull.webp](/races/iridia-umperas-hull.webp =150x) | ![iridia-asara-plate.webp](/races/iridia-asara-plate.webp =150x) | ![iridia-obsidian-crest-female.webp](/races/iridia-obsidian-crest-female.webp =150x) ![iridia-obsidian-crest-male.webp](/races/iridia-obsidian-crest-male.webp =150x)|?|
+| **Fortified Aegis** 🛡️ Gain +1 AC. Once per short rest, reduce incoming non-magical damage by 3. | **Tidal Flow** 🌊 Gain a swim speed of 40 feet. You can breathe underwater and cast *Shape Water* at will. | **Umbral Sight** 🌑 Gain Darkvision 60 ft. You can see through magical darkness up to 30 ft. | **Mechanized Endurance** ⚙️ Gain resistance to poison and disease. Advantage on Constitution saving throws vs. exhaustion. | **Asara’s Flow** Once per long rest you can make your body fluid moving through any gap | **Unstable Essence** ❓ Your abilities shift unpredictably. Roll 1d8 at dawn to determine your daily effect.|?|
 
 
 ### Senses & Perception
