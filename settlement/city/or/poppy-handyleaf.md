@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-03-04T22:48:54.095Z
+date: 2025-03-04T22:51:21.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-04T11:49:03.230Z
 
 # Poppy Handyleaf – The Tinkering Star of OR  
 
-Poppy Handyleaf was never quite like the others. Among the chattering gnomes of OR’s winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
+Poppy Handyleaf was never quite like the others. Among the chattering gnomes of [The City of OR](/i/11) winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
 
 She was found as an infant, swaddled in strange silken cloth, tucked in a basket outside the bustling workshop of Silke Handyleaf, a gnome whose sharp wit and sharper tongue made her the most successful informant in Or. Rather than question fate, Silke took the baby in as her own, naming her Poppy, after the bright, stubborn little flowers that forced their way through the cracks in dwarven stone.
 
@@ -25,7 +25,6 @@ Yet, beneath her clever hands and calculating mind, Poppy is self-conscious—no
 A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor scoundrel. She is pragmatic, impulsive, and utterly unpredictable—loyal only to her own curiosity. If a scheme is brilliant enough, the consequences matter little. If an object is fascinating enough, it must be understood, no matter the risk.
 
 OR is her home, but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
-
 
 
 > ![poppy-handyleaf.webp](/characters/poppy-handyleaf/poppy-handyleaf.webp)
