@@ -2,7 +2,7 @@
 title: Scolar's Rift
 description: 
 published: 1
-date: 2025-03-04T23:47:32.624Z
+date: 2025-03-04T23:55:18.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T23:47:32.624Z
@@ -86,19 +86,19 @@ The **Exams** are filled with tension, tests, and a lot of *“Well, at least I 
 
 ### **A Little Joke About the Exam Process:**
 
-On exam day, the student body gathers, each one waiting for the "big reveal" of who will pass into the ranks of the Scalespeakers. The results are always a little… unpredictable.
+Bromar: "Do you think I’ll pass the exams this ARC?"
 
-"One in six," murmurs Bromar, adjusting his collar. "I mean, statistically, my chances are amazing, right?"
+Miko: "Considering your last attempt, I'd say you have a better chance of summoning a sandwich out of thin air."
 
-"Sure," Miko replies, not looking up from her book. "If you're playing dice with the gods, maybe."
+Bromar: "I did summon a sandwich once... but it was cursed."
 
-"Wait—does that mean I’ll be *the one* this ARC?" Deryn asks, her eyes wide with excitement. "I mean, I’m technically *six* times more likely than anyone else, right?"
+Deryn: "At least it was something—last time I summoned a toad that wouldn’t stop singing opera."
 
-Serenna sighs, leaning back in her chair. "Well, Deryn, considering your track record with magic, I’d say it’s more like... *one in a thousand*." 
+Serenna: "I once summoned a small tornado. It was... productive, but mostly inconvenient."
 
-Deryn pouts but smiles. "Oh, well. At least it’s a new ARC to try again!"
+Thaxton: "I don’t know why you all bother. The scales are just as likely to make you clean their shelves as grant you power."
 
-Thaxton, ever the skeptic, grumbles under his breath, "Honestly, you’d think they'd just make it easier. But no, they’ve decided to make us jump through hoops just to talk to the magical scales."
+Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 
 ---
 
