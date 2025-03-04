@@ -2,7 +2,7 @@
 title: The Scales
 description: 
 published: 1
-date: 2022-10-22T21:46:52.426Z
+date: 2025-03-04T20:38:11.677Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T16:16:26.728Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-24T16:16:26.728Z
 
 # The Scales
 
-A scale it the leftover protective armour of the creature known as Irion. After [The Collapse](/the-collapse) the creatures scales embedded itself in the planet. They stick out of the planet in all sorts of orientations.
+A scale it the leftover protective armour of the creature known as Irion. After [The Collapse](/i/17) the creatures scales embedded itself in the planet. They stick out of the planet in all sorts of orientations.
 
 ## Facts
 - All of the great five scales are protected.
