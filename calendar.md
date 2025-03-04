@@ -2,7 +2,7 @@
 title: Calendar
 description: 
 published: 1
-date: 2025-03-04T20:09:33.979Z
+date: 2025-03-04T23:22:37.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T20:53:05.278Z
@@ -42,8 +42,11 @@ The cataclysmic collision between the world and the mystical creature Irion resu
 ### Arc 17 - 33 - Nexus of Recovery
 - The Rising of Resonance (ARC 0 - 57):
 The planet began to mend through the magical residue left by Irion. This gradual healing process saw the emergence of pockets of Resonance, where the land breathed with life. Mountains shifted, valleys undulated, and forests pulsed, as if the world itself were a living entity, resonating with newfound vitality.
-### Arc 34 - 50 - Nexus of Celestial Veil
+### Arc 34 - 50 - Nexus of Manifestation
+-  The first [Iridian](/i/44) manifestations occurred randomly, deep within uncharted land. A few singular, unknown travelers who were lost manifested, leaving only confusion and questions in its wake.
 ### Arc 51 - 67 - Nexus of Scale Sanctuaries
+- First Public Witnessing of an [Iridian](/i/44) Manifestation (ARC 51):
+A group of explorers stumbled upon a strange, massive scale. As it hummed with static, a harmonic sound filled the air, and for the first time, an Iridian was seen by many, its form coalescing from the energy surrounding it, leaving the witnesses in awe and fear.
 - The Era of Scale Sanctuaries and Scale-Backed Architecture (ARC 58):
 Survivors of The Collapse discovered the unique properties of concentrated magical scales. These scales emitted a soothing energy that repelled dangerous creatures. Settlements formed around these Scale Sanctuaries, using the immense scales as natural defenses against the post-collapse dangers.
 This ARC was triggered by the digging of [Or Flatstone](/i/13)
