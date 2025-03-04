@@ -2,7 +2,7 @@
 title: Irion
 description: 
 published: 1
-date: 2022-10-23T21:54:48.390Z
+date: 2025-03-04T20:30:59.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
@@ -16,4 +16,4 @@ With time Etheria healed through the magical residue that the creature left behi
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes the connection between Iron en Etheria so special.
 
 ## Events
-- The Collapse is the event where Irion collapsed with a planet, now named Etheria
+- [The Collapse](/i/17) is the event where Irion collapsed with a planet, now named Etheria
