@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-03-04T12:05:00.726Z
+date: 2025-03-04T22:48:54.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -27,7 +27,8 @@ A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor sco
 OR is her home, but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
 
 
-> ![poppy-handyleaf.webp](/poppy-handyleaf.webp)
+
+> ![poppy-handyleaf.webp](/characters/poppy-handyleaf/poppy-handyleaf.webp)
 > # Poppy Handyleaf
 > ---
 > - Small humanoid (Aasimar), Chaotic Neutral
@@ -62,4 +63,5 @@ OR is her home, but the world is her workshop. And as long as there are mysterie
 >
 > **Homunculus Assist.** Poppy’s homunculus can use the Help action as a bonus action on her turn.  
 >
+> [poppy-handyleaf-character-sheet.pdf](/characters/poppy-handyleaf/poppy-handyleaf-character-sheet.pdf)
 >{.dnd}
