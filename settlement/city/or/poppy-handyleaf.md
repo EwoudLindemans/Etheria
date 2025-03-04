@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-03-04T11:49:03.230Z
+date: 2025-03-04T11:57:03.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -25,3 +25,40 @@ Yet, beneath her clever hands and calculating mind, Poppy is self-conscious—no
 A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor scoundrel. She is pragmatic, impulsive, and utterly unpredictable—loyal only to her own curiosity. If a scheme is brilliant enough, the consequences matter little. If an object is fascinating enough, it must be understood, no matter the risk.
 
 OR is her home, but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
+
+> ![poppy-handyleaf.webp](/poppy-handyleaf.webp)
+> # Poppy Handyleaf
+> ---
+> - Small humanoid (Aasimar), Chaotic Neutral
+> - Armor Class 16 (Enhanced Leather Armor)
+> - Hit Points 72 (11d8+22)
+> - Speed 30 ft.
+> ---
+> |STR|DEX|CON|INT|WIS|CHA|
+> |---|---|---|---|---|---|
+> |10 (+0)|15 (+2)|15 (+2)|17 (+3)|13 (+1)|11 (+0)|
+> ---
+> - Saving Throws Dex +5, Int +6
+> - Skills Arcana +6, Investigation +6, Perception +4, Sleight of Hand +5, Tinkering +6
+> - Tools Mason’s Tools, Smith’s Tools, Tinker’s Tools
+> - Damage Resistances Radiant
+> - Senses Darkvision 60 ft., passive Perception 14
+> - Languages Common, Gnomish, Dwarvish
+> - Challenge 4 (1,100 XP)
+> ---
+> **Gnome-Taught Ingenuity.** Poppy can use an action to magically tinker with an object, granting it a minor property (such as a faint glow, a recorded message, or a simple mechanical function).  
+> 
+> **Divine Spark.** Once per long rest, Poppy can heal herself or another creature for 2d8+3 hit points.  
+>
+> **Impulsive Genius.** Poppy can use her reaction to add +3 to an ability check or saving throw, three times per long rest.  
+> 
+> **Actions**
+> 
+> **Multiattack.** Poppy makes two Arcane Bolt attacks or one attack and one use of her homunculus construct's abilities.
+> 
+> **Arcane Bolt.** Ranged Spell Attack: +6 to hit, range 60 ft., one target.  
+> *Hit:* 2d6 + 3 force damage.  
+>
+> **Homunculus Assist.** Poppy’s homunculus can use the Help action as a bonus action on her turn.  
+>
+>{.dnd}
