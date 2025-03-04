@@ -2,7 +2,7 @@
 title: Calendar
 description: 
 published: 1
-date: 2023-08-14T21:42:29.787Z
+date: 2025-03-04T20:09:33.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T20:53:05.278Z
@@ -12,11 +12,11 @@ dateCreated: 2023-08-14T20:53:05.278Z
 
 In the realm of Etheria, time is measured not merely by the passage of days and nights, but by the ebb and flow of the magical energies that suffuse the world. This measurement is known as the "ARC," and it has its roots in the very essence that binds the world together.
 
-- Alignment with [The Collapse](/event/the-collapse):
+- Alignment with [The Collapse](/i/17):
 The date is counted in cycles that correspond to significant magical resonances leftover from The Collapse. Each cycle, known as a "ARC" represents a unit of time that resonates with the magical frequency of the event. The moment of The Collapse itself is designated as "0 ARC" marking the starting point of this unique time measurement.
 
 - Magical Pulse Measurement:
-Cycles are determined by tracking the rhythm of the magical pulses that emanate from [The scales](/scale/the-scales). These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
+Cycles are determined by tracking the rhythm of the magical pulses that emanate from [The scales](/i/19). These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
 
 - Fading Echoes:
 In the aftermath of The Collapse, the magical energies were released in a symphony of resonance. As time passes, the echoes of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
@@ -37,7 +37,7 @@ To keep track of Cycle's, communities use magical calendars that resonate with t
 ## Events
 
 ### Arc 0 - 16 - Nexus of Recreation
-- [The Collapse](/event/the-collapse) and The Birth of Etheria (Arc 0):
+- [The Collapse](/i/17) and The Birth of Etheria (Arc 0):
 The cataclysmic collision between the world and the mystical creature Irion resulted in the shattering of the planet into countless fragments. This event, known as The Collapse, marked the birth of the world of Etheria. The land broke apart, and magic infused the fragments with life.
 ### Arc 17 - 33 - Nexus of Recovery
 - The Rising of Resonance (ARC 0 - 57):
@@ -46,7 +46,7 @@ The planet began to mend through the magical residue left by Irion. This gradual
 ### Arc 51 - 67 - Nexus of Scale Sanctuaries
 - The Era of Scale Sanctuaries and Scale-Backed Architecture (ARC 58):
 Survivors of The Collapse discovered the unique properties of concentrated magical scales. These scales emitted a soothing energy that repelled dangerous creatures. Settlements formed around these Scale Sanctuaries, using the immense scales as natural defenses against the post-collapse dangers.
-This ARC was triggered by the digging of [Or Flatstone](/settlement/city/or/or-flatstone)
+This ARC was triggered by the digging of [Or Flatstone](/i/13)
 ### Arc 68 - 84 - Nexus of Arcane Infusion
 - The Technological Renaissance (ARC 74):
 The survivors' connection with magical scales evolved. They learned to harness latent magic within the scales to power devices. Scale Conduits emerged, infusing tools, lighting systems, and communication devices. This led to a technological renaissance, where "scale-driven" technologies facilitated Etheria's resurgence.
