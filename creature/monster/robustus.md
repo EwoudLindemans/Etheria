@@ -2,11 +2,35 @@
 title: Robustus
 description: 
 published: 1
-date: 2025-03-04T19:42:29.959Z
+date: 2025-03-04T19:43:16.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T21:10:42.256Z
 ---
+
+# Robustus – The Titanborn Behemoth
+"Mountains tremble at its steps, the earth groans beneath its weight. It does not fight for survival—it fights because it was made to endure."
+
+## Origins & Legend
+Robustus is an ancient creature of unmatched resilience and power, a living fortress of muscle and stone. Legends say it was sculpted from the very bones of the earth by forgotten gods, meant to be an unyielding guardian of the land. However, when the gods vanished, Robustus remained, wandering the world as an unstoppable force, seeking a purpose that was never given.
+
+## Physical Description
+Height: 15 to 20 feet tall
+Weight: Several tons, with dense, stone-infused flesh
+Appearance: A colossal humanoid beast, covered in thick, layered plating resembling both organic armor and the craggy surface of a mountain. Its body pulses with an ancient energy, glowing faintly in the cracks between its massive muscles.
+Eyes: Deep-set, glowing like molten rock, filled with silent wisdom and unyielding fury.
+Arms & Fists: Robustus’s arms are thicker than tree trunks, each strike capable of splitting the ground.
+## Abilities & Traits
+Titanic Strength – Robustus can lift and crush objects that weigh several tons with ease.
+Unbreakable Hide – Its body is nearly impervious to normal weapons, as its flesh is reinforced with enchanted minerals.
+Seismic Stride – Each step shakes the ground, creating tremors that can destabilize enemies.
+Primeval Endurance – It never tires, never sleeps, and does not require sustenance to survive.
+Wrath of the Colossus – When enraged, Robustus can unleash a devastating shockwave, leveling everything within a massive radius.
+Temperament & Behavior
+Despite its intimidating presence, Robustus is not inherently violent. It moves with deliberate patience, observing the world through ancient eyes. However, if provoked or challenged, it responds with overwhelming force, ensuring that none stand against it unscathed.
+
+## The Mystery of Robustus
+Some scholars believe that Robustus is searching for its lost creators, while others claim it is simply following a forgotten command, endlessly patrolling the lands it was once meant to protect. There are whispers that deep within its core lies an ancient power, one that could either save or destroy the world—should anyone discover how to awaken it.
 
 > ![robustus.webp](/characters/robustus.webp)
 ># Robustus
