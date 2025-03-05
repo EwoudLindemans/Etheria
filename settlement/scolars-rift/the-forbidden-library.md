@@ -2,13 +2,13 @@
 title: The Forbidden Library
 description: 
 published: 1
-date: 2025-03-05T00:10:31.202Z
+date: 2025-03-05T00:23:55.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:09:33.986Z
 ---
 
-### **The Forbidden Library of The Scholar's Rift**
+# The Forbidden Library of The Scholar's Rift
 
 The **Forbidden Library** is one of the most well-known—and often feared—locations within The Scholar's Rift. Unlike your standard, orderly library, this one thrives in *chaos*, uncertainty, and the constant hum of magic teetering on the edge of destruction. Its shelves, packed with dusty tomes, magical scrolls, and enchanted manuscripts, hold knowledge that could change the very fabric of reality… or burn down the entire building with a single misplaced incantation.
 
