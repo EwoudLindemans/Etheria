@@ -2,14 +2,14 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-04T20:04:37.476Z
+date: 2025-03-05T22:15:53.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
 # Etheria
-In the old days past, a world collided with the magical creature Irion. Rupturing the planet and breaking it down into a thousand. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/i/17) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
+In the old days past, a world collided with the magical creature [Irion](/i/40). Rupturing the planet and breaking it down into a thousand. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/i/17) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes it so special.
 It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
