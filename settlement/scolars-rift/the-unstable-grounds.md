@@ -2,13 +2,13 @@
 title: The Unstable Grounds
 description: 
 published: 1
-date: 2025-03-05T00:13:28.302Z
+date: 2025-03-05T00:24:30.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:13:28.302Z
 ---
 
-## **The Unstable Grounds** *(Training Area / Magical Minefield)*
+# The Unstable Grounds (Training Area / Magical Minefield)
 A vast, open field riddled with **lingering magical effects** from centuries of reckless spellcasting.  
 No one fully understands the terrain, but most scholars agree that it's *better not to ask too many questions*.  
 
