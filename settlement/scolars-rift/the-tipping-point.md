@@ -2,13 +2,13 @@
 title: The Tipping Point
 description: 
 published: 1
-date: 2025-03-05T00:12:14.041Z
+date: 2025-03-05T00:24:12.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:12:14.041Z
 ---
 
-## **The Tipping Point** *(Tavern & Social Hub)*
+# The Tipping Point (Tavern & Social Hub)
 The only place in The Scholar’s Rift where magic is *strongly discouraged* (mostly because of past incidents that resulted in singed furniture and at least one liquefied bartender).  
 Run by the ever-patient and slightly terrifying **Maera Greaves**, The Tipping Point serves as a gathering spot for students, Resonants, and Scalespeakers alike.  
 
