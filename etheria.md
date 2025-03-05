@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-05T22:24:36.575Z
+date: 2025-03-05T22:30:39.912Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -28,11 +28,13 @@ Over time, the survivors learned to harness the latent magic within the scales t
 There is no one ruler of Etheria. Each race has its own territory that it controls. But there is an overall peace throughout Etheria that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Etheria
 
 ## [Magic](#)
-From every place in the land remaining scales of the ancient creature could be seen reaching unbelievable heights. The scales containing immense magic are almost impossible to penetrate and thus are left alone by most of the inhabitants of Etheria. But there are few that managed to pierce small gaps into the thick plates, more often than not paying it with their lives. From those gaps sparks of magic can be seen hitting the land that surrounds it. With special means cities managed to stabalize the sparks using it as a power source. Nowadays its stricly forbidden attempting to create new cavities.
+From every place in the land, the remaining scales of the ancient creature can be seen towering over the world, their impossible heights a testament to forgotten times. These scales, infused with immense magic, are nearly indestructible, making them objects of both reverence and caution. Few dare to tamper with them, and those who do often pay with their lives. However, over centuries, some managed to pierce small gaps into the thick plates. From these openings, magic sparks pour into the land, raw and unstable. Cities have learned to harness these sparks with specialized means, stabilizing them as a power source. Yet, any new attempt to create more cavities is strictly forbidden.
 
-The largest such cavity is located in the old ruins of an ancient kingdom, now called Kin'Darei. The ruined city is surrounded by a great moat filled with deadly creatures that are attracted to this magical place. Even if one manages to pass through all travellers are constantly hunted down and killed before they can reach the ruin's walls. Not even giants dare to enter because of what lies inside, there have been no survivors who had escaped from it telling tales about its wonders.
+The largest such cavity is found in the ruins of an ancient kingdom, now called Kin’Darei. This place, once the heart of a great civilization, has become an untamed wasteland. A moat teeming with deadly creatures surrounds the ruins, drawn to the site’s boundless magic. Even those who manage to cross it find themselves relentlessly hunted before they can even reach the broken walls. Not even giants dare to enter. What lies inside remains a mystery—none who have entered have ever returned to tell their tale.
 
-Some people have managed to find ways to harness the magic inside the scales. In order to do so, they need to use special tools called scalespeakers. A scalespeaker is a device that contains a crystal that resonates with the magic inside the scales. When the scalespeaker is placed over the scale, the magic inside the scale will resonate with the crystal and cause it to emit a strong beam of magic. The magic that is emitted from the scale can be used for many purposes, such as powering magical devices, or even used as a weapon. However, using the magic in this way is very dangerous and often results in death or serious injury.
+It is believed that some of the most advanced research into this magic takes place in the [Scholar’s Rift](/i/46). Hidden behind a metaphysical barrier, this legendary enclave is accessible only to those it deems worthy. Most scholars theorize that the Rift Gate selects individuals based on magical aptitude, yet the baffling case of Barty Dunderfield—a man entirely devoid of magical talent—has left this theory in question. Some say the Rift itself chooses who may enter, though its reasoning remains an enigma.
+
+The Rift Gate is the first and final trial for those seeking knowledge, power, or perhaps just the consequences of a truly terrible decision.
 
 ## The Five Scales
 Up until now there are Five [Scales](/i/19) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called [The Ragged Goons](#) made it their sole purpose to find and exploit new (unprotected) scales.
