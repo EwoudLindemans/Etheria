@@ -1,14 +1,14 @@
 ---
-title: Resonant Scholar
+title: Arcane Resonance
 description: 
 published: 1
-date: 2025-03-05T23:07:01.895Z
+date: 2025-03-05T23:14:05.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
 ---
 
-# Resonant Scholar
+# Arcane Resonance
 *Sorcerer Subclass*
 
 Some sorcerers don't simply cast spells—they are attuned to the fabric of magic itself. These Resonant Scholars understand that magic vibrates in the world like sound waves, and they manipulate this resonance to shape reality. Their connection to the harmonic frequencies of the universe allows them to weave spells with a power that flows instinctively from their being. Instead of formal incantations, their spells emanate from within, shaped by their natural connection to the cosmic hum of existence.
