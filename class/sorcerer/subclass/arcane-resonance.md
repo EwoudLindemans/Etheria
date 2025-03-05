@@ -2,7 +2,7 @@
 title: Arcane Resonance
 description: 
 published: 1
-date: 2025-03-05T23:14:05.177Z
+date: 2025-03-05T23:46:32.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
@@ -11,32 +11,46 @@ dateCreated: 2025-03-05T23:07:01.895Z
 # Arcane Resonance
 *Sorcerer Subclass*
 
-Some sorcerers don't simply cast spells—they are attuned to the fabric of magic itself. These Resonant Scholars understand that magic vibrates in the world like sound waves, and they manipulate this resonance to shape reality. Their connection to the harmonic frequencies of the universe allows them to weave spells with a power that flows instinctively from their being. Instead of formal incantations, their spells emanate from within, shaped by their natural connection to the cosmic hum of existence.
+Some Sorcerers begin their journey as aspiring Wizards, driven by a thirst for knowledge and the belief that magic is a discipline to be learned. They study ancient tomes, memorize spells, and refine their craft with the precision of a scholar, unaware of the power that stirs within them.
+
+But as they delve deeper into the arcane, they begin to notice something strange. Their magic feels different—less like a learned skill and more like an instinctive force. The spells they cast no longer require the careful preparation of words and gestures; instead, magic flows through them naturally, resonating with their very being.
+
+Over time, these individuals come to realize that they are not simply studying magic—they are Sorcerers, born with a deep, innate connection to the fundamental frequencies of the universe. Their magic is not learned but awakened, flowing through them as part of who they are, shaping reality with harmonic resonance.
 
 ## Level 3: Resonant Affinity
 At 3th level, your connection to the forces of resonance allows you to attune yourself to the underlying frequencies of magic. You gain the following benefits:
 
 ### Resonance Frequencies
-You learn to attune yourself to a Resonance Frequency. At the end of a long rest, you can choose one of the following Frequencies. These Frequencies can be shifted at the end of a long rest, or as part of a short rest if you're exposed to strong magical fields (such as ley lines or magical phenomena), but this requires a successful *DC 15 Arcana* check to shift instantly.
+You learn to attune yourself to a Resonance. At the end of a long rest, you can choose one of the following Frequencies. These Frequencies can be shifted at the end of a long rest, or as part of a short rest if you're exposed to strong magical fields (such as ley lines or magical phenomena), but this requires a successful *DC 15 Arcana* check to shift instantly.
 
 - **Harmonic Flow (Sustained Magic):**
   - When you cast a spell that requires concentration, you can maintain concentration without making concentration checks for 2 rounds.
   - Spells you cast have no verbal or somatic components—they manifest instinctively. You don’t need to speak or gesture to cast them.
   - Once per long rest, you can leave behind a magical "Echo" when you cast a spell. This Echo allows you to recast the same spell as a Bonus Action without expending a spell slot. The Echo lasts for 1 minute.
-
+---
 - **Disruptive Wave (Countermagic):**
   - When a creature within 30 feet of you casts a spell, you can use your reaction to attempt to destabilize the magic. Roll an Arcana check against the creature's spell save DC. On a success, the spell fails, and the caster loses the spell slot.
   - Your spells cannot be countered or dispelled unless the caster succeeds on a spellcasting ability check against your spell save DC.
-
+---
 - **Refractive Echo (Duplicated Magic):**
-  - When you cast a spell, roll a d6. On a 6, the spell is duplicated: it casts normally and again at half potency with no additional cost. The second casting has no additional effects (such as damage or healing).
-  - If a spell targets one creature, you can instead target two creatures within range at the expense of a extra spell slot.
+  - When you cast a spell, you can choose to expend additional spell slots to create echoes of that spell. Each echo casts at the level of the expended spell slot and at half potency for damage and healing spells. For other spells, the effects are fully functional.
+    - **Cost:** For each extra spell slot you expend (up to a maximum of 4 spell slots, including the original), you create one echo of the original spell.
+    - **Exhaustion:** If you expend more than 2 spell slots in a single turn, you gain one level of exhaustion due to the strain of channeling so much magic at once.
+
+  - **Targeting:** If the original spell targets one creature, you can target up to two creatures with each cast (including the echoes), provided you expend an additional spell slot for each creature targeted.
+
+    - **Damage & Healing Spells:**
+      - **Effect Halved:** For damage-dealing or healing spells, the echoes' effect is halved. For example, if you cast a damaging spell like *Fireball*, the echoes will deal half the damage of the original spell. Similarly, a healing spell like *Cure Wounds* would heal half as much for each echo.
+
+    - **Other Spells (Non-Damaging/Healing):**
+      - **Full Effect:** For spells that don't deal damage or healing, such as utility or control spells, the echoes work normally. For example, *Charm Person* would charm the target as if it was cast normally on multiple targets.
+
 
 ## Level 6: Resonant Adaptation
-By 6th level, you have gained the ability to more easily shift between the resonances that govern your magic. You can change your Resonant Frequency in the following ways:
+By 6th level, you have gained the ability to more easily shift between the resonances that govern your magic. You can change your Resonant in the following ways:
 
-- **Meditation:** Once per long rest, you can spend 1 minute meditating to shift your active Resonance Frequency to another one you have already chosen.
-- **Magical Field Awareness:** You can make an *Arcana* check (DC 15) to instantly shift to a new Resonance Frequency when exposed to strong magical fields, such as ley lines, enchanted artifacts, or Rift events.
+- **Meditation:** Once per long rest, you can spend 1 minute meditating to shift your active Resonance to another one you have already chosen.
+- **Magical Field Awareness:** You can make an *Arcana* check (DC 15) to instantly shift to a new Resonance when exposed to strong magical fields, such as ley lines, enchanted artifacts, or Rift events.
 - **Resonant Resistance:** You gain resistance to force damage and any damage caused by magical effects that push, pull, or restrain you (such as the *telekinesis* spell or *wall of force*).
 
 ## Level 10: Liminal State
@@ -62,13 +76,13 @@ When you take damage from a spell, you can harmonize with the energy and convert
 - **Lightning Damage:** Your next spell gains an additional charge, allowing you to cast it twice at once if it’s a spell with a casting time of *1 action* (does not apply to spells with a *Concentration* duration).
 - **Psychic Damage:** Your next spell deals psychic damage and gains advantage on any saving throws to maintain concentration.
 
-## Resonance Scholar in Action
-The **Resonant Scholar** subclass allows for an incredibly flexible and dynamic playstyle, giving Sorcerers the ability to adapt, disrupt, and augment their magical abilities in ways that no other subclass can. Whether you want to manipulate the flow of your spells, counter your enemies’ magic, or absorb energy to bolster your own abilities, this subclass provides rich and diverse options.
+## Resonance Sorcerer in Action
+The **Arcane Resonance** subclass allows for an incredibly flexible and dynamic playstyle, giving Sorcerers the ability to adapt, disrupt, and augment their magical abilities in ways that no other subclass can. Whether you want to manipulate the flow of your spells, counter your enemies’ magic, or absorb energy to bolster your own abilities, this subclass provides rich and diverse options.
 
 By 14th level, you'll be able to manipulate multiple frequencies, creating a very fluid and responsive form of magic that scales up with the complexity of gameplay. The flavor and thematics of "resonance" are tightly tied to both the mechanics and the roleplay of this subclass.
 
 ## Summary of Key Features:
-- **Level 1:** Choose a Resonance Frequency that enhances your spellcasting in different ways, such as no verbal/somatic components, disrupting enemy spells, or duplicating your magic.
+- **Level 1:** Choose a Resonance that enhances your spellcasting in different ways, such as no verbal/somatic components, disrupting enemy spells, or duplicating your magic.
 - **Level 6:** Shift between Resonance Frequencies more easily, gaining resistance to force damage and effects that manipulate you.
 - **Level 10:** Enter a Liminal State to gain resistance to magical damage, phase through barriers, and absorb spell damage for temporary hit points.
 - **Level 14:** Harmonize with multiple Resonance Frequencies at once and absorb energy from spells to enhance your own magic.
