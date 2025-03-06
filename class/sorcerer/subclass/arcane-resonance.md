@@ -2,7 +2,7 @@
 title: Arcane Resonance
 description: 
 published: 1
-date: 2025-03-05T23:46:32.798Z
+date: 2025-03-06T00:16:17.361Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
@@ -18,32 +18,33 @@ But as they delve deeper into the arcane, they begin to notice something strange
 Over time, these individuals come to realize that they are not simply studying magic—they are Sorcerers, born with a deep, innate connection to the fundamental frequencies of the universe. Their magic is not learned but awakened, flowing through them as part of who they are, shaping reality with harmonic resonance.
 
 ## Level 3: Resonant Affinity
-At 3th level, your connection to the forces of resonance allows you to attune yourself to the underlying frequencies of magic. You gain the following benefits:
+At 3th level, your connection to the forces of resonance allows you to resonate yourself with the underlying fabric of magic. At the end of a long rest, you can attune yourself to one of the following resonances.
 
-### Resonance Frequencies
-You learn to attune yourself to a Resonance. At the end of a long rest, you can choose one of the following Frequencies. These Frequencies can be shifted at the end of a long rest, or as part of a short rest if you're exposed to strong magical fields (such as ley lines or magical phenomena), but this requires a successful *DC 15 Arcana* check to shift instantly.
+- **Resonant Fracture:**
+  - When you cast a spell using a high-level spell slot, you can choose to fracture the spell’s power. By expending the high-level spell slot, you cast the spell at half the original spell slot level (rounded down). You then regain a spell slot of the new, lower level for future use.
+    - **For even-level spell slots**, you divide the level by 2 (e.g., 8th-level becomes 4th-level).
+    - **For odd-level spell slots**, subtract 1 from the spell level before dividing by 2 (e.g., 9th-level becomes 4th-level, 7th-level becomes 3rd-level).
+  - The spell slot regained is marked as fractured and cannot be divided again.
 
-- **Harmonic Flow (Sustained Magic):**
+---
+
+- **Resonant Harmonics:**
   - When you cast a spell that requires concentration, you can maintain concentration without making concentration checks for 2 rounds.
   - Spells you cast have no verbal or somatic components—they manifest instinctively. You don’t need to speak or gesture to cast them.
   - Once per long rest, you can leave behind a magical "Echo" when you cast a spell. This Echo allows you to recast the same spell as a Bonus Action without expending a spell slot. The Echo lasts for 1 minute.
+
 ---
-- **Disruptive Wave (Countermagic):**
+
+- **Disruptive Resonance:**
   - When a creature within 30 feet of you casts a spell, you can use your reaction to attempt to destabilize the magic. Roll an Arcana check against the creature's spell save DC. On a success, the spell fails, and the caster loses the spell slot.
   - Your spells cannot be countered or dispelled unless the caster succeeds on a spellcasting ability check against your spell save DC.
+
 ---
-- **Refractive Echo (Duplicated Magic):**
-  - When you cast a spell, you can choose to expend additional spell slots to create echoes of that spell. Each echo casts at the level of the expended spell slot and at half potency for damage and healing spells. For other spells, the effects are fully functional.
-    - **Cost:** For each extra spell slot you expend (up to a maximum of 4 spell slots, including the original), you create one echo of the original spell.
-    - **Exhaustion:** If you expend more than 2 spell slots in a single turn, you gain one level of exhaustion due to the strain of channeling so much magic at once.
 
-  - **Targeting:** If the original spell targets one creature, you can target up to two creatures with each cast (including the echoes), provided you expend an additional spell slot for each creature targeted.
+- **Resonant Echo's:**
+  - When you cast a spell, you can choose to expend additional spell slots to create echoes of that spell. Each echo casts at the level of the expended spell slot and at half potency for damage and healing spells. For other spells, the effects are fully functional. (Up to a maximum of 4)
+  - **Exhaustion:** If you expend more than 2 spell slots in a single turn, you gain one level of exhaustion due to the strain of channeling so much magic at once.
 
-    - **Damage & Healing Spells:**
-      - **Effect Halved:** For damage-dealing or healing spells, the echoes' effect is halved. For example, if you cast a damaging spell like *Fireball*, the echoes will deal half the damage of the original spell. Similarly, a healing spell like *Cure Wounds* would heal half as much for each echo.
-
-    - **Other Spells (Non-Damaging/Healing):**
-      - **Full Effect:** For spells that don't deal damage or healing, such as utility or control spells, the echoes work normally. For example, *Charm Person* would charm the target as if it was cast normally on multiple targets.
 
 
 ## Level 6: Resonant Adaptation
