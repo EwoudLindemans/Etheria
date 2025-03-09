@@ -2,7 +2,7 @@
 title: Arcane Resonance
 description: 
 published: 1
-date: 2025-03-06T00:16:17.361Z
+date: 2025-03-09T19:25:53.504Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
@@ -87,3 +87,7 @@ By 14th level, you'll be able to manipulate multiple frequencies, creating a ver
 - **Level 6:** Shift between Resonance Frequencies more easily, gaining resistance to force damage and effects that manipulate you.
 - **Level 10:** Enter a Liminal State to gain resistance to magical damage, phase through barriers, and absorb spell damage for temporary hit points.
 - **Level 14:** Harmonize with multiple Resonance Frequencies at once and absorb energy from spells to enhance your own magic.
+
+
+| -------- | ------- | ------- |
+![arcane_resonance_sorceress.png](/classes/subclasses/arcane_resonance_sorceress.png) | ![arcane_resonance_sorceress_(2).png](/classes/subclasses/arcane_resonance_sorceress_(2).png) | ![arcane_resonance_sorceress_(3).png](/classes/subclasses/arcane_resonance_sorceress_(3).png)
