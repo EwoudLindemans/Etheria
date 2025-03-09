@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-03-09T18:27:02.025Z
+date: 2025-03-09T18:43:38.348Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -26,6 +26,9 @@ At the heart of the Glimmering Ashenburrow, the [Density Calibrator](/i/59) is a
 
 ### Vexley (Homunculus)
 Her prized companion Vexley, a homunculus construct, was forged from a large, ancient tooth she had found deep in the markets of Or. Some said it belonged to a dragon, others to something even older, but Poppy simply saw potential. She shaped it, coaxed it into being, and now it follows her, a tiny, chittering presence ever at her side.
+
+### The Gearwright's Key (Wrench)
+The Gearwright's Key is an enchanted tool designed by Poppy to fix and fine-tune magical and mechanical constructs. At first glance, it looks like a regular, oversized wrench with intricate rune engravings along the handle. However, when wielded by Poppy or someone with knowledge of its use, the wrench emits a soft, humming sound as it magically realigns any misaligned components in mechanical systems, helping to recalibrate and repair delicate creations.
 
 ## Personality
 Yet, beneath her clever hands and calculating mind, Poppy is self-conscious—not of her skill, but of her place. She is healthy, fit, and restless, her fingers always moving, her mind forever reaching. Rash in action but meticulous in her craft, she thrives in the unpredictable chaos of creation, where mistakes are just blueprints for better inventions.
