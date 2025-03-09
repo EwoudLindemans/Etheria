@@ -2,7 +2,7 @@
 title: Forge
 description: 
 published: 1
-date: 2025-03-09T21:24:15.588Z
+date: 2025-03-09T21:28:39.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -19,11 +19,11 @@ dateCreated: 2025-03-09T21:05:19.664Z
 |![titanstone_ore.png](/world/ores/titanstone_ore.png =400x)| Titanstone Ore  | Earth, Strength   | A rugged stone with red and gold veins that pulses with inner strength, embodying earth’s power.   | - Increases physical strength and endurance.<br>- Enhances earth magic, improving control over rocks and seismic forces.<br>- Ideal for crafting weapons or armor boosting fortitude. |
 
 # Alloys
-| Alloy Name | Elements | Description | Effects |
-|-----|-----|-----|-----|-----|
-| Aetherflare Alloy | Fire, Arcane, Tranquility, Sound, Air, Light | A shimmering, silver-blue ore infused with fire and arcane magic, emanating a calming warmth and soft, melodic hum. | - Creates an aura of serenity, calming those around it.<br>- Amplifies fire-based spells with arcane precision and light enhancement.<br>- Air stirs, carrying soothing sounds that restore clarity. |
-| Serenite Alloy     | Tranquility, Sound, Reflection, Water, Air, Light | A crystal-like ore with smooth, reflective surfaces, radiating a serene glow like moonlight over calm water.        | - Reflects sound and light, creating meditative effects.<br>- Amplifies water-based magic, making it potent for healing and purification.<br>- Enhances tranquility, fostering emotional balance. |
-| Zephyrstone Alloy| Air, Light, Earth, Strength, Reflection, Water | A translucent greenish gem with silver veins, shimmering like a morning mist, with power over air currents and earth. | - Boosts physical strength and endurance, enhancing stamina.<br>- Reflects light and subtly manipulates air to create light winds.<br>- Improves earth and water magic, making them more effective. |
-| Pyrosol Alloy      | Reflection, Water, Fire, Arcane, Earth, Strength | A dark stone with cracks of glowing orange fire within it, resonating with both earth stability and fiery volatility.  | - Enhances fire and earth-based magic, with destructive and defensive capabilities.<br>- Reflects attacks with fiery bursts when struck.<br>- Increases physical strength, especially in those wielding both fire and earth powers. |
-| Solarium Alloy   | Earth, Strength, Fire, Arcane, Tranquility, Sound | A gold-tinged ore that hums with subtle energy, blending earthy strength with fiery passion and arcane power.        | - Amplifies strength and fire magic, ideal for warriors and mages.<br>- Emits a calming vibration inducing tranquility, with harmonious sounds that ease tension.<br>- Enhances arcane spells related to fire and earth. |
+|Image| Alloy Name | Elements | Description | Effects |
+|-----|-----|-----|-----|-----|-----|
+|![aetherflare_alloy.png](/world/alloys/aetherflare_alloy.png =400x)| Aetherflare Alloy | Fire, Arcane, Tranquility, Sound, Air, Light | A shimmering, silver-blue ore infused with fire and arcane magic, emanating a calming warmth and soft, melodic hum. | - Creates an aura of serenity, calming those around it.<br>- Amplifies fire-based spells with arcane precision and light enhancement.<br>- Air stirs, carrying soothing sounds that restore clarity. |
+|![serenite_alloy.png](/world/alloys/serenite_alloy.png =400x)| Serenite Alloy     | Tranquility, Sound, Reflection, Water, Air, Light | A crystal-like ore with smooth, reflective surfaces, radiating a serene glow like moonlight over calm water.        | - Reflects sound and light, creating meditative effects.<br>- Amplifies water-based magic, making it potent for healing and purification.<br>- Enhances tranquility, fostering emotional balance. |
+|![zephyrstone_alloy.png](/world/alloys/zephyrstone_alloy.png =400x)| Zephyrstone Alloy| Air, Light, Earth, Strength, Reflection, Water | A translucent greenish gem with silver veins, shimmering like a morning mist, with power over air currents and earth. | - Boosts physical strength and endurance, enhancing stamina.<br>- Reflects light and subtly manipulates air to create light winds.<br>- Improves earth and water magic, making them more effective. |
+|![pyrosol_alloy.png](/world/alloys/pyrosol_alloy.png =400x)| Pyrosol Alloy      | Reflection, Water, Fire, Arcane, Earth, Strength | A dark stone with cracks of glowing orange fire within it, resonating with both earth stability and fiery volatility.  | - Enhances fire and earth-based magic, with destructive and defensive capabilities.<br>- Reflects attacks with fiery bursts when struck.<br>- Increases physical strength, especially in those wielding both fire and earth powers. |
+|![soilarium_alloy.png](/world/alloys/soilarium_alloy.png =400x)| Soilarium Alloy   | Earth, Strength, Fire, Arcane, Tranquility, Sound | A gold-tinged ore that hums with subtle energy, blending earthy strength with fiery passion and arcane power.        | - Amplifies strength and fire magic, ideal for warriors and mages.<br>- Emits a calming vibration inducing tranquility, with harmonious sounds that ease tension.<br>- Enhances arcane spells related to fire and earth. |
 
