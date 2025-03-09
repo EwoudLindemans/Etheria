@@ -2,17 +2,17 @@
 title: Glimmering Ashenburrow
 description: 
 published: 1
-date: 2025-03-09T17:13:54.304Z
+date: 2025-03-09T17:24:36.764Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T17:13:54.304Z
 ---
 
-### The Glimmering Ashenburrow – The City Between Walls  
+# The Glimmering Ashenburrow – The City Between Walls  
 
 Tucked impossibly between the great halls and towering homes of [The City of Or](/i/11), The Glimmering Ashenburrow is a city that should not exist. A sliver of space, hidden in plain sight, compressed between the cracks of dwarven civilization—a place wedged between reality itself. It defies architecture, logic, and even common sense. Buildings lean at odd angles but never collapse. Streets spiral in ways that shouldn't connect, yet somehow always lead exactly where one needs to go. It's as if the city was never built but rather *grew* between Or’s structures, forming its own impossible, secret world.  
 
-## A Place of Impossible Space  
+## A Place of Impossible Space
 The Ashenburrow is a fragment of [The Dense](/i/10), a place where reality folds inward, creating a compressed, half-forgotten pocket of existence. While The Dense is a realm of peril, decay, and crushing weight, the gnomes of the Ashenburrow found a way to tame a sliver of it, shaping it into a home where compressed space became a gift rather than a curse.  
 
 Here, buildings do not follow normal geometry—a single step may take you farther than expected, and entire homes fit within gaps no wider than a corridor. Inside these dwellings, rooms stretch deep into hidden angles, unfolding like a magician’s trick. A shop no larger than a broom closet on the outside might reveal an endless labyrinth of gears and contraptions within. Time itself seems uncertain here, with some clocks running too fast and others refusing to move at all.  
@@ -31,3 +31,5 @@ At the heart of the burrow lies the Hearthcore, a great glowing engine, pulsing 
 
 ## A Home for the Forgotten  
 The Ashenburrow is a refuge for the strange, the misplaced, and the impossible. Gnomes who never quite fit in among the dwarves, tinkerers who push the limits of what should be built, outcasts who slip between the cracks of history itself. It is a city that does not belong, yet refuses to be erased—an anomaly hidden in plain sight, thriving in the sliver of space where logic has forgotten to look.
+
+![the_glimmering_ashenburrow.png](/world/the_glimmering_ashenburrow.png =800x)
