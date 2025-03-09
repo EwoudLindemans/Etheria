@@ -2,13 +2,13 @@
 title: Scolar's Rift
 description: 
 published: 1
-date: 2025-03-09T20:03:02.913Z
+date: 2025-03-09T20:03:17.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T23:47:32.624Z
 ---
 
-# **World-Building: The Scholar’s Rift**
+# The Scholar’s Rift
 The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/i/10)
 
 ## **The Leader: Barty Dunderfield**
