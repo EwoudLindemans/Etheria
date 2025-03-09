@@ -2,13 +2,13 @@
 title: The Density Calibrator
 description: 
 published: 1
-date: 2025-03-09T18:17:20.068Z
+date: 2025-03-09T18:47:06.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T18:04:47.694Z
 ---
 
-# The Density Calibrator
+# Density Calibrator
 
 At the heart of the [Glimmering Ashenburrow](/i/58), the Density Calibrator is an unassuming yet vital device, created by Poppy Handyleaf, that ensures the stability of this hidden city within [The City of Or](/i/11). A delicate blend of magical engineering and arcane craftsmanship, the Density Calibrator regulates the shifting forces of [The Dense](/i/10), the compressed, unstable realm that the Ashenburrow inhabits. Without it, the Ashenburrow would either collapse in on itself or explode into The City of Or, threatening the fragile balance of reality.
 
