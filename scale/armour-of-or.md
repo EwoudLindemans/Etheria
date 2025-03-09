@@ -2,7 +2,7 @@
 title: Armour of Or
 description: 
 published: 1
-date: 2025-03-04T20:29:51.560Z
+date: 2025-03-09T14:47:47.002Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T13:04:42.273Z
@@ -10,6 +10,13 @@ dateCreated: 2022-01-24T13:04:42.273Z
 
 ## History
 While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath the mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. The color is white. with a few spikes that are faintly red/orange. Underneath the armor lies the [City of Or](/i/11) that is Build by Dwarves
+
+## Scale Properties
+Core Heat
+Deep within the Armour of Or, the scale’s massive size channels the raw heat of the earth’s core to the surface, creating a powerful geothermal field. This energy conducts through the scale’s crystalline formations, providing an endless source of power for the surrounding forges, industries, and arcane mechanisms. The heat flows across the landscape, enabling the creation of complex and magical alloys. It is an essential component in the [Magical Metallurgy](/i/11) a craft that turns the raw energy of the earth into legendary creations. The heat not only fuels the forges but also powers other mystical technologies embedded in the region.
+
+Earth’s Heartbeat:
+The deep connection between the scale and the planet’s core causes a faint but steady pulse felt throughout the area. This pulse grants those attuned to it a profound understanding of the land, allowing them to sense shifts in the environment, detect natural movements, and predict geological changes like earthquakes or volcanic eruptions. It also has a calming effect on those living near the scale, giving them the ability to enter a deep state of meditative connection with the earth, allowing for clearer insights and more resilient minds in the face of challenges. This connection can also be used for earth manipulation or to call upon the land’s natural resources when needed.
 
 ## Facts
 - Largest known scale with a crossection of about 30000 feet
