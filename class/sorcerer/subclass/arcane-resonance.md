@@ -2,7 +2,7 @@
 title: Arcane Resonance
 description: 
 published: 1
-date: 2025-03-09T19:25:53.504Z
+date: 2025-03-09T19:26:30.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
@@ -89,5 +89,5 @@ By 14th level, you'll be able to manipulate multiple frequencies, creating a ver
 - **Level 14:** Harmonize with multiple Resonance Frequencies at once and absorb energy from spells to enhance your own magic.
 
 
-| -------- | ------- | ------- |
-![arcane_resonance_sorceress.png](/classes/subclasses/arcane_resonance_sorceress.png) | ![arcane_resonance_sorceress_(2).png](/classes/subclasses/arcane_resonance_sorceress_(2).png) | ![arcane_resonance_sorceress_(3).png](/classes/subclasses/arcane_resonance_sorceress_(3).png)
+| -------- | ------- | ------- | ------- |
+![arcane_resonance_sorceress.png](/classes/subclasses/arcane_resonance_sorceress.png) | ![arcane_resonance_sorceress_(2).png](/classes/subclasses/arcane_resonance_sorceress_(2).png) | ![arcane_resonance_sorcerer.png](/classes/subclasses/arcane_resonance_sorcerer.png) | ![arcane_resonance_sorceress_(3).png](/classes/subclasses/arcane_resonance_sorceress_(3).png)
