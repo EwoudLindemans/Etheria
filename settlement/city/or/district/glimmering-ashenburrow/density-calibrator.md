@@ -1,8 +1,8 @@
 ---
-title: The Density Calibrator
+title: Density Calibrator
 description: 
 published: 1
-date: 2025-03-09T18:47:06.249Z
+date: 2025-03-09T18:47:15.676Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T18:04:47.694Z
