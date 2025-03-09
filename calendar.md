@@ -2,7 +2,7 @@
 title: Calendar
 description: 
 published: 1
-date: 2025-03-04T23:22:37.075Z
+date: 2025-03-09T17:11:46.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T20:53:05.278Z
@@ -33,7 +33,6 @@ Every seventeenth Cycle is considered a Nexus, a particularly potent period wher
 - Magic-Infused Calendars:
 To keep track of Cycle's, communities use magical calendars that resonate with the world's energy. These calendars might be enchanted stones that change color, intricate sculptures that emit harmonious tones, or even sentient creatures that emit pulses in sync with the ARCs.
 
-
 ## Events
 
 ### Arc 0 - 16 - Nexus of Recreation
@@ -58,15 +57,18 @@ The survivors' connection with magical scales evolved. They learned to harness l
 The scattered races of Etheria established an overarching peace, with each race controlling its territory. The Council of Elders emerged as wise mediators, maintaining harmony through their collective wisdom. They settled disputes, fostering unity throughout the ever-changing world.
 ### Arc 102 - 118 - Nexus of Discovery
 - Forbidden Sparks and Hidden Wonders (ARC 103):
-The magical essence of the scales remained a potent force. The forbidden attempts to penetrate the scales' magical barriers led to sparks of magic. Cities managed to stabilize these sparks, using them as power sources. Yet, deep within the ruins of Kin'Darei, an enigmatic cavity guarded secrets that none could escape.
+The magical essence of the scales remained a potent force. The forbidden attempts to penetrate the scales' magical barriers led to sparks of magic. Cities managed to stabilize these sparks, using them as power sources. Yet, deep within the ruins of Kin'Darei, an enigmatic cavity guarded secrets that none could escape. Unbeknownst to many, the forbidden interaction with the scales caused the early signs of [corruption]() to grow, laying the groundwork for the next era of decay.
 ### Arc 119 - 135 - Nexus of Sylph's Sanctuary
 - The Scale Conduit Revelation (ARC 125):
-A group of individuals discovered a way to harness magic directly from the scales using special tools called scalespeakers. These devices resonated with the scale's magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences.
+A group of individuals discovered a way to harness magic directly from the scales using special tools called scalespeakers. These devices resonated with the scale's magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences. Yet, their usage proved perilous, resulting in dire consequences. As [corruption]() crept into the scales, the once-pure conduits began to distort the magic, turning it into dangerous and twisted energy.
 - The Ragged Goons' Pursuit (ARC 131):
-The emergence of a dangerous group, The Ragged Goons, threatened Etheria's delicate balance. Their sole purpose became the search for unprotected scales, exploiting them for personal gain. As these outlaws delved into forbidden magic, they sowed chaos, testing the world's equilibrium.
-### Arc 136 - 152 - Nexus of Quixotic Reverie
-- The Enigmatic Scales Reasonance (ARC 138-148):
-The existence of Five Scales that pierced the surface intrigued the world. These colossal landmarks held immense power. Belief spread that more hidden scales lay buried beneath. The balance between knowledge and the unknown became a driving force in the ever-changing world of Etheria.
+The emergence of a dangerous group, The Ragged Goons, threatened Etheria's delicate balance. Their sole purpose became the search for unprotected scales, exploiting them for personal gain. As these outlaws delved into forbidden magic, they sowed chaos, testing the world's equilibrium. With each scale they desecrated, they accelerated the [corruption](), twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
+### Arc 136 - 152 - Nexus of Corruption
+#### The Arc of Corruption is the defining moment in Etheria's timeline, where the once-bountiful scales and the lands around them become centers of corruption, consuming everything they touch.
+
+Nexus of Corruption: Rise of the [Blighted Scales]()
+As the [corruption]() spreads, the magical properties of the scales mutate, becoming twisted versions of their former selves. Their once-pure energies, which once nurtured life and prosperity, are now tainted by a malevolent force, warping the world around them.
+
 
 
 
