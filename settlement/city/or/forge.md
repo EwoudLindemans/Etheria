@@ -2,14 +2,24 @@
 title: Forge
 description: 
 published: 1
-date: 2025-03-09T21:28:39.509Z
+date: 2025-03-09T21:39:02.601Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
 ---
 
+# Forging
 
-# Ores
+## Scalewrought Veins 
+
+Scalewrought Veins are deep-running ore deposits infused with ancient scale magic. These veins pulse with energy, their minerals altered by the lingering essence of powerful beings.  
+
+From these veins, Scaleforged Ores are extracted—metals that grow in strength and potency over time. Rather than remaining static, these ores absorb ambient magic, binding deeper into their structure with each passing [ARC](/i/42).
+
+The longer the ore remains unworked, the stronger its magical infusion becomes. A blade or armor forged too early is merely functional, but one crafted at its peak becomes legendary.  
+
+
+### Warped Ores
 |Image| Ore Name | Elements | Description | Effects |
 |-----|-----|-----|-----|-----|
 |![infernumite_ore.png](/world/ores/infernumite_ore.png =400x)| Infernumite Ore | Fire, Arcane      | A deep crimson ore with crackling blue energy veins, exuding intense heat and arcane power.        | - Amplifies fire and arcane spells, enhancing fire magic precision.<br>- Grants resistance to fire and heat, boosting magical focus. <br>- Ideal for crafting wands, staves, or weapons.  |
@@ -18,7 +28,7 @@ dateCreated: 2025-03-09T21:05:19.664Z
 |![mirrorglow_ore.png](/world/ores/mirrorglow_ore.png =400x)| Mirrorglow Ore  | Reflection, Water | A reflective, silvery-blue ore that mirrors surroundings and amplifies light in water.             | - Enhances reflective abilities, creating stronger illusions.<br>- Amplifies water magic, improving healing and control.<br>- Used to craft mirrors, shields, and reflective armor. |
 |![titanstone_ore.png](/world/ores/titanstone_ore.png =400x)| Titanstone Ore  | Earth, Strength   | A rugged stone with red and gold veins that pulses with inner strength, embodying earth’s power.   | - Increases physical strength and endurance.<br>- Enhances earth magic, improving control over rocks and seismic forces.<br>- Ideal for crafting weapons or armor boosting fortitude. |
 
-# Alloys
+### Alloys
 |Image| Alloy Name | Elements | Description | Effects |
 |-----|-----|-----|-----|-----|-----|
 |![aetherflare_alloy.png](/world/alloys/aetherflare_alloy.png =400x)| Aetherflare Alloy | Fire, Arcane, Tranquility, Sound, Air, Light | A shimmering, silver-blue ore infused with fire and arcane magic, emanating a calming warmth and soft, melodic hum. | - Creates an aura of serenity, calming those around it.<br>- Amplifies fire-based spells with arcane precision and light enhancement.<br>- Air stirs, carrying soothing sounds that restore clarity. |
