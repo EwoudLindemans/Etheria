@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-03-04T22:51:21.315Z
+date: 2025-03-09T18:25:59.451Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -18,14 +18,21 @@ Poppy's childhood was a cacophony of hammer strikes and bubbling alchemical brew
 
 Yet, for all her talent and brilliance, there was always something offbeat about her. She was too methodical for the gnomes and too unpredictable for the dwarves. She spoke too precisely, worked too quickly, and thought too deeply. A product of two worlds, yet belonging fully to neither.
 
-In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave magic into metal, breathe life into gears, and create things that should not have existed. Her prized companion, a homunculus construct, was forged from a large, ancient tooth she had found deep in the markets of Or. Some said it belonged to a dragon, others to something even older, but Poppy simply saw potential. She shaped it, coaxed it into being, and now it follows her, a tiny, chittering presence ever at her side.
+## Creations
+In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave magic into metal, breathe life into gears, and create things that should not have existed.
 
+### The Density Calibrator
+At the heart of the Glimmering Ashenburrow, the [Density Calibrator](/i/59) is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of The Dense, the compressed, unstable realm that exists within Or.
+
+### Vexley (Homunculus)
+Her prized companion Vexley, a homunculus construct, was forged from a large, ancient tooth she had found deep in the markets of Or. Some said it belonged to a dragon, others to something even older, but Poppy simply saw potential. She shaped it, coaxed it into being, and now it follows her, a tiny, chittering presence ever at her side.
+
+## Personality
 Yet, beneath her clever hands and calculating mind, Poppy is self-conscious—not of her skill, but of her place. She is healthy, fit, and restless, her fingers always moving, her mind forever reaching. Rash in action but meticulous in her craft, she thrives in the unpredictable chaos of creation, where mistakes are just blueprints for better inventions.
 
 A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor scoundrel. She is pragmatic, impulsive, and utterly unpredictable—loyal only to her own curiosity. If a scheme is brilliant enough, the consequences matter little. If an object is fascinating enough, it must be understood, no matter the risk.
 
 OR is her home, but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
-
 
 > ![poppy-handyleaf.webp](/characters/poppy-handyleaf/poppy-handyleaf.webp)
 > # Poppy Handyleaf
