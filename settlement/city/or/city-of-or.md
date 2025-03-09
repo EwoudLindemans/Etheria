@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-03-09T17:15:05.122Z
+date: 2025-03-09T17:28:51.111Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -52,3 +52,5 @@ Present day, the Great Dwarven [Flatstone Family](#) is the richest family on al
 
 ## Story
 The truth is that Karath Flatstone has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
+
+![the_city_of_or.png](/world/the_city_of_or.png =800x)
