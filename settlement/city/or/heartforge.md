@@ -2,7 +2,7 @@
 title: Heartforge
 description: 
 published: 1
-date: 2025-03-11T22:04:27.930Z
+date: 2025-03-11T22:56:28.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 # Heartforge
 
-The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/i/64) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/i/65) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
 
 ![the_heart_of_or.jpg](/world/the_heart_of_or.jpg =500x)
 
@@ -58,7 +58,7 @@ The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunnel
 
 ### Construction
 Completed over three years, it required:
-- Dwarven mastery of [Harthrûn Metallurgy](/i/64), led by the Heartsmiths.
+- Dwarven mastery of [Harthrûn Metallurgy](/i/65), led by the Heartsmiths.
 - The Order’s planar expertise, aided by Veiled Iridians who aligned Memory Shards.
 - Quartz and onyx from Triz Valley to anchor the structure.
 
