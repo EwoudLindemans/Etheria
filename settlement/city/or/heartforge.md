@@ -2,7 +2,7 @@
 title: Heartforge
 description: 
 published: 1
-date: 2025-03-11T22:04:07.955Z
+date: 2025-03-11T22:04:27.930Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -58,7 +58,7 @@ The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunnel
 
 ### Construction
 Completed over three years, it required:
-- Dwarven mastery of Harthrûn Metallurgy, led by the Heartsmiths.
+- Dwarven mastery of [Harthrûn Metallurgy](/i/64), led by the Heartsmiths.
 - The Order’s planar expertise, aided by Veiled Iridians who aligned Memory Shards.
 - Quartz and onyx from Triz Valley to anchor the structure.
 
