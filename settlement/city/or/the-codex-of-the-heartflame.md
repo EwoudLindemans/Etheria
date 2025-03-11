@@ -2,7 +2,7 @@
 title: The Codex of the Heartflame
 description: 
 published: 1
-date: 2025-03-11T21:35:30.530Z
+date: 2025-03-11T21:36:48.205Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
@@ -20,7 +20,7 @@ If ye hold this tome in yer hands, it means ye stand upon the threshold of true 
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 
-Heed my words well, for what follows is the sacred process of Rûnhark, Thrumvok, and Durhadrûn—the threefold trial that breathes life into our greatest works.
+Heed my words well, for what follows is the sacred process of Rûnhark, Thrumvok, Durhadrûn and Spîrûmwaldr the fourfold trial that breathes life into our greatest works.
 
 ## Rûnhark – The Awakening of the Ore
 
@@ -50,7 +50,7 @@ With the bound metal glowing in readiness, it is placed upon the Forge Anvil, en
 
 Only when the rhythm aligns does the final hammerstroke fall, a single, decisive strike that seals the forging. If the resonance is true, the artifact shall erupt in a pulse of light, the runes etching themselves permanently into the metal’s surface. With swift precision, the artifact is then plunged into the Memory Shard Basin, tempering the essence within. If the runes hold steady, the work is complete. If they flicker erratically or tremble as though uncertain, the forging is flawed. It must be reforged or dismantled entirely.
 
-## Spîrûm-Waldr - The Bonding
+## Spîrûmwaldr - The Bonding
 
 The final step is not of steel, but of spirit. No artifact forged within the Heartforge may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
 
