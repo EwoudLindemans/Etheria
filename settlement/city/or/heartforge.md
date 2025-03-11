@@ -2,7 +2,7 @@
 title: Heartforge
 description: 
 published: 1
-date: 2025-03-11T21:10:13.358Z
+date: 2025-03-11T21:25:34.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -10,15 +10,15 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 # Heartforge
 
-The Heartforge is a legendary furnace carved into the depths of The Armour of Or, the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of The City of Or. Fueled by fissures emanating from The Heart of Irion—a pulsating relic believed to be the core of the creature that reshaped Etheria—it melds dwarven craftsmanship with planar magic. Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge uses a combination of Harthrûn Metallurgy (a dwarven craftsmanship) with Runemagic. Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
 
 ![the_heart_of_or.jpg](/world/the_heart_of_or.jpg =500x)
 
 ## Structure and Design
-The Heartforge is a towering edifice of two blackened stones laced with red veins from the Armour of Or. Its central chamber channels the Heart’s rhythmic energy through fissures lined with Memory Shards—fragments that pulse with visions of Irion’s planar origins. Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
+The Heartforge is a towering edifice of two teardrop shaped stones laced with red veins from the Armour of Or. Standing next to each other it looks like a heart, Its central chamber channels the Scale's rhythmic energy through fissures lined with Rune's that pulse with resonance. Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
 
 - Height: 40 feet, dominating its cavern.
-- Fuel: Heart fissures, Scalewrought Veins, tundra coal, and rare minerals.
+- Fuel: [The Armour of Or's](/i/12) Resonance
 - Output: Veilsteel, Scaleforged Ores, and advanced Alloys.
 
 ## Function and Products
@@ -67,7 +67,7 @@ Initially forging basic Veilsteel, the Heartforge adapted to process Scaleforged
 The Heartforge is a cornerstone of dwarven identity, revered by Heartsmiths as a sacred tool and celebrated in The Vigil of the Deep, where families forge Vigil Tokens for lost miners. Yet, its reliance on the Heart divides Or—traditionalists decry its foreign influence, while innovators hail it as a new era.
 
 ## Notable Figures
-- Karath Flatstone: Pushed for the Heartforge’s creation, seeing it as Or’s legacy.
+- [Karath Flatstone](/i/26): Pushed for the Heartforge’s creation, seeing it as Or’s legacy.
 - Drenna Coalspike: Council member who, after a forging mishap, claims to sense the Heart’s rhythm.
 - The Threadwalker: A Veiled Iridian overseeing the Memory Shards’ integration.
 
