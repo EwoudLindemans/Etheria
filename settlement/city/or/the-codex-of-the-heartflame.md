@@ -2,7 +2,7 @@
 title: The Codex of the Heartflame
 description: 
 published: 1
-date: 2025-03-11T22:55:19.931Z
+date: 2025-03-11T22:55:30.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
@@ -40,7 +40,7 @@ Now comes the moment of true binding. The Heartsmith stands before the roaring f
 
 ”Deep flows the fire, strong beats the heart,Stone wakes to the forge, light guides its art.”
 
-As the words are spoken, the ore begins to shift, drawing in the planar energy of the Heartforge. The runes flicker like embers, absorbing the power that will give the metal its final form. The moment the glow stabilizes, the ore must be withdrawn; too soon, and it remains brittle, too late, and it overdraws, fracturing from within. If the metal dims upon withdrawal, the binding has failed. The forge rejects the work, and the chant must be recalibrated before the attempt is made again.
+As the words are spoken, the ore begins to shift, drawing in the planar energy of the [Heartforge](/i/60). The runes flicker like embers, absorbing the power that will give the metal its final form. The moment the glow stabilizes, the ore must be withdrawn; too soon, and it remains brittle, too late, and it overdraws, fracturing from within. If the metal dims upon withdrawal, the binding has failed. The forge rejects the work, and the chant must be recalibrated before the attempt is made again.
 
 ## Durhadrûn – The Final Hammerstroke
 
@@ -52,7 +52,7 @@ Only when the rhythm aligns does the final hammerstroke fall, a single, decisive
 
 ## Spîrûmwaldr - The Bonding
 
-The final step is not of steel, but of spirit. No artifact forged within the Heartforge may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
+The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/i/60) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
 
 If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into Etheria as a true relic of Harthrûn Metallurgy.
 
