@@ -2,7 +2,7 @@
 title: Calendar
 description: 
 published: 1
-date: 2025-03-09T17:11:46.405Z
+date: 2025-03-11T16:08:34.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T20:53:05.278Z
@@ -32,6 +32,9 @@ Every seventeenth Cycle is considered a Nexus, a particularly potent period wher
 
 - Magic-Infused Calendars:
 To keep track of Cycle's, communities use magical calendars that resonate with the world's energy. These calendars might be enchanted stones that change color, intricate sculptures that emit harmonious tones, or even sentient creatures that emit pulses in sync with the ARCs.
+
+- Relation to the Ornite Ring:
+Details are still unknown but the arcs seem to have a relation to the ornite ring.
 
 ## Events
 
