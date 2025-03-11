@@ -2,7 +2,7 @@
 title: The Codex of the Heartflame
 description: 
 published: 1
-date: 2025-03-11T22:52:56.830Z
+date: 2025-03-11T22:53:56.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-11T21:35:30.530Z
 
 A Master’s Guide to [Harthrûn Metallurgy](/i/65) and the Rite of the Heartflame
 
-By Durngar Coalmantle, Grand Heartsmith of Or
+By Durngar Coalmantle, Grand Heartsmith of [Or](/i/11)
 
 ## Foreword
 
