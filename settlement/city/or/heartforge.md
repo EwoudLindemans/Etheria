@@ -2,7 +2,7 @@
 title: Heartforge
 description: 
 published: 1
-date: 2025-03-11T21:25:34.847Z
+date: 2025-03-11T22:03:26.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 # Heartforge
 
-The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge uses a combination of Harthrûn Metallurgy (a dwarven craftsmanship) with Runemagic. Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge uses [Harthrûn Metallurgy](/i/64) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
 
 ![the_heart_of_or.jpg](/world/the_heart_of_or.jpg =500x)
 
@@ -22,7 +22,9 @@ The Heartforge is a towering edifice of two teardrop shaped stones laced with re
 - Output: Veilsteel, Scaleforged Ores, and advanced Alloys.
 
 ## Function and Products
-The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient scale magic—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ planar essence.
+The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient scale magic—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ Resonance.
+
+Durngar Coalmantle made a instruction manual on how to operate the heartforge named [The Codex of the Heartflame](/i/64)
 
 ### Scalewrought Veins
 Scalewrought Veins pulse with energy, their minerals altered by the lingering essence of Irion. Found only beneath The Armour of Or, they connect directly to the Heart, radiating its influence. The dwarves and the Order refine these into:
