@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-03-09T17:28:51.111Z
+date: 2025-03-11T20:56:59.702Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -11,8 +11,8 @@ dateCreated: 2022-01-24T11:47:02.222Z
 # The City of Or
 Not long after [The Collapse](/i/17), an opportunistic dwarf named [Or Flatstone](/i/13) gathered a band of miners and started digging and hewing beneath the white scales of what is now called The Armour of Or. The [Mines of Or](/i/20) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the [Flatstone Family](#).
 
-## Magical Metallurgy - The Dwarven Craft of Or
-Dwarven craftsmanship has always been renowned, but under the influence of the Armour of Or, it has achieved unparalleled mastery. The [Core Heat](/i/12) from the scale allows dwarves to craft magical alloys that are imbued with elemental powers and arcane properties, beyond anything previously possible. The magical properties embedded in the alloys include fire resistance, earth manipulation, and the ability to channel arcane energies.
+## Harthrûn Metallurgy "The Dwarven Craft"
+Heartscale Runemagic Metallurgy in full is a Dwarven craftsmanship that has always been renowned, but under the influence of the Armour of Or, it has achieved unparalleled mastery. The [Core Heat](/i/12) from the scale allows dwarves to craft magical alloys that are imbued with elemental powers and arcane properties, beyond anything previously possible. The magical properties embedded in the alloys include fire resistance, earth manipulation, and the ability to channel arcane energies.
 
 The Dwarven City of Or is the heart of this craftsmanship, where the geothermal heat from the scale powers vast forges and magical workshops. The heat enhances not only the strength of the materials but also the magical properties of the weapons, armor, and tools produced here. Items created in these forges have the ability to store magical energy, amplify the wearer’s powers, and protect against both physical and magical threats. These items are often considered to be living pieces of magic, intricately tied to the Core Heat that sustains the very forges they are created in.
 
