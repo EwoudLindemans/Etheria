@@ -2,7 +2,7 @@
 title: The Codex of the Heartflame
 description: 
 published: 1
-date: 2025-03-11T22:53:56.758Z
+date: 2025-03-11T22:55:19.931Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
@@ -16,7 +16,7 @@ By Durngar Coalmantle, Grand Heartsmith of [Or](/i/11)
 
 ## Foreword
 
-If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the Heartforge itself. Harthrûn Metallurgy is no simple hammer and steel—nay, it is the binding of magic and metal, the weaving of rune and rhythm, the shaping of Etheria’s breath into form.
+If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/i/60) itself. Harthrûn Metallurgy is no simple hammer and steel—nay, it is the binding of magic and metal, the weaving of rune and rhythm, the shaping of Etheria’s breath into form.
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 
@@ -64,4 +64,4 @@ Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall 
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 
-**Durngar Coalmantle Grand Heartsmith of Or**
+**Durngar Coalmantle Grand Heartsmith of [Or](/i/11)**
