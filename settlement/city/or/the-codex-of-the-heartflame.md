@@ -2,7 +2,7 @@
 title: The Codex of the Heartflame
 description: 
 published: 1
-date: 2025-03-11T21:36:48.205Z
+date: 2025-03-11T21:56:40.809Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
@@ -64,4 +64,4 @@ Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall 
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 
-**Durngar CoalmantleGrand Heartsmith of Or**
+**Durngar Coalmantle Grand Heartsmith of Or**
