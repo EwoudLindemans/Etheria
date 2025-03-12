@@ -2,7 +2,7 @@
 title: Robustus
 description: 
 published: 1
-date: 2025-03-12T22:28:06.994Z
+date: 2025-03-12T23:37:58.839Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T21:10:42.256Z
@@ -35,7 +35,7 @@ Some scholars believe that Robustus is searching for its lost creators, while ot
 > ![robustus.webp](/characters/robustus.webp)
 ># Robustus
 >---
->- Huge Titan, Lawful Neutral
+>- **Gargantuan Titan, Lawful Neutral**
 >- **Armor Class** 22 (Titanic Resilience)
 >- **Hit Points** 310 (23d12 + 161)
 >- **Speed** 40 ft.
