@@ -2,7 +2,7 @@
 title: Scroll Binder
 description: 
 published: 1
-date: 2025-03-12T19:05:13.321Z
+date: 2025-03-12T22:08:51.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T23:48:37.199Z
@@ -24,7 +24,7 @@ Whether you’re seeking to settle a dispute, forge an alliance, or carve out yo
 Before any magic can be infused or any negotiations can take place, the **Scroll Binder** must **create the scroll itself**. This process is always the same, ensuring that the **scroll is always ready** to carry the weight of whatever **diplomatic** task is required.
 
 - **Rock (Ink)**:  
-The **Rock** is crushed into magical ink, the foundation of any scroll. It contains power, capable of recording **strength**, **territory**, or **conquest**—whatever the negotiation requires. This ink binds the spirit of the agreement to the material world.
+The **Rock** is crushed into magical ink, the foundation of any scroll. It contains power, capable of recording **strength**, **territory**, or **conquest**—whatever the negotiation requires. This ink binds the spirit of the agreement to the paper.
   
 - **Paper (To Write On)**:  
 The **Paper** is the medium for the terms, whether it’s trade agreements, alliances, or declarations. It holds the ink’s magic and is fine-tuned to record details in **clear, permanent strokes**, ensuring nothing is left to chance.
