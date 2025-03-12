@@ -2,13 +2,13 @@
 title: Bubblomancy
 description: 
 published: 1
-date: 2025-03-12T19:46:30.395Z
+date: 2025-03-12T19:47:36.020Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T19:46:30.395Z
 ---
 
-# Bubblomancy: The Art of the Enchanted
+# Bubblomancy: The Art of Enchanting
 Bubblomancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Bubblomancers gather water from magical resonance zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
 
 ## The Bubblomancer’s Process
