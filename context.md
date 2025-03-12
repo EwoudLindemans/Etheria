@@ -2,7 +2,7 @@
 title: Context
 description: 
 published: 1
-date: 2025-03-11T19:10:12.192Z
+date: 2025-03-12T18:31:14.527Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T19:10:12.192Z
@@ -91,6 +91,7 @@ Iridian -- The Scale-Touched Beings formed from raw magic escaping a scale's cav
 **Relational Overview:**
 
 -   **The City of Or** (Dwarven stronghold) → Built around the **Armour of Or** (magical scale) → Enables **Magical Metallurgy**.
+    -   Home to the Heartforge requiring Harthrûn Metallurgy or Heartscale Runemagic Metallurgy, A mastery of dwarves
 
     -   **The Glimmering Ashenburrow** (hidden city) → Exists within Or's compressed space → Influenced by **The Dense** → Maintained by **Density Calibrator**.
 
