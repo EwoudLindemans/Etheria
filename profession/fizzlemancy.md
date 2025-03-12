@@ -2,7 +2,7 @@
 title: Fizzlemancy
 description: 
 published: 1
-date: 2025-03-12T19:49:09.342Z
+date: 2025-03-12T19:49:26.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T19:46:30.395Z
@@ -15,7 +15,7 @@ Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, an
 1. Harvesting Resonant Water
 Fizzlemancer begin by gathering water from naturally enchanted sources—springs near ley lines, crystalline waterfalls, or hidden glens where the very air shimmers with magic. This water, rich in ambient resonance, serves as the ideal base for their arcane concoctions.
 
-2. Concocting the Arcane Brew
+2. Fizzle the Arcane Brew
 Once collected, the resonant water is blended with secret ingredients—Fey’s Dew, gigglewort petals, a dash of stardust, and other arcane additives. The resulting brew is a liquid symphony of raw magical energy, primed to awaken dormant magic within mechanical constructs.
 
 3. Infusing the Mechanical Marvels
