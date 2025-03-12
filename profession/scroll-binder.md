@@ -2,7 +2,7 @@
 title: Scroll Binder
 description: 
 published: 1
-date: 2025-03-11T23:48:37.199Z
+date: 2025-03-12T19:05:13.321Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T23:48:37.199Z
@@ -40,7 +40,7 @@ Here’s how the **three options** from the game are applied to almost any diplo
 
 ---
 
-### **Winner Throws Rock (Building Victory)**
+### **Winner with Rock (Building Victory)**
 
 **What Happens**: When **Rock** wins, the scroll doesn’t just give the winner the prize; it requires them to **physically manifest** the victory by **building something**. This might be a **fortress**, a **bridge**, or any **permanent landmark** that solidifies the win. It’s not enough to simply claim the spoils; they must **construct** something that demonstrates their **strength** or **resolve**.
 
@@ -60,7 +60,7 @@ The **Scroll Binder** can **adjust the scope** of the “building task” based 
 
 ---
 
-### **Winner Throws Paper (Binding Pact)**
+### **Winner with Paper (Binding Pact)**
 
 **What Happens**: When **Paper** wins, the scroll doesn’t just record the winner’s claim—it **binds** both sides into a **tighter, longer-lasting agreement**. This could mean both sides are **bound by oaths**, **duties**, or **mutual obligations** that they can’t easily escape from. A **binding pact** is created, and the winner gains the prize but with strings attached.
 
@@ -80,7 +80,7 @@ The **Scroll Binder** can adjust the **depth** of the binding pact, allowing som
 
 ---
 
-### **Winner Throws Scissors (Cutting Divide)**
+### **Winner with Scissors (Cutting Divide)**
 
 **What Happens**: When **Scissors** wins, the agreement is **sharp and precise**. There’s no room for vagueness or **dispute**—the terms are **clearly split**. Whether it’s dividing land, resources, or **governing power**, the scroll ensures that the prize is **measured and cut perfectly**, leaving no ambiguity.
 
