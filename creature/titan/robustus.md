@@ -2,7 +2,7 @@
 title: Robustus
 description: 
 published: 1
-date: 2025-03-12T23:37:58.839Z
+date: 2025-03-12T23:49:14.332Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T21:10:42.256Z
@@ -32,6 +32,7 @@ Despite its intimidating presence, Robustus is not inherently violent. It moves 
 ## The Mystery of Robustus
 Some scholars believe that Robustus is searching for its lost creators, while others claim it is simply following a forgotten command, endlessly patrolling the lands it was once meant to protect. There are whispers that deep within its core lies an ancient power, one that could either save or destroy the world—should anyone discover how to awaken it.
 
+> 
 > ![robustus.webp](/characters/robustus.webp)
 ># Robustus
 >---
@@ -98,3 +99,5 @@ Some scholars believe that Robustus is searching for its lost creators, while ot
 >---
 >
 >{.dnd}
+
+![robustus_(2).webp](/characters/robustus_(2).webp)
