@@ -2,11 +2,13 @@
 title: Scroll Binder
 description: 
 published: 1
-date: 2025-03-12T22:08:51.241Z
+date: 2025-03-12T22:22:12.443Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T23:48:37.199Z
 ---
+
+
 
 # Scroll Binder
 In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the scales of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with magic and certainty—ensuring that deals are fair, precise, and lasting.
@@ -115,7 +117,7 @@ The **scales** tremble, and the scroll **adds a clause**, creating new **obligat
 **Scroll Binder Influence**:  
 The **Scroll Binder** can **alter** the stakes of the tiebreaker. Perhaps instead of a physical quest, the tie results in **personal sacrifices** or an **addition of another party** to the agreement. The **Binder** can create a path that makes it **fairer**, ensuring that the parties leave the agreement feeling like **both sides had a chance**.
 
----
+![scissorshaped-rock_paper.webp](/professions/scissorshaped-rock_paper.webp =x400)
 
 ## Final Thoughts on the Scroll Binder’s Process
 
