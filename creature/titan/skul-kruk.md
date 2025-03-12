@@ -2,7 +2,7 @@
 title: Skul’Kruk
 description: 
 published: 1
-date: 2025-03-12T22:36:38.925Z
+date: 2025-03-12T22:41:42.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T22:35:50.681Z
@@ -12,12 +12,12 @@ dateCreated: 2025-03-12T22:35:50.681Z
 *"Bones of the past, weapons of the future. The earth does not forget, and neither does he."*  
 
 ## **Origins & Legend**  
-Skul’Kruk is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen titans in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage eternal.  
+Skul’Kruk is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen titans in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage (not so) eternal.  
 
-Some say he is cursed to wander the lands, searching for battle to give meaning to his existence. Others whisper that he is waiting for a new master, a warlord worthy of wielding his fury.  
+Over the centuries, the fire that once fueled Skul’Kruk has waned. Though still a formidable force, the relentless fury that once drove him to endless war has dulled, tempered by time and solitude. No longer the mindless engine of destruction he once was, he now roams not in search of battle, but out of habit, his towering form a fading echo of an age of war long past. Some believe he lingers, waiting for a cause to reignite his fury. Others claim that even war itself may no longer be enough to stir the beast he once was.
 
 ## **Physical Description**  
-- **Height:** 25 feet tall  
+- **Height:** 15 feet tall  
 - **Weight:** Several dozen tons, his body composed of fossilized remains and enchanted marrow  
 - **Appearance:** A towering juggernaut of fused bones and petrified flesh, his body resembling a graveyard reforged into a warrior’s form. Ancient runes glow dimly across his plated ribcage, and cracks in his fossilized exterior pulse with raw magical energy.  
 - **Eyes:** Hollow sockets burning with spectral green flames, remnants of the warlocks who first raised him.  
@@ -50,7 +50,7 @@ Some believe that deep within his marrow lies the last memories of the fallen ti
 
 > ![skulkruk.webp](/characters/skulkruk.webp)
 ># Skul’Kruk  
->- **Gargantuan Titan, Neutral**  
+>- **Huge Titan, Neutral**  
 >- **Armor Class** 24 (Petrified Titanbone)  
 >- **Hit Points** 420 (30d12 + 240)  
 >- **Speed** 40 ft.  
