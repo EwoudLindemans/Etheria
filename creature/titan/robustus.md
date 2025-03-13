@@ -2,7 +2,7 @@
 title: Robustus
 description: 
 published: 1
-date: 2025-03-12T23:49:14.332Z
+date: 2025-03-13T00:14:22.673Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-21T21:10:42.256Z
@@ -32,9 +32,10 @@ Despite its intimidating presence, Robustus is not inherently violent. It moves 
 ## The Mystery of Robustus
 Some scholars believe that Robustus is searching for its lost creators, while others claim it is simply following a forgotten command, endlessly patrolling the lands it was once meant to protect. There are whispers that deep within its core lies an ancient power, one that could either save or destroy the world—should anyone discover how to awaken it.
 
-> 
-> ![robustus.webp](/characters/robustus.webp)
 ># Robustus
+> | Defensive  | Offensive |
+> | --- | --- |
+> | ![robustus.webp](/characters/robustus.webp) | ![robustus_(2).webp](/characters/robustus_(2).webp) |
 >---
 >- **Gargantuan Titan, Lawful Neutral**
 >- **Armor Class** 22 (Titanic Resilience)
@@ -97,7 +98,6 @@ Some scholars believe that Robustus is searching for its lost creators, while ot
 >A creature grappled by Robustus takes 36 (8d8) bludgeoning damage.
 >
 >---
->
 >{.dnd}
 
-![robustus_(2).webp](/characters/robustus_(2).webp)
+
