@@ -2,13 +2,13 @@
 title: Rhyzmare
 description: 
 published: 1
-date: 2025-03-13T00:05:03.911Z
+date: 2025-03-13T00:15:52.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-13T00:05:03.911Z
 ---
 
-# Rhyzmare – the Coral Wraith
+# Rhyzmare, The Coral Wrath
 "The ocean does not rage, nor does it relent. It moves with patience, yet drowns with certainty. Rhyzmare is the tide given form, an eternal force of the deep."
 
 ## Origins & Legend  
