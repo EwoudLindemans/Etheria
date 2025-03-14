@@ -2,7 +2,7 @@
 title: cosmology-model
 description: 
 published: 1
-date: 2025-03-14T10:13:37.448Z
+date: 2025-03-14T10:14:54.178Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-14T10:04:52.038Z
