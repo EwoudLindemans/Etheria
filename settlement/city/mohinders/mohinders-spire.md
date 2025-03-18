@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-18T20:24:37.735Z
+date: 2025-03-18T20:26:33.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -28,13 +28,14 @@ At the heart of Mohinders’ governance stands the Council of Controlled Magical
 ## Citizens
 Elf (46%), Human (41%), Halfling (6%), Dwarf (1%), Gnome (1%), Dragonborn (1%), Elf (1%), Tiefling (1%), Half-Orc (1%)
 
-# Shops
+## Shops
 There are many shops of refinement in the Mohinders Spire
 
-## Jeweler: The Blue Amulet
-## Enchanter: Fate and Sanctuary
-## General Store: The Hairy Oddities
-## Church: Temple to Chauntea
+### Jeweler: The Blue Amulet
+### Enchanter: Fate and Sanctuary
+### General Store: The Hairy Oddities
+### Church: Temple to Chauntea
 
 ## Guilds
-Emerald Compass, Lords' Adventurers
+Emerald Compass
+Lords' Adventurers
