@@ -2,7 +2,7 @@
 title: The Rift Gate
 description: 
 published: 1
-date: 2025-03-18T14:13:22.767Z
+date: 2025-03-18T14:15:59.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:21:54.523Z
@@ -18,7 +18,7 @@ The **only** way in and out of The Scholar’s Rift, this swirling **unstable po
 The Rift Gate is the **first and last test** for all who seek **knowledge, power, or just really bad life choices**.  
 
 ## The Rift Gate Paradox
-The paradox was born when Nokk embarked on one of his many reckless expeditions into The Dense, an act that only the most foolhardy scholars dared attempt. Unlike others, however, he was not lost within its folds. Instead, he moved through it as though it bent around him, his body flickering between locations that no two observers could agree upon.
+The paradox was born when [Nokk](/i/78) embarked on one of his many reckless expeditions into The Dense, an act that only the most foolhardy scholars dared attempt. Unlike others, however, he was not lost within its folds. Instead, he moved through it as though it bent around him, his body flickering between locations that no two observers could agree upon.
 
 At the peak of his exploration, something went wrong—or perhaps, went exactly as it was meant to.
 
