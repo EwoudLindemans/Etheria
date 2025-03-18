@@ -2,7 +2,7 @@
 title: Councel of Controlled Magical Appliance
 description: 
 published: 1
-date: 2025-03-18T20:29:22.056Z
+date: 2025-03-18T21:05:22.841Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T20:29:22.056Z
@@ -24,7 +24,7 @@ The CCMA is composed of scholars, artificers, enchanters, and arcane engineers, 
 - **The Chainmasters** – Experts in the maintenance of the massive **Veilsteel Tail’s** structural integrity, ensuring that its chains and sigils remain unbroken.  
 
 ### **The Keepers of Balance** *(Field Operatives & Researchers)*
-- **The Runekeepers** – Specialists in maintaining the sigils and runes that siphon, control, and stabilize magical currents. They frequently venture into the depths of the Tail to repair failing enchantments.  
+- **[The Runeswindler](/i/82)** – A meticulous Arcanaloth entrusted with maintaining the intricate runes that siphon, control, and stabilize magical currents within the Tail. She personally oversees repairs to failing enchantments, venturing deep into the structure’s core, where only the most skilled dare to tread. Known for an obsessive attention to detail and an unwavering loyalty to the Council, Vaelzith ensures that no sigil falters—and that no unauthorized hands tamper with the flow of magic.
 - **The Aetherian Monitors** – Mages who track and analyze fluctuations in magical energy, predicting potential surges before they occur.  
 - **The Wardens of the Shell** – A secretive division investigating the Shell’s true origins and any signs that it might be changing—or awakening.  
 
