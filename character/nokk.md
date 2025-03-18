@@ -2,7 +2,7 @@
 title: Nokk
 description: 
 published: 1
-date: 2025-03-18T13:40:57.234Z
+date: 2025-03-18T14:13:50.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
@@ -15,6 +15,9 @@ dateCreated: 2025-03-18T13:31:39.616Z
 Legends speak of a sorcerer whose magic bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with magic—it was thrust upon him in a moment of chaotic fate when he swallowed a **Gleamtail Jack**, a fish infused with the power of the Elemental Chaos. 
 
 From that moment, the world around him twisted with surges of wild energy. Some say he is a conduit for forces beyond mortal understanding, a storm given flesh. Others whisper that something in the chaos watches him, waiting for the moment to reclaim what he stole.
+
+## The rift gate paradox
+The greatest mystery surrounding Nokk is his inexplicable connection to the Rift Gate’s creation—an event that, according to all recorded history, predated him by centuries.
 
 ## Physical Description  
 - **Height:** 1.68 meters  
