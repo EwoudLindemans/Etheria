@@ -2,7 +2,7 @@
 title: The Scales
 description: 
 published: 1
-date: 2025-03-18T19:34:15.347Z
+date: 2025-03-18T22:25:58.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T16:16:26.728Z
