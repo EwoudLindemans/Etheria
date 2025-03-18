@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-18T20:18:24.620Z
+date: 2025-03-18T20:24:37.735Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -22,6 +22,10 @@ Meanwhile, the Shell’s glow, once revered for its restorative power, has taken
 
 Airships hover cautiously beyond the city's edges, their pilots wary of the gravitational distortions that occasionally ripple through the sky. The portals flicker, unstable, as though the world itself is holding its breath. Mohinders remains, bound by chains and faith, clinging to the Shell’s enigmatic radiance.
 
+## Council of Controlled Magical Appliance
+At the heart of Mohinders’ governance stands the Council of Controlled Magical Appliance (CCMA)—a powerful assembly of arcane scholars, engineers, and enchanters tasked with stabilizing the immense raw magic that surges through the Shell and the Veilsteel Tail. The Council oversees the intricate network of conduits, runes, and siphoning devices that regulate the flow of energy, preventing dangerous surges that could destabilize the city. They maintain the arcane portals that link Mohinders to the lands below, ensuring that the power channeled from the Shell does not consume the city it sustains.
+
+## Citizens
 Elf (46%), Human (41%), Halfling (6%), Dwarf (1%), Gnome (1%), Dragonborn (1%), Elf (1%), Tiefling (1%), Half-Orc (1%)
 
 # Shops
