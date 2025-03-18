@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-18T21:58:20.208Z
+date: 2025-03-18T22:01:34.041Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -80,10 +80,7 @@ The city teeters on the brink of change. If the **portal restrictions** are ever
 - **Gnome** (1%)
 - **Dragonborn** (1%)
 - **Tiefling** (1%)
-- **Half
-
-## Citizens
-Elf (46%), Human (41%), Halfling (6%), Dwarf (1%), Gnome (1%), Dragonborn (1%), Elf (1%), Tiefling (1%), Half-Orc (1%)
+- **Half-Orc (1%)**
 
 ## Shops
 There are many shops of refinement in the Mohinders Spire
