@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-18T20:18:20.586Z
+date: 2025-03-18T20:21:18.812Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -30,7 +30,7 @@ Over time, the survivors learned to harness the latent magic within the scales t
 There is no one ruler of Etheria. Each race has its own territory that it controls. But there is an overall peace throughout Etheria that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Etheria
 
 ## [Magic](#)
-From every place in the land, the remaining scales of the ancient creature can be seen towering over the world, their impossible heights a testament to forgotten times. These scales, infused with immense magic, are nearly indestructible, making them objects of both reverence and caution. Few dare to tamper with them, and those who do often pay with their lives. However, over centuries, some managed to pierce small gaps into the thick plates. From these openings, magic sparks pour into the land, raw and unstable. Cities (ex. [Mohinders Spire](/i/21)) have learned to harness these sparks with specialized means, stabilizing them as a power source. Yet, any new attempt to create more cavities is strictly forbidden.
+From every place in the land, the remaining scales of the ancient creature can be seen towering over the world, their impossible heights a testament to forgotten times. These scales, infused with immense magic, are nearly indestructible, making them objects of both reverence and caution. Few dare to tamper with them, and those who do often pay with their lives. However, over centuries, some managed to pierce small gaps into the thick plates. From these openings, magic sparks pour into the land, raw and unstable. Cities ([City of Or](/i/11) and the [Mohinders Spire](/i/21)) have learned to harness these sparks with specialized means, stabilizing them as a power source. Yet, any new attempt to create more cavities is strictly forbidden.
 
 The largest such cavity is found in the ruins of an ancient kingdom, now called Kin’Darei. This place, once the heart of a great civilization, has become an untamed wasteland. A moat teeming with deadly creatures surrounds the ruins, drawn to the site’s boundless magic. Even those who manage to cross it find themselves relentlessly hunted before they can even reach the broken walls. Not even giants dare to enter. What lies inside remains a mystery—none who have entered have ever returned to tell their tale.
 
@@ -75,7 +75,6 @@ Crack's are formed between continents they lead into a place called [The Dense](
 
 ## Notable Places
 ### Cities
-[City of Or](/i/11)
 [Triz Valley](/i/24)
 [Momentus Outpost](#)
 [Arkona](/i/37)
