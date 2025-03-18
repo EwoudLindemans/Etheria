@@ -2,7 +2,7 @@
 title: The Dense
 description: 
 published: 1
-date: 2025-03-18T22:27:01.502Z
+date: 2025-03-18T22:31:00.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-22T23:54:57.171Z
