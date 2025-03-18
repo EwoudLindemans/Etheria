@@ -2,7 +2,7 @@
 title: Nokk
 description: 
 published: 1
-date: 2025-03-18T14:15:43.063Z
+date: 2025-03-18T14:16:06.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
@@ -17,7 +17,7 @@ Legends speak of a sorcerer whose magic bends the very elements, shaping water, 
 From that moment, the world around him twisted with surges of wild energy. Some say he is a conduit for forces beyond mortal understanding, a storm given flesh. Others whisper that something in the chaos watches him, waiting for the moment to reclaim what he stole.
 
 ## Rift gate paradox
-The greatest mystery surrounding [Nokk](/i/78) is his inexplicable connection to the [Rift Gate’s](/i/51) creation—an event that, according to all recorded history, predated him by centuries.
+The greatest mystery surrounding Nokk is his inexplicable connection to the [Rift Gate’s](/i/51) creation—an event that, according to all recorded history, predated him by centuries.
 
 ## Physical Description  
 - **Height:** 1.68 meters  
