@@ -2,7 +2,7 @@
 title: Context
 description: 
 published: 1
-date: 2025-03-12T18:31:14.527Z
+date: 2025-03-18T19:21:17.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T19:10:12.192Z
@@ -138,3 +138,111 @@ Iridian -- The Scale-Touched Beings formed from raw magic escaping a scale's cav
     -   **The Invisible Stalker** (Ancient extraplanar entity) → Resides in a collapsed planar space near the well.
 
 This structured overview connects major locations, entities, and magical forces, ensuring clarity in world relationships.
+
+
+
+# [Character Name], [Title or Epithet]  
+*"A short quote that encapsulates the character’s personality or philosophy."*  
+
+## Origins & Legend  
+A brief history of the character, detailing their background, how they gained their abilities, and any myths or legends surrounding them. This section can include:  
+- A defining moment in their past  
+- Their relationship with magical or supernatural forces  
+- Rumors or theories about their true nature  
+
+## Physical Description  
+- **Height:** [Character’s height]  
+- **Build:** [Body type and notable features]  
+- **Appearance:** [A general description of their looks, including skin color, clothing, and accessories]  
+- **Hair:** [Hair color and style, or if they lack hair, why]  
+- **Distinguishing Features:** [Any notable physical traits, such as scars, glowing eyes, or magical auras]  
+
+## Abilities & Traits  
+- **[Ability Name]** – A brief description of how the character’s ability works and its effects.  
+- **[Ability Name]** – Another ability, highlighting strengths or limitations.  
+- **[Unique Feature or Curse]** – A trait that defines their connection to the supernatural, magic, or a mysterious force.  
+
+## Temperament & Behavior  
+An exploration of their personality, quirks, and how they interact with the world. Possible points:  
+- How they see themselves vs. how others see them  
+- Their philosophy on magic, power, or destiny  
+- Any fears, weaknesses, or emotional struggles  
+- Their relationships with others  
+
+## The Mystery of [Character Name]  
+A deeper dive into an unresolved mystery surrounding the character, such as:  
+- A hidden force influencing them  
+- An artifact or connection that shapes their fate  
+- Questions about their true identity or origin  
+
+## Hi, I'm [Character Name], [Race & Age].  
+A first-person introduction where the character shares their perspective, revealing their thoughts and motivations in a casual or passionate manner. This section can include:  
+- Where they come from  
+- How they see themselves and their abilities  
+- What drives them (ambitions, frustrations, etc.)  
+- A personal anecdote about their powers  
+- A transition into their current struggle or goal  
+
+---
+
+> ![Character Image](/path/to/image.webp)  
+># [Character Name]  
+>---  
+>- **[Size] [Type] ([Race]), [Alignment]**  
+>- **Armor Class** [Value] ([Equipment or magical bonuses])  
+>- **Hit Points** [HP Formula]  
+>- **Speed** [Movement Speed]  
+>---  
+>|STR|DEX|CON|INT|WIS|CHA|  
+>|---|---|---|---|---|---|  
+>|[Strength Score]|[Dexterity Score]|[Constitution Score]|[Intelligence Score]|[Wisdom Score]|[Charisma Score]|  
+>---  
+>- **Saving Throws** [List relevant saving throw bonuses]  
+>- **Skills** [List trained skills]  
+>- **Damage Resistances** [List resistances, if any]  
+>- **Condition Immunities** [List immunities, if any]  
+>- **Senses** [List special senses, if any]  
+>- **Languages** [List spoken languages]  
+>- **Challenge Rating** [CR Value] ([XP Value])  
+>- **Proficiency Bonus** [+X]  
+>---  
+>
+>### **[Special Trait]**  
+>A brief description of a passive ability or unique feature affecting their combat or role-playing mechanics.  
+>
+>### **[Another Special Trait]**  
+>Additional details about a unique magical effect, condition, or curse.  
+>
+>## **Actions**  
+>### **[Weapon or Spell Name]** *Melee/Ranged Weapon Attack:* +[Attack Bonus] to hit, reach/range [X ft.], one target.  
+>**Hit:** [Damage Formula] damage, plus any additional effects.  
+>
+>### **[Spell Name]** *[Spell Type]:* [Range, area, saving throw, etc.]  
+>**Hit:** [Damage Formula] damage, plus any ongoing effects.  
+>
+>---
+>
+>## **Bonus Actions**  
+>### **[Bonus Action Name]**  
+>A quick action they can take, such as a movement ability, quick spell, or tactical maneuver.  
+>
+>---
+>
+>## **Reactions**  
+>### **[Reaction Name]**  
+>A triggered effect based on enemy actions.  
+>
+>---
+>
+>## **Legendary Actions**  
+>[Character Name] can take [X] legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature’s turn. They regain spent legendary actions at the start of their turn.  
+>
+>### **[Legendary Action Name]**  
+>A powerful ability that enhances their combat presence.  
+>
+>### **[Another Legendary Action]**  
+>An effect that alters the battlefield or influences enemies.  
+>
+>---
+>
+>{.dnd}
