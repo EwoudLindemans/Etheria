@@ -2,13 +2,13 @@
 title: Nokk
 description: 
 published: 1
-date: 2025-03-18T13:31:39.616Z
+date: 2025-03-18T13:40:57.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
 ---
 
-# Nokk, The Unchained Tempest
+# Nokk, The Pandemonium’s Chosen
 *"Magic should be free, wild, and powerful. Just… not in my hands. Seriously, get behind cover."*
 
 ## Origins & Legend  
