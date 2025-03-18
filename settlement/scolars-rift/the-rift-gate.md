@@ -2,7 +2,7 @@
 title: The Rift Gate
 description: 
 published: 1
-date: 2025-03-18T14:15:59.417Z
+date: 2025-03-18T14:18:28.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:21:54.523Z
@@ -22,7 +22,7 @@ The paradox was born when [Nokk](/i/78) embarked on one of his many reckless exp
 
 At the peak of his exploration, something went wrong—or perhaps, went exactly as it was meant to.
 
-Nokk attempted to harness the resonance of The Dense itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, distorting time and space in unpredictable ways. Reality itself seemed to buckle, and when the rift finally settled, scholars across Etheria realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
+Nokk attempted to harness the resonance of The Dense itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, merging two points of time into a single point. Reality itself seemed to buckle, and when the rift finally settled, scholars across Etheria realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
 
 Yet historical records made it clear: The Rift Gate had already existed before Nokk’s birth.
 
