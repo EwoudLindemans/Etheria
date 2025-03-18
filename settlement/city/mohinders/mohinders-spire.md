@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-18T21:44:10.024Z
+date: 2025-03-18T21:46:06.266Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -37,7 +37,8 @@ Mohinders was once a city of **seamless connectivity**, with portals scattered t
 At the heart of Mohinders’ governance stands the [Council of Controlled Magical Appliance](/i/81) a powerful assembly of arcane scholars, engineers, and enchanters tasked with stabilizing the immense raw magic that surges through the Shell and the Veilsteel Tail. The Council oversees the intricate network of conduits, runes, and siphoning devices that regulate the flow of energy, preventing dangerous surges that could destabilize the city. They maintain the arcane portals that link Mohinders to the lands below, ensuring that the power channeled from the Shell does not consume the city it sustains.
 
 ### Faction: Veilbreakers
-At the heart of Mohinders’ governance stands the [Council of Controlled Magical Appliance](/i/81) a powerful assembly of arcane scholars, engineers, and enchanters tasked with stabilizing the immense raw magic that surges through the Shell and the Veilsteel Tail. The Council oversees the intricate network of conduits, runes, and siphoning devices that regulate the flow of energy, preventing dangerous surges that could destabilize the city. They maintain the arcane portals that link Mohinders to the lands below, ensuring that the power channeled from the Shell does not consume the city it sustains.
+
+The **Veilbreakers** are a faction born from frustration and resistance to the oppressive rule of the **Council of Controlled Magical Appliance**. Originally formed as a loosely connected group of protestors, workers, and intellectuals, they have grown into a powerful political and rebellious force, bent on liberating the city from what they see as an unjust, corrupt, and exploitative system. Their name, **Veilbreakers**, stems from their desire to tear down the metaphorical veil that cloaks the **Council’s control**, as well as their opposition to the Taxed portals that they believe divide the people unfairly.
 
 ### How the Veilbreakers Gained Control
 As tensions grew between the **Council of Controlled Magical Appliance** and the **Veilbreakers**, control over the portals began to shift. What was once a free-flowing system was slowly manipulated and altered by the **Veilbreakers** to control access to parts of the city. Over time, the **Council** also tightened its control over the other half of the city’s portals.
