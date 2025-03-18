@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-18T21:50:58.833Z
+date: 2025-03-18T21:58:20.208Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -57,7 +57,7 @@ Now, the city is divided, not by physical barriers, but by the **portal system**
 3. **Portals Are the Key**:
    - The only way to travel from one side of the city to the other is by using **secret, hidden portals** that bypass the control of either faction. These secret routes are **known only to smugglers** or members of the **underground resistance**—and their existence is often only whispered about in back alleys.
 4. **Portal Restrictions Enforced**:
-   - Both factions have installed **magical wards** and **enforcement sigils** on their portals to ensure that only those within their control can pass. **Runeswindlers** (loyal agents of the Council) oversee the **portal regulations**, ensuring that the **Veilbreaker-controlled streets** remain cut off from the rest of the city.
+   - Both factions have installed **magical wards** and **enforcement sigils** on their portals to ensure that only those within their control can pass. **[Runeswindler](/i/82)** (a loyal agent of the Council) oversee the **portal regulations**, ensuring that the **Veilbreaker-controlled streets** remain cut off from the rest of the city.
 
 ## Life in the Divided City
 
