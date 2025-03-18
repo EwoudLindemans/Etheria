@@ -2,19 +2,21 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-05T22:30:39.912Z
+date: 2025-03-18T19:53:13.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
 # Etheria
-In the old days past, a world collided with the magical creature [Irion](/i/40). Rupturing the planet and breaking it down into a thousand. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/i/17) The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
+In the old days past, a barren world collided with the magical creature [Irion](/i/40). Rupturing the planet and breaking it down into a thousand. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/i/17), This event shattered reality and created enormous, interlocked scales each possessing unique properties. This world exists in a stable yet improbable formation, suspended in the cosmos by forces beyond comprehension.
+
+The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes it so special.
 It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
 
-In the aftermath of The Collapse, the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature Irion. These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors.
+In the aftermath of The Collapse, the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature Irion. These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors. The very essence of Irion’s magic courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
 
 - Scale Sanctuaries:
 Communities quickly discovered that areas where these magical scales were concentrated had unique properties. The scales emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these scale sanctuaries, utilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
@@ -52,7 +54,7 @@ A large curved scale with the top broken off, it pretty much resembles a long ru
 The Asara Plate sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique scale is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
 
 ### [The Orinite Ring](/i/41)
-A black circle with a red inner lining. It is the only scale that doesn't have any land on it and orbits around the world. It has a magical field that protects those inside from the vacuum of space.
+Surrounding Etheria is the **Orinite Ring**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of Irion’s immense power or a divine boundary separating Etheria from the unknown beyond.  
 
 ## Religions
 - **Followers of Irion**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.
