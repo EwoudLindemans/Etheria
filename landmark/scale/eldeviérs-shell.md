@@ -2,15 +2,23 @@
 title: Eldeviérs Shell
 description: 
 published: 1
-date: 2025-03-18T19:33:53.710Z
+date: 2025-03-18T19:38:54.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T14:30:55.811Z
 ---
 
-Eldeviérs Shell
+# Eldeviérs Shell
 
-The Shell is colored in a bright opal green. On this scale that mostly represents a tall looking spire the city Mohinders is build hanging suspeded in the air. It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground. The opal green color of the Eldeviérs Shell is not just for show - the scale actually emits a soft green light that illuminates the city of Mohinders suspended above it. The light is also said to have healing properties, making Mohinders a popular destination for those seeking to heal from ailments.
+![Eldeviérs Shell](/world/eldeviers-shell.webp =500x)
 
-### Plots
-- Over time, a mysterious magical disease has begun to spread across the city. The green light from the scale, once considered healing, is now causing strange nightmares on the residents.
+Eldeviérs Shell is a massive, otherworldly structure—a colossal, opal-green dome covered in hexagonal scales, glowing with an ethereal luminescence. Jagged spires and towering structures rise from its surface, blending ancient architecture with alien design. A feathery crest of dark, crystalline protrusions adorns the upper ridge, giving it a regal and intimidating presence.
+
+Suspended in the skies nearby, floating islands and platforms defy gravity, connected by cascading beams of energy. The city of Mohinders clings to the Shell, built upon its lower ridges and suspended by massive iron rings and chains. Accessible only through arcane portals and airships, Mohinders is a sanctuary of magic and mystery.
+
+At the peak of the Scale, a powerful device absorbs energy from its glowing scales, fueling the portals that connect the city to the lands below. Legends speak of the Shell’s green light having restorative powers, but whispers of a growing corruption suggest its radiance may now be tainted, seeding nightmares into those who dwell within its glow.
+
+## Plots
+- A mysterious affliction spreads through Mohinders—visions of the cosmos invade dreams, and whispers from beyond reality echo in the night. Has the Shell’s power been compromised?
+- A faction of scholars believes the Shell is not a natural structure but an ancient cocoon. If they’re right… what might awaken?
+- The floating platforms begin shifting unpredictably, as if responding to an unseen force. Is the Shell alive, or is something trying to break through?
