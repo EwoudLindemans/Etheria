@@ -2,7 +2,7 @@
 title: Runeswindler
 description: 
 published: 1
-date: 2025-03-18T21:00:56.955Z
+date: 2025-03-18T21:01:56.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T20:54:14.829Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-18T20:54:14.829Z
 # **Runeswindler, Collector of Passage**  
 ![runeswindler.png](/characters/runeswindler.png =500x)
 
-In Mohinders, travel is not a right—it is a privilege **taxed, monitored, and controlled** by the **Council of Controlled Magical Appliance**. At the heart of this lucrative system stands the **Runeswindler**, an Arcanaloth responsible for ensuring **no portal functions without payment**.  
+In [Mohinders](/i/21), travel is not a right—it is a privilege **taxed, monitored, and controlled** by the **Council of Controlled Magical Appliance**. At the heart of this lucrative system stands the **Runeswindler**, an Arcanaloth responsible for ensuring **no portal functions without payment**.  
 
 ---
 
