@@ -2,7 +2,7 @@
 title: Or Flatstone
 description: The founder and first leader of the City of Or.
 published: 1
-date: 2025-03-18T22:22:16.064Z
+date: 2025-03-18T22:36:12.656Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T13:05:11.061Z
