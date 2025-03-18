@@ -2,7 +2,7 @@
 title: Councel of Controlled Magical Appliance
 description: 
 published: 1
-date: 2025-03-18T21:05:22.841Z
+date: 2025-03-18T21:06:47.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T20:29:22.056Z
@@ -11,9 +11,7 @@ dateCreated: 2025-03-18T20:29:22.056Z
 # **Council of Controlled Magical Appliance (CCMA)**
 *"Magic is power, but power ungoverned is catastrophe."* — First High Regulator, Alvinas the Measured  
 
-The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **Eldeviérs Shell** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing Mohinders apart.  
-
----
+The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **Eldeviérs Shell** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing [Mohinders](/i/21) apart.  
 
 ## **Structure & Hierarchy**
 The CCMA is composed of scholars, artificers, enchanters, and arcane engineers, all dedicated to the stability of the city’s magical infrastructure. The Council is divided into several specialized branches, each with distinct roles:  
