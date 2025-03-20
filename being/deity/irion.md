@@ -2,13 +2,16 @@
 title: Irion
 description: 
 published: 1
-date: 2025-03-18T22:53:15.061Z
+date: 2025-03-20T21:21:37.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
 ---
 
 # Irion
+
+![irion.png](/world/irion.png =500x)
+
 The creature that collapsed with the world [Etheria](/i/15) is called Irion. The origin of Irion is unknown, but there are many theories about what it may be. Some say that it is a dragon that was petrified by powerful magic, while others say that it is a giant creature created by the gods. Whatever the truth may be, Irion remains a mystery and its impact on the world is still felt today.
 
 ## Residue
