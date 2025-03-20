@@ -2,7 +2,7 @@
 title: Irion
 description: 
 published: 1
-date: 2025-03-20T21:23:39.455Z
+date: 2025-03-20T21:24:35.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
@@ -21,8 +21,8 @@ With time Etheria healed through the magical residue that the creature left behi
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes the connection between Iron en Etheria so special.
 
 ## **Manifestation and Symbols:**  
-- Irion is depicted as a **colossal, half-petrified being**, its form entombed within the world itself.  
-- Its eyes, though lifeless, are said to glow faintly with lingering arcane energy, staring into the void beyond time.  
+- Irion is depicted as a **colossal, half-spectral being**, its form entombed within the world itself.  
+- Its eyes, are said to glow faintly with lingering arcane energy, staring into the void beyond time.  
 - Its body is a fusion of **crystalline scales, fossilized flesh, and veins of liquid magic**, exuding an aura of both destruction and renewal.  
 - Its sigil is **a broken circle with tendrils of energy spilling forth**, symbolizing the Collapse and the unchecked flow of magic that followed.  
 
