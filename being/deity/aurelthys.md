@@ -2,7 +2,7 @@
 title: Aurelthys
 description: 
 published: 1
-date: 2025-03-20T21:01:08.337Z
+date: 2025-03-20T21:03:55.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T21:00:49.370Z
@@ -30,7 +30,7 @@ The Argent Arbiter is the unseen architect of the city's laws, the silent whispe
 - **The veil of secrecy is a necessary burden.** Some truths, when wielded by the unworthy, can do more harm than ignorance.  
 
 #### **Effect on Mohinders:**  
-Aurelthys is the silent heart of the city, its will woven into the very fabric of its arcane infrastructure. The great magical academies, the sprawling bureaucracy of the Council, and the intricate web of permissions and restrictions surrounding the portals—all are extensions of its doctrine.  
+Aurelthys is the silent heart of [the city](/i/21), its will woven into the very fabric of its arcane infrastructure. The great magical academies, the sprawling bureaucracy of the Council, and the intricate web of permissions and restrictions surrounding the portals—all are extensions of its doctrine.  
 
 The elite of Mohinders Spire see themselves as its chosen stewards, bearing the weight of knowledge and governance with a mixture of reverence and duty. To question Aurelthys is to question the city's foundation itself, for it is through this divine order that Mohinders flourishes.  
 
