@@ -2,7 +2,7 @@
 title: Mohinders Spire
 description: 
 published: 1
-date: 2025-03-20T20:46:57.391Z
+date: 2025-03-20T21:02:19.797Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
@@ -50,7 +50,7 @@ Not all knowledge is meant to be known—or so the ruling class insists. There a
 
 Rumors persist that the Shell is not simply an arcane wellspring, but something more—a prison, a slumbering entity, or a boundary between dimensions. The Council dismisses such claims as heretical nonsense, yet the most ambitious seekers of knowledge continue to dig, risking their lives and minds to uncover what lies beneath the city’s surface.
 
-Some whisper that **Aurelthys**, the city’s divine arbiter, does not reveal all that it knows. It grants wisdom in fragments, never in full, and its silence on certain matters is as telling as its proclamations. Those who seek to unveil its secrets must tread carefully, for forbidden knowledge in Mohinders is not just dangerous—it is a currency and a curse.
+Some whisper that [Aurelthys](/i/84), the city’s divine arbiter, does not reveal all that it knows. It grants wisdom in fragments, never in full, and its silence on certain matters is as telling as its proclamations. Those who seek to unveil its secrets must tread carefully, for forbidden knowledge in Mohinders is not just dangerous—it is a currency and a curse.
 
 ## Conclusion: The Spire of Secrets
 Mohinders is a city of ambition, deception, and exclusivity, where magic is not just a power but a gatekeeper to society itself. Those who wield it with mastery are revered as near-divine, while those who lack it are left to scrape by in the shadows.
