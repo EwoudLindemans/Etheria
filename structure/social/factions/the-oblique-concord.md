@@ -2,13 +2,17 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-21T20:50:13.053Z
+date: 2025-03-21T20:53:39.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
 ---
 
 # The Oblique Concord
+
+| --- | --- |
+| ![oblique-concord.webp](/world/oblique-concord.webp =250x)|![oblique-concord-logo.webp](/world/oblique-concord-logo.webp =250x)
+
 It began with a single act of mischief—one that should have been forgotten.
 
 A scribe, weary of his lord’s greed, changed a single number in the tax records. Not enough to be noticed, but just enough to ensure a starving village received a reprieve from crushing levies. He expected nothing to come of it except his own dismissal, but instead, the village thrived. With a single winter’s mercy, they grew strong enough to defend themselves from raiders. Their gratitude never found its way to him, but it didn’t need to. He had seen what a well-placed lie could do.
