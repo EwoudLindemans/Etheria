@@ -2,7 +2,7 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-21T20:53:39.012Z
+date: 2025-03-21T20:54:00.084Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-21T20:50:13.053Z
 # The Oblique Concord
 
 | --- | --- |
-| ![oblique-concord.webp](/world/oblique-concord.webp =250x)|![oblique-concord-logo.webp](/world/oblique-concord-logo.webp =250x)
+| ![oblique-concord.webp](/world/oblique-concord.webp =250x)|![oblique-concord-logo.webp](/world/oblique-concord-logo.webp =250x)|
 
 It began with a single act of mischief—one that should have been forgotten.
 
