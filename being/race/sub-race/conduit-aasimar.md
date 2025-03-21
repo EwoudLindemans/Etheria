@@ -1,8 +1,8 @@
 ---
-title: Conduit-Aasimar
+title: Conduit Aasimar
 description: 
 published: 1
-date: 2025-03-21T20:04:39.819Z
+date: 2025-03-21T20:04:50.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:04:39.819Z
