@@ -2,14 +2,14 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-21T20:54:00.084Z
+date: 2025-03-21T20:54:26.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
 ---
 
 # The Oblique Concord
-
+| In Action | Logo |
 | --- | --- |
 | ![oblique-concord.webp](/world/oblique-concord.webp =250x)|![oblique-concord-logo.webp](/world/oblique-concord-logo.webp =250x)|
 
