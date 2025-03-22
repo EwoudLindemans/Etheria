@@ -2,13 +2,16 @@
 title: Fizzlemancy
 description: 
 published: 1
-date: 2025-03-12T19:50:50.796Z
+date: 2025-03-22T10:42:38.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T19:46:30.395Z
 ---
 
 # Fizzlemancy: The Art of Enchanting
+
+![fizzlemancy.webp](/professions/fizzlemancy.webp =500x)
+
 Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Fizzlemancers gather water from magical resonance zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
 
 ## The Fizzlemancer’s Process
