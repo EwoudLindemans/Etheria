@@ -1,8 +1,8 @@
 ---
-title: Emberglass Shaper
+title: Emberglass Artisan
 description: 
 published: 1
-date: 2025-03-23T17:36:47.047Z
+date: 2025-03-23T17:50:12.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
