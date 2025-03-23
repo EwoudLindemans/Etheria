@@ -2,7 +2,7 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T17:33:52.183Z
+date: 2025-03-23T17:34:50.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-23T12:04:06.602Z
 
 # Emberglass Artisans – The Keepers of Fire and Memory
 
-| Emberglass Path | Hexfire Path | Graveflame Path | Ashenfang Path|
+| Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
 | ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x) |
 
@@ -22,21 +22,21 @@ A true Emberglass Artisan does not just create; they bind fire, shape light, and
 
 ---
 
-## The Three Paths of Emberglass Artisans
+## The Four Paths of Emberglass Artisans
 
-### **1. Emberglass Artisans – Keepers of Memory**  
+### **1. Emberglass Memory Artisans – Keepers of Memory**  
 *"What is lost need not be forgotten."*  
 The most traditional and revered among their kind, Emberglass Artisans **embed memories** into their creations. They preserve the last words of the dying, the wisdom of scholars, and the emotions of those long passed. Their work ensures that history is never lost and that voices of the past may still be heard.
 
-### **2. Hexfire Artisans – Crafters of the Doomed**  
+### **2. Emberglass Hexfire Artisans – Crafters of the Doomed**  
 *"Beware the gift of a Hexfire Artisan; its price is paid in suffering."*  
 These twisted artisans **trap curses within emberglass**, creating objects of misfortune and ruin. A cursed mirror may show a person’s worst fears, a pendant may leech away strength, and a lantern may burn only for those doomed to die. Hexfire Artisans are feared, sought after only by those desperate enough to wield their wicked craft.
 
-### **3. Graveflame Artisans – Harbingers of the Bound**  
+### **3. Emberglass Graveflame Artisans – Harbingers of the Bound**  
 *"Flame fades, but souls linger."*  
 The darkest of their order, Graveflame Artisans **imprison souls within emberglass**. Their orbs can be used to raise the dead, whisper forgotten knowledge, or serve as vessels for trapped spirits. Some wield these artifacts as necromantic tools, while others believe they grant the departed a second chance to influence the world of the living.
 
-### **4. Ashenfang Artisans – Weavers of the Unquiet Dead**  
+### **4. Emberglass Ashenfang Artisans – Weavers of the Unquiet Dead**  
 *"Fire may cleanse, but embers smolder still."*  
 Where Graveflame Artisans imprison souls, **Ashenfang Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
 
