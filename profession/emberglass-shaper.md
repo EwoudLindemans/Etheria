@@ -2,7 +2,7 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T17:36:18.914Z
+date: 2025-03-23T17:36:47.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-23T12:04:06.602Z
 
 | Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
-| ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x) |
+| ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =300x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =300x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =300x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =300x) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
