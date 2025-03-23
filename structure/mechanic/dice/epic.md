@@ -2,13 +2,13 @@
 title: Epic Roll
 description: 
 published: 1
-date: 2025-03-23T21:53:32.662Z
+date: 2025-03-23T21:54:09.861Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:52:43.851Z
 ---
 
-# The Path of Legends (Epic Mechanic)  
+# Epic Roll
 🔥 *For those who embrace the extremes of fate.*  
 
 ## **Mechanic:**  
