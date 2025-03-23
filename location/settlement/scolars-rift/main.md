@@ -2,7 +2,7 @@
 title: Scolar's Rift
 description: 
 published: 1
-date: 2025-03-18T22:33:09.821Z
+date: 2025-03-23T21:05:51.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T23:47:32.624Z
@@ -15,6 +15,9 @@ The **Scholar’s Rift** is a magical hub, isolated from the non-magical world b
 **Name:** Barty Dunderfield  
 **Role:** Leader of the Scholar’s Rift  
 **Personality:** Charismatic but slightly confused about magic. Barty believes in nurturing potential over raw power and ensures that magic is in the hands of the good. He’s not a mage but understands people, and that’s what makes him a respected leader.
+
+## The Guild of Improbable Artifice
+The **Guild of Improbable Artifice** is a collective of brilliant yet eccentric engineers, artificers, and arcane theorists dedicated to pushing the boundaries of reality. United by their shared love of invention, they specialize in crafting **Improbability Machines**—devices that challenge logic, warp fate, and compute the impossible.
 
 ## **Education System: "The Echoes Program"**
 
