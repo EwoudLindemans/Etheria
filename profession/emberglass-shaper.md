@@ -2,7 +2,7 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T17:27:04.245Z
+date: 2025-03-23T17:33:52.183Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-23T12:04:06.602Z
 
 # Emberglass Artisans – The Keepers of Fire and Memory
 
-| Emberglass Artisans | Hexfire Artisans | Graveflame Shaper | Raised Undead |
+| Emberglass Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
 | ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x) |
 
@@ -35,6 +35,13 @@ These twisted artisans **trap curses within emberglass**, creating objects of mi
 ### **3. Graveflame Artisans – Harbingers of the Bound**  
 *"Flame fades, but souls linger."*  
 The darkest of their order, Graveflame Artisans **imprison souls within emberglass**. Their orbs can be used to raise the dead, whisper forgotten knowledge, or serve as vessels for trapped spirits. Some wield these artifacts as necromantic tools, while others believe they grant the departed a second chance to influence the world of the living.
+
+### **4. Ashenfang Artisans – Weavers of the Unquiet Dead**  
+*"Fire may cleanse, but embers smolder still."*  
+Where Graveflame Artisans imprison souls, **Ashenfang Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
+
+Their most feared works are the **Hollowflame Effigies**, statues of emberglass and ash that, when shattered, release the bound dead in a final burst of spectral wrath.
+
 
 ---
 
