@@ -1,8 +1,8 @@
 ---
-title: Dice
+title: Paradoxical Roll
 description: 
 published: 1
-date: 2025-03-23T21:51:58.496Z
+date: 2025-03-23T21:53:07.292Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:44:10.632Z
