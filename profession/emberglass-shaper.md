@@ -2,7 +2,7 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T12:04:06.602Z
+date: 2025-03-23T14:58:48.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-23T12:04:06.602Z
 # Emberglass Shapers – The Keepers of Fire and Memory
 
 ![embarglass-shaper_(1).webp](/world/embarglass-shaper_(1).webp =500x)
-![embarglass-shaper_(2).webp](/world/embarglass-shaper_(2).webp =500x)
+
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
@@ -53,6 +53,8 @@ Crafted from the purest Emberglass, these mirrors reveal more than just reflecti
 ### **Soulglass Orbs**  
 *"Voices of the past, never silenced."*  
 Each orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
+
+![embarglass-shaper_(2).webp](/world/embarglass-shaper_(2).webp =200x)
 
 ### **Dragon’s Eye Jewels**  
 *"A jewel that sees."*  
