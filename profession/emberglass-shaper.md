@@ -2,7 +2,7 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T15:11:26.377Z
+date: 2025-03-23T15:22:48.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -10,16 +10,31 @@ dateCreated: 2025-03-23T12:04:06.602Z
 
 # Emberglass Shapers – The Keepers of Fire and Memory
 
-| Emberglass Shaper | Cursed Soul | Necromancer | Raised Undead
+| Emberglass Shaper | Hexfire Shaper | Graveflame Shaper | Raised Undead |
 | --- | --- | --- | --- | 
-| ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x)
-
+| ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
 The **Emberglass Shapers** are Dragonborn artisans who wield fire and magic to shape glass into objects of beauty, power, and remembrance. Their craft is more than simple glassblowing—it is an ancient art passed down through generations, a sacred duty to preserve history and illuminate the future. Their mirrors reflect more than just faces, their jewels pulse with captured energy, and their memory-glass holds echoes of lost voices.
 
 A true Emberglass Shaper does not just create; they bind fire, shape light, and forge stories into glass.
+
+---
+
+## The Three Paths of Emberglass Shapers
+
+### **1. Emberglass Shapers – Keepers of Memory**  
+*"What is lost need not be forgotten."*  
+The most traditional and revered among their kind, Emberglass Shapers **embed memories** into their creations. They preserve the last words of the dying, the wisdom of scholars, and the emotions of those long passed. Their work ensures that history is never lost and that voices of the past may still be heard.
+
+### **2. Hexfire Shapers – Crafters of the Doomed**  
+*"Beware the gift of a Hexfire Shaper; its price is paid in suffering."*  
+These twisted artisans **trap curses within emberglass**, creating objects of misfortune and ruin. A cursed mirror may show a person’s worst fears, a pendant may leech away strength, and a lantern may burn only for those doomed to die. Hexfire Shapers are feared, sought after only by those desperate enough to wield their wicked craft.
+
+### **3. Graveflame Shapers – Harbingers of the Bound**  
+*"Flame fades, but souls linger."*  
+The darkest of their order, Graveflame Shapers **imprison souls within emberglass**. Their orbs can be used to raise the dead, whisper forgotten knowledge, or serve as vessels for trapped spirits. Some wield these artifacts as necromantic tools, while others believe they grant the departed a second chance to influence the world of the living.
 
 ---
 
