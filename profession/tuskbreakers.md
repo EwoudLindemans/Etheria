@@ -2,7 +2,7 @@
 title: Tuskbreakers
 description: 
 published: 1
-date: 2025-03-13T00:27:50.067Z
+date: 2025-03-23T22:15:31.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T21:31:42.572Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-12T21:31:42.572Z
 
 # Tuskbreakers – The Fossil Crushers  
 *"Bones of the past, weapons of the future."*  
+
+![tuskbreaker.webp](/professions/tuskbreaker.webp =500x)
 
 The **Tuskbreakers** are orcish masters of reclaiming power from the dead, inspired by the legendary Skul’Kruk – The Fossil Crusher. They unearth the colossal remains of long-extinct behemoths and ancient warriors, carving them into brutal weapons and armor infused with the lingering resonance of the magical collapse. Unlike mere blacksmiths or enchanters, Tuskbreakers do not simply shape materials—they force the past to fight for the present, wrenching raw power from fossilized remains through strength, ritual, and brutal craftsmanship.  
 
