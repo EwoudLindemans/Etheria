@@ -2,7 +2,7 @@
 title: Paradoxical Roll
 description: 
 published: 1
-date: 2025-03-23T22:02:22.169Z
+date: 2025-03-23T22:03:48.791Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:44:10.632Z
@@ -31,7 +31,7 @@ Whenever a creature with Paradoxical Recoil makes an **attack roll, ability chec
 | **7 & 7**  | **Lost in the Moment** – The action works, but **the character briefly forgets what just happened** and has no memory of what they did for the last few seconds. |
 | **8 & 8**  | **Echo of Fate** – The next time the character makes this type of check (attack, skill, or save), they must **reroll two d20s again** regardless of whether Paradoxical Recoil is cured. |
 | **9 & 9**  | **Quantum Stumble** – The action works, but the character **teleports 5 feet in a random direction** immediately afterward. |
-| **10 & 10** | **The Unseen Hand** – A mysterious force **nudges the outcome slightly**, causing an unintended side effect (e.g., an arrow bends in flight, hitting the wrong target). |
+| **10 & 10** | **Schrodinger’s Gambit** – The outcome of the roll is **unknown until observed**. The DM secretly determines success or failure but does not reveal it immediately. The result manifests only when it naturally becomes evident (e.g., a picked lock might seem open but stays stuck until someone tries the door). |
 | **11 & 11** | **Parallel Outcome** – The roll’s outcome **affects someone else nearby instead of the intended target** (e.g., casting *Cure Wounds* on an ally accidentally heals an enemy). |
 | **12 & 12** | **Delayed Reversal** – The roll succeeds now, but **within the next 24 hours, the universe will take something else away in return** (DM’s choice). |
 | **13 & 13** | **Karmic Bounce** – The roll fails, but another event in the world **shifts in the character’s favor** (e.g., failing to sneak past guards, but another distraction pulls them away). |
