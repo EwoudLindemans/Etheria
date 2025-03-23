@@ -2,57 +2,57 @@
 title: Emberglass Shaper
 description: 
 published: 1
-date: 2025-03-23T15:22:48.660Z
+date: 2025-03-23T17:27:04.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
 ---
 
-# Emberglass Shapers – The Keepers of Fire and Memory
+# Emberglass Artisans – The Keepers of Fire and Memory
 
-| Emberglass Shaper | Hexfire Shaper | Graveflame Shaper | Raised Undead |
+| Emberglass Artisans | Hexfire Artisans | Graveflame Shaper | Raised Undead |
 | --- | --- | --- | --- | 
 | ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =250x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =250x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =250x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =250x) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
-The **Emberglass Shapers** are Dragonborn artisans who wield fire and magic to shape glass into objects of beauty, power, and remembrance. Their craft is more than simple glassblowing—it is an ancient art passed down through generations, a sacred duty to preserve history and illuminate the future. Their mirrors reflect more than just faces, their jewels pulse with captured energy, and their memory-glass holds echoes of lost voices.
+The **Emberglass Artisans** are Dragonborn artisans who wield fire and magic to shape glass into objects of beauty, power, and remembrance. Their craft is more than simple glassblowing—it is an ancient art passed down through generations, a sacred duty to preserve history and illuminate the future. Their mirrors reflect more than just faces, their jewels pulse with captured energy, and their memory-glass holds echoes of lost voices.
 
-A true Emberglass Shaper does not just create; they bind fire, shape light, and forge stories into glass.
+A true Emberglass Artisan does not just create; they bind fire, shape light, and forge stories into glass.
 
 ---
 
-## The Three Paths of Emberglass Shapers
+## The Three Paths of Emberglass Artisans
 
-### **1. Emberglass Shapers – Keepers of Memory**  
+### **1. Emberglass Artisans – Keepers of Memory**  
 *"What is lost need not be forgotten."*  
-The most traditional and revered among their kind, Emberglass Shapers **embed memories** into their creations. They preserve the last words of the dying, the wisdom of scholars, and the emotions of those long passed. Their work ensures that history is never lost and that voices of the past may still be heard.
+The most traditional and revered among their kind, Emberglass Artisans **embed memories** into their creations. They preserve the last words of the dying, the wisdom of scholars, and the emotions of those long passed. Their work ensures that history is never lost and that voices of the past may still be heard.
 
-### **2. Hexfire Shapers – Crafters of the Doomed**  
-*"Beware the gift of a Hexfire Shaper; its price is paid in suffering."*  
-These twisted artisans **trap curses within emberglass**, creating objects of misfortune and ruin. A cursed mirror may show a person’s worst fears, a pendant may leech away strength, and a lantern may burn only for those doomed to die. Hexfire Shapers are feared, sought after only by those desperate enough to wield their wicked craft.
+### **2. Hexfire Artisans – Crafters of the Doomed**  
+*"Beware the gift of a Hexfire Artisan; its price is paid in suffering."*  
+These twisted artisans **trap curses within emberglass**, creating objects of misfortune and ruin. A cursed mirror may show a person’s worst fears, a pendant may leech away strength, and a lantern may burn only for those doomed to die. Hexfire Artisans are feared, sought after only by those desperate enough to wield their wicked craft.
 
-### **3. Graveflame Shapers – Harbingers of the Bound**  
+### **3. Graveflame Artisans – Harbingers of the Bound**  
 *"Flame fades, but souls linger."*  
-The darkest of their order, Graveflame Shapers **imprison souls within emberglass**. Their orbs can be used to raise the dead, whisper forgotten knowledge, or serve as vessels for trapped spirits. Some wield these artifacts as necromantic tools, while others believe they grant the departed a second chance to influence the world of the living.
+The darkest of their order, Graveflame Artisans **imprison souls within emberglass**. Their orbs can be used to raise the dead, whisper forgotten knowledge, or serve as vessels for trapped spirits. Some wield these artifacts as necromantic tools, while others believe they grant the departed a second chance to influence the world of the living.
 
 ---
 
-## The Legend of Izzar’Vharr, the First Shaper
+## The Legend of Izzar’Vharr, the First Artisan
 
 *"Fire is destruction. Fire is creation. I shall teach you both."*
 
-Long ago, when Dragonborn still lived under the rule of elder dragons, there was one who refused to let knowledge fade—**Izzar’Vharr, the First Shaper**. He was no warrior, no sorcerer, but a maker, a guardian of stories. As his people waged war and cities crumbled, he sought a way to preserve history beyond books and stone.
+Long ago, when Dragonborn still lived under the rule of elder dragons, there was one who refused to let knowledge fade—**Izzar’Vharr, the First Artisan**. He was no warrior, no sorcerer, but a maker, a guardian of stories. As his people waged war and cities crumbled, he sought a way to preserve history beyond books and stone.
 
 He discovered that with dragonfire and the right minerals, he could create something unbreakable: **Emberglass**, a rare, enchanted glass that could store images, words, even memories. He fashioned the first **Moonlit Mirror**, which showed the truth of things—revealing hidden thoughts, secret fears, and even glimpses of fate. He crafted the **Soulglass Orbs**, which held the voices of lost elders so they might never be forgotten.
 
-Izzar’Vharr's creations spread across the land, coveted by kings, scholars, and warlords alike. But his greatest masterpiece, the **Eternal Prism**, a perfect crystal said to hold the wisdom of a thousand lifetimes, was lost to time. Some say it shattered, its pieces hidden in the works of Emberglass Shapers to this day. Others believe it still waits to be found, glowing in the darkest corners of the world.
+Izzar’Vharr's creations spread across the land, coveted by kings, scholars, and warlords alike. But his greatest masterpiece, the **Eternal Prism**, a perfect crystal said to hold the wisdom of a thousand lifetimes, was lost to time. Some say it shattered, its pieces hidden in the works of Emberglass Artisans to this day. Others believe it still waits to be found, glowing in the darkest corners of the world.
 
-The **Emberglass Shapers** see themselves as his successors, continuing his work so that no knowledge, no beauty, and no soul is ever truly lost.
+The **Emberglass Artisans** see themselves as his successors, continuing his work so that no knowledge, no beauty, and no soul is ever truly lost.
 
 ---
 
-## The Ways of the Emberglass Shapers
+## The Ways of the Emberglass Artisans
 
 ### Forging the Flameglass
 Creating Emberglass is no simple task. It begins with the gathering of **rare sands**—some from volcanic shores, others from the depths of the desert, and the rarest, from the bones of fallen dragons. These materials are melted with **dragonfire breath**, infused with magic, and shaped through both precision and instinct.
@@ -61,7 +61,7 @@ The result is not ordinary glass, but something **alive**—glass that holds lig
 
 ---
 
-## The Signature Creations of the Emberglass Shapers
+## The Signature Creations of the Emberglass Artisans
 
 ### **Moonlit Mirrors**  
 *"A mirror that does not lie."*  
