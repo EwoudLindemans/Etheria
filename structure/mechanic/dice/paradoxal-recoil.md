@@ -2,7 +2,7 @@
 title: Paradoxical Roll
 description: 
 published: 1
-date: 2025-03-23T21:53:07.292Z
+date: 2025-03-23T21:53:17.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:44:10.632Z
@@ -60,54 +60,3 @@ Paradoxical Recoil can be removed by:
 
 ## **DM Notes**  
 Paradoxical Recoil is best used as a **temporary affliction** to add tension, comedy, or narrative twists. It works well for cursed items, mischievous fey magic, or divine trickery from chaotic deities. The **Fate-Twinned Roll** ensures that at any moment, the player could experience something they **never expected—good or bad.**  
-
-# 1. The Balanced Path (Careful Mechanic)  
-📜 *For those who seek stability in an unpredictable world.*  
-
-## **Mechanic:**  
-- When rolling an **attack, ability check, or saving throw**, roll **two d20s**.  
-- Choose the result **closest to 10** (favoring the lower number in a tie).  
-
-## **Effect:**  
-- Reduces extreme **failures** and **successes**, keeping rolls near **the middle range (8-12)**.  
-- Perfect for **strategic, careful characters** who prefer **consistent results** over chaos.  
-- Makes **nat 1s and nat 20s far less likely**, ensuring fewer catastrophic failures.  
-
-## **Average Roll:**  
-- **Expected value: ~10.5** (compared to a standard d20 average of **10.5**).  
-- Rolls tend to **cluster around 8-12**, reducing variability.  
-
-## **Example:**  
-- You roll **a 5 and a 15** → You take **the 15** (closer to 10).  
-- You roll **a 3 and a 17** → You take **the 3** (closer to 10).  
-- You roll **a 10 and a 14** → You take **the 10** (exact middle).  
-
-🎭 *Best for: Strategic thinkers, scholars, monks, and those who fear the chaos of fate.*  
-
----
-
-# 2. The Path of Legends (Epic Mechanic)  
-🔥 *For those who embrace the extremes of fate.*  
-
-## **Mechanic:**  
-- When rolling an **attack, ability check, or saving throw**, roll **two d20s**.  
-- Choose the result **furthest from 10** (favoring the higher number in a tie).  
-
-## **Effect:**  
-- Increases the chance of **critical successes** *and* **catastrophic failures**.  
-- Ideal for **high-risk, high-reward** characters who **thrive on chaos**.  
-- Drastically **reduces middle-of-the-road rolls**—you either **soar or crash.**  
-
-## **Average Roll:**  
-- Rolls tend to **cluster around two peaks: 1-5 and 15-20**, avoiding middle values.  
-- **Split averages:**  
-  - **Lower half (1-10):** Expected average ~**4.5**  
-  - **Upper half (11-20):** Expected average ~**16.5**  
-
-## **Example:**  
-- You roll **a 5 and a 15** → You take **the 5** (furthest from 10).  
-- You roll **a 3 and a 17** → You take **the 17** (furthest from 10).  
-- You roll **a 10 and a 14** → You take **the 14** (higher of the tie).  
-
-⚡ *Best for: Wild warriors, reckless gamblers, chosen heroes, and those who defy fate itself.*  
-
