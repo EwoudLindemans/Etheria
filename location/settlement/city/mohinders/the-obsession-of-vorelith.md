@@ -2,13 +2,13 @@
 title: The Obsession of Vorelith
 description: 
 published: 1
-date: 2025-03-26T21:57:06.673Z
+date: 2025-03-26T21:57:24.064Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T21:57:06.673Z
 ---
 
-# Campaign Wiki: *The Obsession of Vorelith*
+# Story: *The Obsession of Vorelith*
 
 ## Overview
 *The Obsession of Vorelith* is a story-driven campaign where players assist a well-intentioned mage, Vorelith, in using a mysterious and dangerous realm called the **Dense** to resolve a growing conflict between two factions in the city of **Mohinders**. However, as the players help Vorelith, they slowly discover the consequences of meddling with such a volatile power, and they must reckon with the personal and city-wide disaster that unfolds. Along the way, Vorelith's obsession with the Dense becomes increasingly dangerous, and the players must decide whether to continue supporting him or to stop him before it’s too late.
