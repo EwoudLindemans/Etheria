@@ -2,7 +2,7 @@
 title: Xal Zyra
 description: 
 published: 1
-date: 2025-03-27T21:39:55.159Z
+date: 2025-03-27T21:42:59.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:34:30.611Z
@@ -13,7 +13,7 @@ dateCreated: 2025-03-27T21:34:30.611Z
 
 ![xalzyra.webp](/world/xalzyra.webp =500x)
 
-Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **the Dense**, Xal'Zyra teaches that all things move between states—**from light to dark, from one place to another, from ignorance to understanding**. It is neither a god of absolute knowledge nor of chaos, but of **navigation and adaptation**, helping those who step into the unknown.  
+Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **[the Dense](/i/10)**, Xal'Zyra teaches that all things move between states—**from light to dark, from one place to another, from ignorance to understanding**. It is neither a god of absolute knowledge nor of chaos, but of **navigation and adaptation**, helping those who step into the unknown.  
 
 Travelers, wanderers, and seekers of hidden truths revere Xal'Zyra, believing that its unseen hand grants safe passage **through the twisting corridors of reality**. For those who understand its ways, **the Dense is not a prison, but a gateway.**  
 
