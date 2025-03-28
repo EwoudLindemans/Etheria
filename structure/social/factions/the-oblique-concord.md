@@ -2,7 +2,7 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-21T20:54:26.795Z
+date: 2025-03-28T23:25:00.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
@@ -87,6 +87,10 @@ The Oblique Concord does not operate like a traditional guild with ranks and tit
 - **The Forgotten:** Individuals who have unknowingly worked for the Concord and had their memories altered. They serve as unknowing agents, acting upon suggestions placed in their minds long ago.  
 
 ---
+
+##
+[the_fall_of_king_vainglore.mp3](/music/the_fall_of_king_vainglore.mp3)
+[the_fall_of_king_vainglore.mp4](/music/the_fall_of_king_vainglore.mp4)
 
 ## Legacy & Fear  
 The Oblique Concord thrives not on power, but on the **belief in its power**. The moment someone believes they are being manipulated, they begin to question their own thoughts, their own decisions—**and that uncertainty is their greatest weapon.**  
