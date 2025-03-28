@@ -1,8 +1,8 @@
 ---
-title: Version E
+title: Deity
 description: 
 published: 1
-date: 2025-03-28T20:54:32.203Z
+date: 2025-03-28T20:55:07.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T08:04:44.894Z
