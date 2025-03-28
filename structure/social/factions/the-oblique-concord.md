@@ -2,7 +2,7 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-28T23:30:38.532Z
+date: 2025-03-28T23:48:10.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
@@ -89,7 +89,8 @@ The Oblique Concord does not operate like a traditional guild with ranks and tit
 ---
 
 ## The Fall of king vainglore
-<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/music/the_fall_of_king_vainglore.mp3">Your browser does not support the audio tag.</audio>
+
+<audio controls="1" controlslist="noplaybackrate" src="/music/the_fall_of_king_vainglore.mp3"></audio>
 
 ## Legacy & Fear  
 The Oblique Concord thrives not on power, but on the **belief in its power**. The moment someone believes they are being manipulated, they begin to question their own thoughts, their own decisions—**and that uncertainty is their greatest weapon.**  
