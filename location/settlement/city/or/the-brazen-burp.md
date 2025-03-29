@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-03-29T22:26:30.265Z
+date: 2025-03-29T23:00:51.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
@@ -68,7 +68,7 @@ Rumor says only Gundy knows the **ritual** to recreate it: a goblin, a drum solo
 No one drinks a fourth. No one *remembers* drinking a fourth.
 
 ## Reputation  
-Recognized by **Tankard Trekkers** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
+Recognized by **[Tankard Trekkers](/i/102)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
 
 Wanderers from **[Triz Valley](/i/24)**, **the Glimmering Ashenburrow**, and even a few **Iridian** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
 
