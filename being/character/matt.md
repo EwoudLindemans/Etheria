@@ -2,7 +2,7 @@
 title: Matt
 description: 
 published: 1
-date: 2025-03-18T22:46:57.757Z
+date: 2025-03-29T20:13:43.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T19:21:37.345Z
@@ -47,7 +47,7 @@ You’ll hear tales of how I lost my eye in battle, how I sailed under Captain O
 
 ---
 
-> ![Character Image](/path/to/image.webp)  
+> ![matt.png](/characters/matt.png)
 ># Matt "The Phantom Swashbuckler"  
 >---  
 >- **Medium Humanoid (Human), Chaotic Neutral**  
