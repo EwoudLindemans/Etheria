@@ -2,7 +2,7 @@
 title: Rusty Pluckers
 description: 
 published: 1
-date: 2025-03-29T23:28:50.356Z
+date: 2025-03-29T23:29:16.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:07:05.769Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-29T21:07:05.769Z
 
 | Band | Poster |
 | -- | -- |
-| ![rusty_pluckers.png](/world/rusty_pluckers.png =x500) | ![rusty_pluckers_poster.png](/world/rusty_pluckers_poster.png =x500)
+| ![rusty_pluckers.png](/world/rusty_pluckers.png =x500) | ![rusty_pluckers_poster.png](/world/rusty_pluckers_poster.png =x500) |
 
 
 
