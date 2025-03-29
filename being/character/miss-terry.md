@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T20:47:40.773Z
+date: 2025-03-29T20:55:49.101Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -36,132 +36,8 @@ Miss Terry is a natural force of music and mischief. When she sings, her voice f
 
 Yet, when she’s not performing, she moves through the tavern with unmatched energy, waiting tables, flirting shamelessly, and keeping the place in order with the authority of an adored yet untouchable queen.
 
-### Karmic Slap
-
-Miss Terry’s crowd favorite, *[Karmic Slap](/i/98)*, tells the tale of her own misadventures—coin theft, ill-fated flirts, risky gambles, and a legendary prank gone wrong. Each verse ends with poetic justice smacking her upside the head.  
-
-The song's rhythm is cheeky and bold, often accompanied by foot-stomps, table-knocks, and rowdy clapping. It’s performed with a wink, and usually leaves someone in the crowd nervously wondering if they’re next.
-
-<audio controls="1" controlslist="noplaybackrate" src="/music/karmic_slap_v2.mp3"></audio>
-<details>
-	<summary>Lyrics</summary>
-[Verse 1]
-Oh, gather ye 'round and hear my plight, 
-Of folly, fate, and misplaced might! 
-I swiped a coin, thought none would see, 
-But karma had a slap for me!
-
-[Chorus]
-The karmic slap, it comes around,
-One swift crack and down ye go!
-Think ye sly? Ye’ll kiss the ground,
-For justice loves a good back-blow!
-
-[Verse 2]
-I wooed a lad with words so sweet, 
-Swore my heart would ne’er retreat, 
-But just as I leaned in for a kiss, 
-His wife's slap said, "No, not like this!"
-
-[Chorus]
-Ohhh, the karmic slap, it comes around, 
-One swift crack and down ye go!
-Think ye sly? Ye’ll kiss the ground,
-For justice loves a good back-blow!
-
-[Verse 3]
-I wagered all on dice so bold, 
-Dreams of silver, dreams of gold! 
-But luck it laughed, the dice did sneer, 
-Now I owe more than I own, I fear!
-
-[Chorus]
-Ohhh, the karmic slap, it comes around,
-One swift crack and down ye go!
-Think ye sly? Ye’ll kiss the ground,
-For justice loves a good back-blow!
-
-[Verse 4]
-A trick I played, so sharp, so grand, 
-Tied me mate’s boots with cunning hand! 
-But as he tripped, he flailed ‘round wide, 
-And sent me tumbling on my backside!
-
-[Chorus Variation]
-Ohhh, the karmic slap, it comes around, 
-One swift crack and down ye go!
-And when ye finally hit the ground
-You'll meet with justices back-blow!
-
-[Outro]
-So raise a glass, heed well this song, 
-What ye give shall come along! 
-For every prank and every trick, 
-Karma’s got a slap that’s quick!
-
-Huzzah!
-</details>
-
-### Married to the pour
-
-<audio controls="1" controlslist="noplaybackrate" src="/music/miss_terry-married_to_the_pour.mp3"></audio>
-<details>
-	<summary>Lyrics</summary>
-[Verse 1]
-Oh, I work the tables, I pour the ale,
-I mop the floors and spin a tale.
-But three fine fools came struttin’ in,
-With grins as wide as a dragon’s sin.
-
-One was dashing, one was bold,
-One had pockets lined with gold.
-Each swore they’d steal my heart away,
-But I just laughed and made ‘em pay.
-
-[Chorus]
-So I poured ‘em a drink and I filled up their glasses,
-Let ‘em compete like a trio of asses.
-They bickered and bantered and begged me for more,
-But I’m only in love with the sound of the pour!
-
-[Verse 2]
-First one knelt with a rose in hand,
-Called me a goddess, oh so grand.
-But I’ve seen romance crash and burn,
-Like a wizard who missed his turn.
-
-Second one flexed, so strong and tall,
-Said he'd fight a bear to win my call.
-I told him, "Dear, that’s quite a feat,
-But first, can you clean up this spilled mead?"
-
-[Chorus]
-So I poured ‘em a drink and I filled up their glasses,
-Let ‘em compete like a trio of asses.
-They bickered and bantered and begged me for more,
-But I’m only in love with the sound of the pour!
-
-[Verse 3]
-Third one winked, all sly and smooth,
-Said he’d sing me a love-filled tune.
-But I write my own, you silly dove,
-And my favorite verse is "none above!"
-
-I thought, "Why choose? What a terrible bother!
-They flirted with me—let ‘em flirt with each other!"
-So I spun them round and set ‘em tight,
-And left ‘em dancing through the night!
-
-[Final Chorus]
-Now they pour drinks and they toast to my cunning,
-Caught in a tangle they never saw coming!
-While they sort out their love on the tavern floor,
-I’ll stay ever faithful… to my tankards and more!
-
-[Outro]
-So raise up your cups, let’s drink and let be,
-No love affair beats good company!
-For a heart may break, but one thing’s for sure—
-I’ll never stray from the call of the pour! 
-</details>
+| Title | Song | Description |
+| --- | --- | --- |
+| Karmic Slap | <audio controls="1" controlslist="noplaybackrate" src="/music/karmic_slap_v2.mp3"></audio> | Miss Terry’s crowd favorite, *[Karmic Slap](/i/98)*, tells the tale of her own misadventures—coin theft, ill-fated flirts, risky gambles, and a legendary prank gone wrong. Each verse ends with poetic justice smacking her upside the head. The song's rhythm is cheeky and bold, often accompanied by foot-stomps, table-knocks, and rowdy clapping. It’s performed with a wink, and usually leaves someone in the crowd nervously wondering if they’re next. <details><summary>Lyrics</summary>[Verse 1]<br />Oh, gather ye 'round and hear my plight, <br />Of folly, fate, and misplaced might! <br />I swiped a coin, thought none would see, <br />But karma had a slap for me!<br /><br />[Chorus]<br />The karmic slap, it comes around,<br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 2]<br />I wooed a lad with words so sweet, <br />Swore my heart would ne’er retreat, <br />But just as I leaned in for a kiss, <br />His wife's slap said, "No, not like this!"<br /><br />[Chorus]<br />Ohhh, the karmic slap, it comes around, <br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 3]<br />I wagered all on dice so bold, <br />Dreams of silver, dreams of gold! <br />But luck it laughed, the dice did sneer, <br />Now I owe more than I own, I fear!<br /><br />[Chorus]<br />Ohhh, the karmic slap, it comes around,<br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 4]<br />A trick I played, so sharp, so grand, <br />Tied me mate’s boots with cunning hand! <br />But as he tripped, he flailed ‘round wide, <br />And sent me tumbling on my backside!<br /><br />[Chorus Variation]<br />Ohhh, the karmic slap, it comes around, <br />One swift crack and down ye go!<br />And when ye finally hit the ground<br />You'll meet with justices back-blow!<br /><br />[Outro]<br />So raise a glass, heed well this song, <br />What ye give shall come along! <br />For every prank and every trick, <br />Karma’s got a slap that’s quick!<br /><br />Huzzah!</details>|
+|Married to the pour|<audio controls="1" controlslist="noplaybackrate" src="/music/miss_terry-married_to_the_pour.mp3"></audio>|<details>	<summary>Lyrics</summary>[Verse 1]<br />Oh, I work the tables, I pour the ale,<br />I mop the floors and spin a tale.<br />But three fine fools came struttin’ in,<br />With grins as wide as a dragon’s sin.<br /><br />One was dashing, one was bold,<br />One had pockets lined with gold.<br />Each swore they’d steal my heart away,<br />But I just laughed and made ‘em pay.<br /><br />[Chorus]<br />So I poured ‘em a drink and I filled up their glasses,<br />Let ‘em compete like a trio of asses.<br />They bickered and bantered and begged me for more,<br />But I’m only in love with the sound of the pour!<br /><br />[Verse 2]<br />First one knelt with a rose in hand,<br />Called me a goddess, oh so grand.<br />But I’ve seen romance crash and burn,<br />Like a wizard who missed his turn.<br /><br />Second one flexed, so strong and tall,<br />Said he'd fight a bear to win my call.<br />I told him, "Dear, that’s quite a feat,<br />But first, can you clean up this spilled mead?"<br /><br />[Chorus]<br />So I poured ‘em a drink and I filled up their glasses,<br />Let ‘em compete like a trio of asses.<br />They bickered and bantered and begged me for more,<br />But I’m only in love with the sound of the pour!<br /><br />[Verse 3]<br />Third one winked, all sly and smooth,<br />Said he’d sing me a love-filled tune.<br />But I write my own, you silly dove,<br />And my favorite verse is "none above!"<br /><br />I thought, "Why choose? What a terrible bother!<br />They flirted with me—let ‘em flirt with each other!"<br />So I spun them round and set ‘em tight,<br />And left ‘em dancing through the night!<br /><br />[Final Chorus]<br />Now they pour drinks and they toast to my cunning,<br />Caught in a tangle they never saw coming!<br />While they sort out their love on the tavern floor,<br />I’ll stay ever faithful… to my tankards and more!<br /><br />[Outro]<br />So raise up your cups, let’s drink and let be,<br />No love affair beats good company!<br />For a heart may break, but one thing’s for sure—<br />I’ll never stray from the call of the pour! <br /></details>
 
