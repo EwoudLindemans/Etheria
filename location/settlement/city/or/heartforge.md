@@ -2,7 +2,7 @@
 title: Heartforge
 description: 
 published: 1
-date: 2025-03-28T23:47:47.121Z
+date: 2025-03-29T18:44:26.782Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 The Heartforge is a legendary furnace carved deeply underground on top of [The Armour of Or](/i/12), the largest and most deeply excavated of Etheria’s magical scales, within the dwarven stronghold of [The City of Or](/i/11). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/i/65) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
 
-![the_heart_of_or.jpg](/world/the_heart_of_or.jpg =500x)
+![heartforge_v2.png](/world/heartforge_v2.png =500x)
 
 ## Structure and Design
 The Heartforge is a towering edifice of two teardrop shaped stones laced with red veins from the Armour of Or. Standing next to each other it looks like a heart, Its central chamber channels the Scale's rhythmic energy through fissures lined with Rune's that pulse with resonance. Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
