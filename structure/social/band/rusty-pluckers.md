@@ -2,7 +2,7 @@
 title: Rusty Pluckers
 description: 
 published: 1
-date: 2025-03-29T21:37:57.403Z
+date: 2025-03-29T22:14:20.886Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:07:05.769Z
@@ -10,44 +10,46 @@ dateCreated: 2025-03-29T21:07:05.769Z
 
 # The Rusty Pluckers
 
-## Overview
-The Rusty Pluckers are a ragtag band of retired adventurers-turned-musicians, known for their wildly enthusiastic performances and deep-seated love for tavern music. Though their pay is meager, their passion is boundless, and they have made their home at one of the finest taverns in **The City of Or**. The band provides background music, accompanies performances, and occasionally steals the spotlight with their own legendary songs.
+*A legendary tavern band known for their enthusiasm, talent, and occasional chaos.*
 
 ![rusty_pluckers_poster.png](/world/rusty_pluckers_poster.png =x500)
 
+## Overview
+The Rusty Pluckers are the **in-house band of [The Brazen Burp](/i/99)**, a renowned establishment in **[The City of Or](/i/11)**. Once adventurers, they traded weapons for instruments and found their true calling in music. Their performances are a mix of raw talent, unpredictable antics, and deep-rooted camaraderie. Though they perform solo, they are also known as the **unofficial backing band for [Miss Terry](/i/100)**, the jolly Tiefling bard. Their collaboration has led to the band promoting itself as **"Miss Terry and The Rusty Pluckers"**, an unexpected fusion that attracts crowds from opposite ends of the musical spectrum.
+
+Bogrum the Booming shares an especially close friendship with the tavern keep, a man of few words but keen observation. Their bond runs deep, forged over years of shared tales, brawls, and an endless supply of ale. The Rusty Pluckers are as much a part of the tavern’s foundation as its worn wooden beams, their music echoing through its halls night after night.
+
 ## Band Members
 
-### **Bogrum the Booming**
-- **Role:** Percussionist, Business Manager, Songwriter
-- **Instruments:** Any percussion and related instruments, including **glockenspiel, bones and barrels, tambourine, and his favorite—the triangle.**
-- **Background:** A former war drummer, Bogrum’s rhythmic skills were once used to lead battalions into battle. After meeting Sparky (then known as Grak’tul Vriz Zik’kak) in the army, he decided that music was his true calling. Together, they left the military and began their journey as musicians.
-- **Legacy:** Bogrum is the creator of the **Brazen Brew**, a fiery concoction of whiskey, cider, gin, stout beer, and (animal) blood. His chaotic past also led him to write **“The Battle of The Brazen Burp”**, a ballad about an infamous tavern brawl that ended in unexpected friendship and the invention of the drink itself.
-- **Personality:** A charismatic and loud half-orc with a keen business sense, he ensures that the Rusty Pluckers remain well-fed and comfortably settled in their tavern home.
+### **Bogrum the Booming** *(Percussion, Composer, Business Mind)*
+Bogrum, a half-orc percussionist, has a natural talent for hitting anything that makes a sound—**bones, barrels, tambourines, glockenspiels**, and, most importantly, his **beloved triangle**. Despite his carefree demeanor, he possesses a **sharp business mind**, ensuring that the band remains financially afloat. He is the **inventor of the infamous Brazen Brew**, a concoction both feared and revered by the bravest drinkers. His composition *The Battle of the Brazen Burp* immortalized a legendary tavern brawl, forever tying the band’s identity to the chaos and merriment of The Brazen Tavern.
 
-### **Mugrum the Muted**
-- **Role:** Bassist, Background Grunter, Poet
-- **Instruments:** Any bass instruments, pipes, horns
-- **Background:** Larger than most half-orcs, Mugrum served in the military alongside his brother but struggled with the horrors of war. A deeply sensitive soul, he found solace in music and poetry, secretly writing under a pseudonym. Despite being misunderstood as slow-witted, he is highly intelligent and has even developed his own language of deep, resonant grunts.
-- **Personality:** Quiet, introverted, and always impeccably dressed in a dusty formal suit with a bowtie. He rarely makes eye contact and speaks mostly in murmurs, relying on Bogrum to translate for him. Despite his reserved nature, his musical talent is undeniable, and his contributions to the band's sound are invaluable.
+### **Mugrum the Muted** *(Bass, Horns, Pipes, Background Vocals, Poet)*
+The towering, silent force behind the band, Mugrum, is known for his **deep, resonant background grunts**, a sound so rhythmic it borders on a secret language. He rarely speaks, instead murmuring cryptic phrases that his younger brother Bogrum translates. Dressed in an **elegant but perpetually dusty suit**, he exudes an air of quiet mystery. He is a **secret poet**, likely publishing under a pseudonym, and a skilled musician who plays **bass instruments, horns, and pipes**. Mugrum is also learning to play the violin, instructed by Sparky.
 
-### **Grak’tul Vriz Zik’kak (a.k.a. Sparky)**
-- **Role:** Instrumentalist, Tinkerer, Musical Innovator
-- **Instruments:** Various experimental gnomish and goblin-crafted musical devices, traditional lutes, and honky-tonk piano
-- **Background:** A goblin with a comically long gray beard, Sparky is known for his endless pursuit of musical invention. His past in the army alongside Bogrum led him to abandon warfare in favor of crafting instruments nobody asked for—but everyone receives for free. He was the first performer to experiment with **lightning-powered lutes and synthetic key harmonicas.**
-- **Nickname:** Despite insisting on being called by his full name, he has resigned (for artistic reasons) to being called *Sparky*—a name inspired by his habit of electrifying instruments rather than his actual name.
-- **Personality:** Chaotic but brilliant, he constantly tinkers with new sounds and techniques, much to the exasperation of tavern patrons who never know what strange noise might come from his latest creation.
+### **Sparky (Grak’tul Vriz Zik’kak)** *(Strings, Inventor, Tinkerer)*
+Grak’tul Vriz Zik’kak, whose name translates to **"Past the Shadow, a Spark,"** is a goblin with a **comically long gray beard** that many assume is fake (it is not). His name is **infamously difficult to pronounce**, and most people cannot remember its full translation. He is highly particular about being addressed properly, yet, ironically, has **embraced the name "Sparky"**—not because it relates to his real name, but because of his **lightning-magic experiments** on musical instruments. Over time, he has come to **wear the name with pride**, reclaiming it as an identity of his own choosing.
 
-## The Band’s History
-The Rusty Pluckers started as an accidental venture. Bogrum and Sparky met in the army, where their combined musical talents turned their unit into a force both feared and bewildered by their opponents. However, war was not for them, especially for Mugrum, who found it too emotionally taxing. Together, they left military life behind and took up music full-time.
+Sparky is an **eccentric inventor**, constantly modifying instruments with experimental magic. He was the **first to create lightning-powered lutes** and **synthetic key harmonicas**, though he is just as happy playing **the off-key piano in The Brazen Burp**. His musical innovations have shaped his legacy, though his most recent prototype tends to either inspire awe or set something on fire.
 
-Their first gigs were at **Ogre food festivals**, performing covers of traditional drinking songs with such enthusiasm that they became regular entertainment at such events. Between festivals, they took up the path of **Tankard Trekkers**—adventurers who travel the world in search of legendary drinks and pubs. Their travels eventually led them to **The City of Or**, where they stumbled upon their true home: the finest tavern they had ever played in.
+### **Miss Terry** *(Honorary Guest Singer, Bard Extraordinaire)*
+[Miss Terry](/i/100), the **jolly Tiefling bard**, is an honorary guest singer with The Rusty Pluckers. Though their roles shift between her joining them as a featured act or them backing her performance, their chemistry on stage is undeniable. She is a masterful performer whose soulful voice and theatrical flair **contrast beautifully with The Rusty Pluckers' raw, chaotic energy**. Together, they form an **unlikely but captivating fusion**, drawing music lovers of all backgrounds.
 
-They never left.
+## Band History
+The Rusty Pluckers began as a **cover band** performing at **Ogre food festivals**, filling their time between gigs as amateur **Tankard Trekkers**. Their search for the world’s greatest taverns ended when they stumbled upon **The Brazen Tavern**, a place they have **never left since**. Over time, they evolved into more than just a band; they became an integral part of the tavern’s legend. Their performances are filled with **boisterous laughter, heartfelt ballads, and the occasional magical mishap**.
 
-## The Band’s Influence
-Despite their low wages, The Rusty Pluckers are beloved by tavern-goers, adventurers, and traveling performers alike. Their music provides a welcoming atmosphere, and their songs—often full of humor and wild storytelling—have taken on lives of their own.
+Bogrum and Sparky first met during their time in the **military**, fighting side by side in a battle neither was truly fit for. Sparky, already known for his experimental ways, was a tinkerer even then, looking for any excuse to take apart weapons and turn them into something that made a sound. Bogrum, on the other hand, had developed a keen sense of rhythm and a powerful drumming style that demanded attention. It didn’t take long for them to become fast friends. When they both deserted the army—Bogrum tired of the violence and Sparky too sensitive for the harsh environment—they decided to pursue their true passions: music.
 
-Their influence extends beyond music; **the Brazen Brew**, invented by Bogrum, became a top choice among **Tankard Trekkers**, solidifying their place in the legendary drinking culture of the land.
+The two ex-soldiers started off performing at **Ogre food festivals**, a unique gig where they found their footing as an impromptu **cover band**. As they traveled from one festival to the next, they became amateur **Tankard Trekkers**, testing out new drinks and seeking out the best taverns to play in. Their journey ultimately led them to The Brazen Tavern, a place they fell in love with almost immediately. The tavern’s ambiance, patrons, and the tavern keep’s loyalty to their music were enough to keep them in one place. They have stayed ever since, honing their skills and earning a reputation that has only grown with the years.
 
-## Legacy
-The Rusty Pluckers are more than just a tavern band. They are a living, breathing part of the culture of **The City of Or**. Whether through Sparky’s bizarre inventions, Mugrum’s poetic grunts, or Bogrum’s booming enthusiasm, they have left a permanent mark on those who enter their tavern’s doors.
+## Reputation
+The Rusty Pluckers are a **beloved act** among adventurers, tavern-goers, and musical oddballs alike. Their performances range from **beautifully executed melodies** to **chaotic, drunken disasters**, yet somehow, their charm remains intact. Their collaboration with Miss Terry has elevated them to new heights, bringing together a community of misfits and music lovers. Insulting The Rusty Pluckers in The Brazen Tavern is **a guaranteed way to start a fight**, though the band themselves prefer to let their music speak for them.
+
+## Band Members & Instruments
+
+| Member  | Instruments  |
+|---------|--------------|
+| **Bogrum the Booming** | Percussion, bones, barrels, tambourines, glockenspiels, triangle |
+| **Mugrum the Muted** | Bass, horns, pipes, violin (learning) |
+| **Sparky (Grak’tul Vriz Zik’kak)** | Strings, experimental instruments, piano |
+| **Miss Terry (Honorary)** | Vocals |
