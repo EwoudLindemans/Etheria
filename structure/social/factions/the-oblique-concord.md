@@ -2,7 +2,7 @@
 title: The Oblique Concord
 description: 
 published: 1
-date: 2025-03-29T19:49:59.580Z
+date: 2025-03-29T19:50:24.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
@@ -31,34 +31,6 @@ He did not command. He did not recruit. Instead, he planted an idea:
 The idea spread like wildfire among those who already walked in the shadows. Soon, messages were passed through coded letters. Techniques were shared through anonymous correspondences. And slowly, what had once been scattered individuals became something more—a network, an understanding, an unseen force.
 
 And so, the Oblique Concord was born. Not from power, nor ambition, nor divine decree. But from a series of small, quiet rebellions—each unnoticed on its own, yet unstoppable together.
-
-```mermaid
-graph TD
-  A[The Oblique Concord] --> B1[The Art of Influence]
-  A --> B2[The Unseen Hand]
-  A --> B3[The Vanishing Truth]
-  A --> C[Hierarchy & Roles]
-
-  %% Influence Branch
-  B1 --> B1a[Social Engineering & Profiling]
-  B1 --> B1b[Dream Manipulation & Sensory Conditioning]
-  B1 --> B1c[Misinformation & Perception Management]
-
-  %% Unseen Hand Branch
-  B2 --> B2a[Controlled Coincidences]
-  B2 --> B2b[Whisper Networks & False Omens]
-  B2 --> B2c[Pre-Arranged Miracles & Curses]
-
-  %% Vanishing Truth Branch
-  B3 --> B3a[Memory Disruption & Self-Doubt]
-  B3 --> B3b[Erasure of Evidence]
-
-  %% Hierarchy
-  C --> C1[The Voices]
-  C --> C2[The Whisperers]
-  C --> C3[The Veiled Hands]
-  C --> C4[The Forgotten]
- ```
 
 
 ## 1. The Art of Influence: Shaping Minds Without a Trace  
