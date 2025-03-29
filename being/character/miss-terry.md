@@ -2,21 +2,29 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T19:42:12.366Z
+date: 2025-03-29T19:47:12.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
 ---
 
-# Miss Terry (Mystery)
-Bar(d)maid
+# Miss Terry
+**Bar(d)maid of Trouble and Tune — Serving Ale with a Side of Irony**
 
-![miss_terry_cartoon.webp](/characters/miss_terry_cartoon.webp =300x)
+![miss_terry_cartoon.webp](/characters/miss_terry_cartoon.webp =500x)
 
-# Songs:
 
-## Karmic Slap
-Miss Terry, a mischievous tiefling, lived for tricks and trouble. She stole a coin—then slipped and fell. She flirted with a taken lad only to be slapped by his wife mid-kiss. A dice gamble left her broke, and a prank ended with her in a barrel. In the end, [Karmic Slap](/i/98) had her dancing to its beat.
+Miss Terry, often called “Mystery” by those slurring their words too hard to get it right, is a mischievous tiefling barmaid with a sharp wit and an even sharper tongue. She works the taproom at the Rusty Keg in Triz Valley, where rumor says she once talked a drunk troll out of eating a halfling by challenging him to a drinking contest—and winning.
+
+## 🎵 Songs
+
+Equal parts bard and barmaid, she sings as easily as she serves. Most assume her songs are tall tales until they realize every verse hides a lesson, a truth, or a veiled warning. Her eyes are always watching, and many a schemer has found themselves the butt of her next performance. Miss Terry has a past, sure, but she’ll only reveal it in rhymes—and only after you've bought her three drinks.  
+
+### Karmic Slap
+
+Miss Terry’s crowd favorite, *[Karmic Slap](/i/98)*, tells the tale of her own misadventures—coin theft, ill-fated flirts, risky gambles, and a legendary prank gone wrong. Each verse ends with poetic justice smacking her upside the head.  
+
+The song's rhythm is cheeky and bold, often accompanied by foot-stomps, table-knocks, and rowdy clapping. It’s performed with a wink, and usually leaves someone in the crowd nervously wondering if they’re next.
 
 <audio controls="1" controlslist="noplaybackrate" src="/music/karmic_slap_v2.mp3"></audio>
 <details>
