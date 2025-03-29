@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-03-29T22:17:24.547Z
+date: 2025-03-29T22:26:30.265Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
@@ -22,7 +22,7 @@ The entire structure leans slightly to the left—either due to decades of singi
 **Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **Council of Or**, but traded politics for pints.
 
 ## The Rusty Pluckers  
-The tavern's infamous house band [the rusty pluckers](/i/101), composed of **three half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
+The tavern's infamous house band [The Rusty Pluckers](/i/101), composed of **three half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
 
 ## Notable Regulars  
 - **Miss Terry** – Tiefling bard, **heartbreaker and harmony-bringer**. Wields a lute and sarcasm with equal flair.  
