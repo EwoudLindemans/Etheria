@@ -2,14 +2,14 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T20:03:57.124Z
+date: 2025-03-29T20:04:24.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
 ---
 
 # Miss Terry
-**Bar(d)maid of Trouble and Tune — Serving Ale with a Side of Irony**
+**The Enigma of the Brazen Burp**
 
 ![miss_terry_cartoon.webp](/characters/miss_terry_cartoon.webp =500x)
 
