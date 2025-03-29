@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T20:04:24.679Z
+date: 2025-03-29T20:47:40.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -100,5 +100,68 @@ For every prank and every trick,
 Karma’s got a slap that’s quick!
 
 Huzzah!
+</details>
+
+### Married to the pour
+
+<audio controls="1" controlslist="noplaybackrate" src="/music/miss_terry-married_to_the_pour.mp3"></audio>
+<details>
+	<summary>Lyrics</summary>
+[Verse 1]
+Oh, I work the tables, I pour the ale,
+I mop the floors and spin a tale.
+But three fine fools came struttin’ in,
+With grins as wide as a dragon’s sin.
+
+One was dashing, one was bold,
+One had pockets lined with gold.
+Each swore they’d steal my heart away,
+But I just laughed and made ‘em pay.
+
+[Chorus]
+So I poured ‘em a drink and I filled up their glasses,
+Let ‘em compete like a trio of asses.
+They bickered and bantered and begged me for more,
+But I’m only in love with the sound of the pour!
+
+[Verse 2]
+First one knelt with a rose in hand,
+Called me a goddess, oh so grand.
+But I’ve seen romance crash and burn,
+Like a wizard who missed his turn.
+
+Second one flexed, so strong and tall,
+Said he'd fight a bear to win my call.
+I told him, "Dear, that’s quite a feat,
+But first, can you clean up this spilled mead?"
+
+[Chorus]
+So I poured ‘em a drink and I filled up their glasses,
+Let ‘em compete like a trio of asses.
+They bickered and bantered and begged me for more,
+But I’m only in love with the sound of the pour!
+
+[Verse 3]
+Third one winked, all sly and smooth,
+Said he’d sing me a love-filled tune.
+But I write my own, you silly dove,
+And my favorite verse is "none above!"
+
+I thought, "Why choose? What a terrible bother!
+They flirted with me—let ‘em flirt with each other!"
+So I spun them round and set ‘em tight,
+And left ‘em dancing through the night!
+
+[Final Chorus]
+Now they pour drinks and they toast to my cunning,
+Caught in a tangle they never saw coming!
+While they sort out their love on the tavern floor,
+I’ll stay ever faithful… to my tankards and more!
+
+[Outro]
+So raise up your cups, let’s drink and let be,
+No love affair beats good company!
+For a heart may break, but one thing’s for sure—
+I’ll never stray from the call of the pour! 
 </details>
 
