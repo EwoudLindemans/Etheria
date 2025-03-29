@@ -2,7 +2,7 @@
 title: Tankard Trekkers
 description: 
 published: 1
-date: 2025-03-29T23:03:13.794Z
+date: 2025-03-29T23:04:58.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T22:59:43.792Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-29T22:59:43.792Z
 
 # Tankard Trekker 🍻  
 *Licensed Alebound Adventurer*
+
+![tankard-tracker.png](/professions/tankard-tracker.png =500x)
 
 ## Overview  
 Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across Etheria in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/i/11), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
