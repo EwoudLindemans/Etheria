@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T20:02:11.101Z
+date: 2025-03-29T20:03:57.124Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -13,14 +13,13 @@ dateCreated: 2025-03-29T19:39:09.285Z
 
 ![miss_terry_cartoon.webp](/characters/miss_terry_cartoon.webp =500x)
 
-Few names in The City of Or carry as much simultaneous reverence and bewilderment as Miss Terry, the jolly Tiefling bard of the Brazen Burp. She is often called “Mystery” by those slurring their words too hard to get it right.
+Few names in The City of Or carry as much simultaneous reverence and bewilderment as Miss Terry, the jolly Tiefling bard of the Brazen Burp. She is often called “Mystery” by those slurring their words too hard to get it right. To call her simply a performer would be a grave understatement—she is the heart of the tavern, the spark that keeps its fire burning, and the unsolvable riddle that keeps its regulars guessing.
 
-To call her simply a performer would be a grave understatement—she is the heart of the tavern, the spark that keeps its fire burning, and the unsolvable riddle that keeps its regulars guessing.
+Among the Brazen Burp’s regulars, Miss Terry is a revered figure. Many an outsider has learned that any insult directed at her will earn  a reputation so tarnished that no tavern in The City of Or will serve them again. Yet, for all their fierce loyalty, Miss Terry needs no protection. Those who mistake her for helpless quickly find themselves on the receiving end of a sharp tongue, sharper wit, and if needed, a perfectly thrown tankard. Still, she humors her self-appointed guardians, accepting their watchful eyes with a knowing smirk. After all, a queen must have her devoted subjects.
+
+She occasionaly works the taproom at the Rusty Keg in Triz Valley.
 
 ## The Eternal Mystery
-Among the Brazen Burp’s regulars, Miss Terry is a revered figure. Many an outsider has learned that any insult directed at her will earn  a reputation so tarnished that no tavern in The City of Or will serve them again. Yet, for all their fierce loyalty, Miss Terry needs no protection. Those who mistake her for helpless quickly find themselves on the receiving end of a sharp tongue, sharper wit, and if needed, a perfectly thrown tankard.
-
-Still, she humors her self-appointed guardians, accepting their watchful eyes with a knowing smirk. After all, a queen must have her devoted subjects.
 
 Miss Terry’s origins are a topic of heated debate among patrons, and she enjoys nothing more than fueling the confusion. To the curious, she spins a new tale each time:
 - She was born from the tear of a lovestruck god.
@@ -32,12 +31,10 @@ Miss Terry’s origins are a topic of heated debate among patrons, and she enjoy
 Despite all her antics, Miss Terry remains an unsolved riddle, and she seems perfectly content that way. If there is a grand truth behind her ever-changing tales, it is likely hidden within a song, woven between the notes of a melody only she truly understands. And perhaps, just perhaps, that’s exactly how she wants it. Whatever the truth may be, she never confirms nor denies anything outright—she only winks and pours another drink.
 
 
-## The Bard and the Mystery Songs 🎵 
+## The Joyfull Bard 🎵 
 Miss Terry is a natural force of music and mischief. When she sings, her voice fills the Brazen Burp without the need for any unnatural amplification—carrying through roaring laughter and clinking tankards with a clarity that commands attention. Whether backed by The Rusty Pluckers, the tavern’s ever-enthusiastic half-orc band, or taking the stage alone with nothing but a sly grin and a flick of her tail, she turns even the most hardened drinker into a swaying, sentimental fool. Most assume her songs are tall tales until they realize every verse hides a lesson, a truth, or a veiled warning. Her eyes are always watching, and many a schemer has found themselves the butt of her next performance.
 
 Yet, when she’s not performing, she moves through the tavern with unmatched energy, waiting tables, flirting shamelessly, and keeping the place in order with the authority of an adored yet untouchable queen.
-
-She occasionaly works the taproom at the Rusty Keg in Triz Valley.
 
 ### Karmic Slap
 
