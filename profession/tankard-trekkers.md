@@ -2,13 +2,13 @@
 title: Tankard Trekkers
 description: 
 published: 1
-date: 2025-03-29T23:04:58.936Z
+date: 2025-03-29T23:05:04.978Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T22:59:43.792Z
 ---
 
-# Tankard Trekker 🍻  
+# Tankard Trekker
 *Licensed Alebound Adventurer*
 
 ![tankard-tracker.png](/professions/tankard-tracker.png =500x)
