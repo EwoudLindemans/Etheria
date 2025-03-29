@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-03-20T19:37:49.189Z
+date: 2025-03-29T17:27:39.593Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -10,6 +10,8 @@ dateCreated: 2022-01-24T11:47:02.222Z
 
 # The City of Or
 Not long after [The Collapse](/i/17), an opportunistic dwarf named [Or Flatstone](/i/13) gathered a band of miners and started digging and hewing beneath the white scales of what is now called The Armour of Or. The [Mines of Or](/i/20) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the [Flatstone Family](#).
+
+![the_city_of_or.png](/world/the_city_of_or_v2.png =500x)
 
 ## Harthrûn Metallurgy "The Dwarven Craft"
 [Harthrûn Metallurgy](/i/65) or Heartscale Runemagic Metallurgy in full is a Dwarven craftsmanship that has always been renowned, but under the vast influence and resonance of [The Armor of Or](/i/12) it has achieved unparalleled craftmanship. The [Core Heat](/i/12) from the scale allows dwarves to craft magical alloys that are imbued with elemental powers and arcane properties, beyond anything previously possible. The magical properties embedded in the alloys include fire resistance, earth manipulation, and the ability to channel arcane energies.
@@ -53,4 +55,3 @@ Present day, the Great Dwarven [Flatstone Family](#) is the richest family on al
 ## Story
 The truth is that Karath Flatstone has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
 
-![the_city_of_or.png](/world/the_city_of_or.png =800x)
