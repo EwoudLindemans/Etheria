@@ -2,7 +2,7 @@
 title: Armour of Or
 description: 
 published: 1
-date: 2025-03-18T22:25:33.742Z
+date: 2025-03-29T17:01:35.275Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T13:04:42.273Z
@@ -25,4 +25,5 @@ The deep connection between the scale and the planet’s core causes a faint but
 - Surrounding Lands are Mostly Tundra and are made vertile using magic
 - Beneath the Armour of Or you find [The City of Or](/i/11) 
 
-![armour-of-or.png](/world/armour-of-or.png)
+
+![armour-of-or.png](/world/armour-of-or-v2.png)
