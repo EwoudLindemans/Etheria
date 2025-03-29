@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-03-29T19:20:01.675Z
+date: 2025-03-29T22:15:46.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
@@ -11,15 +11,15 @@ dateCreated: 2025-03-29T19:20:01.675Z
 # The Brazen Burp  
 *A Legendary Tavern in [The City of Or](/i/11)*
 
-Nestled along the cobbled edge of **Stonegut Row**, just beyond the Heartforge's residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **[planar misalignment](/i/10)**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
+Nestled along the cobbled edge of **Stonegut Row**, just beyond the Heartforge's residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
 ## Ambience & Appearance  
-Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **[Flatstone Family](/i/11)** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.
+Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **Flatstone Family** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.
 
-The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/i/10)** test nearby.
+The entire structure leans slightly to the left—either due to decades of singing or a botched **Density Calibrator** test nearby.
 
 ## Gundric "Gundy" Alebrow  
-**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/i/11)**, but traded politics for pints.
+**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **Council of Or**, but traded politics for pints.
 
 ## The Rusty Pluckers  
 The tavern's infamous house band, composed of **three half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
@@ -68,9 +68,9 @@ Rumor says only Gundy knows the **ritual** to recreate it: a goblin, a drum solo
 No one drinks a fourth. No one *remembers* drinking a fourth.
 
 ## Reputation  
-Recognized by **[Tankard Trekkers](/i/19)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
+Recognized by **Tankard Trekkers** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
 
-Wanderers from **[Triz Valley](/i/24)**, **[the Glimmering Ashenburrow](/i/11)**, and even a few **[Iridian](/i/19)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
+Wanderers from **[Triz Valley](/i/24)**, **the Glimmering Ashenburrow**, and even a few **Iridian** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
 
 ## Notes
 
