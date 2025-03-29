@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-03-29T23:00:51.814Z
+date: 2025-03-29T23:33:43.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
@@ -48,17 +48,16 @@ Held **every other moonrise**, these chaotic performances are hosted by Miss Ter
 
 ## The Brazen Brew  
 
-### Origins  
-Forged during the **Battle of the Brazen Burp**, a night involving five brawls, one love confession, and a goblin swinging from the chandelier. Ingredients were spilled, blended, and **accidentally consecrated** in a moment of synchronized belching.  
+### Origins & Ingredients
+The infamous Brazen Brew was first concocted in a moment of chaotic inspiration by a younger, wilder Bogrum the Booming during a particularly violent brawl. The drink’s origins lie in the legendary Battle of The Brazen Burp, where a night of chaos, fists, and flying chairs led to the accidental mixing of:
 
-Contains:
-- Whiskey, for false wisdom  
-- Cider, for smooth lies  
-- Gin, for inner chaos  
-- Stout, for gravity  
-- A dash of **who-knows-what** from a bloodied boot  
+- Whiskey (for wisdom, ironically)
+- Cider (for sweetness, deceptively)
+- Gin (for madness, obviously)
+- Stout beer (for fortitude, questionably)
+- Animal blood (for reasons lost to history)
 
-Rumor says only Gundy knows the **ritual** to recreate it: a goblin, a drum solo, and a good kick to the barrel.
+By the time the brawl ended, those still conscious raised their mugs in unity and discovered they had created a drink so potent it blurred the lines between friendship, bravery, and terrible decision-making.
 
 ### Effects  
 - One mug: **Temporary courage and impaired logic**  
