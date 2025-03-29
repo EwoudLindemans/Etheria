@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-29T19:39:09.285Z
+date: 2025-03-29T19:42:12.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -16,7 +16,7 @@ Bar(d)maid
 # Songs:
 
 ## Karmic Slap
-Miss Terry, a mischievous tiefling, lived for tricks and trouble. She stole a coin—then slipped and fell. She flirted with a taken barmaid—only to be punched mid-kiss. A dice gamble left her broke, and a prank ended with her in a barrel. In the end, [Karmic Slap](/i/98) had her dancing to its beat.
+Miss Terry, a mischievous tiefling, lived for tricks and trouble. She stole a coin—then slipped and fell. She flirted with a taken lad only to be slapped by his wife mid-kiss. A dice gamble left her broke, and a prank ended with her in a barrel. In the end, [Karmic Slap](/i/98) had her dancing to its beat.
 
 <audio controls="1" controlslist="noplaybackrate" src="/music/karmic_slap_v2.mp3"></audio>
 <details>
@@ -36,8 +36,6 @@ For justice loves a good back-blow!
 [Verse 2]
 I wooed a lad with words so sweet, 
 Swore my heart would ne’er retreat, 
-But just as I leaned in for a kiss, 
-His wife's slap said, "No, not like this!"
 But just as I leaned in for a kiss, 
 His wife's slap said, "No, not like this!"
 
