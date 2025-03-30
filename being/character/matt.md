@@ -2,7 +2,7 @@
 title: Matt & Bubbles
 description: 
 published: 1
-date: 2025-03-29T20:14:21.502Z
+date: 2025-03-30T00:20:25.230Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T19:21:37.345Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-18T19:21:37.345Z
 
 # Matt "The Phantom Swashbuckler"  
 *"A ship is only as loyal as its crew… and a crew is only as loyal as the gold in their pockets."*  
+
+![matt.png](/characters/matt.png =x500)
 
 ## Origins & Legend  
 Born and raised in the Pirate’s Cove, Matt never knew his parents. Instead, he was taken in by Pale Rupert, a notorious rogue known as "The Shadow," who taught him the art of deception, agility, and survival. At 11, Matt was hired by Captain Omar, serving under him for decades until a brutal sea battle changed everything.  
@@ -47,7 +49,6 @@ You’ll hear tales of how I lost my eye in battle, how I sailed under Captain O
 
 ---
 
-> ![matt.png](/characters/matt.png)
 ># Matt "The Phantom Swashbuckler"  
 >---  
 >- **Medium Humanoid (Human), Chaotic Neutral**  
