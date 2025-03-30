@@ -2,7 +2,7 @@
 title: Nokk the Brave
 description: 
 published: 1
-date: 2025-03-29T20:13:03.524Z
+date: 2025-03-30T00:06:52.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-18T13:31:39.616Z
 
 # Nokk, The Pandemonium’s Chosen
 *"Magic should be free, wild, and powerful. Just… not in my hands. Seriously, get behind cover."*
+
+![nokk.webp](/characters/nokk.webp =500x)
 
 ## Origins & Legend  
 Legends speak of a sorcerer whose magic bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with magic—it was thrust upon him in a moment of chaotic fate when he swallowed a **Gleamtail Jack**, a fish infused with the power of the Elemental Chaos. 
@@ -107,7 +109,6 @@ I *hope* he can’t reach me. But I don’t really know.
 I’m **scared.**  
 
 
-> ![nokk.webp](/characters/nokk.webp)
 ># Nokk
 >---  
 >- **Medium Humanoid (Vedalken), Chaotic Good**  
