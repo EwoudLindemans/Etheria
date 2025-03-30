@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-19T21:05:40.432Z
+date: 2025-03-30T00:32:06.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -84,9 +84,6 @@ Crack's are formed between continents they lead into a place called [The Dense](
 [Mountains of Triz](/i/23)
 [The Desert of the Rendishing Night](#)
 
-## Wars
-
-
 ## Fruits
 #### Liabilaberry
 Makes the user extremely dependent on Liabilaberry's its considered to be the most delicious fruit on the lands. These fruits are considered rare.
@@ -97,62 +94,7 @@ Make your own berries:
 https://www.thefreedictionary.com/words-that-end-in-ility
 
 ### To be determined
-The Unborn -> 
-	- Benúron
-	
-Unthroned
-
-Begroth
-Wylfur
-Bolsar
-Aelfar
-Kiora
-Vivoon Vivána Vivón
-Nystea Nestea Nysti
-Umpera
-Allorei Aldorei
-Olmeron
-Dricanis Drisána
-Asara
-Myphos
-Calana Calanis
-Elseif
-Lomoria
-Osillon Ostillion
-Iarus
-Klakkon
-Promikus
-Schjet
-Mohinder
-Triz
-Dando
-Mos
-Céis
-Culan
-Baté
-Arrís
-Eldeviér
-
-Herlet	
-Primorians
-Authorians
-Ancestrians
-Unbornians
-Titanians
-
-Cosmotials
-Authorirals
-Ancestrials
-Infinials
-Unbornials
-Titanials
-
-Celestians 
-Primeostials 
-Cosmocrat  
-Authorian
-The Unborn
-Infinities
+The Unborn -> Benúron
 
 **NPC’s**
 [Nokk](#)
