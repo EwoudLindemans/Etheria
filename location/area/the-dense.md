@@ -2,7 +2,7 @@
 title: The Dense
 description: 
 published: 1
-date: 2025-03-30T20:55:27.382Z
+date: 2025-03-30T20:57:08.846Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-22T23:54:57.171Z
@@ -11,7 +11,11 @@ dateCreated: 2022-01-22T23:54:57.171Z
 # The Dense
 The Dense is an enigmatic and treacherous realm in Etheria, a compressed space "crammed between here and there," where the fabric of reality twists into impossible forms. All travel across Etheria inevitably intersects with the Dense at some point, whether by design or misfortune. Within this realm, space is squeezed at an extraordinary ratio of 1:500—one foot outside equates to 500 feet inside—creating a sprawling, perilous expanse hidden within tight boundaries. This compression doubles the perceived weight of everything, as if gravity presses down twice as hard, making every movement a struggle.
 
-![the_dense.png](/world/the_dense.png =500x)
+|Dense|Denselings|
+|---| ---|
+|![the_dense.png](/world/the_dense.png =500x)|![denselings.png](/world/denselings.png =500x)|
+
+
 
 ## Deity Xal'Zyra, the Veil Between  
 **Deity of the Dense, Shadows, and Passage**  
