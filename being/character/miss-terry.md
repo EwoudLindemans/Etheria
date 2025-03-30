@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-30T00:18:01.248Z
+date: 2025-03-30T00:18:23.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -35,7 +35,7 @@ Miss Terry is a natural force of music and mischief. When she sings, her voice f
 
 Yet, when she’s not performing, she moves through the tavern with unmatched energy, waiting tables, flirting shamelessly, and keeping the place in order with the authority of an adored yet untouchable queen.
 
-## The Album of two Songs
+## The Album of three Songs
 | Title | Song | Description |
 | --- | --- | --- |
 | Karmic Slap | <audio controls="1" controlslist="noplaybackrate" src="/music/karmic_slap_v2.mp3"></audio> | Miss Terry’s crowd favorite, *[Karmic Slap](/i/98)*, tells the tale of her own misadventures—coin theft, ill-fated flirts, risky gambles, and a legendary prank gone wrong.<details><summary>Lyrics</summary>[Verse 1]<br />Oh, gather ye 'round and hear my plight, <br />Of folly, fate, and misplaced might! <br />I swiped a coin, thought none would see, <br />But karma had a slap for me!<br /><br />[Chorus]<br />The karmic slap, it comes around,<br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 2]<br />I wooed a lad with words so sweet, <br />Swore my heart would ne’er retreat, <br />But just as I leaned in for a kiss, <br />His wife's slap said, "No, not like this!"<br /><br />[Chorus]<br />Ohhh, the karmic slap, it comes around, <br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 3]<br />I wagered all on dice so bold, <br />Dreams of silver, dreams of gold! <br />But luck it laughed, the dice did sneer, <br />Now I owe more than I own, I fear!<br /><br />[Chorus]<br />Ohhh, the karmic slap, it comes around,<br />One swift crack and down ye go!<br />Think ye sly? Ye’ll kiss the ground,<br />For justice loves a good back-blow!<br /><br />[Verse 4]<br />A trick I played, so sharp, so grand, <br />Tied me mate’s boots with cunning hand! <br />But as he tripped, he flailed ‘round wide, <br />And sent me tumbling on my backside!<br /><br />[Chorus Variation]<br />Ohhh, the karmic slap, it comes around, <br />One swift crack and down ye go!<br />And when ye finally hit the ground<br />You'll meet with justices back-blow!<br /><br />[Outro]<br />So raise a glass, heed well this song, <br />What ye give shall come along! <br />For every prank and every trick, <br />Karma’s got a slap that’s quick!<br /><br />Huzzah!</details>|
