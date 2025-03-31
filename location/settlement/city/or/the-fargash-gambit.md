@@ -2,7 +2,7 @@
 title: The Fargash Gambit
 description: 
 published: 1
-date: 2025-03-31T20:54:14.479Z
+date: 2025-03-31T21:09:49.022Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T20:54:14.479Z
@@ -14,7 +14,10 @@ dateCreated: 2025-03-31T20:54:14.479Z
 The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the **[Council of Or](/i/18)**. It marked a pivotal moment in Etherian diplomacy and solidified [Or's](/i/11) reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
 
 ## Prelude
-The conflict in question, known in later records as *The Split War*, was a bloody, years-long engagement fought far from the [Armour of Or](/i/12), but close enough to draw attention:
+
+
+
+The conflict in question, known in later records as the *Clash at Ironwake Hold*, was a bloody, years-long engagement fought far from the [Armour of Or](/i/12), but close enough to draw attention:
 
 - An alliance of **Orcs, Goblins, and Men**, driven by resource pressure and territorial expansion.
 - A coalition of **Elves, Halflings, and Men**, aiming to protect sacred ancestral grounds near latent scale formations.
