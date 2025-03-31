@@ -2,7 +2,7 @@
 title: The Dense
 description: 
 published: 1
-date: 2025-03-31T18:17:28.281Z
+date: 2025-03-31T18:44:07.115Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-22T23:54:57.171Z
@@ -36,13 +36,19 @@ A canvas of forgotten constellations—breathing. Watching. Waiting.
 ## A Place of Impossible Space
 The Dense defies logic. A single step might span a mile within its borders, yet escape remains elusive as the realm folds inward like a snare. Strange flora thrives in its shadows—twisted plants and fungi, some glowing with faint luminescence, others laced with deadly poison. The wildlife is ravenous, eager to consume anything that stirs, from hulking beasts to hapless travelers. Safe passage is unknown; the Dense is a domain of danger and death, not to be underestimated. Those who enter must tread carefully, for touching or eating the wrong thing could spell doom.
 
-Among its denizens are the Denselings, dangerous creatures adapted to the Dense’s crushing weight and warped distances—some venomous, others simply voracious. The Etherials, spectral entities native to this realm, are most common here, though they appear elsewhere in Etheria. Their flickering forms haunt the Dense, adding to its eerie peril.
+Among its denizens are the [Denselings](/i/105), dangerous creatures adapted to the Dense’s crushing weight and warped distances—some venomous, others simply voracious. The Etherials, spectral entities native to this realm, are most common here, though they appear elsewhere in Etheria. Their flickering forms haunt the Dense, adding to its eerie peril.
 
 ## Fragments of the Dense
 The Dense’s influence extends beyond its primary expanse. Certain pockets, like The Glimmering Ashenburrow in the City of Or, demonstrate how fragments of this compressed space can be tamed. In such places, reality bends inward, creating havens where space and time stretch unpredictably—though these are exceptions, not the rule.
 
 ## The Denseshifters: Masters of Transitorium Densae
 Only the Denseshifters, an elite order of mages, dare to master the Dense’s impossible expanse through the art of Transitorium Densae—the Passage of the Dense. These practitioners shift through the realm’s compressed vastness with uncanny speed and precision, folding its 500-to-1 distances into fleeting moments of travel. Their skill is a marvel, but it comes at great risk.
+
+### Known Locations
+- [The Scholar’s Rift](/i/46) a magical hub access only by those with magical ability's. It's a place of study, where knowledge, power, and resonance converge. [The Rift Gate](/i/51) used to access this location was accidentaly created by [Nokk](/i/78).
+- [The Glimmering Ashenburrow](/i/58) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/i/59) a device made by [Poppy Handyleaf](/i/43). shaping it into a home where compressed space became a gift rather than a curse. 
+
+A gateway that exists in the Dense at The Scholar’s Rift, this swirling portal is a mystery, when passed it may lead to  when passed through leading Etheria
 
 ### The Ritual of Shifting
 To perform their art, Denseshifters undertake a meticulous ritual:
