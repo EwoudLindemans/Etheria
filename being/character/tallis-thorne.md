@@ -2,7 +2,7 @@
 title: Tallis Thorne
 description: Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
 published: 1
-date: 2025-03-31T19:57:54.343Z
+date: 2025-03-31T20:15:41.147Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
@@ -136,3 +136,17 @@ Although it is hard to decide which of his many works shine out the most, here's
 
 > *“History is a performance. I simply make it sound better.”*  
 > — Tallis Thorne, at every festival ever
+
+## Relations
+### Miss Terry - Friend
+When Tallis and  [Miss Terry](/i/100) share a stage, the air crackles like a duet between thunder and silk.
+
+What Tallis Says About Miss Terry:
+"Ah, Miss Terry. The only performer who can upstage me—when I let her."
+— Tallis Thorne, adjusting his collar for the fourth time mid-interview.
+
+"She once ended a duel with a pun so sharp, my blade felt inadequate."
+— Tallis, sighing dramatically.
+
+"If she ever admits I taught her anything, I’ll write a whole ballad about honesty. Until then, I assume she just learned from watching me."
+— Tallis, during a joint performance rehearsal.
