@@ -2,7 +2,7 @@
 title: The Dense
 description: 
 published: 1
-date: 2025-03-30T21:18:22.146Z
+date: 2025-03-31T18:02:35.364Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-22T23:54:57.171Z
@@ -13,7 +13,8 @@ The Dense is an enigmatic and treacherous realm in Etheria, a compressed space "
 
 |Dense|Denselings|||
 | --- | --- | --- | --- |
-|![the_dense.png](/world/the_dense.png =500x)|![denselings.png](/world/denselings.png =500x)|![the_dense.png](/world/the_dense_red.png =500x)|![denselings.png](/world/the_dense_rift.png =500x)|
+|![the_dense.png](/world/the_dense.png =500x)|![denselings.png](/world/denselings.png =500x)|![the_dense.png](/world/the_dense_red.png =500x)|
+|![the_dense_trees.png](/world/the_dense_trees.png =500x)|![the_dense_deity.png](/world/the_dense_deity.png =500x)|![denselings.png](/world/the_dense_rift.png =500x)
 
 
 
