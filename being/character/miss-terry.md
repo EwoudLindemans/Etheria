@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-03-31T20:10:54.186Z
+date: 2025-03-31T20:11:03.686Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -43,7 +43,7 @@ Yet, when she’s not performing, she moves through the tavern with unmatched en
 |A Coin for a Tale, a Kiss for the Ale|<audio controls="1" controlslist="noplaybackrate" src="/music/miss_terry-a_coin_for_a_tale_a_kiss_for_the_ale.mp3"></audio>|A mischievous bard spins wild, drunken lore, trading songs for coins and dancing for more. With charm, chaos, and tales tall as ale, she toasts to the truth found in every tall tale!<details><summary>Lyrics</summary>[Verse 1]<br />Oh the fire’s warm and the night is bold,<br />And my purse is light but my heart is gold!<br />With a wink and a laugh, I’ll spin you a yarn,<br />Of goblins who danced through a moonlit barn!<br /><br />[Chorus]<br />So toss me a coin, I’ll sing you a song,<br />If it’s shiny and loud, I might dance along!<br />A coin for a tale, a kiss for the ale,<br />And luck to the fool who believes in the frail!<br /><br />[Verse 2]<br />There once was a troll who juggled two pigs,<br />Till a pixie bet him he'd dance in wigs!<br />He twirled and he tripped in a tutu of foam,<br />Now he runs the bathhouse we call our home!<br /><br />[Chorus]<br />So toss me a coin, I’ll sing you a song,<br />If it’s shiny and loud, I might dance along!<br />A coin for a tale, a kiss for the ale,<br />And cheers to the lies that we tell when we’re pale!<br /><br />[Bridge - Storytelling]<br />aise your mugs, my devils and dears,<br />For love that was lost and returned with beers!<br />No heroes tonight—just jesters and thieves,<br />And a barmaid with horns and tricks up her sleeves!<br /><br />[Final Chorus]<br />So toss me a coin, I’ll sing you a song,<br />If it’s shiny and loud, I might dance along!<br />A coin for a tale, a kiss for the ale,<br />And a toast to the tales that’ll never grow stale!<br /><br />[Outro]<br />One more round or I’ll curse your boots!<br />(Just kidding... mostly!) Now drink, you brutes!</details>
 
 ## Relationships
-### Tallis Thorne (Friend)
+### Tallis Thorne - Friend
 They’ve shared stages, scandals, and suspiciously similar fan mail. Their relationship is equal parts bardic rivalry and deep-rooted camaraderie, filled with jabs, jests, and heartfelt admiration.
 
 What Miss Terry Says About [Tallis](/i/105):
