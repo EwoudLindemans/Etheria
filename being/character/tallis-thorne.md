@@ -2,7 +2,7 @@
 title: Tallis Thorne
 description: Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
 published: 1
-date: 2025-03-31T19:57:24.736Z
+date: 2025-03-31T19:57:54.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
@@ -13,7 +13,6 @@ dateCreated: 2025-03-31T09:25:15.203Z
 
 > “History is best told by those who made it, and I—modestly—made most of it worth telling.”*  
 > — **Tallis Thorne**, in *An Autobiography So Good It Wrote Itself*
-{.dnd}
 
 Tallis Thorne is a flamboyant, eloquent, and *unreasonably* talented bard whose name echoes across taverns, courts, battlefields, and (most importantly) love letters. Draped in colourful cloaks of whisper-silk and armed with a quill sharper than most swords, Tallis is both revered and reviled for his gift of embellishment, his golden voice, and his *objectively accurate* retellings of history—where he often plays a *key* (if not central) role.
 
@@ -137,4 +136,3 @@ Although it is hard to decide which of his many works shine out the most, here's
 
 > *“History is a performance. I simply make it sound better.”*  
 > — Tallis Thorne, at every festival ever
-{.dnd}
