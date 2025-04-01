@@ -2,7 +2,7 @@
 title: Anemostrus
 description: 
 published: 1
-date: 2025-03-18T22:52:51.332Z
+date: 2025-04-01T22:29:46.620Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T23:47:45.557Z

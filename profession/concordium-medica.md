@@ -2,7 +2,7 @@
 title: The Concordium Medica
 description: 
 published: 1
-date: 2025-03-23T21:31:53.209Z
+date: 2025-04-01T22:30:13.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:31:51.678Z
@@ -49,7 +49,7 @@ A **sigil of fire** is placed upon the healed—a brand of **glowing infernal sc
 ### **3. Oath of Neutrality – The Bound Hands (Life-Threatening Wounds)**  
 *"If I am to heal you, you must swear to harm no more than balance allows."*  
 
-For **mortal wounds, death’s edge, and irreversible damage**, the healed must **swear an Oath of Neutrality**—ensuring they do not **tip [the scales](/location/landmark/scale/the-scales) of power unjustly**.  
+For **mortal wounds, death’s edge, and irreversible damage**, the healed must **swear an Oath of Neutrality**—ensuring they do not **tip the scales of power unjustly**.  
 
 - A warlord **healed by the Concordium** must **withdraw from battle** for a time equal to their recovery.  
 - A noble **restored to life** must vow **never to use their second chance for vengeance**.  

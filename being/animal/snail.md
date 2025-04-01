@@ -2,7 +2,7 @@
 title: Snail
 description: 
 published: 1
-date: 2025-03-20T19:04:29.300Z
+date: 2025-04-01T22:44:35.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T21:56:56.552Z

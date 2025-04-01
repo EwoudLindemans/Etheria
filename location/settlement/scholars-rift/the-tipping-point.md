@@ -2,18 +2,18 @@
 title: The Tipping Point
 description: 
 published: 1
-date: 2025-04-01T22:45:23.897Z
+date: 2025-04-01T22:29:11.076Z
 tags: 
 editor: markdown
-dateCreated: 2025-04-01T22:45:22.394Z
+dateCreated: 2025-03-05T00:12:14.041Z
 ---
 
 # The Tipping Point (Tavern & Social Hub)
-The only place in The Scholar’s Rift where [magic](/structure/mechanic/magic) is *strongly discouraged* (mostly because of past incidents that resulted in singed furniture and at least one liquefied bartender).  
+The only place in The Scholar’s Rift where magic is *strongly discouraged* (mostly because of past incidents that resulted in singed furniture and at least one liquefied bartender).  
 Run by the ever-patient and slightly terrifying **Maera Greaves**, The Tipping Point serves as a gathering spot for students, Resonants, and Scalespeakers alike.  
 
 - The name is fitting—many students leave **tipping over**, whether from drink, exhaustion, or a poorly-timed spell.
-- The drinks are strong, the food is questionably edible, and the debates about [magic](/structure/mechanic/magic) are *louder than necessary*.  
+- The drinks are strong, the food is questionably edible, and the debates about magic are *louder than necessary*.  
 - The walls are enchanted to *auto-repair* after fights, a necessity after the infamous **"Fireball Happy Hour"** incident.  
 
 Despite being a neutral ground, The Tipping Point remains an essential location for stress relief, networking, and overhearing gossip that *probably* should have stayed secret.  

@@ -2,12 +2,11 @@
 title: Harg & Pibble
 description: 
 published: 1
-date: 2025-03-29T23:54:36.565Z
+date: 2025-04-01T22:30:30.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T23:54:35.079Z
 ---
-
 
 | Before Philosotankard | Existential Dread |
 | -- | -- |
