@@ -17,7 +17,7 @@ It began with a single act of mischief—one that should have been forgotten.
 
 A scribe, weary of his lord’s greed, changed a single number in the tax records. Not enough to be noticed, but just enough to ensure a starving village received a reprieve from crushing levies. He expected nothing to come of it except his own dismissal, but instead, the village thrived. With a single winter’s mercy, they grew strong enough to defend themselves from raiders. Their gratitude never found its way to him, but it didn’t need to. He had seen what a well-placed lie could do.
 
-The story spread—not as a name, nor a [legend](/being/deity/legend), but as a whisper. A merchant, hearing of the scribe’s quiet defiance, did something similar. He made a clerical error in a debtor’s account, erasing a sum that had bound a struggling craftsman in servitude. That craftsman went on to form a guild that broke the monopolies of corrupt nobles.
+The story spread—not as a name, nor a [legend](/being/deity/legend.md), but as a whisper. A merchant, hearing of the scribe’s quiet defiance, did something similar. He made a clerical error in a debtor’s account, erasing a sum that had bound a struggling craftsman in servitude. That craftsman went on to form a guild that broke the monopolies of corrupt nobles.
 
 A guard, hearing that story, made a different choice. One night, instead of arresting a known agitator, he looked the other way. The agitator went on to inspire a rebellion—not a war, but a peaceful, bloodless movement that changed the laws of the land.
 

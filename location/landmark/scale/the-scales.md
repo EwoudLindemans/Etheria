@@ -10,14 +10,14 @@ dateCreated: 2022-01-24T16:16:26.728Z
 
 # The Scales
 
-A scale it the leftover protective armour of the creature known as [Irion](/being/deity/irion). After [The Collapse](/structure/chronological/event/the-collapse) the creatures scales embedded itself in the planet. They stick out of the planet in all sorts of orientations.
+A scale it the leftover protective armour of the creature known as [Irion](/being/deity/irion.md). After [The Collapse](/structure/chronological/event/the-collapse.md) the creatures scales embedded itself in the planet. They stick out of the planet in all sorts of orientations.
 
 ## Facts
 - All of the great five scales are protected.
 
 ## Rumours
 - There are people that have claimed to have found more scales. Since there are many people who make these claims (Mainly to lure travelers to their lands). Effords of checking these claims have subsided.
-- It is commenly believed that the creature [Irion](/being/deity/irion) could be a dragon. Although this has not been confirmed. The scales do have a slight resemblance.
+- It is commenly believed that the creature [Irion](/being/deity/irion.md) could be a dragon. Although this has not been confirmed. The scales do have a slight resemblance.
 
 
 ## Different Properties

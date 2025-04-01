@@ -9,23 +9,23 @@ dateCreated: 2025-03-29T19:20:01.675Z
 ---
 
 # The Brazen Burp  
-*A Legendary Tavern in The [City of Or](/location/settlement/city/city-of-or)*
+*A Legendary Tavern in The [City of Or](/location/settlement/city/city-of-or.md)*
 
-Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge](/location/settlement/city/or/heartforge)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
+Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge](/location/settlement/city/or/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
 ## Ambience & Appearance  
 Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **Flatstone Family** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.
 
-The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator)** test nearby.
+The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator.md)** test nearby.
 
 ## Gundric "Gundy" Alebrow  
-**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/or/council-of-or)**, but traded politics for pints.
+**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/or/council-of-or.md)**, but traded politics for pints.
 
 ## The Rusty Pluckers  
-The tavern's infamous house band The [Rusty Pluckers](/structure/social/band/rusty-pluckers), composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
+The tavern's infamous house band The [Rusty Pluckers](/structure/social/band/rusty-pluckers.md), composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
 
 ## Notable Regulars  
-- **[Miss Terry](/being/character/miss-terry)** – Tiefling bard, **heartbreaker and harmony-bringer**. Wields a lute and sarcasm with equal flair.  
+- **[Miss Terry](/being/character/miss-terry.md)** – Tiefling bard, **heartbreaker and harmony-bringer**. Wields a lute and sarcasm with equal flair.  
 - **Grimsa Ironfist** – Elder dwarf, **twice widowed**, drinks only **Heartfire Reserve** and can arm-wrestle trolls.  
 - **Harg & Pibble** – Known for their **drunken debates** on the philosophical nature of doors, identity, and whether time itself is just a hiccup.  
 - **The Quiet Lot** – Mysterious, silent youths who always show up on **Open Talent Nights**, clap politely, and vanish.
@@ -36,13 +36,13 @@ The tavern's infamous house band The [Rusty Pluckers](/structure/social/band/rus
 Some claim the tavern sprang into existence when a drunken wizard tried to **conjure an ale mug that never empties**. Instead, the spell supposedly birthed a tavern that only closes when Gundy nods.
 
 ### The “Or” Theory  
-Locals insist that **The [City of Or](/location/settlement/city/city-of-or)** earned its name from the infamous bar debate closer: “Is it truth… **or**?”
+Locals insist that **The [City of Or](/location/settlement/city/city-of-or.md)** earned its name from the infamous bar debate closer: “Is it truth… **or**?”
 
 ### Dueling to Drinking  
 Built on the foundation of an old **dueling hall**, the Burp allegedly turned its violence into **competitive drinking matches**, forging peace through ale (and concussions).
 
 ## Open Talent Night  
-Held **every other moonrise**, these chaotic performances are hosted by [Miss Terry](/being/character/miss-terry), backed by the Pluckers. Tales abound of spontaneous fame, lifelong humiliation, and one **accidental summoning of a spectral chicken**.
+Held **every other moonrise**, these chaotic performances are hosted by [Miss Terry](/being/character/miss-terry.md), backed by the Pluckers. Tales abound of spontaneous fame, lifelong humiliation, and one **accidental summoning of a spectral chicken**.
 
 **Most legendary night?** When Gundy entered Harg & Pibble without their consent. Their seated, slurred debate on "the opposite of victory" won them first place—and a barrel of **Brazen Brew** they never remember claiming.
 
@@ -67,12 +67,12 @@ By the time the brawl ended, those still conscious raised their mugs in unity an
 No one drinks a fourth. No one *remembers* drinking a fourth.
 
 ## Reputation  
-Recognized by **[Tankard Trekkers](/profession/tankard-trekkers)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
+Recognized by **[Tankard Trekkers](/profession/tankard-trekkers.md)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
 
-Wanderers from **[Triz Valley](/location/settlement/city/triz-valley)**, **the Glimmering [Ashenburrow](/location/settlement/city/ashenburrow)**, and even a few **[Iridian](/being/species/iridian)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
+Wanderers from **[Triz Valley](/location/settlement/city/triz-valley.md)**, **the Glimmering [Ashenburrow](/location/settlement/city/ashenburrow.md)**, and even a few **[Iridian](/being/species/iridian.md)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
 
 ## Notes
 
-**The Brazen Burp** remains a cornerstone of **Or’s** cultural identity, where laughter battles sorrow nightly, and no one questions why the walls occasionally hum in harmony with the [Rusty Pluckers](/structure/social/band/rusty-pluckers).
+**The Brazen Burp** remains a cornerstone of **Or’s** cultural identity, where laughter battles sorrow nightly, and no one questions why the walls occasionally hum in harmony with the [Rusty Pluckers](/structure/social/band/rusty-pluckers.md).
 
 Raise your tankard. Just maybe not a third time.

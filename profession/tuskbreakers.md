@@ -28,14 +28,14 @@ The Tuskbreakers see themselves as his inheritors. While he may have slowed, the
 ## The Ways of the Tuskbreakers  
 
 ### Unearthing the Relics  
-Tuskbreakers brave the depths of crumbling ruins, bone-ridden battlefields, and fossil-laden caverns. These sites, steeped in history, still hum with the energies of [the collapse](/structure/chronological/event/the-collapse). The colossal remains they recover—great tusks, thick vertebrae, and petrified claws—serve as the raw material for their art.  
+Tuskbreakers brave the depths of crumbling ruins, bone-ridden battlefields, and fossil-laden caverns. These sites, steeped in history, still hum with the energies of [the collapse](/structure/chronological/event/the-collapse.md). The colossal remains they recover—great tusks, thick vertebrae, and petrified claws—serve as the raw material for their art.  
 
 A Tuskbreaker does not merely dig for fossils. They tear them from the earth. Shovels are for the weak—Tuskbreakers use warhammers, bare fists, and ritual axes to break open the past and expose its lingering might.  
 
 ### Cleansing and Carving  
 Once recovered, the fossils are purified using enchanted resins, sacred orcish water, and brute force. The Tuskbreaker shapes the remains through intense physical labor—chiseling, hammering, and breaking them into the perfect form.  
 
-Unlike dwarves, who refine and polish, or elves, who delicately weave their [magic](/structure/mechanic/magic), orcish Tuskbreakers embrace raw, untamed craftsmanship. They believe that fossils hold power in their natural state, needing only the right amount of force to awaken their full potential.  
+Unlike dwarves, who refine and polish, or elves, who delicately weave their [magic](/structure/mechanic/magic.md), orcish Tuskbreakers embrace raw, untamed craftsmanship. They believe that fossils hold power in their natural state, needing only the right amount of force to awaken their full potential.  
 
 ### Fossil Infusion & the Ritual of War  
 The final step is infusion, where the Tuskbreaker awakens the relic’s true potential.  
@@ -44,7 +44,7 @@ The final step is infusion, where the Tuskbreaker awakens the relic’s true pot
 Most Tuskbreakers conduct a totem ritual, marking the ground with blood and battle-ashes while chanting ancient war cries. They do not merely imbue their artifacts with power—they drown them in war and violence, ensuring each relic is born of battle and ready to shatter armor, bone, and spirit alike.  
 
 #### **Fizzlemancy**  
-Some modern variants of the craft deviate from traditional methods, turning to a Fizzlemancer and letting them imbue the fossil artifact with [magic](/structure/mechanic/magic), resulting in unpredictable, yet often devastating effects.  
+Some modern variants of the craft deviate from traditional methods, turning to a Fizzlemancer and letting them imbue the fossil artifact with [magic](/structure/mechanic/magic.md), resulting in unpredictable, yet often devastating effects.  
 
 ## Signature Creations of the Tuskbreakers  
 
@@ -66,6 +66,6 @@ A petrified vertebra reformed into a gauntlet, amplifying the wearer’s strengt
 ## The Role of a Tuskbreaker  
 Tuskbreakers are more than craftsmen—they are warriors, breakers, and shapers of power. To wield the work of a Tuskbreaker is to carry the strength of the ancients, bound and reforged through brute force and orcish will.  
 
-Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace [Fizzlemancy](/profession/fizzlemancy), bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
+Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace [Fizzlemancy](/profession/fizzlemancy.md), bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
 
-Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  
+Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse.md). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  

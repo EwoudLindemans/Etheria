@@ -9,7 +9,7 @@ dateCreated: 2022-01-25T19:16:27.603Z
 ---
 
 # The Mountains of Triz
-Locally known as Mountains of Trizefal is a mountain range near the city of [Triz Valley](/location/settlement/city/triz-valley). The mountains of Triz contains a labyrinth of tunnels. Known to be the [home](/home) of several goblin tribes, trolls and other mountain dwelling creatures.
+Locally known as Mountains of Trizefal is a mountain range near the city of [Triz Valley](/location/settlement/city/triz-valley.md). The mountains of Triz contains a labyrinth of tunnels. Known to be the [home](/home.md) of several goblin tribes, trolls and other mountain dwelling creatures.
 
 ## Tunnels
 There are many tunnels inside the mountains of Triz, and without a guide or a keen sense of direction, one is certain to get lost. These tunnels possibly formed by lava flows. It is believed that the mountains of Triz are volcanic in nature, although there are no known occurences of any volcanic activity in the area.
@@ -22,8 +22,8 @@ There are many goblin tribes and villages in the Mountains of Triz, ranging from
 A nomadic tribe, famous for their deathly traps.
 
 ## The Passage of Or
-Dwarves from the [City of Or](/location/settlement/city/city-of-or) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/location/settlement/city/triz-valley) for many years. Work on the tunnels has been slow in recent years.
+Dwarves from the [City of Or](/location/settlement/city/city-of-or.md) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/location/settlement/city/triz-valley.md) for many years. Work on the tunnels has been slow in recent years.
 
 ## Notable events
-- [Or Flatstone](/location/settlement/city/or/or-flatstone) and his band are amongst the first to have found a passage through the Mountains of Triz.
-- [Gorgrath the Brute](/location/settlement/city/or/gorgrath-the-brute) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/location/settlement/city/or/or-flatstone).
+- [Or Flatstone](/location/settlement/city/or/or-flatstone.md) and his band are amongst the first to have found a passage through the Mountains of Triz.
+- [Gorgrath the Brute](/location/settlement/city/or/gorgrath-the-brute.md) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/location/settlement/city/or/or-flatstone.md).

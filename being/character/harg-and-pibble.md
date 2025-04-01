@@ -19,7 +19,7 @@ dateCreated: 2025-03-29T23:54:35.079Z
 
 Hi Harg, Hi Pibble
 
-To call Harg a drunk would be to miss the point entirely—he is a philosopher of the highest disorder, a bard of unspoken sorrows, a sage of suds. He is thickset and warm like a half-soggy hearthrug, eyes sparkling with clarity despite the ale-soaked fog he lives in. His cloak was once a curtain, his shoes were once his neighbor’s, and his seat at [the Brazen Burp](/location/settlement/city/or/the-brazen-burp) might as well be nailed to the floor.
+To call Harg a drunk would be to miss the point entirely—he is a philosopher of the highest disorder, a bard of unspoken sorrows, a sage of suds. He is thickset and warm like a half-soggy hearthrug, eyes sparkling with clarity despite the ale-soaked fog he lives in. His cloak was once a curtain, his shoes were once his neighbor’s, and his seat at [the Brazen Burp](/location/settlement/city/or/the-brazen-burp.md) might as well be nailed to the floor.
 
 He believes deeply in the importance of “gut-thinkin’,” and treats each sip of ale as a ritualistic uncovering of truth. Sometimes those truths are brilliant. Sometimes they are SPLORP. And always, Harg insists the opposite of a thing is rarely what you think it is.
 
@@ -58,4 +58,4 @@ Some say they are touched by a scale.
 Others say they are cursed by one.
 
 But everyone agrees:
-They make [the Brazen Burp](/location/settlement/city/or/the-brazen-burp) feel like [home](/home).
+They make [the Brazen Burp](/location/settlement/city/or/the-brazen-burp.md) feel like [home](/home.md).

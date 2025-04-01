@@ -10,13 +10,13 @@ dateCreated: 2025-03-11T21:35:30.530Z
 
 # The Codex of the Heartflame
 
-A Master’s Guide to [Harthrûn Metallurgy](/profession/harthrûn-metallurgy) and the Rite of the Heartflame
+A Master’s Guide to [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md) and the Rite of the Heartflame
 
 By Durngar Coalmantle, Grand Heartsmith of Or
 
 ## Foreword
 
-If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/location/settlement/city/or/heartforge) itself. [Harthrûn Metallurgy](/profession/harthrûn-metallurgy) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic) and metal, the weaving of rune and rhythm, the shaping of [Etheria](/etheria)’s breath into form.
+If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/location/settlement/city/or/heartforge.md) itself. [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic.md) and metal, the weaving of rune and rhythm, the shaping of [Etheria](/etheria.md)’s breath into form.
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 
@@ -28,7 +28,7 @@ Heed my words well, for what follows is the sacred process of Rûnhark, Thrumvok
 
 The process begins with the selection of the ore, a choice not made lightly, for each stone carries its own voice and purpose. The raw Scaleforged Ore—whether Veilsteel, Titanstone, or some rarer alloy—must be placed upon the Veil Anvil, untouched by mortal hands so that it does not absorb an errant soul’s rhythm. A Veilsteel Chisel, etched with the Deep Words, is then taken in hand, and with deliberate strokes, the Rûnhark Runes are carved into its surface. The markings must align with the forge’s Aurorhythmic Resonance; any misalignment warps the ore’s essence beyond repair.
 
-As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, not muttered, but spoken—a voice strong and clear, woven with intent. A true Heartsmith does not merely recite; he commands. If the words ring true, the ore shall hum in response, shifting faintly as its slumbering [magic](/structure/mechanic/magic) stirs. But if the stone crumbles into lifeless shards, the failure is clear—either the runes were misaligned, or the Heartsmith’s voice lacked conviction. The process must begin anew.
+As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, not muttered, but spoken—a voice strong and clear, woven with intent. A true Heartsmith does not merely recite; he commands. If the words ring true, the ore shall hum in response, shifting faintly as its slumbering [magic](/structure/mechanic/magic.md) stirs. But if the stone crumbles into lifeless shards, the failure is clear—either the runes were misaligned, or the Heartsmith’s voice lacked conviction. The process must begin anew.
 
 ## Thrumvok – The Binding of the Heartflame
 
@@ -40,11 +40,11 @@ Now comes the moment of true binding. The Heartsmith stands before the roaring f
 
 ”Deep flows the fire, strong beats the heart,Stone wakes to the forge, light guides its art.”
 
-As the words are spoken, the ore begins to shift, drawing in the planar energy of the [Heartforge](/location/settlement/city/or/heartforge). The runes flicker like embers, absorbing the power that will give the metal its final form. The moment the glow stabilizes, the ore must be withdrawn; too soon, and it remains brittle, too late, and it overdraws, fracturing from within. If the metal dims upon withdrawal, the binding has failed. The forge rejects the work, and the chant must be recalibrated before the attempt is made again.
+As the words are spoken, the ore begins to shift, drawing in the planar energy of the [Heartforge](/location/settlement/city/or/heartforge.md). The runes flicker like embers, absorbing the power that will give the metal its final form. The moment the glow stabilizes, the ore must be withdrawn; too soon, and it remains brittle, too late, and it overdraws, fracturing from within. If the metal dims upon withdrawal, the binding has failed. The forge rejects the work, and the chant must be recalibrated before the attempt is made again.
 
 ## Durhadrûn – The Final Hammerstroke
 
-”The final strike does not shape the blade, it awakens the [legend](/being/deity/legend).”
+”The final strike does not shape the blade, it awakens the [legend](/being/deity/legend.md).”
 
 With the bound metal glowing in readiness, it is placed upon the Forge Anvil, ensuring the runes align with the sacred etchings upon its surface. The hammer Durhadrûn, ancient and heavy with purpose, is taken in hand. No mere tool, it is the voice of the forge itself. The Heartsmith does not strike blindly but listens—waiting, feeling, attuning to the pulse of the Heart.
 
@@ -52,15 +52,15 @@ Only when the rhythm aligns does the final hammerstroke fall, a single, decisive
 
 ## Spîrûmwaldr - The Bonding
 
-The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/location/settlement/city/or/heartforge) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
+The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/location/settlement/city/or/heartforge.md) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
 
-If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into [Etheria](/etheria) as a true relic of [Harthrûn Metallurgy](/profession/harthrûn-metallurgy).
+If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into [Etheria](/etheria.md) as a true relic of [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md).
 
 ## Closing Words
 
 Know this—each strike ye make, each rune ye carve, is a whisper of the forge’s eternal fire. To wield the Heartflame is not a right, but a responsibility.
 
-Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer [legend](/being/deity/legend) into the heart of [Etheria](/etheria) itself.
+Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer [legend](/being/deity/legend.md) into the heart of [Etheria](/etheria.md) itself.
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 

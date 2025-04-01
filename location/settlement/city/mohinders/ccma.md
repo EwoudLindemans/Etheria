@@ -9,36 +9,36 @@ dateCreated: 2025-03-18T20:29:22.056Z
 ---
 
 # **Council of Controlled Magical Appliance (CCMA)**
-*"[Magic](/structure/mechanic/magic) is power, but power ungoverned is catastrophe."* — First High Regulator, Alvinas the Measured  
+*"[Magic](/structure/mechanic/magic.md) is power, but power ungoverned is catastrophe."* — First High Regulator, Alvinas the Measured  
 
-The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **[Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell)** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing [Mohinders](/location/settlement/city/mohinders) apart.  
+The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **[Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell.md)** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing [Mohinders](/location/settlement/city/mohinders.md) apart.  
 
 ## **Structure & Hierarchy**
 The CCMA is composed of scholars, artificers, enchanters, and arcane engineers, all dedicated to the stability of the city’s magical infrastructure. The Council is divided into several specialized branches, each with distinct roles:  
 
 ### **The Regulators** *(Primary Decision-Makers & Governance)*
-- **The High Regulator** – The head of the CCMA, responsible for overseeing all magical containment efforts and city-wide energy management. They have final authority on all decisions regarding the Shell’s [magic](/structure/mechanic/magic).  
-- **The Arcane Bench** – A group of senior council members who debate and pass regulations on the ethical use and containment of [magic](/structure/mechanic/magic).  
+- **The High Regulator** – The head of the CCMA, responsible for overseeing all magical containment efforts and city-wide energy management. They have final authority on all decisions regarding the Shell’s [magic](/structure/mechanic/magic.md).  
+- **The Arcane Bench** – A group of senior council members who debate and pass regulations on the ethical use and containment of [magic](/structure/mechanic/magic.md).  
 - **The Chainmasters** – Experts in the maintenance of the massive **Veilsteel Tail’s** structural integrity, ensuring that its chains and sigils remain unbroken.  
 
 ### **The Keepers of Balance** *(Field Operatives & Researchers)*
-- **The [Runeswindler](/location/settlement/city/mohinders/runeswindler)** – A meticulous Arcanaloth entrusted with maintaining the intricate runes that siphon, control, and stabilize magical currents within the Tail. She personally oversees repairs to failing enchantments, venturing deep into the structure’s core, where only the most skilled dare to tread. Known for an obsessive attention to detail and an unwavering loyalty to the Council, Vaelzith ensures that no sigil falters—and that no unauthorized hands tamper with the flow of [magic](/structure/mechanic/magic).
+- **The [Runeswindler](/location/settlement/city/mohinders/runeswindler.md)** – A meticulous Arcanaloth entrusted with maintaining the intricate runes that siphon, control, and stabilize magical currents within the Tail. She personally oversees repairs to failing enchantments, venturing deep into the structure’s core, where only the most skilled dare to tread. Known for an obsessive attention to detail and an unwavering loyalty to the Council, Vaelzith ensures that no sigil falters—and that no unauthorized hands tamper with the flow of [magic](/structure/mechanic/magic.md).
 - **The Aetherian Monitors** – Mages who track and analyze fluctuations in magical energy, predicting potential surges before they occur.  
 - **The Wardens of the Shell** – A secretive division investigating the Shell’s true origins and any signs that it might be changing—or awakening.  
 
 ### **The Arcane Enforcement Division (AED)** *(Security & Disaster Response)*
 - **The Thaumaturgic Containment Force (TCF)** – A rapid-response team trained to contain magical anomalies, rogue surges, and arcane disasters.  
-- **The Nullifiers** – Enforcers who wield specially designed anti-[magic](/structure/mechanic/magic) equipment, deployed when containment measures fail.  
+- **The Nullifiers** – Enforcers who wield specially designed anti-[magic](/structure/mechanic/magic.md) equipment, deployed when containment measures fail.  
 
 ---
 
 ## **Purpose & Operations**
 The CCMA’s primary mission is to prevent catastrophe. Their responsibilities include:  
 ✔ **Maintaining the Arcane Flow** – Ensuring the raw energy from the Shell is properly channeled into the city’s infrastructure.  
-✔ **Overseeing the Portals** – Regulating and stabilizing the arcane gateways connecting [Mohinders](/location/settlement/city/mohinders) to the lands below.  
+✔ **Overseeing the Portals** – Regulating and stabilizing the arcane gateways connecting [Mohinders](/location/settlement/city/mohinders.md) to the lands below.  
 ✔ **Preventing Overload Events** – Monitoring magical pressure points to avoid catastrophic failures.  
-✔ **Research & Experimentation** – Studying the properties of [Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell) and the Veilsteel Tail, seeking safer containment methods.  
-✔ **Crisis Response** – Deploying containment squads when [magic](/structure/mechanic/magic) surges beyond safe levels.  
+✔ **Research & Experimentation** – Studying the properties of [Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell.md) and the Veilsteel Tail, seeking safer containment methods.  
+✔ **Crisis Response** – Deploying containment squads when [magic](/structure/mechanic/magic.md) surges beyond safe levels.  
 
 ---
 
@@ -49,12 +49,12 @@ The CCMA is under increasing strain due to **unexplained fluctuations in the She
 2. **The Awakeners** – Suspect that the Shell is not just a structure, but a dormant entity beginning to stir. They propose *harnessing* its power rather than suppressing it.  
 3. **The Deniers** – Refuse to acknowledge any change, fearing that instability could weaken the Council’s authority.  
 
-With strange tremors rocking the Veilsteel Tail, erratic shifts in the floating platforms, and whispers of [Irion](/being/deity/irion)’s return, the CCMA’s ability to control [magic](/structure/mechanic/magic) is being tested like never before. If they fail, [Mohinders](/location/settlement/city/mohinders) itself may be torn apart.  
+With strange tremors rocking the Veilsteel Tail, erratic shifts in the floating platforms, and whispers of [Irion](/being/deity/irion.md)’s return, the CCMA’s ability to control [magic](/structure/mechanic/magic.md) is being tested like never before. If they fail, [Mohinders](/location/settlement/city/mohinders.md) itself may be torn apart.  
 
 ---
 
 ## **Motto & Common Sayings of the CCMA**
 - *“Containment is survival.”*  
 - *“No surge goes unwatched, no anomaly unchecked.”*  
-- *“[Magic](/structure/mechanic/magic) is not a right, it is a responsibility.”*  
+- *“[Magic](/structure/mechanic/magic.md) is not a right, it is a responsibility.”*  
 - *“The chains hold, so we endure.”*  

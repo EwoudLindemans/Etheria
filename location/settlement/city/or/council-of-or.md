@@ -9,11 +9,11 @@ dateCreated: 2022-01-24T15:54:21.181Z
 ---
 
 # The Council of Or
-The Council of Or is a partially elected group the leaders of the [City of Or](/location/settlement/city/city-of-or), consiting mostly of members of the Great Dwarven Flatstone family.
+The Council of Or is a partially elected group the leaders of the [City of Or](/location/settlement/city/city-of-or.md), consiting mostly of members of the Great Dwarven Flatstone family.
 
 ## Permanent members
 Twelve members of the Flatstone family are permanently appointed to the council. The current members are:
-- [Karath Flatstone](/location/settlement/city/or/karath-flatstone)
+- [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md)
 - Myyra Flatstone (Karaths wife)
 - ...
 

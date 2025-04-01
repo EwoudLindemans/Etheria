@@ -16,7 +16,7 @@ dateCreated: 2025-03-18T19:21:37.345Z
 ## Origins & Legend  
 Born and raised in the Pirate’s Cove, Matt never knew his parents. Instead, he was taken in by Pale Rupert, a notorious rogue known as "The Shadow," who taught him the art of deception, agility, and survival. At 11, Matt was hired by Captain Omar, serving under him for decades until a brutal sea battle changed everything.  
 
-With the captain slain and the crew in chaos, Matt saw an opportunity—he forged documents claiming Omar had left all his belongings to him. In one daring stroke, he stole the entire fortune (about 7297 platinum) and vanished into [legend](/being/deity/legend). Some whisper that Omar’s ghost haunts him still, waiting for revenge. Others say Matt’s cunning and audacity could make him the greatest swashbuckler of all time—if his past doesn’t catch up with him first.  
+With the captain slain and the crew in chaos, Matt saw an opportunity—he forged documents claiming Omar had left all his belongings to him. In one daring stroke, he stole the entire fortune (about 7297 platinum) and vanished into [legend](/being/deity/legend.md). Some whisper that Omar’s ghost haunts him still, waiting for revenge. Others say Matt’s cunning and audacity could make him the greatest swashbuckler of all time—if his past doesn’t catch up with him first.  
 
 ## Physical Description  
 - **Height:** 170 cm (5’7”)  

@@ -9,7 +9,7 @@ dateCreated: 2022-01-24T13:04:42.273Z
 ---
 
 ## History
-While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath a mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there, with some mountains present. The color is white red-ish. with a few spikes that are faintly red/orange. Underneath the armor lies the [City of Or](/location/settlement/city/city-of-or) that is Build by Dwarves
+While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath a mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there, with some mountains present. The color is white red-ish. with a few spikes that are faintly red/orange. Underneath the armor lies the [City of Or](/location/settlement/city/city-of-or.md) that is Build by Dwarves
 
 ## Scale Properties
 Core Heat
@@ -22,8 +22,8 @@ The deep connection between the scale and the planet’s core causes a faint but
 - Largest known scale with a crossection of about 30000 feet
 - Lowest spire of them all reaching a small 3000 feet in height
 - Excavated from the mountain
-- Surrounding Lands are Mostly Tundra and are made vertile using [magic](/structure/mechanic/magic)
-- Beneath the Armour of Or you find The [City of Or](/location/settlement/city/city-of-or) 
+- Surrounding Lands are Mostly Tundra and are made vertile using [magic](/structure/mechanic/magic.md)
+- Beneath the Armour of Or you find The [City of Or](/location/settlement/city/city-of-or.md) 
 
 
 ![armour-of-or.png](/world/armour-of-or-v2.png)
