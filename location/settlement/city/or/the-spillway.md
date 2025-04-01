@@ -2,7 +2,7 @@
 title: The Spillway
 description: Or’s chaotic, ever-moving trade chute
 published: 1
-date: 2025-03-31T21:01:29.695Z
+date: 2025-04-01T10:16:45.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T21:01:29.695Z
@@ -13,9 +13,9 @@ dateCreated: 2025-03-31T21:01:29.695Z
 > *“If it’s not in motion, it’s in the way.”*
 
 ## Overview
-**The Spillway** is one of the busiest districts in the City of Or, functioning as a **transit corridor, trade artery, and pressure valve** between the surface world and the underground heart of the city. It is a place of ramps, cargo sleds, shouting merchants, and overworked lifters.
+**The Spillway** is one of the busiest districts in the [City of Or](/i/11), functioning as a **transit corridor, trade artery, and pressure valve** between the surface world and the underground heart of the city. It is a place of ramps, cargo sleds, shouting merchants, and overworked lifters.
 
-Straddling the vertical axis of Or, the Spillway connects the **Hearthring**, **Coalwalk Row**, **Gutterbrew Alley**, and various freight routes toward deeper forgeworks.
+Straddling the vertical axis of Or, the Spillway connects the [Hearthring](/i/108), [Coalwalk Row](/i/107), [Gutterbrew Alley](/i/106), and various freight routes toward deeper forgeworks.
 
 ## Terrain & Infrastructure
 - **Design:** Steep inclines, metal-reinforced ramps, and pulley-driven cargo lines  
