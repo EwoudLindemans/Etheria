@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-04-01T21:52:32.209Z
+date: 2025-04-01T21:53:56.857Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -20,7 +20,7 @@ It is said that in certain area's the magical essence has merged so much that Mo
 In the aftermath of [The Collapse](/structure/chronological/event/the-collapse), the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature [Irion](/being/deity/irion). These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors of [Etheria](/etheria) where the very essence of Irion’s magic courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
 
 - Scale Sanctuaries:
-Communities quickly discovered that areas where these magical scales were concentrated had unique properties. [The scales](/location/landmark/scale/the-scales) emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these scale sanc[the scales](/location/landmark/scale/the-scales)tilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
+Communities quickly discovered that areas where these magical scales were concentrated had unique properties. [The scales](/location/landmark/scale/the-scales) emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these [Scales](/location/landmark/scale/the-scales) exploit the immense size of the scales as natural barriers and shelters against the monstrous threats.
 
 - Scale-Backed Infrastructure:
 The immense size of the magical scales allowed survivors to build intricate shelters and structures by incorporating [the scales](/location/landmark/scale/the-scales) into their architecture. Scales served as roofs, walls, and even bridges between settlements. This integration not only provided robust protection but also fostered a sense of connection with the magical essence that had reshaped their world.
