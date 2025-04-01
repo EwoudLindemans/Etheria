@@ -22,7 +22,7 @@ The deep connection between the scale and the planet’s core causes a faint but
 - Largest known scale with a crossection of about 30000 feet
 - Lowest spire of them all reaching a small 3000 feet in height
 - Excavated from the mountain
-- Surrounding Lands are Mostly Tundra and are made vertile using magic
+- Surrounding Lands are Mostly Tundra and are made vertile using [magic](/structure/mechanic/magic)
 - Beneath the Armour of Or you find The [City of Or](/location/settlement/city/city-of-or) 
 
 

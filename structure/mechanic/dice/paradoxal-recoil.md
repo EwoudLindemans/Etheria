@@ -53,4 +53,4 @@ Paradoxical Recoil can be removed by:
 - Breaking a powerful magical curse or completing a fate-altering event determined by the DM  
 
 ## **DM Notes**  
-Paradoxical Recoil is best used as a **temporary affliction** to add tension, comedy, or narrative twists. It works well for cursed items, mischievous fey magic, or divine trickery from chaotic deities. The **Fate-Twinned Roll** ensures that at any moment, the player could experience something they **never expected—good or bad.**  
+Paradoxical Recoil is best used as a **temporary affliction** to add tension, comedy, or narrative twists. It works well for cursed items, mischievous fey [magic](/structure/mechanic/magic), or divine trickery from chaotic deities. The **Fate-Twinned Roll** ensures that at any moment, the player could experience something they **never expected—good or bad.**  

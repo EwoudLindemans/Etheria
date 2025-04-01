@@ -14,7 +14,7 @@ The **Ragged Goons** are a rogue faction of outcasts, scavengers, and scale-expl
 
 ## Origins: The Spark of Defiance (Arc 131)
 
-The Goons trace their roots to a disaster in **[Triz Valley](/location/settlement/city/triz-valley)**, where a botched attempt to harness a **Hidden Scale** conduit unleashed wild magic, leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/location/settlement/city/or/council-of-or)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring [the scales](/location/landmark/scale/the-scales) theirs to claim, Ruk led his band into the **[Mountains of Triz](/location/landmark/mountains-of-triz)**, clashing with **Gurdalk’s Gang** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
+The Goons trace their roots to a disaster in **[Triz Valley](/location/settlement/city/triz-valley)**, where a botched attempt to harness a **Hidden Scale** conduit unleashed wild [magic](/structure/mechanic/magic), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/location/settlement/city/or/council-of-or)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring [the scales](/location/landmark/scale/the-scales) theirs to claim, Ruk led his band into the **[Mountains of Triz](/location/landmark/mountains-of-triz)**, clashing with **Gurdalk’s Gang** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
 
 ## Creed and Culture
 
@@ -23,14 +23,14 @@ The Ragged Goons live by a creed of chaos over control, survival over tradition.
 - **Philosophy**: [The scales](/location/landmark/scale/the-scales) are resources, not relics. Power belongs to those who seize it.
 - **Weapons**: 
   - **Splinterguns**: Ramshackle firearms that shoot jagged scale shards, prone to misfiring but deadly when they hit.
-  - **Rattlepacks**: Explosive satchels charged with corrupted magic, as dangerous to the user as the target.
+  - **Rattlepacks**: Explosive satchels charged with corrupted [magic](/structure/mechanic/magic), as dangerous to the user as the target.
 - **Mark of the Goon**: Members scar themselves with scale dust, creating glowing, jagged tattoos that flare near a scale’s resonance—an alert system and badge of loyalty.
 
 ## Key Tales
 
 ### The Raid on Mohinders (Arc 135)
 
-In **Arc 135**, the Goons targeted **[Mohinders](/location/settlement/city/mohinders)**, the suspended city atop **Eldeviérs Shell**, seeking its stockpile of scale essence. Led by Ruk Splinter, they scaled the spire with stolen grappling hooks, braving jungle depths and Iridian guards. They siphoned essence into crude canisters, but a Rattlepack surge cracked the Shell, crashing part of the city and killing half the raiders—including **Tessa “Blastjaw” Korr**. The survivors escaped with enough essence to arm themselves for years, cementing their infamy.
+In **Arc 135**, the Goons targeted **[Mohinders](/location/settlement/city/mohinders)**, the suspended city atop **[Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell)**, seeking its stockpile of scale essence. Led by Ruk Splinter, they scaled the spire with stolen grappling hooks, braving jungle depths and [Iridian](/being/species/iridian) guards. They siphoned essence into crude canisters, but a Rattlepack surge cracked the Shell, crashing part of the city and killing half the raiders—including **Tessa “Blastjaw” Korr**. The survivors escaped with enough essence to arm themselves for years, cementing their infamy.
 
 ### The Clash with the Scalebreakers (Arc 149)
 
@@ -38,15 +38,15 @@ The Goons’ rivalry with the **Scalebreakers** erupted at **Batès Lamina**, wh
 
 ### The Chorus Gambit (Arc 151)
 
-As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/location/settlement/city/city-of-or)**, planting a stolen **Resonance Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous Iridian that crushed Ruk and scattered his band, ending his reign.
+As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/location/settlement/city/city-of-or)**, planting a stolen **Resonance Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian) that crushed Ruk and scattered his band, ending his reign.
 
 ## The Goons Today (Arc 152)
 
-Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from Gurdalk’s Gang, leads a brutal remnant near [Triz Valley](/location/settlement/city/triz-valley), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/location/settlement/city/mohinders)**, cracked **Batès Lamina**, and rattled **The [City of Or](/location/settlement/city/city-of-or)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an Iridian rebirth, or a hidden essence cache in the **[Mountains of Triz](/location/landmark/mountains-of-triz)**.
+Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from Gurdalk’s Gang, leads a brutal remnant near [Triz Valley](/location/settlement/city/triz-valley), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/location/settlement/city/mohinders)**, cracked **Batès Lamina**, and rattled **The [City of Or](/location/settlement/city/city-of-or)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an [Iridian](/being/species/iridian) rebirth, or a hidden essence cache in the **[Mountains of Triz](/location/landmark/mountains-of-triz)**.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Etheria](/etheria)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading resonance. Their tales of grit and ruin echo across Etheria, a testament to the cost of defying its magic.
+The Ragged Goons are [Etheria](/etheria)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading resonance. Their tales of grit and ruin echo across Etheria, a testament to the cost of defying its [magic](/structure/mechanic/magic).
 
 ---
 

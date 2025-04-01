@@ -24,7 +24,7 @@ In [Mohinders](/location/settlement/city/mohinders), travel is not a right—it 
 
 ## **Forms of Payment**  
 - **Coin:** The simplest method—those who can afford the **exorbitant portal taxes** move freely. Wealthier citizens may pay for **"unrestricted access" sigils**, granting passage for a set period.  
-- **Favors:** The Council is always in need of **agents, informants, and pawns**. Those without gold may enter into **binding contracts**, enforced by magic, to settle their debts.  
+- **Favors:** The Council is always in need of **agents, informants, and pawns**. Those without gold may enter into **binding contracts**, enforced by [magic](/structure/mechanic/magic), to settle their debts.  
 - **Secrets:** Some portals require **knowledge** rather than coin. A whispered truth, a hidden weakness, or a confession of **forbidden knowledge** may grant access—for a price.  
 
 ---

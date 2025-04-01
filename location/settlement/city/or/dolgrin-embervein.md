@@ -33,7 +33,7 @@ Critics called it “naïve,” “nonsensical,” and “likely to inspire drun
 ### Final Strike: *The Statue That Ended Everything*  
 And then came the 678th Festival of Emberfall.
 
-Dolgrin unveiled a statue in the central square: a graceful, elongated figure, carved with painstaking care. Its features were unmistakably **elven**—and etched onto its chest was the **rune of leadership**, a symbol typically reserved for honored dwarves of legend.
+Dolgrin unveiled a statue in the central square: a graceful, elongated figure, carved with painstaking care. Its features were unmistakably **elven**—and etched onto its chest was the **rune of leadership**, a symbol typically reserved for honored dwarves of [legend](/being/deity/legend).
 
 Beneath it read:
 

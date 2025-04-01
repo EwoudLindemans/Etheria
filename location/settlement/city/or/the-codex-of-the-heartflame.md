@@ -16,7 +16,7 @@ By Durngar Coalmantle, Grand Heartsmith of Or
 
 ## Foreword
 
-If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/location/settlement/city/or/heartforge) itself. [Harthrûn Metallurgy](/profession/harthrûn-metallurgy) is no simple hammer and steel—nay, it is the binding of magic and metal, the weaving of rune and rhythm, the shaping of [Etheria](/etheria)’s breath into form.
+If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/location/settlement/city/or/heartforge) itself. [Harthrûn Metallurgy](/profession/harthrûn-metallurgy) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic) and metal, the weaving of rune and rhythm, the shaping of [Etheria](/etheria)’s breath into form.
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 
@@ -28,7 +28,7 @@ Heed my words well, for what follows is the sacred process of Rûnhark, Thrumvok
 
 The process begins with the selection of the ore, a choice not made lightly, for each stone carries its own voice and purpose. The raw Scaleforged Ore—whether Veilsteel, Titanstone, or some rarer alloy—must be placed upon the Veil Anvil, untouched by mortal hands so that it does not absorb an errant soul’s rhythm. A Veilsteel Chisel, etched with the Deep Words, is then taken in hand, and with deliberate strokes, the Rûnhark Runes are carved into its surface. The markings must align with the forge’s Aurorhythmic Resonance; any misalignment warps the ore’s essence beyond repair.
 
-As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, not muttered, but spoken—a voice strong and clear, woven with intent. A true Heartsmith does not merely recite; he commands. If the words ring true, the ore shall hum in response, shifting faintly as its slumbering magic stirs. But if the stone crumbles into lifeless shards, the failure is clear—either the runes were misaligned, or the Heartsmith’s voice lacked conviction. The process must begin anew.
+As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, not muttered, but spoken—a voice strong and clear, woven with intent. A true Heartsmith does not merely recite; he commands. If the words ring true, the ore shall hum in response, shifting faintly as its slumbering [magic](/structure/mechanic/magic) stirs. But if the stone crumbles into lifeless shards, the failure is clear—either the runes were misaligned, or the Heartsmith’s voice lacked conviction. The process must begin anew.
 
 ## Thrumvok – The Binding of the Heartflame
 
@@ -44,7 +44,7 @@ As the words are spoken, the ore begins to shift, drawing in the planar energy o
 
 ## Durhadrûn – The Final Hammerstroke
 
-”The final strike does not shape the blade, it awakens the legend.”
+”The final strike does not shape the blade, it awakens the [legend](/being/deity/legend).”
 
 With the bound metal glowing in readiness, it is placed upon the Forge Anvil, ensuring the runes align with the sacred etchings upon its surface. The hammer Durhadrûn, ancient and heavy with purpose, is taken in hand. No mere tool, it is the voice of the forge itself. The Heartsmith does not strike blindly but listens—waiting, feeling, attuning to the pulse of the Heart.
 
@@ -60,7 +60,7 @@ If the runes remain steady and true, the artifact is accepted, bound to its wiel
 
 Know this—each strike ye make, each rune ye carve, is a whisper of the forge’s eternal fire. To wield the Heartflame is not a right, but a responsibility.
 
-Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer legend into the heart of [Etheria](/etheria) itself.
+Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer [legend](/being/deity/legend) into the heart of [Etheria](/etheria) itself.
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 

@@ -14,7 +14,7 @@ The **Scholar’s Rift** is a magical hub, isolated from the non-magical world b
 ## **The Leader: Barty Dunderfield**
 **Name:** Barty Dunderfield  
 **Role:** Leader of the Scholar’s Rift  
-**Personality:** Charismatic but slightly confused about magic. Barty believes in nurturing potential over raw power and ensures that magic is in the hands of the good. He’s not a mage but understands people, and that’s what makes him a respected leader.
+**Personality:** Charismatic but slightly confused about [magic](/structure/mechanic/magic). Barty believes in nurturing potential over raw power and ensures that magic is in the hands of the good. He’s not a mage but understands people, and that’s what makes him a respected leader.
 
 ## The Guild of Improbable Artifice
 The **Guild of Improbable Artifice** is a collective of brilliant yet eccentric engineers, artificers, and arcane theorists dedicated to pushing the boundaries of reality. United by their shared love of invention, they specialize in crafting **Improbability Machines**—devices that challenge logic, warp fate, and compute the impossible.
@@ -48,11 +48,11 @@ Serenna Forthwind, the third-tier Scalespeaker and the class’s voice of reason
 
 ### **Echoes of Wavelength**
 
-Miko "Whisper" Sullen was everything Bromar Keldar was not: quiet, introspective, and deeply attuned to the subtler frequencies of resonance. Miko could hear the hums of magic in the air, understand emotions just by the shifting energy around her. Bromar, on the other hand, was loud, boisterous, and could shake the very ground with his sonic resonance. One might think these two wouldn't get along—but their differences were what made them so perfect as a pair.
+Miko "Whisper" Sullen was everything Bromar Keldar was not: quiet, introspective, and deeply attuned to the subtler frequencies of resonance. Miko could hear the hums of [magic](/structure/mechanic/magic) in the air, understand emotions just by the shifting energy around her. Bromar, on the other hand, was loud, boisterous, and could shake the very ground with his sonic resonance. One might think these two wouldn't get along—but their differences were what made them so perfect as a pair.
 
 "Do you ever stop talking?" Miko asked once, her voice barely above a whisper, but it still managed to catch Bromar's attention.
 
-Bromar, always the optimist, grinned. "Do you ever *start* talking?" he teased. But he genuinely appreciated Miko's uncanny ability to connect with the magic around them, even if it meant he had to tone it down a bit. Still, his idea of quiet study was a bit different from hers. He loved playing his flute loudly in the middle of the courtyard while Miko meditated in the corner, struggling to maintain focus. 
+Bromar, always the optimist, grinned. "Do you ever *start* talking?" he teased. But he genuinely appreciated Miko's uncanny ability to connect with the [magic](/structure/mechanic/magic) around them, even if it meant he had to tone it down a bit. Still, his idea of quiet study was a bit different from hers. He loved playing his flute loudly in the middle of the courtyard while Miko meditated in the corner, struggling to maintain focus. 
 
 Enrica Vahn, a stern third-tier student, had the unenviable task of keeping them both on track. The older, more controlled Scalespeaker had little patience for their antics. "Focus," she would command with a look that could silence even the loudest student. Despite her intimidating presence, there was a strange warmth in her that Bromar respected, and Miko felt safe in her presence. Enrica wasn't just teaching them about resonance; she was teaching them how to find balance—something neither of them had mastered yet.
 
@@ -93,13 +93,13 @@ Thaxton: "I don’t know why you all bother. [The scales](/location/landmark/sca
 Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 
 ---
-**Jokes aside,** the **Ascension Exams** are no easy feat. Students are tested on everything from their practical resonance skills, their ability to adapt to chaotic magic, and their overall growth in understanding. Every ARC, more than half of the candidates will not pass. But every ARC, the students who do ascend bring their own unique brand of magic to the Scholar's Rift, further pushing the boundaries of the Resonance.
+**Jokes aside,** the **Ascension Exams** are no easy feat. Students are tested on everything from their practical resonance skills, their ability to adapt to chaotic [magic](/structure/mechanic/magic), and their overall growth in understanding. Every ARC, more than half of the candidates will not pass. But every ARC, the students who do ascend bring their own unique brand of magic to the Scholar's Rift, further pushing the boundaries of the Resonance.
 
-In the end, even if you fail, it’s all part of the journey. After all, this is the Scholar’s Rift, where magic is alive and always changing, and there's always next ARC to try again.
+In the end, even if you fail, it’s all part of the journey. After all, this is the Scholar’s Rift, where [magic](/structure/mechanic/magic) is alive and always changing, and there's always next ARC to try again.
 
 ### **How to Succeed in the Exams?**
 
-1. **Don’t Panic.** Stressing out only makes the resonance more chaotic. And chaotic magic never *looks* good in front of the judges.
+1. **Don’t Panic.** Stressing out only makes the resonance more chaotic. And chaotic [magic](/structure/mechanic/magic) never *looks* good in front of the judges.
 2. **Harness Your Inner Chaos.** The best Scalespeakers don’t control resonance—they *work with it*. If you try to force it, it’ll turn into something else entirely. Probably a puddle. Or a really large bird.
 3. **Patience is Key.** You won’t pass the exam in a day (unless you're very lucky). A slow, steady approach is often the most reliable. Or, if you're Deryn, an overly-ambitious approach that may or may not result in a very tiny explosion.
 4. **The Waiting Game.** After you finish the exam, you’ll wait. And wait. And maybe play some cards. It’s a tradition.
@@ -115,10 +115,10 @@ The Initiate, looking fresh-faced and eager, grins. “I just learned how to tur
 
 The Resonant, slightly jaded, rolls their eyes. “Nice. I turned water into a vortex of chaos last week. It almost flooded the library, but at least I made it look cool.”
 
-The Scalespeaker, a little more seasoned, looks around the room and mutters, “I remember when I was an Initiate. We actually had to learn real magic. Not this… flashy nonsense.”
+The Scalespeaker, a little more seasoned, looks around the room and mutters, “I remember when I was an Initiate. We actually had to learn real [magic](/structure/mechanic/magic). Not this… flashy nonsense.”
 
-The Initiate grins cheekily. “Yeah, back when your magic was just about making yourself useful before you’re put out to pasture, right?”
+The Initiate grins cheekily. “Yeah, back when your [magic](/structure/mechanic/magic) was just about making yourself useful before you’re put out to pasture, right?”
 
 The Scalespeaker narrows their eyes. “Watch it, kid. One day you’ll be me, and I’ll be the one laughing from the actual study rooms.”
 
-The bartender shrugs. “I think that’ll happen the moment they realize your magic’s as outdated as your robe collection.”
+The bartender shrugs. “I think that’ll happen the moment they realize your [magic](/structure/mechanic/magic)’s as outdated as your robe collection.”

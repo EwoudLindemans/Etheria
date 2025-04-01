@@ -10,7 +10,7 @@ dateCreated: 2023-03-05T22:24:53.247Z
 
 # The Ornite Ring
 
-In the vast emptiness of space, a black circle with a red inner lining orbited around the world. The Orinite Ring, as it was known, was a marvel of magic and engineering. Its magical field protected those inside from the harsh vacuum of space and slowed down time, giving its occupants a unique perspective of the world below.
+In the vast emptiness of space, a black circle with a red inner lining orbited around the world. The Orinite Ring, as it was known, was a marvel of [magic](/structure/mechanic/magic) and engineering. Its magical field protected those inside from the harsh vacuum of space and slowed down time, giving its occupants a unique perspective of the world below.
 
 It was said that from the Orinite Ring, one could see the entire planet at once. The experience was both awe-inspiring and humbling. The slow passage of time within the ring made it a popular destination for those seeking a respite from the hurried pace of life on the planet below.
 

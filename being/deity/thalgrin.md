@@ -24,11 +24,11 @@ Thalgrin, the Heartbound Smith, is the patron [deity](/structure/mechanic/deity)
 ### **Doctrine and Influence:**  
 - **Creation is the highest pursuit.** To shape raw material into something greater is to leave a mark upon the world.  
 - **Endurance is strength.** Just as metal is tempered by flame, the soul is forged through perseverance.  
-- **Magic is a tool, not a crutch.** The greatest works come from the fusion of skill and sorcery, not blind dependence on the latter.  
+- **[Magic](/structure/mechanic/magic) is a tool, not a crutch.** The greatest works come from the fusion of skill and sorcery, not blind dependence on the latter.  
 - **The Forge remembers.** Every weapon, every piece of armor, every artifact crafted carries the legacy of its maker.  
 
 ### **Effect on the City of Or:**  
-Thalgrin’s essence is infused in the very stones of Or, his spirit felt in the resonance of the [Heartforge](/location/settlement/city/or/heartforge). The craftsmen who toil under the Core Heat whisper prayers to him before tempering their metals, seeking his guidance in binding arcane energy into Scaleforged Ores. [The Codex of the Heartflame](/location/settlement/city/or/the-codex-of-the-heartflame) is said to be inspired by his divine knowledge, and those who follow his path earn the title of **Heartforged**, artisans blessed with an innate understanding of Scalewrought Veins and the magic they hold.  
+Thalgrin’s essence is infused in the very stones of Or, his spirit felt in the resonance of the [Heartforge](/location/settlement/city/or/heartforge). The craftsmen who toil under the Core Heat whisper prayers to him before tempering their metals, seeking his guidance in binding arcane energy into Scaleforged Ores. [The Codex of the Heartflame](/location/settlement/city/or/the-codex-of-the-heartflame) is said to be inspired by his divine knowledge, and those who follow his path earn the title of **Heartforged**, artisans blessed with an innate understanding of Scalewrought Veins and the [magic](/structure/mechanic/magic) they hold.  
 
 The dwarves of Or view Thalgrin not as an omnipotent ruler, but as the eternal forge-master who watches over them, ensuring that their craft never wanes and their ambition never dulls. To turn away from the forge, to neglect one’s craft, is to dishonor him.  
 

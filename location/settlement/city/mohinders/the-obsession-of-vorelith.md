@@ -51,11 +51,11 @@ dateCreated: 2025-03-26T21:57:06.673Z
 ## Factions
 
 ### The Council of Controlled Magical Appliance
-- **Overview**: A faction that believes in controlling magical resources and using magic to benefit the people in a regulated manner. They oppose the Veilbreakers, who want to tear down the system.
-- **Role**: Initially, they see Vorelith’s use of [the Dense](/location/area/the-dense) as a potential solution to the city’s conflict but are cautious about the unregulated magic at play.
+- **Overview**: A faction that believes in controlling magical resources and using [magic](/structure/mechanic/magic) to benefit the people in a regulated manner. They oppose the Veilbreakers, who want to tear down the system.
+- **Role**: Initially, they see Vorelith’s use of [the Dense](/location/area/the-dense) as a potential solution to the city’s conflict but are cautious about the unregulated [magic](/structure/mechanic/magic) at play.
 
 ### The Veilbreakers
-- **Overview**: A rebellious faction that seeks to overthrow the current system of controlled magic. They argue that magic should be free, and anyone should be able to access it without restriction.
+- **Overview**: A rebellious faction that seeks to overthrow the current system of controlled [magic](/structure/mechanic/magic). They argue that magic should be free, and anyone should be able to access it without restriction.
 - **Role**: They are wary of Vorelith’s plan, seeing it as just another form of authoritarian control. They seek to sabotage his efforts.
 
 ---
@@ -89,7 +89,7 @@ Over time, the Denselings begin to form a necromancer-like army, ready to help V
 ### Act 1: *Initial Cooperation*  
 - **Introduction to Vorelith’s Plan**: The players are introduced to Vorelith and the two factions in conflict. Vorelith proposes using [the Dense](/location/area/the-dense) to solve the issue of space, offering the players a chance to assist in his plan.
 - **Gaining Trust**: The players work with Vorelith to collect resources and research [the Dense](/location/area/the-dense). Early encounters with the Dense reveal strange and terrifying phenomena that hint at its otherworldly nature.
-- **First Signs of Distortion**: As the magic of [the Dense](/location/area/the-dense) is harnessed, reality begins to warp. Buildings may shift, resources become distorted, or minor magical anomalies occur, hinting at the greater dangers ahead.
+- **First Signs of Distortion**: As the [magic](/structure/mechanic/magic) of [the Dense](/location/area/the-dense) is harnessed, reality begins to warp. Buildings may shift, resources become distorted, or minor magical anomalies occur, hinting at the greater dangers ahead.
 
 ### Act 2: *Unraveling the Truth*  
 - **Rising Tensions**: The players begin to see the effects of Vorelith’s actions on [Mohinders](/location/settlement/city/mohinders). The conflict between the factions intensifies, and Vorelith’s obsession grows. Meanwhile, the Denselings begin to appear, seemingly harmless at first.
@@ -116,7 +116,7 @@ Over time, the Denselings begin to form a necromancer-like army, ready to help V
 
 ### The Spire
 - **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with scales, where the energy of [the Dense](/location/area/the-dense) is contained.
-- **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of Denselings. The Spire will gradually shift its shape and function as the magic grows more unstable.
+- **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of Denselings. The Spire will gradually shift its shape and function as the [magic](/structure/mechanic/magic) grows more unstable.
   
 ### The Dense
 - **Description**: The realm itself, an area where space is compressed and time distorts. It becomes an increasingly central place for the players to explore, confront danger, and attempt to stop Vorelith’s madness.

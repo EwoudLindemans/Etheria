@@ -13,9 +13,9 @@ dateCreated: 2025-03-20T21:00:49.370Z
 
 ![aurelthys.webp](/world/aurelthys.webp =500x)
 
-Aurelthys is the singular divine force presiding over [Mohinders](/location/settlement/city/mohinders) Spire, embodying the structured mastery of magic and the careful distribution of knowledge. Neither wholly benevolent nor oppressive, Aurelthys represents the intricate balance between the pursuit of wisdom and the necessity of control. The city thrives under the weight of secrets, its power centralized in the hands of those deemed worthy to wield it.  
+Aurelthys is the singular divine force presiding over [Mohinders](/location/settlement/city/mohinders) Spire, embodying the structured mastery of [magic](/structure/mechanic/magic) and the careful distribution of knowledge. Neither wholly benevolent nor oppressive, Aurelthys represents the intricate balance between the pursuit of wisdom and the necessity of control. The city thrives under the weight of secrets, its power centralized in the hands of those deemed worthy to wield it.  
 
-The Argent Arbiter is the unseen architect of the city's laws, the silent whisper behind every pact and restriction. Magic is not to be squandered but safeguarded, its potential tempered by those with the discipline to wield it responsibly. Progress is encouraged—but only under careful guidance, lest recklessness unravel the delicate threads of civilization.  
+The Argent Arbiter is the unseen architect of the city's laws, the silent whisper behind every pact and restriction. [Magic](/structure/mechanic/magic) is not to be squandered but safeguarded, its potential tempered by those with the discipline to wield it responsibly. Progress is encouraged—but only under careful guidance, lest recklessness unravel the delicate threads of civilization.  
 
 #### **Manifestation and Symbols:**  
 - Aurelthys is depicted as a **towering, robed figure**, woven from strands of silver and glyph-inscribed parchment.  
@@ -24,7 +24,7 @@ The Argent Arbiter is the unseen architect of the city's laws, the silent whispe
 - Its voice is neither loud nor quiet—when it speaks, it is simply *known*, as if etched into the minds of those who listen.  
 
 #### **Doctrine and Influence:**  
-- **Magic is a privilege, not a right.** Power without understanding is ruinous; knowledge must be earned, not given freely.  
+- **[Magic](/structure/mechanic/magic) is a privilege, not a right.** Power without understanding is ruinous; knowledge must be earned, not given freely.  
 - **Order sustains civilization.** Progress must be guided, not left to chance—unchecked ambition leads only to chaos.  
 - **Hierarchy is natural.** Some are meant to lead, others to follow; wisdom flows downward from those who grasp its true nature.  
 - **The veil of secrecy is a necessary burden.** Some truths, when wielded by the unworthy, can do more harm than ignorance.  

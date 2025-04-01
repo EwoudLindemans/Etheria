@@ -24,7 +24,7 @@ Tallis's ego is both his signature and his shield. He truly believes that the wo
 
 ### Physical Description
 
-- **Hair:** Golden ringlets (said to shine naturally, though whispers speak of illusion magic).
+- **Hair:** Golden ringlets (said to shine naturally, though whispers speak of illusion [magic](/structure/mechanic/magic)).
 - **Eyes:** A mischievous shade of green with gold flecks (the flecks change pattern depending on lighting—or mood, if you believe the legends).
 - **Attire:** Always overdressed. Cloaks, boots, gloves, brooches—every item tailored, embroidered, and enchanted to complement a story he’s about to tell.
 - **Instrument:** A twelve-string lyre harp named *“Gloriana,”* which glows when Tallis hits a particularly flattering verse about himself.

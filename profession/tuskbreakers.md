@@ -35,7 +35,7 @@ A Tuskbreaker does not merely dig for fossils. They tear them from the earth. Sh
 ### Cleansing and Carving  
 Once recovered, the fossils are purified using enchanted resins, sacred orcish water, and brute force. The Tuskbreaker shapes the remains through intense physical labor—chiseling, hammering, and breaking them into the perfect form.  
 
-Unlike dwarves, who refine and polish, or elves, who delicately weave their magic, orcish Tuskbreakers embrace raw, untamed craftsmanship. They believe that fossils hold power in their natural state, needing only the right amount of force to awaken their full potential.  
+Unlike dwarves, who refine and polish, or elves, who delicately weave their [magic](/structure/mechanic/magic), orcish Tuskbreakers embrace raw, untamed craftsmanship. They believe that fossils hold power in their natural state, needing only the right amount of force to awaken their full potential.  
 
 ### Fossil Infusion & the Ritual of War  
 The final step is infusion, where the Tuskbreaker awakens the relic’s true potential.  
@@ -44,7 +44,7 @@ The final step is infusion, where the Tuskbreaker awakens the relic’s true pot
 Most Tuskbreakers conduct a totem ritual, marking the ground with blood and battle-ashes while chanting ancient war cries. They do not merely imbue their artifacts with power—they drown them in war and violence, ensuring each relic is born of battle and ready to shatter armor, bone, and spirit alike.  
 
 #### **Fizzlemancy**  
-Some modern variants of the craft deviate from traditional methods, turning to a Fizzlemancer and letting them imbue the fossil artifact with magic, resulting in unpredictable, yet often devastating effects.  
+Some modern variants of the craft deviate from traditional methods, turning to a Fizzlemancer and letting them imbue the fossil artifact with [magic](/structure/mechanic/magic), resulting in unpredictable, yet often devastating effects.  
 
 ## Signature Creations of the Tuskbreakers  
 

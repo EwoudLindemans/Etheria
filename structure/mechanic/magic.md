@@ -23,9 +23,9 @@ Each Scale is a titan's shard, with different magical properties based on its st
 |-------------------|------------------------------------------------------|-------------------|
 | **[Armour of Or](/location/landmark/scale/armour-of-or)**  | Largest, crystalline red-white beneath tundra       | Heat, pressure, metallurgy |
 | **Batès Lamina**  | Smallest, radiant red, in a sacred lake              | Calm, spiritual resonance |
-| **Eldeviérs Shell** | Opal spire holding [Mohinders](/location/settlement/city/mohinders) in the air            | Healing, levitation, light |
+| **[Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell)** | Opal spire holding [Mohinders](/location/settlement/city/mohinders) in the air            | Healing, levitation, light |
 | **Umperas Hull**  | Wall-like yellow, broken top                         | Defense, warding |
-| **The Asara Plate** | Broken blue scale with crystalline reflections    | Illusion, perception manipulation |
+| **The [Asara Plate](/location/landmark/scale/asara-plate)** | Broken blue scale with crystalline reflections    | Illusion, perception manipulation |
 | **Orinite Ring**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
 
 ## Types of Magical Manifestation

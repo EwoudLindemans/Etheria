@@ -19,7 +19,7 @@ Poppy's childhood was a cacophony of hammer strikes and bubbling alchemical brew
 Yet, for all her talent and brilliance, there was always something offbeat about her. She was too methodical for the gnomes and too unpredictable for the dwarves. She spoke too precisely, worked too quickly, and thought too deeply. A product of two worlds, yet belonging fully to neither.
 
 ## Creations
-In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave magic into metal, breathe life into gears, and create things that should not have existed.
+In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave [magic](/structure/mechanic/magic) into metal, breathe life into gears, and create things that should not have existed.
 
 ### The Density Calibrator
 At the heart of the Glimmering [Ashenburrow](/location/settlement/city/ashenburrow), the [Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator) is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of [The Dense](/location/area/the-dense), the compressed, unstable realm that exists within Or.

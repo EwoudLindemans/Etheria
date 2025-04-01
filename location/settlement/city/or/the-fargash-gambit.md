@@ -36,7 +36,7 @@ Officially, Or sent caravans bearing ale, food, and supplies to "relieve the wou
 
 > “Come home. The war doesn’t need you. Or does.”
 
-It worked. Magic may fuel the forges of Or, but it was compassion that fueled this revolution. In mere weeks, desertions swelled. Refugees—soldiers, families, even medics and cooks—began pouring into the city. Or, already known for its **cultural tolerance** and **scale-forged infrastructure**, absorbed them.
+It worked. [Magic](/structure/mechanic/magic) may fuel the forges of Or, but it was compassion that fueled this revolution. In mere weeks, desertions swelled. Refugees—soldiers, families, even medics and cooks—began pouring into the city. Or, already known for its **cultural tolerance** and **scale-forged infrastructure**, absorbed them.
 
 Over **90% of both armies deserted**, choosing peace over pride.
 

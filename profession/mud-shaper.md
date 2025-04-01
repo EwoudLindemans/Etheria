@@ -18,7 +18,7 @@ Deep in the swampy heartlands where stone is scarce but **earth is alive**, the 
 To outsiders, their methods seem crude, but to the ogres, **a well-shaped bog wall can withstand a siege**, and a **properly sculpted Mud Golem can defend a village for generations.**
 
 ## Race: Ogre
-Ogres possess **massive hands perfect for sculpting**, a natural affinity for **earth magic**, and an **innate patience** that allows them to work with slow-hardening clay. Unlike their more brutish cousins, Mudshapers are seen as **wise and deliberate**, taking decades to perfect their craft.
+Ogres possess **massive hands perfect for sculpting**, a natural affinity for **earth [magic](/structure/mechanic/magic)**, and an **innate patience** that allows them to work with slow-hardening clay. Unlike their more brutish cousins, Mudshapers are seen as **wise and deliberate**, taking decades to perfect their craft.
 
 ## Game Mechanics & Abilities:
 - **Bog-Forged Armor & Weapons:** The Mudshaper can shape armor and weapons from enchanted clay that **hardens on impact but remains flexible in motion**. Mud armor provides **temporary HP when struck** and weapons may slow enemies as thick sludge clings to them.  
