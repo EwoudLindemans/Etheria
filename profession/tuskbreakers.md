@@ -28,7 +28,7 @@ The Tuskbreakers see themselves as his inheritors. While he may have slowed, the
 ## The Ways of the Tuskbreakers  
 
 ### Unearthing the Relics  
-Tuskbreakers brave the depths of crumbling ruins, bone-ridden battlefields, and fossil-laden caverns. These sites, steeped in history, still hum with the energies of the collapse. The colossal remains they recover—great tusks, thick vertebrae, and petrified claws—serve as the raw material for their art.  
+Tuskbreakers brave the depths of crumbling ruins, bone-ridden battlefields, and fossil-laden caverns. These sites, steeped in history, still hum with the energies of [the collapse](/structure/chronological/event/the-collapse). The colossal remains they recover—great tusks, thick vertebrae, and petrified claws—serve as the raw material for their art.  
 
 A Tuskbreaker does not merely dig for fossils. They tear them from the earth. Shovels are for the weak—Tuskbreakers use warhammers, bare fists, and ritual axes to break open the past and expose its lingering might.  
 
@@ -68,4 +68,4 @@ Tuskbreakers are more than craftsmen—they are warriors, breakers, and shapers 
 
 Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace Fizzlemancy, bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
 
-Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before the collapse. Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  
+Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  

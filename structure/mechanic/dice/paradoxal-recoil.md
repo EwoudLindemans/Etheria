@@ -37,7 +37,7 @@ Whenever a creature with Paradoxical Recoil makes an **attack roll, ability chec
 | **13 & 13** | **Karmic Bounce** – The roll fails, but another event in the world **shifts in the character’s favor** (e.g., failing to sneak past guards, but another distraction pulls them away). |
 | **14 & 14** | **Cosmic Echo** – The **exact same scenario** will happen again in the near future, as if reality is on a loop (DM will determine when). |
 | **15 & 15** | **False Confidence** – The roll appears to succeed, but **the character won’t realize the failure until it’s too late** (e.g., they think they disable a trap, but it actually triggers when stepped on). |
-| **16 & 16** | **Divine Trickery** – The roll succeeds, but a **random deity, fey, or supernatural entity** takes interest in the character, marking them for future interference. |
+| **16 & 16** | **Divine Trickery** – The roll succeeds, but a **random [deity](/structure/mechanic/deity), fey, or supernatural entity** takes interest in the character, marking them for future interference. |
 | **17 & 17** | **Energy Surge** – The roll succeeds, and the character **gains temporary magical energy**, causing their next action to have **advantage**. |
 | **18 & 18** | **Destiny’s Favor** – The roll succeeds, and the character is granted **one free reroll** to use anytime in the next hour. |
 | **19 & 19** | **Perfect Execution** – The roll succeeds **so well** that it creates an **additional positive effect** (e.g., not just sneaking past a guard, but stealing their key while doing so). |

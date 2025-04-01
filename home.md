@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
 
-# [Etheria](/i/15)
+# Etheria
 Worldbuilding In Progress

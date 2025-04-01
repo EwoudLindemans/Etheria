@@ -11,40 +11,40 @@ dateCreated: 2025-03-26T21:57:06.673Z
 # Story: *The Obsession of Vorelith*
 
 ## Overview
-*The Obsession of Vorelith* is a story-driven campaign where players assist a well-intentioned mage, Vorelith, in using a mysterious and dangerous realm called the **Dense** to resolve a growing conflict between two factions in the city of **Mohinders**. However, as the players help Vorelith, they slowly discover the consequences of meddling with such a volatile power, and they must reckon with the personal and city-wide disaster that unfolds. Along the way, Vorelith's obsession with the Dense becomes increasingly dangerous, and the players must decide whether to continue supporting him or to stop him before it’s too late.
+*The Obsession of Vorelith* is a story-driven campaign where players assist a well-intentioned mage, Vorelith, in using a mysterious and dangerous realm called the **Dense** to resolve a growing conflict between two factions in the city of **[Mohinders](/location/settlement/city/mohinders)**. However, as the players help Vorelith, they slowly discover the consequences of meddling with such a volatile power, and they must reckon with the personal and city-wide disaster that unfolds. Along the way, Vorelith's obsession with [the Dense](/location/area/the-dense) becomes increasingly dangerous, and the players must decide whether to continue supporting him or to stop him before it’s too late.
 
 ## Table of Contents
-1. [Setting](#setting)
-2. [Key NPCs](#key-npcs)
-3. [Factions](#factions)
-4. [The Dense](#the-dense)
-5. [The Denselings](#the-denselings)
-6. [Plot Hooks & Narrative Arcs](#plot-hooks--narrative-arcs)
-7. [Vorelith's Descent](#voreliths-descent)
-8. [Potential Story Outcomes](#potential-story-outcomes)
-9. [Notable Locations](#notable-locations)
+1. Setting
+2. Key NPCs
+3. Factions
+4. [The Dense](/location/area/the-dense)
+5. The Denselings
+6. Plot Hooks & Narrative Arcs
+7. Vorelith's Descent
+8. Potential Story Outcomes
+9. Notable Locations
 
 ---
 
 ## Setting
 
 ### Mohinders
-- **City of Mohinders**: The campaign is set in Mohinders, a city divided by conflict over limited space and resources. Two factions—**The Council of Controlled Magical Appliance** and **The Veilbreakers**—are in an ongoing power struggle, each seeking to control magical resources, land, and influence.
-- **The Spire**: A strange, egg-shaped tower built by Vorelith. It houses the central energy of the Dense and contains magical leylines. The Spire's structure is constantly shifting as its power grows, warping the area around it. 
+- **City of [Mohinders](/location/settlement/city/mohinders)**: The campaign is set in Mohinders, a city divided by conflict over limited space and resources. Two factions—**The Council of Controlled Magical Appliance** and **The Veilbreakers**—are in an ongoing power struggle, each seeking to control magical resources, land, and influence.
+- **The Spire**: A strange, egg-shaped tower built by Vorelith. It houses the central energy of [the Dense](/location/area/the-dense) and contains magical leylines. The Spire's structure is constantly shifting as its power grows, warping the area around it. 
 
 ---
 
 ## Key NPCs
 
 ### Vorelith (The Villain)
-- **Role**: Initially, a noble and charismatic mage. He seeks to use the Dense to resolve the conflict between the two factions by creating more physical space for the city.
-- **Personality**: Driven, brilliant, compassionate, but increasingly obsessed with the Dense's power.
-- **Goal**: To create a new world order where resources are plentiful, and space is no longer a limiting factor. His obsession with the Dense leads him to make increasingly risky and dangerous decisions.
+- **Role**: Initially, a noble and charismatic mage. He seeks to use [the Dense](/location/area/the-dense) to resolve the conflict between the two factions by creating more physical space for the city.
+- **Personality**: Driven, brilliant, compassionate, but increasingly obsessed with [the Dense](/location/area/the-dense)'s power.
+- **Goal**: To create a new world order where resources are plentiful, and space is no longer a limiting factor. His obsession with [the Dense](/location/area/the-dense) leads him to make increasingly risky and dangerous decisions.
 
 ### The Denselings
-- **Role**: Warped, shadowy creatures that inhabit the Dense. At first, they are inconspicuous but grow in power as Vorelith manipulates the Dense.
-- **Personality**: Initially silent and passive, they become more active and supportive of Vorelith as he helps them expand their reach into Etheria.
-- **Goal**: The Denselings are aligned with Vorelith as they share his goal of reshaping Etheria, but their true intentions might be more sinister—wanting to overrun and consume the world beyond the Dense.
+- **Role**: Warped, shadowy creatures that inhabit [the Dense](/location/area/the-dense). At first, they are inconspicuous but grow in power as Vorelith manipulates the Dense.
+- **Personality**: Initially silent and passive, they become more active and supportive of Vorelith as he helps them expand their reach into [Etheria](/etheria).
+- **Goal**: The Denselings are aligned with Vorelith as they share his goal of reshaping [Etheria](/etheria), but their true intentions might be more sinister—wanting to overrun and consume the world beyond [the Dense](/location/area/the-dense).
 
 ---
 
@@ -52,7 +52,7 @@ dateCreated: 2025-03-26T21:57:06.673Z
 
 ### The Council of Controlled Magical Appliance
 - **Overview**: A faction that believes in controlling magical resources and using magic to benefit the people in a regulated manner. They oppose the Veilbreakers, who want to tear down the system.
-- **Role**: Initially, they see Vorelith’s use of the Dense as a potential solution to the city’s conflict but are cautious about the unregulated magic at play.
+- **Role**: Initially, they see Vorelith’s use of [the Dense](/location/area/the-dense) as a potential solution to the city’s conflict but are cautious about the unregulated magic at play.
 
 ### The Veilbreakers
 - **Overview**: A rebellious faction that seeks to overthrow the current system of controlled magic. They argue that magic should be free, and anyone should be able to access it without restriction.
@@ -63,12 +63,12 @@ dateCreated: 2025-03-26T21:57:06.673Z
 ## The Dense
 
 ### Description
-- **What is the Dense?**  
-The Dense is a treacherous, compressed realm where reality behaves in impossible ways. It’s a place between “here” and “there,” where space is distorted. Every foot outside of it is equal to 500 feet inside. The realm is dark, heavy, and full of strange flora and fauna, each more dangerous than the last.
+- **What is [the Dense](/location/area/the-dense)?**  
+[The Dense](/location/area/the-dense) is a treacherous, compressed realm where reality behaves in impossible ways. It’s a place between “here” and “there,” where space is distorted. Every foot outside of it is equal to 500 feet inside. The realm is dark, heavy, and full of strange flora and fauna, each more dangerous than the last.
 - **Effects on the Campaign**  
    - Space is compressed and unpredictable.
-   - People traveling through the Dense experience distorted distances, heavy gravity, and dangerous creatures.
-   - The longer Vorelith works with the Dense, the more it begins to invade the city of Mohinders, warping space and time around the city.
+   - People traveling through [the Dense](/location/area/the-dense) experience distorted distances, heavy gravity, and dangerous creatures.
+   - The longer Vorelith works with [the Dense](/location/area/the-dense), the more it begins to invade the city of [Mohinders](/location/settlement/city/mohinders), warping space and time around the city.
 
 ---
 
@@ -76,46 +76,46 @@ The Dense is a treacherous, compressed realm where reality behaves in impossible
 
 ### Description
 - **What Are the Denselings?**  
-The Denselings are the inhabitants of the Dense, creatures born from the twisted fabric of reality within. They are dark, shadowy beings that exist in the periphery, unnoticed at first. However, their numbers and influence begin to grow as Vorelith continues manipulating the Dense for his own ends. 
+The Denselings are the inhabitants of [the Dense](/location/area/the-dense), creatures born from the twisted fabric of reality within. They are dark, shadowy beings that exist in the periphery, unnoticed at first. However, their numbers and influence begin to grow as Vorelith continues manipulating the Dense for his own ends. 
 - **Transformation**  
 Initially, the Denselings are passive, watching from the shadows. As Vorelith’s obsession deepens, they begin to view him as their benefactor and grow more powerful, ultimately becoming his servants.
 - **Necromantic Army**  
-Over time, the Denselings begin to form a necromancer-like army, ready to help Vorelith take over Etheria, using the energy of the Dense to fuel his growing dominion.
+Over time, the Denselings begin to form a necromancer-like army, ready to help Vorelith take over [Etheria](/etheria), using the energy of [the Dense](/location/area/the-dense) to fuel his growing dominion.
 
 ---
 
 ## Plot Hooks & Narrative Arcs
 
 ### Act 1: *Initial Cooperation*  
-- **Introduction to Vorelith’s Plan**: The players are introduced to Vorelith and the two factions in conflict. Vorelith proposes using the Dense to solve the issue of space, offering the players a chance to assist in his plan.
-- **Gaining Trust**: The players work with Vorelith to collect resources and research the Dense. Early encounters with the Dense reveal strange and terrifying phenomena that hint at its otherworldly nature.
-- **First Signs of Distortion**: As the magic of the Dense is harnessed, reality begins to warp. Buildings may shift, resources become distorted, or minor magical anomalies occur, hinting at the greater dangers ahead.
+- **Introduction to Vorelith’s Plan**: The players are introduced to Vorelith and the two factions in conflict. Vorelith proposes using [the Dense](/location/area/the-dense) to solve the issue of space, offering the players a chance to assist in his plan.
+- **Gaining Trust**: The players work with Vorelith to collect resources and research [the Dense](/location/area/the-dense). Early encounters with the Dense reveal strange and terrifying phenomena that hint at its otherworldly nature.
+- **First Signs of Distortion**: As the magic of [the Dense](/location/area/the-dense) is harnessed, reality begins to warp. Buildings may shift, resources become distorted, or minor magical anomalies occur, hinting at the greater dangers ahead.
 
 ### Act 2: *Unraveling the Truth*  
-- **Rising Tensions**: The players begin to see the effects of Vorelith’s actions on Mohinders. The conflict between the factions intensifies, and Vorelith’s obsession grows. Meanwhile, the Denselings begin to appear, seemingly harmless at first.
-- **Personal Consequences**: Players may witness or experience personal losses—homes being destroyed, loved ones caught in the crossfire of magical chaos, or dangerous creatures from the Dense appearing in the city.
-- **The Denselings’ Support**: As Vorelith’s power grows, the Denselings start aiding him in secret, preparing to expand into Etheria. They subtly manipulate events, using their powers to influence key players in the conflict.
+- **Rising Tensions**: The players begin to see the effects of Vorelith’s actions on [Mohinders](/location/settlement/city/mohinders). The conflict between the factions intensifies, and Vorelith’s obsession grows. Meanwhile, the Denselings begin to appear, seemingly harmless at first.
+- **Personal Consequences**: Players may witness or experience personal losses—homes being destroyed, loved ones caught in the crossfire of magical chaos, or dangerous creatures from [the Dense](/location/area/the-dense) appearing in the city.
+- **The Denselings’ Support**: As Vorelith’s power grows, the Denselings start aiding him in secret, preparing to expand into [Etheria](/etheria). They subtly manipulate events, using their powers to influence key players in the conflict.
 - **The Players’ Choice**: The players are faced with a dilemma. Do they continue to support Vorelith in the name of resolving the conflict, or do they begin to resist as they realize the terrible consequences of his obsession?
 
 ### Act 3: *The Corruption Unleashed*  
-- **Vorelith’s Descent**: Vorelith begins to unravel, driven mad by the power he wields. His obsession with the Dense turns darker as he allies fully with the Denselings and seeks total dominion over Etheria.
-- **The Final Collapse**: Reality itself begins to bend and twist around Mohinders. Entire sections of the city collapse into the Dense. The players must choose—stop Vorelith and prevent the total destruction of the city, or face the terrifying consequences of their involvement.
-- **The Denseling Army**: In the final moments, the Denselings, now a growing necromantic army, prepare to invade Etheria. Vorelith’s transformation into a dark sorcerer marks the ultimate showdown between the players and their once-ally.
+- **Vorelith’s Descent**: Vorelith begins to unravel, driven mad by the power he wields. His obsession with [the Dense](/location/area/the-dense) turns darker as he allies fully with the Denselings and seeks total dominion over [Etheria](/etheria).
+- **The Final Collapse**: Reality itself begins to bend and twist around [Mohinders](/location/settlement/city/mohinders). Entire sections of the city collapse into [the Dense](/location/area/the-dense). The players must choose—stop Vorelith and prevent the total destruction of the city, or face the terrifying consequences of their involvement.
+- **The Denseling Army**: In the final moments, the Denselings, now a growing necromantic army, prepare to invade [Etheria](/etheria). Vorelith’s transformation into a dark sorcerer marks the ultimate showdown between the players and their once-ally.
 
 ---
 
 ## Potential Story Outcomes
 
-1. **Saving Vorelith**: The players manage to break through to Vorelith, appealing to his former self and convincing him to stop his dangerous quest. This leads to the restoration of balance and the potential to rebuild Mohinders.
-2. **The Collapse of Mohinders**: The city falls, and the players must escape the devastation. In the aftermath, the Denselings begin to take over Etheria, creating a new order. The players may have to choose how they align in this new world.
-3. **The Complete Victory of Vorelith**: Vorelith becomes a dark overlord, and the players must serve him or fight against the forces they once helped create. The Dense’s influence spreads, reshaping Etheria into a twisted, shadow-filled realm.
+1. **Saving Vorelith**: The players manage to break through to Vorelith, appealing to his former self and convincing him to stop his dangerous quest. This leads to the restoration of balance and the potential to rebuild [Mohinders](/location/settlement/city/mohinders).
+2. **[The Collapse](/structure/chronological/event/the-collapse) of [Mohinders](/location/settlement/city/mohinders)**: The city falls, and the players must escape the devastation. In the aftermath, the Denselings begin to take over [Etheria](/etheria), creating a new order. The players may have to choose how they align in this new world.
+3. **The Complete Victory of Vorelith**: Vorelith becomes a dark overlord, and the players must serve him or fight against the forces they once helped create. [The Dense](/location/area/the-dense)’s influence spreads, reshaping [Etheria](/etheria) into a twisted, shadow-filled realm.
 
 ---
 
 ## Notable Locations
 
 ### The Spire
-- **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with scales, where the energy of the Dense is contained.
+- **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with scales, where the energy of [the Dense](/location/area/the-dense) is contained.
 - **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of Denselings. The Spire will gradually shift its shape and function as the magic grows more unstable.
   
 ### The Dense

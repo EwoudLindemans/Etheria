@@ -11,7 +11,7 @@ dateCreated: 2025-03-11T23:48:37.199Z
 
 
 # Scroll Binder
-In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the scales of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with magic and certainty—ensuring that deals are fair, precise, and lasting.
+In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing [the scales](/location/landmark/scale/the-scales) of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with magic and certainty—ensuring that deals are fair, precise, and lasting.
 
 Drawing their power from three sacred elements—Rock, Paper, and Scissors—Scroll Binders use these seemingly simple tools to resolve even the most complicated of diplomatic disputes. Each throw carries weight and meaning, and the stakes are always high. From determining territorial boundaries to forging alliances, the Scroll Binder’s touch turns words into lasting, magical obligations, enforced by ancient rituals and unbreakable pacts.
 
@@ -106,7 +106,7 @@ The **Scroll Binder** has the ability to allow for some **wiggle room** in the d
 
 In the event of a **tie**, the scroll does not leave the situation unresolved. The **Scroll Binder** must act to resolve the conflict.
 
-**What Happens**: The **Scroll Binder** calls for a **rematch** or creates a **magical clause** to escalate the agreement. This might mean sending both parties on a **quest**, or the losing side might have to give up something **valuable** to tip the scales in favor of the other. Ties are never simple!
+**What Happens**: The **Scroll Binder** calls for a **rematch** or creates a **magical clause** to escalate the agreement. This might mean sending both parties on a **quest**, or the losing side might have to give up something **valuable** to tip [the scales](/location/landmark/scale/the-scales) in favor of the other. Ties are never simple!
 
 **Example**:  
 _“If the game ends in a tie, the scroll **binds both sides** to find the **Lost Chalice** in the **Cursed Mountain**—a quest neither can avoid, and the stakes are high.”_

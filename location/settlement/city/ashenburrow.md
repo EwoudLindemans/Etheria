@@ -10,10 +10,10 @@ dateCreated: 2025-03-09T17:13:54.304Z
 
 # The Glimmering Ashenburrow – The City Between Walls  
 
-Tucked impossibly between the great halls and towering homes of [The City of Or](/i/11), The Glimmering Ashenburrow is a city that should not exist. A sliver of space, hidden in plain sight, compressed between the cracks of dwarven civilization—a place wedged between reality itself. It defies architecture, logic, and even common sense. Buildings lean at odd angles but never collapse. Streets spiral in ways that shouldn't connect, yet somehow always lead exactly where one needs to go. It's as if the city was never built but rather *grew* between Or’s structures, forming its own impossible, secret world.  
+Tucked impossibly between the great halls and towering homes of The [City of Or](/location/settlement/city/city-of-or), The Glimmering Ashenburrow is a city that should not exist. A sliver of space, hidden in plain sight, compressed between the cracks of dwarven civilization—a place wedged between reality itself. It defies architecture, logic, and even common sense. Buildings lean at odd angles but never collapse. Streets spiral in ways that shouldn't connect, yet somehow always lead exactly where one needs to go. It's as if the city was never built but rather *grew* between Or’s structures, forming its own impossible, secret world.  
 
 ## A Place of Impossible Space
-The Ashenburrow is a fragment of [The Dense](/i/10), a place where reality folds inward, creating a compressed, half-forgotten pocket of existence. While The Dense is a realm of peril, decay, and crushing weight, the gnomes of the Ashenburrow found a way to tame a sliver of it, shaping it into a home where compressed space became a gift rather than a curse.  
+The Ashenburrow is a fragment of [The Dense](/location/area/the-dense), a place where reality folds inward, creating a compressed, half-forgotten pocket of existence. While The Dense is a realm of peril, decay, and crushing weight, the gnomes of the Ashenburrow found a way to tame a sliver of it, shaping it into a [home](/home) where compressed space became a gift rather than a curse.  
 
 Here, buildings do not follow normal geometry—a single step may take you farther than expected, and entire homes fit within gaps no wider than a corridor. Inside these dwellings, rooms stretch deep into hidden angles, unfolding like a magician’s trick. A shop no larger than a broom closet on the outside might reveal an endless labyrinth of gears and contraptions within. Time itself seems uncertain here, with some clocks running too fast and others refusing to move at all.  
 
@@ -23,11 +23,11 @@ The entrance to The Glimmering Ashenburrow is not a door, not in the conventiona
 ## A World of Glimmer and Gloom  
 Within the Ashenburrow, the air hums with the quiet tick of countless mechanisms, tiny enchanted lights bobbing through the winding alleys like curious fireflies. The streets are softly illuminated by glowing fungi, their blue and violet luminescence reflecting off the polished copper pipes that wind like tangled roots through every wall and ceiling. Gears turn without hands to move them, and steam hisses from unseen vents, giving the whole place the feeling of a living, breathing entity.  
 
-The Tinkers’ Warrens are a chaotic masterpiece of engineering, where gnome artificers and rogue dwarven smiths work side by side, crafting wonders never meant for the surface world—devices powered by the compressed essence of The Dense itself, strange and unpredictable in their workings.  
+The Tinkers’ Warrens are a chaotic masterpiece of engineering, where gnome artificers and rogue dwarven smiths work side by side, crafting wonders never meant for the surface world—devices powered by the compressed essence of [The Dense](/location/area/the-dense) itself, strange and unpredictable in their workings.  
 
 The Whispermarket, the only place in all of Or where time and space itself dictate the price of goods, shifts unpredictably. Merchants don’t sell items in the traditional sense—they *trade moments, locations, and sometimes even memories* in exchange for rare and impossible wares.  
 
-At the heart of the burrow lies the Hearthcore, a great glowing engine, pulsing with the stolen breath of The Dense, ensuring the pocket of reality remains stable. Its heat keeps the compressed city from collapsing in on itself, but it is always unstable, always shifting—just like the burrow itself.  
+At the heart of the burrow lies the Hearthcore, a great glowing engine, pulsing with the stolen breath of [The Dense](/location/area/the-dense), ensuring the pocket of reality remains stable. Its heat keeps the compressed city from collapsing in on itself, but it is always unstable, always shifting—just like the burrow itself.  
 
 ## A Home for the Forgotten  
 The Ashenburrow is a refuge for the strange, the misplaced, and the impossible. Gnomes who never quite fit in among the dwarves, tinkerers who push the limits of what should be built, outcasts who slip between the cracks of history itself. It is a city that does not belong, yet refuses to be erased—an anomaly hidden in plain sight, thriving in the sliver of space where logic has forgotten to look.

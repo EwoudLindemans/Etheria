@@ -9,7 +9,7 @@ dateCreated: 2025-03-04T23:47:32.624Z
 ---
 
 # The Scholar’s Rift
-The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/i/10)
+The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/location/area/the-dense)
 
 ## **The Leader: Barty Dunderfield**
 **Name:** Barty Dunderfield  
@@ -88,7 +88,7 @@ Deryn: "At least it was something—last time I summoned a toad that wouldn’t 
 
 Serenna: "I once summoned a small tornado. It was... productive, but mostly inconvenient."
 
-Thaxton: "I don’t know why you all bother. The scales are just as likely to make you clean their shelves as grant you power."
+Thaxton: "I don’t know why you all bother. [The scales](/location/landmark/scale/the-scales) are just as likely to make you clean their shelves as grant you power."
 
 Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 
