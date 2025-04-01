@@ -2,7 +2,7 @@
 title: Vorr’Gul
 description: 
 published: 1
-date: 2025-03-18T22:52:06.837Z
+date: 2025-03-18T22:52:08.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T22:49:10.938Z

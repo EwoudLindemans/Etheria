@@ -2,7 +2,7 @@
 title: Skul’Kruk
 description: 
 published: 1
-date: 2025-03-18T22:52:13.311Z
+date: 2025-03-18T22:52:15.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-12T22:35:50.681Z

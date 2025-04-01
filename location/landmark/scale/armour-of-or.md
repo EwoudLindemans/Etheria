@@ -2,7 +2,7 @@
 title: Armour of Or
 description: 
 published: 1
-date: 2025-03-30T21:27:09.465Z
+date: 2025-03-30T21:27:10.965Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T13:04:42.273Z

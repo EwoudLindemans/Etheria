@@ -2,7 +2,7 @@
 title: Batès Lamina
 description: 
 published: 1
-date: 2025-03-18T22:25:39.570Z
+date: 2025-03-18T22:25:41.167Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:06:03.398Z

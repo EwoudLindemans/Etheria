@@ -2,7 +2,7 @@
 title: Emberglass Artisan
 description: 
 published: 1
-date: 2025-03-23T17:50:12.462Z
+date: 2025-03-23T17:50:14.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z

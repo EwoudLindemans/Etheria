@@ -2,7 +2,7 @@
 title: The Ornite Ring
 description: 
 published: 1
-date: 2025-03-18T22:25:53.255Z
+date: 2025-03-18T22:25:54.865Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T22:24:53.247Z

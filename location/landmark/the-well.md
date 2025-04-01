@@ -2,7 +2,7 @@
 title: The Well
 description: 
 published: 1
-date: 2025-03-18T22:27:08.051Z
+date: 2025-03-18T22:27:09.653Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-01T16:40:44.176Z
