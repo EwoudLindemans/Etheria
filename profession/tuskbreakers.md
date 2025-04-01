@@ -66,6 +66,6 @@ A petrified vertebra reformed into a gauntlet, amplifying the wearer’s strengt
 ## The Role of a Tuskbreaker  
 Tuskbreakers are more than craftsmen—they are warriors, breakers, and shapers of power. To wield the work of a Tuskbreaker is to carry the strength of the ancients, bound and reforged through brute force and orcish will.  
 
-Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace Fizzlemancy, bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
+Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace [Fizzlemancy](/profession/fizzlemancy), bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
 
 Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  

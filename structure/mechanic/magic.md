@@ -55,7 +55,7 @@ The scale-connected dimension known as **[The Dense](/location/area/the-dense)**
 ## Institutional Approaches
 
 ### ☼ **The Scholar's Rift**
-A metaphysically concealed research enclave accessible only by arcane resonance compatibility. It stabilizes scale studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
+A metaphysically concealed research enclave accessible only by [arcane resonance](/class/sorcerer/subclass/arcane-resonance) compatibility. It stabilizes scale studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
 
 ### ☼ **The City of Or**
 Dwarves master **[Harthrûn Metallurgy](/profession/harthrûn-metallurgy)**, fusing ore with scale-essence through **Core Heat** derived from the [Armour of Or](/location/landmark/scale/armour-of-or). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
