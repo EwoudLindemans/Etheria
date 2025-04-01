@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-03-30T21:29:11.748Z
+date: 2025-04-01T21:52:32.209Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -17,7 +17,7 @@ The origin of the ancient creature is unknown, but there are many theories. Some
 The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with magic. It is a world that is in constant flux, and it is this magic that makes it so special.
 It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
 
-In the aftermath of [The Collapse](/structure/chronological/event/the-collapse), the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature [Irion](/being/deity/irion). These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors[Irion](/being/[deity](/structure/mechanic/deity)/irion) very essence of Irion’s magic courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
+In the aftermath of [The Collapse](/structure/chronological/event/the-collapse), the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature [Irion](/being/deity/irion). These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors of [Etheria](/etheria) where the very essence of Irion’s magic courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
 
 - Scale Sanctuaries:
 Communities quickly discovered that areas where these magical scales were concentrated had unique properties. [The scales](/location/landmark/scale/the-scales) emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these scale sanc[the scales](/location/landmark/scale/the-scales)tilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
