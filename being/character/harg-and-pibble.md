@@ -18,6 +18,8 @@ dateCreated: 2025-03-29T23:54:35.079Z
 # Harg, The Philosotankard
 *"Regret is just memory wearing too much cologne."*
 
+Hi Harg, Hi Pibble
+
 To call Harg a drunk would be to miss the point entirely—he is a philosopher of the highest disorder, a bard of unspoken sorrows, a sage of suds. He is thickset and warm like a half-soggy hearthrug, eyes sparkling with clarity despite the ale-soaked fog he lives in. His cloak was once a curtain, his shoes were once his neighbor’s, and his seat at the Brazen Burp might as well be nailed to the floor.
 
 He believes deeply in the importance of “gut-thinkin’,” and treats each sip of ale as a ritualistic uncovering of truth. Sometimes those truths are brilliant. Sometimes they are SPLORP. And always, Harg insists the opposite of a thing is rarely what you think it is.
