@@ -2,7 +2,7 @@
 title: Dolgrin Embervein
 description: 
 published: 1
-date: 2025-04-01T15:57:54.846Z
+date: 2025-04-01T16:24:26.120Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-01T15:57:54.846Z
@@ -16,7 +16,7 @@ But Dolgrin's heart never beat for the hammer's strike alone. He heard music in 
 
 ## The Three Strikes of the Chisel
 
-The statue that sealed his exile was merely the last clang in a series of loud, controversial taps. Before the final scandal, Dolgrin had already rattled tradition—and the nerves of the Council—with two earlier pieces that dwarves still debate between sips of stout.
+The statue that sealed his self-exile was merely the last clang in a series of loud, controversial taps. Before the final scandal, Dolgrin had already rattled tradition—and the nerves of the Council—with two earlier pieces that dwarves still debate between sips of stout.
 
 ### First Strike: *The Furnace Sentinel*  
 Commissioned to honor the eastern forge-hall, Dolgrin created a twelve-foot bronze guardian, all fire-opal eyes and rippling molten musculature. Impressive, sure. But seen from above—say, if you were flying or had very good knees and a ladder—the statue unmistakably resembled the ancient glyph for “rest eternal.”
@@ -40,34 +40,26 @@ Beneath it read:
 *"All hands can shape the future."*
 
 For a moment, there was silence.
-
 Then someone dropped a tankard.
-
 Then everyone started yelling.
 
 This time it wasn’t just art—it was seen as revisionism, sacrilege, or (in the case of Councilor Brimbag) “a bloody riddle with cheekbones.” While many citizens admired the piece, others saw it as a challenge to tradition and a deliberate reshaping of dwarven cultural myth.
 
-**Karath Flatstone**, High Voice of the Council, did not call for execution. Instead, he delivered a legendary statement:
+## The Exile He Chose
 
-“Dolgrin Embervein is not to be struck by steel. He is unworthy of steel. Let him face the silence his chisel mocks.”
+Technically, Dolgrin wasn’t *banished*. The Council never slammed a gavel or threw him into the snow. There was no dramatic expulsion, no flaming hammers or ceremonial un-bearding. Karath Flatstone’s statement was more of a poetic sigh than a legal order:
 
+> “Dolgrin Embervein is not to be struck by steel. He is unworthy of steel. Let him face the silence his chisel mocks.”
 
-
-## The exile
-
-And so, Dolgrin’s tools were shattered in the Hall of Voice. He was given three days to leave Or.
-
-He used two and a half.
-
-Not to pack. Not to plead. But to walk every corridor of the city with a small chisel he’d hidden in the hem of his cloak. By the time he crossed the last gate, every single guard statue in the City of Or—dozens of them, stern-faced and identical—had been *subtly altered*.
-
-Some now had extravagant beards curling in impossible spirals. Others sported elaborate braids shaped like question marks. One was holding a stone duck. Another had a single, perfect tear on its cheek. The statue outside the Council Hall now winked.
+It was meant to sting, but Dolgrin just blinked, nodded politely, and left. He didn’t storm out. He didn’t cry. He didn’t even forget to return his workshop key (he left it on a statue’s head). What he *did* do was spend two and a half days wandering Or—not packing, not pleading, just... carving. With a small chisel hidden in the hem of his cloak, he visited every corridor of the city he once loved. By the time he crossed the last gate, dozens of the city’s stern-faced, identical guard statues had been *subtly altered*. One now had a duck. Another winked. A third had a beard in the shape of a question mark. A fourth was possibly flexing. The one outside the Council Hall now wore the world’s tiniest stone monocle and looked *disappointed in a very specific way*.
 
 No one saw him do it. No one could prove he did.
 
 But everyone knew.
 
-Some say Dolgrin left behind a message not in words, but in smirks and stone: *You cannot exile perspective.*  
+He didn’t leave because he was forced. He left because something had shifted—because home stopped feeling like home, and started feeling like a museum where the statues scowled just a little harder at him.
+
+Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
 ## The Stair He Chose
 
