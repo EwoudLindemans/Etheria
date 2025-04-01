@@ -2,7 +2,7 @@
 title: Gutterbrew Alley
 description: Unofficial, unregulated, unforgettable brew-lab alley
 published: 1
-date: 2025-03-31T20:48:14.136Z
+date: 2025-04-01T10:16:10.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T20:48:14.136Z
@@ -13,7 +13,7 @@ dateCreated: 2025-03-31T20:48:14.136Z
 > *“If it fizzes and glows, drink slow.”*
 
 ## Overview
-**Gutterbrew Alley** is a narrow, twisting corridor of alchemical chaos wedged between **Coalwalk Row** and **The Spillway** in the City of Or. Unclaimed by either district and officially absent from all city maps, the alley is a haven for **experimental brewers, rogue potion-makers, and fringe alchemists**.
+**Gutterbrew Alley** is a narrow, twisting corridor of alchemical chaos wedged between [Coalwalk Row](/i/107) and [The Spillway](/i/109) in the [City of Or](/i/11). Unclaimed by either district and officially absent from all city maps, the alley is a haven for **experimental brewers, rogue potion-makers, and fringe alchemists**.
 
 Locals describe it as "too strange to be ours" and "exactly where it belongs." Though short in length, it is rich in lore, odour, and questionable legality.
 
