@@ -2,7 +2,7 @@
 title: The Fargash Gambit
 description: 
 published: 1
-date: 2025-03-31T21:09:49.022Z
+date: 2025-04-01T10:17:34.199Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T20:54:14.479Z
@@ -11,11 +11,9 @@ dateCreated: 2025-03-31T20:54:14.479Z
 # The Fargash Gambit
 
 ## Overview
-The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the **[Council of Or](/i/18)**. It marked a pivotal moment in Etherian diplomacy and solidified [Or's](/i/11) reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
+The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the [Council of Or](/i/18). It marked a pivotal moment in Etherian diplomacy and solidified [Or's](/i/11) reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
 
 ## Prelude
-
-
 
 The conflict in question, known in later records as the *Clash at Ironwake Hold*, was a bloody, years-long engagement fought far from the [Armour of Or](/i/12), but close enough to draw attention:
 
@@ -23,7 +21,6 @@ The conflict in question, known in later records as the *Clash at Ironwake Hold*
 - A coalition of **Elves, Halflings, and Men**, aiming to protect sacred ancestral grounds near latent scale formations.
 
 Though distant from the war's frontlines, **Or's neutrality** and its political weight—thanks a growing multicultural populace—made it a logical place for parley. Yet, every diplomatic attempt failed until the gambit.
-
 
 ## The Turning Point
 After weeks of unproductive shouting matches between military delegates, Fargash Flatstone—known for his blunt wisdom and unmatched drinking constitution—grew impatient.
@@ -53,12 +50,12 @@ The threat of war faded like a fog. With their forces gone and public sentiment 
 ## Legacy
 - **Fargash Flatstone** became a folk hero. His statue—tankard raised—is now central in the **Forum of Or**, a place where speeches, songs, and even weddings occur.
 - The term **“Pulling a Fargash”** became slang across Etheria for defusing tension through unexpected, generous action.
-- Though **[The Oblique Concord](/i/88)** has never claimed involvement, rumors suggest it whispered the idea into Fargash’s dreams—or orchestrated the whole thing through subtle influence.
+- Though [The Oblique Concord](/i/88) has never claimed involvement, rumors suggest it whispered the idea into Fargash’s dreams—or orchestrated the whole thing through subtle influence.
 - In Council archives, the event is dryly listed as:  
   > *Strategic Redirection of Hostilities through Voluntary Integration (Council Entry #1147: Ref. Flatstone-173b)*  
   No one calls it that.
 
 ## Cultural Notes
-- The **[Brazen Burp](/i/99)** tavern still hosts annual "Gambit Nights" with reenactments, songs, and honorary tankard duels.
+- The [Brazen Burp](/i/99) tavern still hosts annual "Gambit Nights" with reenactments, songs, and honorary tankard duels.
 - Many descendants of the soldiers who settled now serve in Or’s civic systems or metallurgist guilds.
-- The influx led to the expansion of the **Glimmering Ashenburrow**, where scale-resonant housing projects and cultural archives now thrive.
+- The influx led to the expansion of the [Glimmering Ashenburrow](/i/58), where scale-resonant housing projects and cultural archives now thrive.
