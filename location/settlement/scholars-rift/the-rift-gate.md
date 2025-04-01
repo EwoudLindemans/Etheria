@@ -18,17 +18,17 @@ The **only** way in and out of The Scholar’s Rift, this swirling **unstable po
 The Rift Gate is the **first and last test** for all who seek **knowledge, power, or just really bad life choices**.  
 
 ## The Rift Gate Paradox
-The paradox was born when [Nokk](/i/78) embarked on one of his many reckless expeditions into [The Dense](/i/10), an act that only the most foolhardy scholars dared attempt. Unlike others, however, he was not lost within its folds. Instead, he moved through it as though it bent around him, his body flickering between locations that no two observers could agree upon.
+The paradox was born when [Nokk](/being/character/nokk) embarked on one of his many reckless expeditions into [The Dense](/location/area/the-dense), an act that only the most foolhardy scholars dared attempt. Unlike others, however, he was not lost within its folds. Instead, he moved through it as though it bent around him, his body flickering between locations that no two observers could agree upon.
 
 At the peak of his exploration, something went wrong—or perhaps, went exactly as it was meant to.
 
-Nokk attempted to harness the resonance of [The Dense](/i/10) itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, merging two points of time into a single point. Reality itself seemed to buckle, and when the rift finally settled, scholars across Etheria realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
+[Nokk](/being/character/nokk) attempted to harness the resonance of [The Dense](/location/area/the-dense) itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, merging two points of time into a single point. Reality itself seemed to buckle, and when the rift finally settled, scholars across [Etheria](/etheria) realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
 
-Yet historical records made it clear: The Rift Gate had already existed before Nokk’s birth.
+Yet historical records made it clear: The Rift Gate had already existed before [Nokk](/being/character/nokk)’s birth.
 
-To complicate matters further, ancient texts discovered within The Scholar’s Rift describe a blue-skinned figure standing at the Gate’s creation—a figure resembling Nokk in every way. Whether this is proof of time-looped causality, an artifact of the Rift’s own nature, or something beyond mortal comprehension remains unknown.
+To complicate matters further, ancient texts discovered within The Scholar’s Rift describe a blue-skinned figure standing at the Gate’s creation—a figure resembling [Nokk](/being/character/nokk) in every way. Whether this is proof of time-looped causality, an artifact of the Rift’s own nature, or something beyond mortal comprehension remains unknown.
 
-Nokk himself has stopped trying to explain it. Instead, he accepts the paradox as an immutable truth—one of many mysteries he is determined to unravel.
+[Nokk](/being/character/nokk) himself has stopped trying to explain it. Instead, he accepts the paradox as an immutable truth—one of many mysteries he is determined to unravel.
 
 ## What Happens if the Rift Gate Rejects You?
 If the **Rift Gate** rejects someone, it does so in a manner that is **deeply personal, highly inconvenient, and usually humiliating**. 

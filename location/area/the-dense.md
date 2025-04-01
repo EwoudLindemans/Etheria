@@ -43,7 +43,7 @@ The Dense’s influence extends beyond its primary expanse. Certain pockets, lik
 Only the Denseshifters, an elite order of mages, dare to master the Dense’s impossible expanse through the art of Transitorium Densae—the Passage of the Dense. These practitioners shift through the realm’s compressed vastness with uncanny speed and precision, folding its 500-to-1 distances into fleeting moments of travel. Their skill is a marvel, but it comes at great risk.
 
 ### Known Locations
-- The Scholar’s Rift a magical hub access only by those with magical ability's. It's a place of study, where knowledge, power, and resonance converge. [The Rift Gate](/location/settlement/scolars-rift/the-rift-gate) used to access this location was accidentaly created by [Nokk](/being/character/nokk).
+- The Scholar’s Rift a magical hub access only by those with magical ability's. It's a place of study, where knowledge, power, and resonance converge. [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate) used to access this location was accidentaly created by [Nokk](/being/character/nokk).
 - The Glimmering [Ashenburrow](/location/settlement/city/ashenburrow) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator) a device made by [Poppy Handyleaf](/location/settlement/city/ashenburrow/poppy-handyleaf). shaping it into a [home](/home) where compressed space became a gift rather than a curse. 
 
 A gateway that exists in the Dense at The Scholar’s Rift, this swirling portal is a mystery, when passed it may lead to  when passed through leading [Etheria](/etheria)
