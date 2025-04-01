@@ -9,7 +9,7 @@ dateCreated: 2025-04-01T21:45:37.357Z
 ---
 
 # The Scholar’s Rift
-The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/i/10)
+The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/location/area/the-dense)
 
 ## **The Leader: Barty Dunderfield**
 **Name:** Barty Dunderfield  
@@ -88,7 +88,7 @@ Deryn: "At least it was something—last time I summoned a toad that wouldn’t 
 
 Serenna: "I once summoned a small tornado. It was... productive, but mostly inconvenient."
 
-Thaxton: "I don’t know why you all bother. The scales are just as likely to make you clean their shelves as grant you power."
+Thaxton: "I don’t know why you all bother. [The scales](/location/landmark/scale/the-scales) are just as likely to make you clean their shelves as grant you power."
 
 Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 
@@ -115,10 +115,10 @@ The Initiate, looking fresh-faced and eager, grins. “I just learned how to tur
 
 The Resonant, slightly jaded, rolls their eyes. “Nice. I turned water into a vortex of chaos last week. It almost flooded the library, but at least I made it look cool.”
 
-The Scalespeaker, a little more seasoned, looks around the room and mutters, “I remember when I was an Initiate. We actually had to learn real magic. Not this… flashy nonsense.”
+[The Scales](/location/landmark/scale/the-scales)peaker, a little more seasoned, looks around the room and mutters, “I remember when I was an Initiate. We actually had to learn real magic. Not this… flashy nonsense.”
 
 The Initiate grins cheekily. “Yeah, back when your magic was just about making yourself useful before you’re put out to pasture, right?”
 
-The Scalespeaker narrows their eyes. “Watch it, kid. One day you’ll be me, and I’ll be the one laughing from the actual study rooms.”
+[The Scales](/location/landmark/scale/the-scales)peaker narrows their eyes. “Watch it, kid. One day you’ll be me, and I’ll be the one laughing from the actual study rooms.”
 
 The bartender shrugs. “I think that’ll happen the moment they realize your magic’s as outdated as your robe collection.”

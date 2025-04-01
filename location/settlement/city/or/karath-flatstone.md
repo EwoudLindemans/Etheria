@@ -9,4 +9,4 @@ dateCreated: 2022-02-01T21:33:04.470Z
 ---
 
 # Karath Flatstone
-A dwarven noble, the current leader of the [City of Or](/i/11) and permanent member of the [Council of Or](/i/18). Married to Myyra Flatstone.
+A dwarven noble, the current leader of the [City of Or](/location/settlement/city/city-of-or) and permanent member of the [Council of Or](/location/settlement/city/or/council-of-or). Married to Myyra Flatstone.
