@@ -9,7 +9,7 @@ dateCreated: 2022-10-22T18:35:23.408Z
 ---
 
 # The Unborn
-Gods that never stepped on [Etheria](/etheria)
-Aelfar
-Tophix
-Dithrir
+Gods that never stepped on [Etheria](/i/15)
+[Aelfar](/i/34)
+[Tophix](/i/32)
+[Dithrir](/i/31)

@@ -1,11 +1,11 @@
 ---
-title: Scholars Rift
+title: Scolar's Rift
 description: 
 published: 1
-date: 2025-04-01T21:45:37.357Z
+date: 2025-03-23T21:05:53.436Z
 tags: 
 editor: markdown
-dateCreated: 2025-04-01T21:45:37.357Z
+dateCreated: 2025-03-04T23:47:32.624Z
 ---
 
 # The Scholar’s Rift

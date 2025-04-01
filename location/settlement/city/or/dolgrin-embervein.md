@@ -10,7 +10,7 @@ dateCreated: 2025-04-01T15:57:54.846Z
 
 # Dolgrin Embervein – The Heretic Sculptor
 
-Born deep in the **[City of Or](/location/settlement/city/city-of-or)**, beneath the white-red glow of the **[Armour of Or](/location/landmark/scale/armour-of-or)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/profession/harthrûn-metallurgy)**. He was expected to join the [Heartforge](/location/settlement/city/or/heartforge) like his kin, shaping runes into steel and hammering alloys that sang with arcane resonance.
+Born deep in the **City of Or**, beneath the white-red glow of the **Armour of Or**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **Harthrûn metallurgy**. He was expected to join the Heartforge like his kin, shaping runes into steel and hammering alloys that sang with arcane resonance.
 
 But Dolgrin's heart never beat for the hammer's strike alone. He heard music in stone—silence in shape. His art was not in weaponry, but in form. Though trained in runes, he spent his days carving scraps into faces—dwarves, orcs, even elves. He claimed stone had memory, and his fingers listened.
 
@@ -47,7 +47,7 @@ This time it wasn’t just art—it was seen as revisionism, sacrilege, or (in t
 
 ## The Exile He Chose
 
-Technically, Dolgrin wasn’t *banished*. The Council never slammed a gavel or threw him into the snow. There was no dramatic expulsion, no flaming hammers or ceremonial un-bearding. [Karath Flatstone](/location/settlement/city/or/karath-flatstone)’s statement was more of a poetic sigh than a legal order:
+Technically, Dolgrin wasn’t *banished*. The Council never slammed a gavel or threw him into the snow. There was no dramatic expulsion, no flaming hammers or ceremonial un-bearding. Karath Flatstone’s statement was more of a poetic sigh than a legal order:
 
 > “Dolgrin Embervein is not to be struck by steel. He is unworthy of steel. Let him face the silence his chisel mocks.”
 
@@ -57,7 +57,7 @@ No one saw him do it. No one could prove he did.
 
 But everyone knew.
 
-He didn’t leave because he was forced. He left because something had shifted—because [home](/home) stopped feel[home](/home)like home, and started feeling like a museum where the statues scowled just a little harder at him.
+He didn’t leave because he was forced. He left because something had shifted—because home stopped feeling like home, and started feeling like a museum where the statues scowled just a little harder at him.
 
 Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
@@ -80,7 +80,7 @@ He is known to argue with the **Concord Ring**, not to challenge their rulings�
 ## Current Threads
 
 - Dolgrin is unknowingly watched by an agent of the **Oblique Concord**, who suspects his quiet ideology is more contagious than any revolution.
-- His elven statue, thought destroyed, has *reappeared* at the edge of **[Triz Valley](/location/settlement/city/triz-valley)**, polished and standing upright. No one admits to moving it, yet fresh flowers appear at its base daily.
+- His elven statue, thought destroyed, has *reappeared* at the edge of **Triz Valley**, polished and standing upright. No one admits to moving it, yet fresh flowers appear at its base daily.
 - **Myyra Flatstone** once visited Innerhold incognito. She recognized Dolgrin but said nothing. A small rune of forgiveness—carved in old ironwood—now lies unclaimed at the edge of the Stone of One Voice. Dolgrin passes it each day without a word.
 
 ---
