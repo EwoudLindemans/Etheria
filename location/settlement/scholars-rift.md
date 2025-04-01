@@ -1,8 +1,8 @@
 ---
-title: Scholar's Rifts
+title: Scholar's Rift
 description: 
 published: 1
-date: 2025-04-01T21:40:48.132Z
+date: 2025-04-01T21:40:59.041Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T23:47:32.624Z
