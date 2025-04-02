@@ -97,7 +97,7 @@ A Tiefling healer of the Concordium Medica is **a walking contract**, a physicia
 - They step into the halls of kings, speaking **truths that cannot be denied**.  
 - They **watch, record, and balance**, ensuring that no one escapes **the price of their survival.**  
 
-Their sigil is **a golden scale held by a skeletal hand**—a symbol of both **judgment and mercy, healing and consequence.**  
+Their sigil is **a golden [scale](/location/scale.md) held by a skeletal hand**—a symbol of both **judgment and mercy, healing and consequence.**  
 
 To seek their aid is to **seal a pact with forces beyond mortal understanding**—for in the world of the Concordium Medica, **every wound has a price, and every price must be paid.**  
 

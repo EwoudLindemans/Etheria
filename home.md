@@ -9,5 +9,5 @@ dateCreated: 2022-01-24T15:40:43.899Z
 ---
 
 # Etheria
-Etheria
+[Etheria](/etheria.md)
 Worldbuilding In Progress
