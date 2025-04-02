@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-04-01T22:45:11.752Z
+date: 2025-04-02T19:50:34.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
