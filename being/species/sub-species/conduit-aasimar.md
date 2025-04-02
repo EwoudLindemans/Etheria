@@ -44,4 +44,4 @@ As an action, you can touch a creature to restore **hit points equal to your lev
 You know the **light** cantrip. Charisma is your spellcasting ability for it.  
 
 ## **Languages**  
-You can speak, read, and write **Common** and **Celestial**.  
+You can speak, read, and write **Common** and **Celestial**.

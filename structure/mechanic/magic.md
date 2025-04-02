@@ -72,4 +72,3 @@ Religious protectors of **Batès Lamina**. They believe [scale](/location/scale.
 ## Final Notes
 
 Magic in [Etheria](/etheria.md) is **not a skill**. It is **a force**, a **remnant of divinity**, a **constant gamble**. Every interaction, every enchantment, and every discovery is a risk taken in the shadow of [Irion](/being/deity/irion.md)’s broken majesty.
-

@@ -16,4 +16,4 @@ No one fully understands the terrain, but most scholars agree that it's *better 
 - **Time loops** occasionally cause the same duel to be fought *multiple times*, often leading to very confused combatants.  
 - Every so often, an unsuspecting student **gets launched into the sky** for reasons that remain **unclear**.  
 
-The Unstable Grounds are perfect for **learning, sparring, and scientific disasters**, provided one has **a solid life insurance policy**.  
+The Unstable Grounds are perfect for **learning, sparring, and scientific disasters**, provided one has **a solid life insurance policy**.

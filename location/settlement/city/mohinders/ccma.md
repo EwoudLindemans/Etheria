@@ -57,4 +57,4 @@ With strange tremors rocking the Veilsteel Tail, erratic shifts in the floating 
 - *“Containment is survival.”*  
 - *“No surge goes unwatched, no anomaly unchecked.”*  
 - *“[Magic](/structure/mechanic/magic.md) is not a right, it is a responsibility.”*  
-- *“The chains hold, so we endure.”*  
+- *“The chains hold, so we endure.”*

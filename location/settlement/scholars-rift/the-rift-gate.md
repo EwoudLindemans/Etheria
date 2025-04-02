@@ -83,4 +83,4 @@ If the **Rift Gate** rejects someone, it does so in a manner that is **deeply pe
 - Others think the Rift simply enjoys **screwing with people**.  
 - A few claim **persistent rejections** lead to *something worse*. No one knows what.  
 
-All in all, being rejected by the Rift Gate is either a **mild inconvenience** or **a soul-crushing existential crisis**, depending on *how much you wanted in*.  
+All in all, being rejected by the Rift Gate is either a **mild inconvenience** or **a soul-crushing existential crisis**, depending on *how much you wanted in*.

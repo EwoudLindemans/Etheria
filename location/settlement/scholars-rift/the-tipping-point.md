@@ -16,4 +16,4 @@ Run by the ever-patient and slightly terrifying **Maera Greaves**, The Tipping P
 - The drinks are strong, the food is questionably edible, and the debates about [magic](/structure/mechanic/magic.md) are *louder than necessary*.  
 - The walls are enchanted to *auto-repair* after fights, a necessity after the infamous **"Fireball Happy Hour"** incident.  
 
-Despite being a neutral ground, The Tipping Point remains an essential location for stress relief, networking, and overhearing gossip that *probably* should have stayed secret.  
+Despite being a neutral ground, The Tipping Point remains an essential location for stress relief, networking, and overhearing gossip that *probably* should have stayed secret.

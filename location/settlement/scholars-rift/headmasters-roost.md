@@ -15,4 +15,4 @@ A **tall, imposing tower** that serves as the headquarters for **Barty Dunderfie
 - His office is filled with **stacks of paperwork, half-empty teacups, and exactly one magical artifact he *should not* be handling**.  
 - Most students believe he **bluffed his way into power**, and honestly? They might be right.  
 
-Despite his **total lack of arcane knowledge**, Barty remains a **surprisingly effective** administrator. Mostly.  
+Despite his **total lack of arcane knowledge**, Barty remains a **surprisingly effective** administrator. Mostly.

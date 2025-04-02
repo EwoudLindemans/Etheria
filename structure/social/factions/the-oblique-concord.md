@@ -93,4 +93,4 @@ The Oblique Concord does not operate like a traditional guild with ranks and tit
 <audio controls="1" controlslist="noplaybackrate" src="/music/the_fall_of_king_vainglore.mp3"></audio>
 
 ## Legacy & Fear  
-The Oblique Concord thrives not on power, but on the **belief in its power**. The moment someone believes they are being manipulated, they begin to question their own thoughts, their own decisions—**and that uncertainty is their greatest weapon.**  
+The Oblique Concord thrives not on power, but on the **belief in its power**. The moment someone believes they are being manipulated, they begin to question their own thoughts, their own decisions—**and that uncertainty is their greatest weapon.**

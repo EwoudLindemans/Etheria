@@ -31,5 +31,3 @@ The Density Calibrator was created as a part of [Poppy Handyleaf](/being/charact
 As Poppy refined the device over time, its ability to regulate the space within the Ashenburrow grew more efficient, and it began to serve another, unintended purpose: secrecy. The Density Calibrator’s ability to subtly bend and shape space made it nearly impossible for anyone in The [City of Or](/location/settlement/city/city-of-or.md) to detect the entrance to the Ashenburrow, keeping the city hidden within Or's walls.
 
 In turn, the Calibrator has become invaluable to Silke Handyleaf, Poppy’s adoptive mother and the city's most renowned informant. Silke’s operations rely on the Ashenburrow’s secrecy, and thanks to the Density Calibrator, she can move through Or undetected, slipping between locations with ease. Silke has access to up-to-date information and can operate in full secrecy, as the Calibrator keeps the Ashenburrow safely hidden and stable while ensuring the city remains fully functional.
-
-

@@ -30,4 +30,4 @@ Ogres possess **massive hands perfect for sculpting**, a natural affinity for **
 - Mudshapers **chant deep, rhythmic songs** while they work, believing sound helps shape the soul of their creations.  
 - Some villages **grow attached to their Mud Golems**, treating them as part of the community—until a greedy warlord arrives, wanting to **enslave the living clay for war.**  
 - A rival Mudshaper has been **crafting unstable, aggressive golems**, threatening the safety of the land. The **elders demand their creations be destroyed—but what if the golems have begun to think for themselves?**  
-- **A legendary structure, a temple said to move with the swamp itself, has been lost for centuries.** Only a true Mudshaper can sense its living walls and bring it back to the surface.  
+- **A legendary structure, a temple said to move with the swamp itself, has been lost for centuries.** Only a true Mudshaper can sense its living walls and bring it back to the surface.

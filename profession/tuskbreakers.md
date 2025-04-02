@@ -68,4 +68,4 @@ Tuskbreakers are more than craftsmen—they are warriors, breakers, and shapers 
 
 Some walk the traditional path, calling upon the rituals of war to craft weapons steeped in blood and battle. Others embrace [Fizzlemancy](/profession/fizzlemancy.md), bending the power of the past through chaotic experimentation, risking explosions, misfires, or unpredictable destruction.  
 
-Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse.md). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.  
+Either way, their weapons are not just tools of war—they are challenges to the battlefield, roaring echoes of an age before [the collapse](/structure/chronological/event/the-collapse.md). Where others see fossils as dead relics, the Tuskbreakers see weapons waiting to be born.

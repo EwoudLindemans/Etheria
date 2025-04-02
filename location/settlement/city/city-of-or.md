@@ -78,4 +78,3 @@ Crime is not tolerated and is punished harshly—but most citizens agree the cou
 
 ## Story
 The truth is that [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md) has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
-

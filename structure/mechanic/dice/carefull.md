@@ -29,4 +29,4 @@ dateCreated: 2025-03-23T21:52:25.479Z
 - You roll **a 3 and a 17** → You take **the 3** (closer to 10).  
 - You roll **a 10 and a 14** → You take **the 10** (exact middle).  
 
-🎭 *Best for: Strategic thinkers, scholars, monks, and those who fear the chaos of fate.*  
+🎭 *Best for: Strategic thinkers, scholars, monks, and those who fear the chaos of fate.*

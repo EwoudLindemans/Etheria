@@ -31,5 +31,4 @@ dateCreated: 2025-03-23T21:52:43.851Z
 - You roll **a 3 and a 17** → You take **the 17** (furthest from 10).  
 - You roll **a 10 and a 14** → You take **the 14** (higher of the tie).  
 
-⚡ *Best for: Wild warriors, reckless gamblers, chosen heroes, and those who defy fate itself.*  
-
+⚡ *Best for: Wild warriors, reckless gamblers, chosen heroes, and those who defy fate itself.*
