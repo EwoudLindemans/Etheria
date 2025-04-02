@@ -2,7 +2,7 @@
 title: Dottie Copperlocks
 description: 
 published: 1
-date: 2025-04-02T20:43:52.646Z
+date: 2025-04-02T20:46:37.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T20:43:52.646Z
@@ -46,6 +46,14 @@ She might be their creation. She might be their counterweight. She might be—go
 She has written volumes on their techniques: misdirection through misinformation, the planting of dreams, the orchestration of coincidence.
 
 When asked if she serves them, she often laughs and says: *“I’d know… unless I wouldn’t.”*
+
+## Story Hooks
+Adventurers may overlook Dottie early on, but if they dig into any deeper mystery involving power, corruption, or vanished truth, her name will start to appear—buried in footnotes, scribbled in margins, or mentioned by those who “remember something they shouldn’t.”
+
+She is never surprised to see them.  
+She only ever says, “Oh. It’s you.”
+
+And then offers them a biscuit.
 
 ## Personality Notes (Observed)
 
