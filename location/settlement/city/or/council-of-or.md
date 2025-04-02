@@ -2,7 +2,7 @@
 title: The Council of Or
 description: The local government of the City of Or.
 published: 1
-date: 2025-04-01T22:28:30.432Z
+date: 2025-04-02T19:50:36.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:54:21.181Z
