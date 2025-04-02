@@ -16,7 +16,7 @@ Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge]
 ## Ambience & Appearance  
 Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **Flatstone Family** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.
 
-The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator.md)** test nearby.
+The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md)** test nearby.
 
 ## Gundric "Gundy" Alebrow  
 **Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/or/council-of-or.md)**, but traded politics for pints.
@@ -69,7 +69,7 @@ No one drinks a fourth. No one *remembers* drinking a fourth.
 ## Reputation  
 Recognized by **[Tankard Trekkers](/profession/tankard-trekkers.md)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
 
-Wanderers from **[Triz Valley](/location/settlement/city/triz-valley.md)**, **the Glimmering [Ashenburrow](/location/settlement/city/ashenburrow.md)**, and even a few **[Iridian](/being/species/iridian.md)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
+Wanderers from **[Triz Valley](/location/settlement/city/triz-valley.md)**, **the [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md)**, and even a few **[Iridian](/being/species/iridian.md)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
 
 ## Notes
 

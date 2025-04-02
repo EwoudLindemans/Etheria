@@ -15,10 +15,10 @@ The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre exe
 
 ## Prelude
 
-The conflict in question, known in later records as the *Clash at Ironwake Hold*, was a bloody, years-long engagement fought far from the [Armour of Or](/location/landmark/scale/armour-of-or.md), but close enough to draw attention:
+The conflict in question, known in later records as the *Clash at Ironwake Hold*, was a bloody, years-long engagement fought far from the [Armour of Or](/location/scale/armour-of-or.md), but close enough to draw attention:
 
 - An alliance of **Orcs, Goblins, and Men**, driven by resource pressure and territorial expansion.
-- A coalition of **Elves, Halflings, and Men**, aiming to protect sacred ancestral grounds near latent scale formations.
+- A coalition of **Elves, Halflings, and Men**, aiming to protect sacred ancestral grounds near latent [scale](/location/scale.md) formations.
 
 Though distant from the war's frontlines, **Or's neutrality** and its political weight—thanks a growing multicultural populace—made it a logical place for parley. Yet, every diplomatic attempt failed until the gambit.
 
@@ -36,7 +36,7 @@ Officially, Or sent caravans bearing ale, food, and supplies to "relieve the wou
 
 > “Come home. The war doesn’t need you. Or does.”
 
-It worked. [Magic](/structure/mechanic/magic.md) may fuel the forges of Or, but it was compassion that fueled this revolution. In mere weeks, desertions swelled. Refugees—soldiers, families, even medics and cooks—began pouring into the city. Or, already known for its **cultural tolerance** and **scale-forged infrastructure**, absorbed them.
+It worked. [Magic](/structure/mechanic/magic.md) may fuel the forges of Or, but it was compassion that fueled this revolution. In mere weeks, desertions swelled. Refugees—soldiers, families, even medics and cooks—began pouring into the city. Or, already known for its **cultural tolerance** and **[scale](/location/scale.md)-forged infrastructure**, absorbed them.
 
 Over **90% of both armies deserted**, choosing peace over pride.
 
@@ -58,4 +58,4 @@ The threat of war faded like a fog. With their forces gone and public sentiment 
 ## Cultural Notes
 - [The Brazen Burp](/location/settlement/city/or/the-brazen-burp.md) tavern still hosts annual "Gambit Nights" with reenactments, songs, and honorary tankard duels.
 - Many descendants of the soldiers who settled now serve in Or’s civic systems or metallurgist guilds.
-- The influx led to the expansion of the Glimmering [Ashenburrow](/location/settlement/city/ashenburrow.md), where scale-resonant housing projects and cultural archives now thrive.
+- The influx led to the expansion of the [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md), where [scale](/location/scale.md)-resonant housing projects and cultural archives now thrive.

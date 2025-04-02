@@ -37,14 +37,14 @@ The Dense defies logic. A single step might span a mile within its borders, yet 
 Among its denizens are the Denselings, dangerous creatures adapted to the Dense’s crushing weight and warped distances—some venomous, others simply voracious. The Etherials, spectral entities native to this realm, are most common here, though they appear elsewhere in [Etheria](/etheria.md). Their flickering forms haunt the Dense, adding to its eerie peril.
 
 ## Fragments of the Dense
-The Dense’s influence extends beyond its primary expanse. Certain pockets, like The Glimmering [Ashenburrow](/location/settlement/city/ashenburrow.md) in the [City of Or](/location/settlement/city/city-of-or.md), demonstrate how fragments of this compressed space can be tamed. In such places, reality bends inward, creating havens where space and time stretch unpredictably—though these are exceptions, not the rule.
+The Dense’s influence extends beyond its primary expanse. Certain pockets, like The [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md) in the [City of Or](/location/settlement/city/city-of-or.md), demonstrate how fragments of this compressed space can be tamed. In such places, reality bends inward, creating havens where space and time stretch unpredictably—though these are exceptions, not the rule.
 
 ## The Denseshifters: Masters of Transitorium Densae
 Only the Denseshifters, an elite order of mages, dare to master the Dense’s impossible expanse through the art of Transitorium Densae—the Passage of the Dense. These practitioners shift through the realm’s compressed vastness with uncanny speed and precision, folding its 500-to-1 distances into fleeting moments of travel. Their skill is a marvel, but it comes at great risk.
 
 ### Known Locations
 - The Scholar’s Rift a magical hub access only by those with magical ability's. It's a place of study, where knowledge, power, and [resonance](/structure/mechanic/resonance.md) converge. [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md) used to access this location was accidentaly created by [Nokk](/being/character/nokk.md).
-- The Glimmering [Ashenburrow](/location/settlement/city/ashenburrow.md) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/location/settlement/city/ashenburrow/density-calibrator.md) a device made by [Poppy Handyleaf](/location/settlement/city/ashenburrow/poppy-handyleaf.md). shaping it into a [home](/home.md) where compressed space became a gift rather than a curse. 
+- The [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md) a device made by [Poppy Handyleaf](/being/character/poppy-handyleaf.md). shaping it into a [home](/home.md) where compressed space became a gift rather than a curse. 
 
 A gateway that exists in the Dense at The Scholar’s Rift, this swirling portal is a mystery, when passed it may lead to  when passed through leading [Etheria](/etheria.md)
 

@@ -44,7 +44,7 @@ As the words are spoken, the ore begins to shift, drawing in the planar energy o
 
 ## Durhadrûn – The Final Hammerstroke
 
-”The final strike does not shape the blade, it awakens the [legend](/being/deity/legend.md).”
+”The final strike does not shape the blade, it awakens the legend.”
 
 With the bound metal glowing in readiness, it is placed upon the Forge Anvil, ensuring the runes align with the sacred etchings upon its surface. The hammer Durhadrûn, ancient and heavy with purpose, is taken in hand. No mere tool, it is the voice of the forge itself. The Heartsmith does not strike blindly but listens—waiting, feeling, attuning to the pulse of the Heart.
 
@@ -60,7 +60,7 @@ If the runes remain steady and true, the artifact is accepted, bound to its wiel
 
 Know this—each strike ye make, each rune ye carve, is a whisper of the forge’s eternal fire. To wield the Heartflame is not a right, but a responsibility.
 
-Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer [legend](/being/deity/legend.md) into the heart of [Etheria](/etheria.md) itself.
+Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer legend into the heart of [Etheria](/etheria.md) itself.
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 

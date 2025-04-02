@@ -10,7 +10,7 @@ dateCreated: 2025-04-01T15:38:56.246Z
 
 # Innerhold Hearthstead
 
-There are no banners hanging above its gates, for **there are no gates at all**. Only the long, winding stair climbs the inner wall of **Umperas Hull**—golden, broken, and towering—like the spine of some colossal, buried beast. From below, the curve of the ancient scale stretches into a circle, so large that clouds often catch on its jagged rim.
+There are no banners hanging above its gates, for **there are no gates at all**. Only the long, winding stair climbs the inner wall of **Umperas Hull**—golden, broken, and towering—like the spine of some colossal, buried beast. From below, the curve of the ancient [scale](/location/scale.md) stretches into a circle, so large that clouds often catch on its jagged rim.
 
 Those who reach the top and peer into the hollow find a city not of wealth, nor conquest—but of **welcome**.
 
@@ -18,7 +18,7 @@ Those who reach the top and peer into the hollow find a city not of wealth, nor 
 
 ## A Refuge Forged in Loss
 
-Stories say that the first to settle here were a half-orc widow and her goblin daughter, fleeing a village razed by war. They arrived at the Hull, guided by whispers in dreams and the glow that never fades. The mother climbed the wall with the child strapped to her back. When she reached the summit and looked down into the empty cradle of the scale, she wept—not from despair, but for the first glimpse of peace.
+Stories say that the first to settle here were a half-orc widow and her goblin daughter, fleeing a village razed by war. They arrived at the Hull, guided by whispers in dreams and the glow that never fades. The mother climbed the wall with the child strapped to her back. When she reached the summit and looked down into the empty cradle of the [scale](/location/scale.md), she wept—not from despair, but for the first glimpse of peace.
 
 Soon after came others:
 - A fallen aasimar, wings clipped by his own people for denying prophecy.

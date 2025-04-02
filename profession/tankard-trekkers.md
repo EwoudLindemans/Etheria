@@ -77,7 +77,7 @@ While anyone can *earn* the mug, the tradition of Trekking is halfling to its co
 - Find the nearest hearth blindfolded,
 - And recall every toast ever spoken in their presence.
 
-Some believe the first Tankard Trekker was not a halfling at all—but a scale-touched [Iridian](/being/species/iridian.md) who took halfling form just to keep drinking.
+Some believe the first Tankard Trekker was not a halfling at all—but a [scale](/location/scale.md)-touched [Iridian](/being/species/iridian.md) who took halfling form just to keep drinking.
 
 > “A poured pint is a sacred thing. Don’t spill it with anger. Spill it with joy.”
 > —Old Mugsy, First of the Trek

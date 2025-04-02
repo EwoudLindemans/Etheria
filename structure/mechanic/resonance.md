@@ -32,7 +32,7 @@ But raw resonance, when left to its own natural currents, is neither safe nor wi
 
 ## ARC: The Aurorhythmic Resonance Cycle
 
-The passage of time in [Etheria](/etheria.md) is not tracked by planetary revolutions or celestial bodies alone, but by the ongoing waves of resonance emitted from [the scales](/location/landmark/scale/the-scales.md) and mirrored by the world itself. This phenomenon is known as the **Aurorhythmic Resonance Cycle**, or **ARC**.
+The passage of time in [Etheria](/etheria.md) is not tracked by planetary revolutions or celestial bodies alone, but by the ongoing waves of resonance emitted from the scales and mirrored by the world itself. This phenomenon is known as the **Aurorhythmic Resonance Cycle**, or **ARC**.
 
 Each ARC marks a global phase in [Etheria](/etheria.md)’s resonance flow—an era during which the harmonic tone of the world remains relatively stable. When the resonance shifts significantly, a new ARC begins. These changes are felt long before they are measured: the pulse of the land grows tense, spells behave oddly, and ancient structures hum with renewed intensity.
 
@@ -40,9 +40,9 @@ The first recorded cycle began the moment [Irion](/being/deity/irion.md)'s body 
 
 ## Divine Dependence
 
-No [deity](/structure/mechanic/deity.md) can exist apart from resonance. Their presence, power, and very identity depend upon the attunement of resonance within a scale to their domain. Without such alignment, divine manifestations flicker and fail—gods cannot speak, act, or even *be* unless the resonance allows it. Followers of [Irion](/being/deity/irion.md), for example, center their worship around Batès Lamina, the smallest scale, which emits a calming pulse said to align perfectly with Irion’s lingering will.
+No [deity](/structure/mechanic/deity.md) can exist apart from resonance. Their presence, power, and very identity depend upon the attunement of resonance within a [scale](/location/scale.md) to their domain. Without such alignment, divine manifestations flicker and fail—gods cannot speak, act, or even *be* unless the resonance allows it. Followers of [Irion](/being/deity/irion.md), for example, center their worship around Batès Lamina, the smallest scale, which emits a calming pulse said to align perfectly with Irion’s lingering will.
 
-A scale can only house deific presence if the resonance within it has reached a state of attunement. This attunement is not imposed by the gods—it is shaped by those who dwell around the scale. Only through enduring presence, ritual, and harmony between belief and scale can divine power settle into the land.
+A [scale](/location/scale.md) can only house deific presence if the resonance within it has reached a state of attunement. This attunement is not imposed by the gods—it is shaped by those who dwell around the scale. Only through enduring presence, ritual, and harmony between belief and scale can divine power settle into the land.
 
 ## Living with the Flow
 

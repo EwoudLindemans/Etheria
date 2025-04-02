@@ -16,7 +16,7 @@ In the realm of [Etheria](/etheria.md), time is measured not merely by the passa
 The date is counted in cycles that correspond to significant magical resonances leftover from [The Collapse](/structure/chronological/event/the-collapse.md). Each cycle, known as a "ARC" represents a unit of time that resonates with the magical frequency of the event. The moment of The Collapse itself is designated as "0 ARC" marking the starting point of this unique time measurement.
 
 - Magical Pulse Measurement:  
-Cycles are determined by tracking the rhythm of the magical pulses that emanate from [The scales](/location/landmark/scale/the-scales.md). These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
+Cycles are determined by tracking the rhythm of the magical pulses that emanate from The scales. These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
 
 - Fading Echoes:  
 In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the magical energies were released in a symphony of [resonance](/structure/mechanic/resonance.md). As time passes, the echoes of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
@@ -33,8 +33,8 @@ Every seventeenth Cycle is considered a Nexus, a particularly potent period wher
 - [Magic](/structure/mechanic/magic.md)-Infused Calendars:  
 To keep track of Cycle's, communities use magical calendars that resonate with the world's energy. These calendars might be enchanted stones that change color, intricate sculptures that emit harmonious tones, or even sentient creatures that emit pulses in sync with the ARCs.
 
-- Relation to the [Ornite Ring](/location/landmark/scale/ornite-ring.md):  
-Details are still unknown but the arcs seem to have a relation to the [Ornite Ring](/location/landmark/scale/ornite-ring.md).
+- Relation to the [Ornite Ring](/location/scale/ornite-ring.md):  
+Details are still unknown but the arcs seem to have a relation to the [Ornite Ring](/location/scale/ornite-ring.md).
 
 ## Events
 
@@ -51,15 +51,15 @@ The planet began to mend through the magical residue left by [Irion](/being/deit
 
 ### Arc 51 - 67 - Nexus of Scale Sanctuaries
 - First Public Witnessing of an [Iridian](/being/species/iridian.md) Manifestation (ARC 51):  
-A group of explorers stumbled upon a strange, massive scale. As it hummed with static, a harmonic sound filled the air, and for the first time, an [Iridian](/being/species/iridian.md) was seen by many, its form coalescing from the energy surrounding it, leaving the witnesses in awe and fear.
+A group of explorers stumbled upon a strange, massive [scale](/location/scale.md). As it hummed with static, a harmonic sound filled the air, and for the first time, an [Iridian](/being/species/iridian.md) was seen by many, its form coalescing from the energy surrounding it, leaving the witnesses in awe and fear.
 
-- The Era of Scale Sanctuaries and Scale-Backed Architecture (ARC 58):  
-Survivors of [The Collapse](/structure/chronological/event/the-collapse.md) discovered the unique properties of concentrated magical scales. These scales emitted a soothing energy that repelled dangerous creatures. Settlements formed around these Scale Sanctuaries, using the immense scales as natural defenses against the post-collapse dangers.  
+- The Era of [Scale](/location/scale.md) Sanctuaries and Scale-Backed Architecture (ARC 58):  
+Survivors of [The Collapse](/structure/chronological/event/the-collapse.md) discovered the unique properties of concentrated magical scales. These scales emitted a soothing energy that repelled dangerous creatures. Settlements formed around these [Scale](/location/scale.md) Sanctuaries, using the immense scales as natural defenses against the post-collapse dangers.  
 This ARC was triggered by the digging of [Or Flatstone](/location/settlement/city/or/or-flatstone.md)
 
 ### Arc 68 - 84 - Nexus of Arcane Infusion
 - The Technological Renaissance (ARC 74):  
-The survivors' connection with magical scales evolved. They learned to harness latent [magic](/structure/mechanic/magic.md) within [the scales](/location/landmark/scale/the-scales.md) to power devices. Scale Conduits emerged, infusing tools, lighting systems, and communication devices. This led to a technological renaissance, where "scale-driven" technologies facilitated [Etheria](/etheria.md)'s resurgence.
+The survivors' connection with magical scales evolved. They learned to harness latent [magic](/structure/mechanic/magic.md) within the scales to power devices. [Scale](/location/scale.md) Conduits emerged, infusing tools, lighting systems, and communication devices. This led to a technological renaissance, where "scale-driven" technologies facilitated [Etheria](/etheria.md)'s resurgence.
 
 ### Arc 85 - 101 - Nexus of Reformation
 - The Council of Elders (ARC 86):  
@@ -67,17 +67,17 @@ The scattered races of [Etheria](/etheria.md) established an overarching peace, 
 
 ### Arc 102 - 118 - Nexus of Discovery
 - Forbidden Sparks and Hidden Wonders (ARC 103):  
-The magical essence of [the scales](/location/landmark/scale/the-scales.md) remained a potent force. The forbidden attempts to penetrate the scales' magical barriers led to sparks of [magic](/structure/mechanic/magic.md). Cities managed to stabilize these sparks, using them as power sources. Yet, deep within the ruins of Kin'Darei, an enigmatic cavity guarded secrets that none could escape. Unbeknownst to many, the forbidden interaction with the scales caused the early signs of corruption to grow, laying the groundwork for the next era of decay.
+The magical essence of the scales remained a potent force. The forbidden attempts to penetrate the scales' magical barriers led to sparks of [magic](/structure/mechanic/magic.md). Cities managed to stabilize these sparks, using them as power sources. Yet, deep within the ruins of Kin'Darei, an enigmatic cavity guarded secrets that none could escape. Unbeknownst to many, the forbidden interaction with the scales caused the early signs of corruption to grow, laying the groundwork for the next era of decay.
 
 ### Arc 119 - 135 - Nexus of Sylph's Sanctuary
-- The Scale Conduit Revelation (ARC 125):  
-A group of individuals discovered a way to harness [magic](/structure/mechanic/magic.md) directly from [the scales](/location/landmark/scale/the-scales.md) using special tools called scalespeakers. These devices resonated with the scale's magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences. Yet, their usage proved perilous, resulting in dire consequences. As corruption crept into the scales, the once-pure conduits began to distort the magic, turning it into dangerous and twisted energy.
+- The [Scale](/location/scale.md) Conduit Revelation (ARC 125):  
+A group of individuals discovered a way to harness [magic](/structure/mechanic/magic.md) directly from the scales using special tools called scalespeakers. These devices resonated with the [scale](/location/scale.md)'s magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences. Yet, their usage proved perilous, resulting in dire consequences. As corruption crept into the scales, the once-pure conduits began to distort the magic, turning it into dangerous and twisted energy.
 
 - The [Ragged Goons](/structure/social/factions/ragged-goons.md)' Pursuit (ARC 131):  
-The emergence of a dangerous group, The [Ragged Goons](/structure/social/factions/ragged-goons.md), threatened [Etheria](/etheria.md)'s delicate balance. Their sole purpose became the search for unprotected scales, exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's equilibrium. With each scale they desecrated, they accelerated the corruption, twisting [the scales](/location/landmark/scale/the-scales.md)’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
+The emergence of a dangerous group, The [Ragged Goons](/structure/social/factions/ragged-goons.md), threatened [Etheria](/etheria.md)'s delicate balance. Their sole purpose became the search for unprotected scales, exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's equilibrium. With each [scale](/location/scale.md) they desecrated, they accelerated the corruption, twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
 
 ### Arc 136 - 152 - Nexus of Corruption
 #### The Arc of Corruption is the defining moment in Etheria's timeline, where the once-bountiful scales and the lands around them become centers of corruption, consuming everything they touch.
 
 Nexus of Corruption: Rise of the Blighted Scales  
-As the corruption spreads, the magical properties of [the scales](/location/landmark/scale/the-scales.md) mutate, becoming twisted versions of their former selves. Their once-pure energies, which once nurtured life and prosperity, are now tainted by a malevolent force, warping the world around them.
+As the corruption spreads, the magical properties of the scales mutate, becoming twisted versions of their former selves. Their once-pure energies, which once nurtured life and prosperity, are now tainted by a malevolent force, warping the world around them.
