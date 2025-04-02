@@ -2,7 +2,7 @@
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1
-date: 2025-04-02T20:17:05.787Z
+date: 2025-04-02T21:07:21.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:20:01.675Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-29T19:20:01.675Z
 
 # The Brazen Burp  
 *A Legendary Tavern in The [City of Or](/location/settlement/city/city-of-or.md)*
+
+![rusty_pluckers_with_miss_terry.png](/world/rusty_pluckers_with_miss_terry.png =500x)
 
 Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge](/location/settlement/city/city-of-or/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
