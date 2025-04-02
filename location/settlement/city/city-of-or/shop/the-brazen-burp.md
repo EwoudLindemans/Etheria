@@ -11,7 +11,7 @@ dateCreated: 2025-03-29T19:20:01.675Z
 # The Brazen Burp  
 *A Legendary Tavern in The [City of Or](/location/settlement/city/city-of-or.md)*
 
-Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge](/location/settlement/city/or/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
+Nestled along the cobbled edge of **Stonegut Row**, just beyond the [Heartforge](/location/settlement/city/city-of-or/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
 ## Ambience & Appearance  
 Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **Flatstone Family** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.
@@ -19,7 +19,7 @@ Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are 
 The entire structure leans slightly to the left—either due to decades of singing or a botched **[Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md)** test nearby.
 
 ## Gundric "Gundy" Alebrow  
-**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/or/council-of-or.md)**, but traded politics for pints.
+**Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**, but traded politics for pints.
 
 ## The Rusty Pluckers  
 The tavern's infamous house band The [Rusty Pluckers](/structure/social/band/rusty-pluckers.md), composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.

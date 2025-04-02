@@ -26,7 +26,7 @@ The Heartforge is a towering edifice of two teardrop shaped stones laced with re
 ## Function and Products
 The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient [scale](/location/scale.md) [magic](/structure/mechanic/magic.md)—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ [Resonance](/structure/mechanic/resonance.md).
 
-Durngar Coalmantle made a instruction manual on how to operate the heartforge named [The Codex of the Heartflame](/location/settlement/city/or/the-codex-of-the-heartflame.md)
+Durngar Coalmantle made a instruction manual on how to operate the heartforge named [The Codex of the Heartflame](/location/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
 
 ### Scalewrought Veins
 Scalewrought Veins pulse with energy, their minerals altered by the lingering essence of [Irion](/being/deity/irion.md). Found only beneath The [Armour of Or](/location/scale/armour-of-or.md), they connect directly to the Heart, radiating its influence. The dwarves and the Order refine these into:
@@ -56,7 +56,7 @@ A signature product of the Heartforge, Veilsteel is a lightweight, near-indestru
 
 ## History
 ### Origins
-The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunneling breached a Veil Thread barrier near The [Passage of Or](/location/settlement/city/or/passage-of-or.md), exposing the Heart’s influence on Scalewrought Veins. The Order proposed the furnace to refine these ores, with [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md) championing its construction despite resistance from Myyra Flatstone.
+The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunneling breached a Veil Thread barrier near The [Passage of Or](/location/settlement/city/city-of-or/district/passage-of-or.md), exposing the Heart’s influence on Scalewrought Veins. The Order proposed the furnace to refine these ores, with [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md) championing its construction despite resistance from Myyra Flatstone.
 
 ### Construction
 Completed over three years, it required:
@@ -71,7 +71,7 @@ Initially forging basic Veilsteel, the Heartforge adapted to process Scaleforged
 The Heartforge is a cornerstone of dwarven identity, revered by Heartsmiths as a sacred tool and celebrated in The Vigil of the Deep, where families forge Vigil Tokens for lost miners. Yet, its reliance on the Heart divides Or—traditionalists decry its foreign influence, while innovators hail it as a new era.
 
 ## Notable Figures
-- [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md): Pushed for the Heartforge’s creation, seeing it as Or’s legacy.
+- [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md): Pushed for the Heartforge’s creation, seeing it as Or’s legacy.
 - Drenna Coalspike: Council member who, after a forging mishap, claims to sense the Heart’s rhythm.
 - The Threadwalker: A Veiled [Iridian](/being/species/iridian.md) overseeing the Memory Shards’ integration.
 

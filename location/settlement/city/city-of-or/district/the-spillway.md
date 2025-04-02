@@ -15,7 +15,7 @@ dateCreated: 2025-03-31T21:01:29.695Z
 ## Overview
 **The Spillway** is one of the busiest districts in the [City of Or](/location/settlement/city/city-of-or.md), functioning as a **transit corridor, trade artery, and pressure valve** between the surface world and the underground heart of the city. It is a place of ramps, cargo sleds, shouting merchants, and overworked lifters.
 
-Straddling the vertical axis of Or, the Spillway connects the Hearthring, [Coalwalk Row](/location/settlement/city/city-of-or/coalwalk-row.md), [Gutterbrew Alley](/location/settlement/city/or/gutterbrew-alley.md), and various freight routes toward deeper forgeworks.
+Straddling the vertical axis of Or, the Spillway connects the Hearthring, [Coalwalk Row](/location/settlement/city/city-of-or/district/coalwalk-row.md), [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md), and various freight routes toward deeper forgeworks.
 
 ## Terrain & Infrastructure
 - **Design:** Steep inclines, metal-reinforced ramps, and pulley-driven cargo lines  

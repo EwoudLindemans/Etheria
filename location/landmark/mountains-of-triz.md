@@ -25,5 +25,5 @@ A nomadic tribe, famous for their deathly traps.
 Dwarves from the [City of Or](/location/settlement/city/city-of-or.md) have been working on creating a safe passage through the Mountains of Triz to [Triz Valley](/location/settlement/city/triz-valley.md) for many years. Work on the tunnels has been slow in recent years.
 
 ## Notable events
-- [Or Flatstone](/location/settlement/city/or/or-flatstone.md) and his band are amongst the first to have found a passage through the Mountains of Triz.
-- [Gorgrath the Brute](/location/settlement/city/or/gorgrath-the-brute.md) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/location/settlement/city/or/or-flatstone.md).
+- [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md) and his band are amongst the first to have found a passage through the Mountains of Triz.
+- [Gorgrath the Brute](/location/settlement/city/city-of-or/local/gorgrath-the-brute.md) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md).

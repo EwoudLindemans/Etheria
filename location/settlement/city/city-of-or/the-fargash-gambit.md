@@ -11,7 +11,7 @@ dateCreated: 2025-03-31T20:54:14.479Z
 # The Fargash Gambit
 
 ## Overview
-The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the [Council of Or](/location/settlement/city/or/council-of-or.md). It marked a pivotal moment in Etherian diplomacy and solidified Or's reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
+The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the [Council of Or](/location/settlement/city/city-of-or/council-of-or.md). It marked a pivotal moment in Etherian diplomacy and solidified Or's reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
 
 ## Prelude
 
@@ -27,9 +27,9 @@ After weeks of unproductive shouting matches between military delegates, Fargash
 
 > “Let’s stop talking to the brass and start talking to the boots.”
 
-His plan was deceptively simple: bypass leadership entirely. Instead of negotiations, the **[Council of Or](/location/settlement/city/or/council-of-or.md)** would issue an **open invitation of refuge** directly to soldiers and their families, offering asylum, stability, and most importantly, a life beyond endless bloodshed.
+His plan was deceptively simple: bypass leadership entirely. Instead of negotiations, the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)** would issue an **open invitation of refuge** directly to soldiers and their families, offering asylum, stability, and most importantly, a life beyond endless bloodshed.
 
-The [Council of Or](/location/settlement/city/or/council-of-or.md)'s vote was initially rejected. But then Fargash, invoking Or-an tradition, challenged four dissenting members to a drinking contest in [the Brazen Burp](/location/settlement/city/or/the-brazen-burp.md) and won. Whether from ale or awe, the plan was approved.
+The [Council of Or](/location/settlement/city/city-of-or/council-of-or.md)'s vote was initially rejected. But then Fargash, invoking Or-an tradition, challenged four dissenting members to a drinking contest in [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md) and won. Whether from ale or awe, the plan was approved.
 
 ## The Execution
 Officially, Or sent caravans bearing ale, food, and supplies to "relieve the wounded." But inside the barrels and crates were **leaflets**, each signed with Or’s sigil and bearing the message:
@@ -56,6 +56,6 @@ The threat of war faded like a fog. With their forces gone and public sentiment 
   No one calls it that.
 
 ## Cultural Notes
-- [The Brazen Burp](/location/settlement/city/or/the-brazen-burp.md) tavern still hosts annual "Gambit Nights" with reenactments, songs, and honorary tankard duels.
+- [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md) tavern still hosts annual "Gambit Nights" with reenactments, songs, and honorary tankard duels.
 - Many descendants of the soldiers who settled now serve in Or’s civic systems or metallurgist guilds.
 - The influx led to the expansion of the [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md), where [scale](/location/scale.md)-resonant housing projects and cultural archives now thrive.

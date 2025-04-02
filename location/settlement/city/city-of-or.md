@@ -9,7 +9,7 @@ dateCreated: 2022-01-24T11:47:02.222Z
 ---
 
 # The City of Or
-Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/location/settlement/city/or/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the scales what is now called The [Armour of Or](/location/scale/armour-of-or.md). The Mines of Or provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
+Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the scales what is now called The [Armour of Or](/location/scale/armour-of-or.md). The Mines of Or provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
 
 ![the_city_of_or.png](/world/the_city_of_or_v2.png =500x)
 
@@ -38,20 +38,20 @@ The City of Or is a city of layered stone and shifting depth, with districts exp
 Immediately beyond the great gate into the mountains lies Stonehollow—a massive vaulted chamber that acts as the **interior city centre** of the Undercity. It is a hub for commerce, ritual, and movement deeper into the mountain.
 
 ### Hearthring
-The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is [home](/home.md) to the Stone Council Hall and [The Brazen Burp](/location/settlement/city/or/the-brazen-burp.md).
+The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is [home](/home.md) to the Stone Council Hall and [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
 
 ### Coalwalk Row
 A rugged residential and working-class district carved along the mountainside, known for its loud community life, local brews, and smithing culture. Proudly [home](/home.md) to miners, crafters, and independent workers.
 
 ### The Spillway
-A steep and chaotic corridor of trade, connecting surface routes and underground freight lines. [The Spillway](/location/settlement/city/or/the-spillway.md) is where goods, scrolls, crates, and tempers move the fastest.
+A steep and chaotic corridor of trade, connecting surface routes and underground freight lines. [The Spillway](/location/settlement/city/city-of-or/district/the-spillway.md) is where goods, scrolls, crates, and tempers move the fastest.
 
 ### Noteworthy Mentions
 - **The [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md)**  
   A mysterious, space-warped city hidden between the halls of the City of Or. Mostly populated by gnomes, it’s said to exist *everywhere and nowhere* at once. Most Orfolk know of it, but few can say exactly how to get there.
   
-- **[Gutterbrew Alley](/location/settlement/city/or/gutterbrew-alley.md)**  
-  An unclaimed and unregulated passage connecting [Coalwalk Row](/location/settlement/city/city-of-or/coalwalk-row.md) and [The Spillway](/location/settlement/city/or/the-spillway.md), filled with experimental brewers, rogue alchemists, and the occasional goblin vending machine. No one governs it, but everyone visits it eventually.
+- **[Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md)**  
+  An unclaimed and unregulated passage connecting [Coalwalk Row](/location/settlement/city/city-of-or/district/coalwalk-row.md) and [The Spillway](/location/settlement/city/city-of-or/district/the-spillway.md), filled with experimental brewers, rogue alchemists, and the occasional goblin vending machine. No one governs it, but everyone visits it eventually.
 
 ### Local Food and Brews
 
@@ -67,15 +67,15 @@ Some of the most iconic brews include:
 
 ## Rulers of Or
 
-Present day, the Great Dwarven Flatstone Family is the richest family on all of [Etheria](/etheria.md). The [Council of Or](/location/settlement/city/or/council-of-or.md) consists of **seventeen members**: **twelve permanent seats** held by the Flatstone family, and **five elected seats** filled every three years during the city's renowned Election Festival. While the Flatstones dominate the council numerically, elected representatives hold strong influence over civil matters. 
+Present day, the Great Dwarven Flatstone Family is the richest family on all of [Etheria](/etheria.md). The [Council of Or](/location/settlement/city/city-of-or/council-of-or.md) consists of **seventeen members**: **twelve permanent seats** held by the Flatstone family, and **five elected seats** filled every three years during the city's renowned Election Festival. While the Flatstones dominate the council numerically, elected representatives hold strong influence over civil matters. 
 
 Crime is not tolerated and is punished harshly—but most citizens agree the council rules with a firm but fair hand.
 
 ## Rumours
-- [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md), the current ruler of Or has not been seen for several months. High-ranking council members claim to still be in contact with him through letters bearing his official signature and seal. Gossip about this situation is spreading through the City of Or like wildfire, with rumours ranging from sickness to a coup by another dwarven family.
-- Deep beneath the City of Or, miners have been disappearing. Some who have returned speak of drums in the stone and strange roars echoing through the tunnels. A few even whisper of ghosts or worse. The [Council of Or](/location/settlement/city/or/council-of-or.md) maintains that nothing is amiss, though adventurers have been seen entering the lower mines on council contracts—and not returning.
-- Bartenders across Or whisper about [Asarazul](/location/settlement/city/city-of-or/asarazul.md), a large, brilliant blue gem said to have been mined long ago from the [Asara Plate](/location/scale/asara-plate.md) and now secretly held by the Flatstone family. Though the Council fiercely denies its existence, many believe it to be a relic of immense magical significance. According to legend, it passed through generations of dwarves and conflicts before arriving in the hands of [Or Flatstone](/location/settlement/city/or/or-flatstone.md) himself—not long after founding the mines. Some even claim it still hums softly in a hidden vault near the [Heartforge](/location/settlement/city/or/heartforge.md).
+- [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md), the current ruler of Or has not been seen for several months. High-ranking council members claim to still be in contact with him through letters bearing his official signature and seal. Gossip about this situation is spreading through the City of Or like wildfire, with rumours ranging from sickness to a coup by another dwarven family.
+- Deep beneath the City of Or, miners have been disappearing. Some who have returned speak of drums in the stone and strange roars echoing through the tunnels. A few even whisper of ghosts or worse. The [Council of Or](/location/settlement/city/city-of-or/council-of-or.md) maintains that nothing is amiss, though adventurers have been seen entering the lower mines on council contracts—and not returning.
+- Bartenders across Or whisper about [Asarazul](/location/settlement/city/city-of-or/asarazul.md), a large, brilliant blue gem said to have been mined long ago from the [Asara Plate](/location/scale/asara-plate.md) and now secretly held by the Flatstone family. Though the Council fiercely denies its existence, many believe it to be a relic of immense magical significance. According to legend, it passed through generations of dwarves and conflicts before arriving in the hands of [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md) himself—not long after founding the mines. Some even claim it still hums softly in a hidden vault near the [Heartforge](/location/settlement/city/city-of-or/heartforge.md).
 
 ## Story
-The truth is that [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md) has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
+The truth is that [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md) has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
 

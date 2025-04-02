@@ -19,7 +19,7 @@ Tankard Trekkers are **licensed adventurers**, most commonly halflings, who jour
 Their authority is recognized in Or and respected (or feared) elsewhere. They wield the sacred **Right of the Last Pour**, can bless taverns with long life, and—on rare, somber occasions—**revoke licenses**, condemning a pub to silence.
 
 ## Origins  
-The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three halflings from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/location/settlement/city/or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
+The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three halflings from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/location/settlement/city/city-of-or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
 
 Since then, halflings have traditionally passed the title from elder to apprentice, though humans, dwarves, and even the occasional orc have earned the right to carry the Tankard.
 

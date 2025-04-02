@@ -55,7 +55,7 @@ A group of explorers stumbled upon a strange, massive [scale](/location/scale.md
 
 - The Era of [Scale](/location/scale.md) Sanctuaries and Scale-Backed Architecture (ARC 58):  
 Survivors of [The Collapse](/structure/chronological/event/the-collapse.md) discovered the unique properties of concentrated magical scales. These scales emitted a soothing energy that repelled dangerous creatures. Settlements formed around these [Scale](/location/scale.md) Sanctuaries, using the immense scales as natural defenses against the post-collapse dangers.  
-This ARC was triggered by the digging of [Or Flatstone](/location/settlement/city/or/or-flatstone.md)
+This ARC was triggered by the digging of [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md)
 
 ### Arc 68 - 84 - Nexus of Arcane Infusion
 - The Technological Renaissance (ARC 74):  
