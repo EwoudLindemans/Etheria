@@ -2,13 +2,15 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-04-02T19:07:35.338Z
+date: 2025-04-02T19:08:27.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
 ---
 
 # Poppy Handyleaf – The Tinkering Star of OR  
+
+![poppy-handyleaf.webp](/characters/poppy-handyleaf/poppy-handyleaf.webp =500x)
 
 Poppy Handyleaf was never quite like the others. Among the chattering gnomes of The [City of OR](/location/settlement/city/city-of-or.md) winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
 
@@ -37,7 +39,6 @@ A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor sco
 
 OR is her [home](/home.md), but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
 
-> ![poppy-handyleaf.webp](/characters/poppy-handyleaf/poppy-handyleaf.webp)
 > # Poppy Handyleaf
 > ---
 > - Small humanoid (Aasimar), Chaotic Neutral
