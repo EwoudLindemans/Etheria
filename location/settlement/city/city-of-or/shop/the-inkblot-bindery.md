@@ -2,13 +2,15 @@
 title: The Inkblot Bindery
 description: 
 published: 1
-date: 2025-04-02T20:26:47.980Z
+date: 2025-04-02T20:54:04.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T20:10:24.868Z
 ---
 
 # The Inkblot Bindery
+
+![the-inkblot-bindery.png](/world/the-inkblot-bindery.png =500x)
 
 ## Introduction: A Bookstore Where There Should Be None
 
