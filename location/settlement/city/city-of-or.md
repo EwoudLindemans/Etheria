@@ -2,7 +2,7 @@
 title: The Dwarven City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-04-02T13:38:23.212Z
+date: 2025-04-02T13:41:15.794Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -74,7 +74,7 @@ Crime is not tolerated and is punished harshly—but most citizens agree the cou
 ## Rumours
 - [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md), the current ruler of Or has not been seen for several months. High-ranking council members claim to still be in contact with him through letters bearing his official signature and seal. Gossip about this situation is spreading through the City of Or like wildfire, with rumours ranging from sickness to a coup by another dwarven family.
 - Deep beneath the City of Or, miners have been disappearing. Some who have returned speak of drums in the stone and strange roars echoing through the tunnels. A few even whisper of ghosts or worse. The Council of Or maintains that nothing is amiss, though adventurers have been seen entering the lower mines on council contracts—and not returning.
-- Bartenders across Or whisper about **Asarazul**, a large, brilliant blue gem said to have been mined long ago from the Asara Plate and now secretly held by the Flatstone family. Though the Council fiercely denies its existence, many believe it to be a relic of immense magical significance. According to legend, it passed through generations of dwarves and conflicts before arriving in the hands of Or Flatstone himself—not long after founding the mines. Some even claim it still hums softly in a hidden vault near the Heartforge.
+- Bartenders across Or whisper about [Asarazul](/location/settlement/city/or/asarazul.md), a large, brilliant blue gem said to have been mined long ago from the Asara Plate and now secretly held by the Flatstone family. Though the Council fiercely denies its existence, many believe it to be a relic of immense magical significance. According to legend, it passed through generations of dwarves and conflicts before arriving in the hands of Or Flatstone himself—not long after founding the mines. Some even claim it still hums softly in a hidden vault near the Heartforge.
 
 ## Story
 The truth is that [Karath Flatstone](/location/settlement/city/or/karath-flatstone.md) has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
