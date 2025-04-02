@@ -2,7 +2,7 @@
 title: Eldeviérs Shell
 description: 
 published: 1
-date: 2025-04-02T19:22:08.155Z
+date: 2025-04-02T19:39:06.003Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-09T14:30:55.811Z

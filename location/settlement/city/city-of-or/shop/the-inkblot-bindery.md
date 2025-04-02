@@ -2,7 +2,7 @@
 title: The Inkblot Bindery
 description: 
 published: 1
-date: 2025-04-02T20:26:46.478Z
+date: 2025-04-02T20:26:47.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T20:10:24.868Z

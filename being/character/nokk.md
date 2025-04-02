@@ -2,7 +2,7 @@
 title: Nokk the Brave
 description: 
 published: 1
-date: 2025-04-01T22:44:39.966Z
+date: 2025-04-01T22:56:03.139Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z

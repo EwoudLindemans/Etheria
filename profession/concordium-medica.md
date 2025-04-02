@@ -2,7 +2,7 @@
 title: The Concordium Medica
 description: 
 published: 1
-date: 2025-04-01T22:30:13.008Z
+date: 2025-04-02T19:39:27.690Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:31:51.678Z
