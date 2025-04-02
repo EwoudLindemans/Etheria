@@ -2,7 +2,7 @@
 title: Tallis Thorne
 description: Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
 published: 1
-date: 2025-04-02T19:53:18.825Z
+date: 2025-04-02T20:56:36.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
@@ -10,6 +10,8 @@ dateCreated: 2025-03-31T09:25:15.203Z
 
 # Tallis Thorne  
 *A Half-Elf of Undisputed Mystery and Self-Endorsed Greatness*
+
+![thalis-thorne.png](/characters/thalis-thorne.png =500x)
 
 > “History is best told by those who made it, and I—modestly—made most of it worth telling.”*  
 > — **Tallis Thorne**, in *An Autobiography So Good It Wrote Itself*
