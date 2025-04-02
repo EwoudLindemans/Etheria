@@ -2,7 +2,7 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-04-02T19:08:27.954Z
+date: 2025-04-02T19:10:08.398Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
@@ -73,5 +73,4 @@ OR is her [home](/home.md), but the world is her workshop. And as long as there 
 >
 > **Homunculus Assist.** Poppy’s homunculus can use the Help action as a bonus action on her turn.  
 >
-> poppy-handyleaf-character-sheet.pdf
 >{.dnd}
