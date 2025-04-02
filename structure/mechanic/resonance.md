@@ -2,7 +2,7 @@
 title: Resonance
 description: The magical current that flows from the scales and shapes Etheria.
 published: 1
-date: 2025-04-02T18:49:12.825Z
+date: 2025-04-02T20:00:15.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T18:48:43.068Z
@@ -12,7 +12,7 @@ dateCreated: 2025-04-02T18:48:43.068Z
 
 Resonance is the arcane pulse flowing through [Etheria](/etheria.md)—a phenomenon neither entirely [magic](/structure/mechanic/magic.md) nor wholly natural, yet inseparable from both. It is born from the immense scales left behind by [Irion](/being/deity/irion.md) during [The Collapse](/structure/chronological/event/the-collapse.md), and it continues to emanate from them even ARC's later. These colossal plates, embedded across the land, emit steady magical pulses that ripple across the surface of the world. These pulses, echoing outward in ever-shifting waves, are what scholars have come to call **resonance**.
 
-It is not spellwork. It is not divine. It is not even consistent. It is a living rhythm—a flowing undercurrent of magical force that bends the land, and reacts to the presence and intent of those who inhabit it. The people of [Etheria](/etheria.md) do not simply *follow* resonance; they *shape* it. It responds not to their wishes, but to their presence, their movement, their choices.
+It is not spellwork. It is not divine. It is not even consistent. It is a living rhythm—a flowing undercurrent of magical force that bends the land, and reacts to the presence and intent of those who inhabit it. The people of [Etheria](/etheria.md) do not simply *follow* resonance; they *shape* it. It responds not to their wishes, but to their presence, their movement, their choices. Perhaps it even could be [the oblique concord](/structure/social/factions/the-oblique-concord) who knows.
 
 ## A River of Power
 
