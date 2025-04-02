@@ -2,7 +2,7 @@
 title: Dottie Copperlocks
 description: 
 published: 1
-date: 2025-04-02T20:46:37.901Z
+date: 2025-04-02T20:52:22.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T20:43:52.646Z
@@ -54,6 +54,8 @@ She is never surprised to see them.
 She only ever says, “Oh. It’s you.”
 
 And then offers them a biscuit.
+
+- Knows Silke Handyleaf (Mother of Poppy Handyleaf)
 
 ## Personality Notes (Observed)
 
