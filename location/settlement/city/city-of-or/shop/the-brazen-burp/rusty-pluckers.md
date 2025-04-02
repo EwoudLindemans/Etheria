@@ -2,7 +2,7 @@
 title: Rusty Pluckers
 description: 
 published: 1
-date: 2025-04-02T20:59:37.690Z
+date: 2025-04-02T21:07:01.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:07:05.769Z
@@ -12,11 +12,7 @@ dateCreated: 2025-03-29T21:07:05.769Z
 
 *A legendary tavern band known for their enthusiasm, talent, and occasional chaos.*
 
-| Band | Poster |
-| -- | -- |
-| ![rusty_pluckers.png](/world/rusty_pluckers.png =x500) | ![rusty_pluckers_poster.png](/world/rusty_pluckers_poster.png =x500) |
-
-
+![the-rusty-pluckers.png](/world/the-rusty-pluckers.png =500x)
 
 ## Overview
 The Rusty Pluckers are the **in-house band of [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)**, a renowned establishment in **The [City of Or](/location/settlement/city/city-of-or.md)**. Once adventurers, they traded weapons for instruments and found their true calling in music. Their performances are a mix of raw talent, unpredictable antics, and deep-rooted camaraderie. Though they perform solo, they are also known as the **unofficial backing band for [Miss Terry](/being/character/miss-terry.md)**, the jolly Tiefling bard. Their collaboration has led to the band promoting itself as **"Miss Terry and The Rusty Pluckers"**, an unexpected fusion that attracts crowds from opposite ends of the musical spectrum.
