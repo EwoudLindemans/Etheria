@@ -14,7 +14,7 @@ The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/l
 
 ## Origins: The Spark of Defiance (Arc 131)
 
-The Goons trace their roots to a disaster in **[Triz Valley](/location/settlement/city/triz-valley.md)**, where a botched attempt to harness a **Hidden [Scale](/location/scale.md)** conduit unleashed wild [magic](/structure/mechanic/magic.md), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring the scales theirs to claim, Ruk led his band into the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**, clashing with **Gurdalk’s Gang** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
+The Goons trace their roots to a disaster in **[Triz Valley](/location/settlement/city/triz-valley.md)**, where a botched attempt to harness a **Hidden [Scale](/location/scale.md)** conduit unleashed wild [magic](/structure/mechanic/magic.md), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring the scales theirs to claim, Ruk led his band into the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**, clashing with **[Gurdalk’s Gang](/location/landmark/mountains-of-triz/gurdalks-gang.md)** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
 
 ## Creed and Culture
 
@@ -42,7 +42,7 @@ As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos
 
 ## The Goons Today (Arc 152)
 
-Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from Gurdalk’s Gang, leads a brutal remnant near [Triz Valley](/location/settlement/city/triz-valley.md), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/location/settlement/city/mohinders.md)**, cracked **Batès Lamina**, and rattled **The [City of Or](/location/settlement/city/city-of-or.md)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an [Iridian](/being/species/iridian.md) rebirth, or a hidden essence cache in the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**.
+Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from [Gurdalk’s Gang](/location/landmark/mountains-of-triz/gurdalks-gang.md), leads a brutal remnant near [Triz Valley](/location/settlement/city/triz-valley.md), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/location/settlement/city/mohinders.md)**, cracked **Batès Lamina**, and rattled **The [City of Or](/location/settlement/city/city-of-or.md)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an [Iridian](/being/species/iridian.md) rebirth, or a hidden essence cache in the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**.
 
 ## Legacy and Impact
 
