@@ -2,7 +2,7 @@
 title: The City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-04-02T19:53:20.430Z
+date: 2025-04-02T20:35:17.339Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
