@@ -22,11 +22,11 @@ Nowadays, Triz is a stewpot of cultures and ambitions. You’ll hear a dozen dia
 
 ## Where Every Stone Is for Sale
 
-Trade is the lifeblood of Triz Valley, pulsing day and night through muddy lanes and market stalls. Miners drag cartloads of ore up from the belly of the mountain, farmers haul sacks of golden grain down from the angled fields of the Asara Plate, and somewhere between the two, goblin guides haggle for coin, bragging of “safer than average” routes through the mountains.
+Trade is the lifeblood of Triz Valley, pulsing day and night through muddy lanes and market stalls. Miners drag cartloads of ore up from the belly of the mountain, farmers haul sacks of golden grain down from the angled fields of the [Asara Plate](/location/scale/asara-plate.md), and somewhere between the two, goblin guides haggle for coin, bragging of “safer than average” routes through the mountains.
 
 The area has many quarries. Marble, limestone, onyx, andesite and granite all important export product for Triz Valley, used as building materials and by many artists throughout the continent.
 
-The **Flatstone family**—wealthy dwarves from the City of Or—have secured exclusive trade contracts with key goblin clans, stabilising the economy while driving up prices. Some say the goblins got the better end of the deal; others claim the Flatstones always play the long game. No one seems to mind much, as long as the ale keeps flowing and the roads stay passable.
+The **Flatstone family**—wealthy dwarves from the [City of Or](/location/settlement/city/city-of-or.md)—have secured exclusive trade contracts with key goblin clans, stabilising the economy while driving up prices. Some say the goblins got the better end of the deal; others claim the Flatstones always play the long game. No one seems to mind much, as long as the ale keeps flowing and the roads stay passable.
 
 ## Sights, Sounds, and Scams
 
@@ -40,7 +40,7 @@ Above it all looms the **Triz Watchtower**, built on the slope of a hill, leanin
 
 But not everything in Triz is laughter and ledgers. Beneath the valley stretch ancient tunnels—some carved by dwarves, others by things less easily named. There are whispers of **strange echoes** in the deep, of glowing ore that sings when touched, and of miners who return changed, or not at all.
 
-Some say there’s a **hidden Scale fragment** buried beneath the town, pulsing with dormant resonance. Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
+Some say there’s a **hidden [Scale](/location/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/structure/mechanic/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
 
 The **officials of Or** dismiss such tales, of course. But Or maintains a quiet diplomatic presence in Triz all the same—just a few envoys and accountants. Just in case.
 

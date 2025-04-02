@@ -10,7 +10,7 @@ dateCreated: 2025-04-02T21:33:46.916Z
 
 # Gurdalk’s Gang
 
-Deep within the winding canyons and claustrophobic tunnels of the **Mountains of Triz**, there lurks a name spoken with hushed awe and wary respect: **Gurdalk’s Gang**.
+Deep within the winding canyons and claustrophobic tunnels of the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**, there lurks a name spoken with hushed awe and wary respect: **Gurdalk’s Gang**.
 
 More than a nomadic goblin tribe, they are a legend etched in blood, brass, and clever cruelty. Feared by merchants, whispered about by guides, and studied (fruitlessly) by tactical scholars, Gurdalk’s Gang are **masters of guerrilla warfare and theatrical engineering**, turning the treacherous mountain range into a living trap.
 
@@ -34,7 +34,7 @@ Unlike most raiders, Gurdalk’s Gang doesn’t hoard. Instead, they **leave tre
 
 To touch one is to gamble your life. Some traps are real. Some are fake. Some are **both**. Entire warbands have vanished chasing a single glittering lure.
 
-As the saying in Triz Valley goes:
+As the saying in [Triz Valley](/location/settlement/city/triz-valley.md) goes:
 > *“If the treasure’s smiling at you, Gurdalk’s already laughing.”*
 
 ## Who Is Gurdalk?
@@ -50,7 +50,7 @@ The gang still operates, more active than ever. Traps grow more complex, tactics
 
 ## Presence in Triz Valley
 
-To the folk of **Triz Valley**, Gurdalk’s Gang is more than a danger—they are an **unpredictable force of nature**. Every **missing caravan**, every **unnerved survivor**, every **guide that turns back early** is linked to them, whether proven or not.
+To the folk of **[Triz Valley](/location/settlement/city/triz-valley.md)**, Gurdalk’s Gang is more than a danger—they are an **unpredictable force of nature**. Every **missing caravan**, every **unnerved survivor**, every **guide that turns back early** is linked to them, whether proven or not.
 
 A few shops sell "anti-Gurdalk talismans"—feathers, mirrored charms, boots with reversed soles—but most are useless, and their sellers long since robbed.
 

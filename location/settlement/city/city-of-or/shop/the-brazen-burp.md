@@ -24,7 +24,7 @@ The entire structure leans slightly to the left—either due to decades of singi
 **Owner, barkeep, and quiet monarch of mischief**, Gundy runs the place with a memory sharper than a dwarven battleaxe. **Heavyset, bald, and ever-watchful**, he speaks rarely but carries an uncanny sense of timing. Many believe he once worked with the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**, but traded politics for pints.
 
 ## The Rusty Pluckers  
-The tavern's infamous house band The [Rusty Pluckers](/structure/social/band/rusty-pluckers.md), composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
+The tavern's infamous house band The [Rusty Pluckers](/location/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md), composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
 
 ## Notable Regulars  
 - **[Miss Terry](/being/character/miss-terry.md)** – Tiefling bard, **heartbreaker and harmony-bringer**. Wields a lute and sarcasm with equal flair.  
@@ -75,6 +75,6 @@ Wanderers from **[Triz Valley](/location/settlement/city/triz-valley.md)**, **th
 
 ## Notes
 
-**The Brazen Burp** remains a cornerstone of **Or’s** cultural identity, where laughter battles sorrow nightly, and no one questions why the walls occasionally hum in harmony with the [Rusty Pluckers](/structure/social/band/rusty-pluckers.md).
+**The Brazen Burp** remains a cornerstone of **Or’s** cultural identity, where laughter battles sorrow nightly, and no one questions why the walls occasionally hum in harmony with the [Rusty Pluckers](/location/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md).
 
 Raise your tankard. Just maybe not a third time.

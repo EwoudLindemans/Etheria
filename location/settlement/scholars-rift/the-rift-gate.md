@@ -9,7 +9,7 @@ dateCreated: 2025-03-05T00:21:54.523Z
 ---
 
 # The Rift Gate
-The **only** way in and out of The Scholar’s Rift, this swirling **unstable portal** only opens for those deemed “worthy.”  
+The **only** way in and out of The [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md), this swirling **unstable portal** only opens for those deemed “worthy.”  
 
 - Most scholars assume the Rift Gate selects people **based on magical aptitude**...  
 - ...but then **Barty Dunderfield**—a man with **zero magical talent**—walked right through, so the theory is *under review*.  
@@ -26,7 +26,7 @@ At the peak of his exploration, something went wrong—or perhaps, went exactly 
 
 Yet historical records made it clear: The Rift Gate had already existed before [Nokk](/being/character/nokk.md)’s birth.
 
-To complicate matters further, ancient texts discovered within The Scholar’s Rift describe a blue-skinned figure standing at the Gate’s creation—a figure resembling [Nokk](/being/character/nokk.md) in every way. Whether this is proof of time-looped causality, an artifact of the Rift’s own nature, or something beyond mortal comprehension remains unknown.
+To complicate matters further, ancient texts discovered within The [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) describe a blue-skinned figure standing at the Gate’s creation—a figure resembling [Nokk](/being/character/nokk.md) in every way. Whether this is proof of time-looped causality, an artifact of the Rift’s own nature, or something beyond mortal comprehension remains unknown.
 
 [Nokk](/being/character/nokk.md) himself has stopped trying to explain it. Instead, he accepts the paradox as an immutable truth—one of many mysteries he is determined to unravel.
 
