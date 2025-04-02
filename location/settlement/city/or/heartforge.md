@@ -12,19 +12,19 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 <audio controls="1" controlslist="noplaybackrate" src="/music/heartforge_song_of_or.mp3"></audio>
 
-The Heartforge is a legendary furnace carved deeply underground on top of The [Armour of Or](/location/landmark/scale/armour-of-or.md), the largest and most deeply excavated of [Etheria](/etheria.md)’s magical scales, within the dwarven stronghold of The [City of Or](/location/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic Resonance Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of The [Armour of Or](/location/landmark/scale/armour-of-or.md), the largest and most deeply excavated of [Etheria](/etheria.md)’s magical scales, within the dwarven stronghold of The [City of Or](/location/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC).
 
 ![heartforge_v2.png](/world/heartforge_v2.png =500x)
 
 ## Structure and Design
-The Heartforge is a towering edifice of two teardrop shaped stones laced with red veins from the [Armour of Or](/location/landmark/scale/armour-of-or.md). Standing next to each other it looks like a heart, Its central chamber channels the Scale's rhythmic energy through fissures lined with Rune's that pulse with resonance. Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
+The Heartforge is a towering edifice of two teardrop shaped stones laced with red veins from the [Armour of Or](/location/landmark/scale/armour-of-or.md). Standing next to each other it looks like a heart, Its central chamber channels the Scale's rhythmic energy through fissures lined with Rune's that pulse with [resonance](/structure/mechanic/resonance.md). Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
 
 - Height: 40 feet, dominating its cavern.
-- Fuel: The [Armour of Or](/location/landmark/scale/armour-of-or.md)'s Resonance
+- Fuel: The [Armour of Or](/location/landmark/scale/armour-of-or.md)'s [Resonance](/structure/mechanic/resonance.md)
 - Output: Veilsteel, Scaleforged Ores, and advanced Alloys.
 
 ## Function and Products
-The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient scale [magic](/structure/mechanic/magic.md)—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ Resonance.
+The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient scale [magic](/structure/mechanic/magic.md)—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ [Resonance](/structure/mechanic/resonance.md).
 
 Durngar Coalmantle made a instruction manual on how to operate the heartforge named [The Codex of the Heartflame](/location/settlement/city/or/the-codex-of-the-heartflame.md)
 

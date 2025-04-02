@@ -17,12 +17,12 @@ Magic in [Etheria](/etheria.md) is not a system—it is a consequence. When the 
 
 ## The Five Known Scales
 
-Each Scale is a titan's shard, with different magical properties based on its structure, color, and resonance. Communities have formed around these scales, using their ambient magic for survival, innovation, and control. However, each use of this magic deepens a hidden cost—**corruption**.
+Each Scale is a titan's shard, with different magical properties based on its structure, color, and [resonance](/structure/mechanic/resonance.md). Communities have formed around these scales, using their ambient magic for survival, innovation, and control. However, each use of this magic deepens a hidden cost—**corruption**.
 
 | Scale Name        | Description                                          | Magical Character |
 |-------------------|------------------------------------------------------|-------------------|
 | **[Armour of Or](/location/landmark/scale/armour-of-or.md)**  | Largest, crystalline red-white beneath tundra       | Heat, pressure, metallurgy |
-| **Batès Lamina**  | Smallest, radiant red, in a sacred lake              | Calm, spiritual resonance |
+| **Batès Lamina**  | Smallest, radiant red, in a sacred lake              | Calm, spiritual [resonance](/structure/mechanic/resonance.md) |
 | **[Eldeviérs Shell](/location/landmark/scale/eldeviérs-shell.md)** | Opal spire holding [Mohinders](/location/settlement/city/mohinders.md) in the air            | Healing, levitation, light |
 | **Umperas Hull**  | Wall-like yellow, broken top                         | Defense, warding |
 | **The [Asara Plate](/location/landmark/scale/asara-plate.md)** | Broken blue scale with crystalline reflections    | Illusion, perception manipulation |
@@ -34,7 +34,7 @@ Each Scale is a titan's shard, with different magical properties based on its st
 Raw magic leaks from breaches or natural vents in [the scales](/location/landmark/scale/the-scales.md), forming **Sparks**—chaotic bursts of energy. These sparks can be harnessed, refined, or left to dangerously evolve. Stabilizing them is extremely difficult, and forbidden in most places due to historical disasters like **Kin'Darei**.
 
 ### ✦ **Scale Conduits**
-Arcane infrastructure formed around scales allows cities to draw sustainable magic through engineered resonance chambers. This is common in cities like **Or** (through metallurgy) and **[Mohinders](/location/settlement/city/mohinders.md)** (through floating portals and healing).
+Arcane infrastructure formed around scales allows cities to draw sustainable magic through engineered [resonance](/structure/mechanic/resonance.md) chambers. This is common in cities like **Or** (through metallurgy) and **[Mohinders](/location/settlement/city/mohinders.md)** (through floating portals and healing).
 
 ### ✦ **Iridian Manifestations**
 When raw magic interacts with organic matter and elemental energy, **Iridians** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby scales, but independent of magical consumption.
@@ -45,7 +45,7 @@ The scale-connected dimension known as **[The Dense](/location/area/the-dense.md
 ## Rules & Risks
 
 - **No New Breaches:** Creating new openings in a scale is taboo and often punishable by death. The reasons are not just cultural—uncontrolled scale breaches have resulted in entire cities becoming cursed, warped, or erased.
-- **Magical Corruption:** Overuse or exploitation of scale magic gradually corrupts both land and soul. The timeline of [Etheria](/etheria.md) is divided by **Aurorhythmic Resonance Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
+- **Magical Corruption:** Overuse or exploitation of scale magic gradually corrupts both land and soul. The timeline of [Etheria](/etheria.md) is divided by **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
 - **Scale Exposure Effects:** Long-term exposure to raw scale magic can result in:
   - Elemental mutations
   - Temporal disjunctions
@@ -55,13 +55,13 @@ The scale-connected dimension known as **[The Dense](/location/area/the-dense.md
 ## Institutional Approaches
 
 ### ☼ **The Scholar's Rift**
-A metaphysically concealed research enclave accessible only by [arcane resonance](/class/sorcerer/subclass/arcane-resonance.md) compatibility. It stabilizes scale studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
+A metaphysically concealed research enclave accessible only by arcane [resonance](/structure/mechanic/resonance.md) compatibility. It stabilizes scale studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
 
 ### ☼ **The City of Or**
 Dwarves master **[Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md)**, fusing ore with scale-essence through **Core Heat** derived from the [Armour of Or](/location/landmark/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
 
 ### ☼ **Followers of Irion**
-Religious protectors of **Batès Lamina**. They believe scale magic is the remaining soul of [Irion](/being/deity/irion.md) and practice harmony through spiritual resonance and sound-based rituals.
+Religious protectors of **Batès Lamina**. They believe scale magic is the remaining soul of [Irion](/being/deity/irion.md) and practice harmony through spiritual [resonance](/structure/mechanic/resonance.md) and sound-based rituals.
 
 ## Technological & Cultural Influence
 

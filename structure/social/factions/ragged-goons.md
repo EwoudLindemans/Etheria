@@ -24,7 +24,7 @@ The Ragged Goons live by a creed of chaos over control, survival over tradition.
 - **Weapons**: 
   - **Splinterguns**: Ramshackle firearms that shoot jagged scale shards, prone to misfiring but deadly when they hit.
   - **Rattlepacks**: Explosive satchels charged with corrupted [magic](/structure/mechanic/magic.md), as dangerous to the user as the target.
-- **Mark of the Goon**: Members scar themselves with scale dust, creating glowing, jagged tattoos that flare near a scale’s resonance—an alert system and badge of loyalty.
+- **Mark of the Goon**: Members scar themselves with scale dust, creating glowing, jagged tattoos that flare near a scale’s [resonance](/structure/mechanic/resonance.md)—an alert system and badge of loyalty.
 
 ## Key Tales
 
@@ -38,7 +38,7 @@ The Goons’ rivalry with the **Scalebreakers** erupted at **Batès Lamina**, wh
 
 ### The Chorus Gambit (Arc 151)
 
-As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/location/settlement/city/city-of-or.md)**, planting a stolen **Resonance Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
+As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/location/settlement/city/city-of-or.md)**, planting a stolen **[Resonance](/structure/mechanic/resonance.md) Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
 
 ## The Goons Today (Arc 152)
 
@@ -46,7 +46,7 @@ Ruk’s death fractured the Goons, but their spirit persists in scattered crews.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Etheria](/etheria.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading resonance. Their tales of grit and ruin echo across Etheria, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The Ragged Goons are [Etheria](/etheria.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Etheria, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

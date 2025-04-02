@@ -17,10 +17,10 @@ At the heart of this cosmic balance is **[Irion](/being/deity/irion.md)’s Will
 
 The life cycle of a [deity](/structure/mechanic/deity.md) follows these core principles:
 
-- **Resonance Convergence** – When a new belief grows strong enough, a [deity](/structure/mechanic/deity.md) emerges to embody it.
-- **Resonance Drift** – A [deity](/structure/mechanic/deity.md) may move to another Scale if belief there becomes more aligned with its nature.
-- **Resonance Fade** – If faith wanes, a [deity](/structure/mechanic/deity.md) does not die but lingers as an imprint, waiting for belief to restore it.
-- **Resonance Weave** – Where scales overlap, divine domains may blend, forming unique hybrid deities.
+- **[Resonance](/structure/mechanic/resonance.md) Convergence** – When a new belief grows strong enough, a [deity](/structure/mechanic/deity.md) emerges to embody it.
+- **[Resonance](/structure/mechanic/resonance.md) Drift** – A [deity](/structure/mechanic/deity.md) may move to another Scale if belief there becomes more aligned with its nature.
+- **[Resonance](/structure/mechanic/resonance.md) Fade** – If faith wanes, a [deity](/structure/mechanic/deity.md) does not die but lingers as an imprint, waiting for belief to restore it.
+- **[Resonance](/structure/mechanic/resonance.md) Weave** – Where scales overlap, divine domains may blend, forming unique hybrid deities.
 
 Some deities manipulate faith to survive, shifting their domains or merging with rivals. Others passively endure, sustained by deep traditions. A few accept their decline, fading into echoes.
 
@@ -31,14 +31,14 @@ For a time, the Ancient Gods guided mortal societies, shaping the world through 
 
 This era of divine warfare became known as the **War of Equal Balance**. The gods, bound by their immortality, could not be slain—but they could not allow one another to reign supreme. Their battles shattered civilizations, causing faith to fracture across [Etheria](/etheria.md).
 
-It was then that the mortals rebelled. A coalition of scholars, warriors, and rogue deities—**the Alliance of Adequate Resolve**—devised a way to sever the gods from [Etheria](/etheria.md). They enacted a great ritual that forcibly **Resonance Faded** the Ancient Gods, imprisoning them in the void between realms. Their divine forms were sealed within statues, altars, and monuments, transforming them into mere echoes of their former selves.
+It was then that the mortals rebelled. A coalition of scholars, warriors, and rogue deities—**the Alliance of Adequate Resolve**—devised a way to sever the gods from [Etheria](/etheria.md). They enacted a great ritual that forcibly **[Resonance](/structure/mechanic/resonance.md) Faded** the Ancient Gods, imprisoning them in the void between realms. Their divine forms were sealed within statues, altars, and monuments, transforming them into mere echoes of their former selves.
 
-Thus, the modern divine system was born. **[Irion](/being/deity/irion.md)’s Will**, once shattered, stabilized [Etheria](/etheria.md) by ensuring that no [deity](/structure/mechanic/deity.md) could ever again rise unchecked. Since that time, deities have only emerged through **Resonance Convergence**, shaped purely by mortal faith rather than divine ambition.
+Thus, the modern divine system was born. **[Irion](/being/deity/irion.md)’s Will**, once shattered, stabilized [Etheria](/etheria.md) by ensuring that no [deity](/structure/mechanic/deity.md) could ever again rise unchecked. Since that time, deities have only emerged through **[Resonance](/structure/mechanic/resonance.md) Convergence**, shaped purely by mortal faith rather than divine ambition.
 
 ## The Black Hole & The Cosmic Paradox
 Though the Ancient Gods were cast into exile, their power was not fully extinguished. Their lingering influence pooled within a celestial phenomenon known as **the Black Hole**—a void that hungers for belief and divine energy. Some say this is where **[Irion](/being/deity/irion.md)’s** last remnants slumber, subtly guiding [Etheria](/etheria.md)’s fate. Others fear it is a prison, holding something far older and more dangerous than even the gods.
 
-The Black Hole serves as the ultimate **Resonance Anchor**, absorbing excess divine power and preventing the rise of uncontrolled deities. It ensures the balance of faith, stopping any single god from dominating all of [Etheria](/etheria.md). However, should the barriers weaken, the Ancient Gods—or something far worse—may yet return.
+The Black Hole serves as the ultimate **[Resonance](/structure/mechanic/resonance.md) Anchor**, absorbing excess divine power and preventing the rise of uncontrolled deities. It ensures the balance of faith, stopping any single god from dominating all of [Etheria](/etheria.md). However, should the barriers weaken, the Ancient Gods—or something far worse—may yet return.
 
 Even now, scattered ruins, forgotten altars, and secret cults seek to restore the old gods. If enough belief gathers, an Ancient God may **Resonate Back** into existence, returning in a new form shaped by the faith of the modern era.
 

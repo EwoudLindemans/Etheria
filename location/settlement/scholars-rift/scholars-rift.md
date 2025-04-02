@@ -9,7 +9,7 @@ dateCreated: 2025-04-01T21:45:37.357Z
 ---
 
 # The Scholar’s Rift
-The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and resonance converge. It resides in [The Dense](/location/area/the-dense.md)
+The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and [resonance](/structure/mechanic/resonance.md) converge. It resides in [The Dense](/location/area/the-dense.md)
 
 ## **The Leader: Barty Dunderfield**
 **Name:** Barty Dunderfield  
@@ -42,23 +42,23 @@ At The Scholar's Rift, every Echo creates a new ripple in the learning process�
 
 ### **Echoes of Flux**
 
-Deryn Graff was always a bit of a wildcard. Fresh out of the First-tier, Deryn had an undeniable knack for pushing boundaries, especially when it came to experimenting with resonance. Her approach was unorthodox—often a little too unorthodox for her peers. Imagine one day, she shows up in class with a fireball that’s not quite a fireball but more of a "floating, slightly singed orb of potential." Thaxton Veridale, second-tier and a stickler for tradition, could barely contain his frustration. He had no patience for Deryn’s reckless methods. "This isn't a circus," he would mutter, but secretly, he admired her boldness, even if it irked him.
+Deryn Graff was always a bit of a wildcard. Fresh out of the First-tier, Deryn had an undeniable knack for pushing boundaries, especially when it came to experimenting with [resonance](/structure/mechanic/resonance.md). Her approach was unorthodox—often a little too unorthodox for her peers. Imagine one day, she shows up in class with a fireball that’s not quite a fireball but more of a "floating, slightly singed orb of potential." Thaxton Veridale, second-tier and a stickler for tradition, could barely contain his frustration. He had no patience for Deryn’s reckless methods. "This isn't a circus," he would mutter, but secretly, he admired her boldness, even if it irked him.
 
-Serenna Forthwind, the third-tier Scalespeaker and the class’s voice of reason, had seen it all. She would watch as Deryn’s experiments caused Thaxton’s meticulous plans to unravel, but Serenna wouldn’t interfere. She was a philosopher at heart, someone who understood that chaos was often the prelude to great discoveries. "Let them learn," she’d say calmly, taking another sip of tea as a small explosion rattled the classroom. Despite her age, Serenna found herself intrigued by Deryn’s methods and amused by Thaxton’s stiff reactions. Both students had potential, and Serenna knew it would only take time before their paths crossed in a way that would change the world of resonance.
+Serenna Forthwind, the third-tier Scalespeaker and the class’s voice of reason, had seen it all. She would watch as Deryn’s experiments caused Thaxton’s meticulous plans to unravel, but Serenna wouldn’t interfere. She was a philosopher at heart, someone who understood that chaos was often the prelude to great discoveries. "Let them learn," she’d say calmly, taking another sip of tea as a small explosion rattled the classroom. Despite her age, Serenna found herself intrigued by Deryn’s methods and amused by Thaxton’s stiff reactions. Both students had potential, and Serenna knew it would only take time before their paths crossed in a way that would change the world of [resonance](/structure/mechanic/resonance.md).
 
 ### **Echoes of Wavelength**
 
-Miko "Whisper" Sullen was everything Bromar Keldar was not: quiet, introspective, and deeply attuned to the subtler frequencies of resonance. Miko could hear the hums of [magic](/structure/mechanic/magic.md) in the air, understand emotions just by the shifting energy around her. Bromar, on the other hand, was loud, boisterous, and could shake the very ground with his sonic resonance. One might think these two wouldn't get along—but their differences were what made them so perfect as a pair.
+Miko "Whisper" Sullen was everything Bromar Keldar was not: quiet, introspective, and deeply attuned to the subtler frequencies of [resonance](/structure/mechanic/resonance.md). Miko could hear the hums of [magic](/structure/mechanic/magic.md) in the air, understand emotions just by the shifting energy around her. Bromar, on the other hand, was loud, boisterous, and could shake the very ground with his sonic resonance. One might think these two wouldn't get along—but their differences were what made them so perfect as a pair.
 
 "Do you ever stop talking?" Miko asked once, her voice barely above a whisper, but it still managed to catch Bromar's attention.
 
 Bromar, always the optimist, grinned. "Do you ever *start* talking?" he teased. But he genuinely appreciated Miko's uncanny ability to connect with the [magic](/structure/mechanic/magic.md) around them, even if it meant he had to tone it down a bit. Still, his idea of quiet study was a bit different from hers. He loved playing his flute loudly in the middle of the courtyard while Miko meditated in the corner, struggling to maintain focus. 
 
-Enrica Vahn, a stern third-tier student, had the unenviable task of keeping them both on track. The older, more controlled Scalespeaker had little patience for their antics. "Focus," she would command with a look that could silence even the loudest student. Despite her intimidating presence, there was a strange warmth in her that Bromar respected, and Miko felt safe in her presence. Enrica wasn't just teaching them about resonance; she was teaching them how to find balance—something neither of them had mastered yet.
+Enrica Vahn, a stern third-tier student, had the unenviable task of keeping them both on track. The older, more controlled Scalespeaker had little patience for their antics. "Focus," she would command with a look that could silence even the loudest student. Despite her intimidating presence, there was a strange warmth in her that Bromar respected, and Miko felt safe in her presence. Enrica wasn't just teaching them about [resonance](/structure/mechanic/resonance.md); she was teaching them how to find balance—something neither of them had mastered yet.
 
 ### **Echoes of Perception**
 
-Kaelen Hightower had been born into nobility, and it showed in his demeanor. He walked into the classroom with an air of superiority, confident that his resonance would make him a natural leader among his peers. His skill in illusion resonance was undeniable—he could create convincing mirages, bend perceptions, and manipulate reality itself. But Kaelen was also arrogant, often more focused on showing off his abilities than honing his craft.
+Kaelen Hightower had been born into nobility, and it showed in his demeanor. He walked into the classroom with an air of superiority, confident that his [resonance](/structure/mechanic/resonance.md) would make him a natural leader among his peers. His skill in illusion resonance was undeniable—he could create convincing mirages, bend perceptions, and manipulate reality itself. But Kaelen was also arrogant, often more focused on showing off his abilities than honing his craft.
 
 Nyra Bellrose, however, was the perfect foil to Kaelen’s ego. Calm, patient, and perceptive, Nyra could see through Kaelen’s illusions without much effort. "You’re hiding something," she once said, smiling as Kaelen’s grand illusion faltered for a brief moment.
 
@@ -66,13 +66,13 @@ Nyra Bellrose, however, was the perfect foil to Kaelen’s ego. Calm, patient, a
 
 Kaelen, too proud to admit it, pushed harder, but Nyra’s steady wisdom forced him to rethink his approach. She was the type of person who got things done without making a fuss, and Kaelen would have to learn to respect that. 
 
-Their third-tier mentor, Corwin Emberlash, enjoyed watching this dynamic play out. His methods were unorthodox and often cryptic, but Corwin had mastered the art of illusionary resonance like no one else. He saw the potential in both of them—Kaelen’s raw, untapped arrogance and Nyra’s quiet brilliance. The trick would be getting them to work together. "Illusions," Corwin would murmur as they practiced, "are like mirrors. They show you what you want to see—but sometimes, they show you something more."
+Their third-tier mentor, Corwin Emberlash, enjoyed watching this dynamic play out. His methods were unorthodox and often cryptic, but Corwin had mastered the art of illusionary [resonance](/structure/mechanic/resonance.md) like no one else. He saw the potential in both of them—Kaelen’s raw, untapped arrogance and Nyra’s quiet brilliance. The trick would be getting them to work together. "Illusions," Corwin would murmur as they practiced, "are like mirrors. They show you what you want to see—but sometimes, they show you something more."
 
 ## **Exams: Skillseeker to Scalespeaker**
 
-The most anticipated event at **The Scholar's Rift** is the annual **Resonance Ascension Exams**. These exams determine who will make the coveted leap from **Skillseeker** (the rank of the most eager, green students) to **Scalespeaker** (the revered third-tier students). It’s a grueling process, and the odds aren’t in everyone’s favor.
+The most anticipated event at **The Scholar's Rift** is the annual **[Resonance](/structure/mechanic/resonance.md) Ascension Exams**. These exams determine who will make the coveted leap from **Skillseeker** (the rank of the most eager, green students) to **Scalespeaker** (the revered third-tier students). It’s a grueling process, and the odds aren’t in everyone’s favor.
 
-**One in six** students will ascend to Scalespeaker status each ARC—*but don’t worry*, if you fail, you can try again the next ARC. It’s like a magical version of a job interview that never ends, except you’re mostly being judged on your ability to harness the magical *Resonance*—a mysterious force that even the scholars themselves still argue over.
+**One in six** students will ascend to Scalespeaker status each ARC—*but don’t worry*, if you fail, you can try again the next ARC. It’s like a magical version of a job interview that never ends, except you’re mostly being judged on your ability to harness the magical *[Resonance](/structure/mechanic/resonance.md)*—a mysterious force that even the scholars themselves still argue over.
 
 The **Exams** are filled with tension, tests, and a lot of *“Well, at least I get another shot next ARC…”* moments. But every time a student ascends, it’s a joyous occasion—an event the entire Rift celebrates like it’s a magical graduation, complete with speeches, fireworks, and perhaps a few too many cups of *resonant* punch.
 
@@ -93,14 +93,14 @@ Thaxton: "I don’t know why you all bother. [The scales](/location/landmark/sca
 Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 
 ---
-**Jokes aside,** the **Ascension Exams** are no easy feat. Students are tested on everything from their practical resonance skills, their ability to adapt to chaotic [magic](/structure/mechanic/magic.md), and their overall growth in understanding. Every ARC, more than half of the candidates will not pass. But every ARC, the students who do ascend bring their own unique brand of magic to the Scholar's Rift, further pushing the boundaries of the Resonance.
+**Jokes aside,** the **Ascension Exams** are no easy feat. Students are tested on everything from their practical [resonance](/structure/mechanic/resonance.md) skills, their ability to adapt to chaotic [magic](/structure/mechanic/magic.md), and their overall growth in understanding. Every ARC, more than half of the candidates will not pass. But every ARC, the students who do ascend bring their own unique brand of magic to the Scholar's Rift, further pushing the boundaries of the Resonance.
 
 In the end, even if you fail, it’s all part of the journey. After all, this is the Scholar’s Rift, where [magic](/structure/mechanic/magic.md) is alive and always changing, and there's always next ARC to try again.
 
 ### **How to Succeed in the Exams?**
 
-1. **Don’t Panic.** Stressing out only makes the resonance more chaotic. And chaotic [magic](/structure/mechanic/magic.md) never *looks* good in front of the judges.
-2. **Harness Your Inner Chaos.** The best Scalespeakers don’t control resonance—they *work with it*. If you try to force it, it’ll turn into something else entirely. Probably a puddle. Or a really large bird.
+1. **Don’t Panic.** Stressing out only makes the [resonance](/structure/mechanic/resonance.md) more chaotic. And chaotic [magic](/structure/mechanic/magic.md) never *looks* good in front of the judges.
+2. **Harness Your Inner Chaos.** The best Scalespeakers don’t control [resonance](/structure/mechanic/resonance.md)—they *work with it*. If you try to force it, it’ll turn into something else entirely. Probably a puddle. Or a really large bird.
 3. **Patience is Key.** You won’t pass the exam in a day (unless you're very lucky). A slow, steady approach is often the most reliable. Or, if you're Deryn, an overly-ambitious approach that may or may not result in a very tiny explosion.
 4. **The Waiting Game.** After you finish the exam, you’ll wait. And wait. And maybe play some cards. It’s a tradition.
 

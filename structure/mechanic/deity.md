@@ -25,7 +25,7 @@ When no existing deity fully embodies the **will** of the people, a **new deity 
 Deities in [Etheria](/etheria.md) are never truly lost. However they can linger as a imprint or drift to another scale, When faith declines, a deity weakens and dissolves into this latent state. Yet, these imprints preserve their essence, allowing for potential rebirth or reactivation if belief resurges. Some deities reawaken after years or even centuries, while others seek or are pulled to new scales.
 
 ## Resonance Conduits
-Certain individuals, known as **Echo-Bearers**, act as resonance conduits, extending a deity’s influence beyond its [home](/home.md) scale. Though they do not wield divine power themselves, they serve as crucial anchors, preserving the deity’s presence across distant lands.
+Certain individuals, known as **Echo-Bearers**, act as [resonance](/structure/mechanic/resonance.md) conduits, extending a deity’s influence beyond its [home](/home.md) scale. Though they do not wield divine power themselves, they serve as crucial anchors, preserving the deity’s presence across distant lands.
 
 ## Resonance Weave
 In regions where neighboring scales overlap, the domains of deities may merge or influence one another, creating blended divine manifestations. 

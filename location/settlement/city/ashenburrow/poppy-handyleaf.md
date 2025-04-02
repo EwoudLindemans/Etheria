@@ -72,5 +72,5 @@ OR is her [home](/home.md), but the world is her workshop. And as long as there 
 >
 > **Homunculus Assist.** Poppy’s homunculus can use the Help action as a bonus action on her turn.  
 >
-> [poppy-handyleaf-character-sheet.pdf](/characters/poppy-handyleaf/poppy-handyleaf-character-sheet.pdf)
+> poppy-handyleaf-character-sheet.pdf
 >{.dnd}

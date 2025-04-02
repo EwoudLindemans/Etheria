@@ -26,7 +26,7 @@ Heed my words well, for what follows is the sacred process of Rûnhark, Thrumvok
 
 ”A lifeless ore is but stone; to awaken it, ye must speak its name.”
 
-The process begins with the selection of the ore, a choice not made lightly, for each stone carries its own voice and purpose. The raw Scaleforged Ore—whether Veilsteel, Titanstone, or some rarer alloy—must be placed upon the Veil Anvil, untouched by mortal hands so that it does not absorb an errant soul’s rhythm. A Veilsteel Chisel, etched with the Deep Words, is then taken in hand, and with deliberate strokes, the Rûnhark Runes are carved into its surface. The markings must align with the forge’s Aurorhythmic Resonance; any misalignment warps the ore’s essence beyond repair.
+The process begins with the selection of the ore, a choice not made lightly, for each stone carries its own voice and purpose. The raw Scaleforged Ore—whether Veilsteel, Titanstone, or some rarer alloy—must be placed upon the Veil Anvil, untouched by mortal hands so that it does not absorb an errant soul’s rhythm. A Veilsteel Chisel, etched with the Deep Words, is then taken in hand, and with deliberate strokes, the Rûnhark Runes are carved into its surface. The markings must align with the forge’s Aurorhythmic [Resonance](/structure/mechanic/resonance.md); any misalignment warps the ore’s essence beyond repair.
 
 As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, not muttered, but spoken—a voice strong and clear, woven with intent. A true Heartsmith does not merely recite; he commands. If the words ring true, the ore shall hum in response, shifting faintly as its slumbering [magic](/structure/mechanic/magic.md) stirs. But if the stone crumbles into lifeless shards, the failure is clear—either the runes were misaligned, or the Heartsmith’s voice lacked conviction. The process must begin anew.
 
@@ -34,7 +34,7 @@ As each rune is inscribed, the Deep Words must be spoken aloud. Not whispered, n
 
 ”Fire alone shapes metal; but the Heartflame binds its soul.”
 
-With the runed ore prepared, the Heart’s Flame must be stoked to full strength. A watchful eye ensures that the fire shifts in hue to match the metal’s nature, for if the flames remain stubbornly unchanged, the resonance is unbalanced, and the forging must be delayed. The ore is then lowered into the forge, the runed face exposed to the Aurorhythmic flow.
+With the runed ore prepared, the Heart’s Flame must be stoked to full strength. A watchful eye ensures that the fire shifts in hue to match the metal’s nature, for if the flames remain stubbornly unchanged, the [resonance](/structure/mechanic/resonance.md) is unbalanced, and the forging must be delayed. The ore is then lowered into the forge, the runed face exposed to the Aurorhythmic flow.
 
 Now comes the moment of true binding. The Heartsmith stands before the roaring forge and intones the Thrumvok Chant, each syllable aligning with the pulsing heat:
 
@@ -48,11 +48,11 @@ As the words are spoken, the ore begins to shift, drawing in the planar energy o
 
 With the bound metal glowing in readiness, it is placed upon the Forge Anvil, ensuring the runes align with the sacred etchings upon its surface. The hammer Durhadrûn, ancient and heavy with purpose, is taken in hand. No mere tool, it is the voice of the forge itself. The Heartsmith does not strike blindly but listens—waiting, feeling, attuning to the pulse of the Heart.
 
-Only when the rhythm aligns does the final hammerstroke fall, a single, decisive strike that seals the forging. If the resonance is true, the artifact shall erupt in a pulse of light, the runes etching themselves permanently into the metal’s surface. With swift precision, the artifact is then plunged into the Memory Shard Basin, tempering the essence within. If the runes hold steady, the work is complete. If they flicker erratically or tremble as though uncertain, the forging is flawed. It must be reforged or dismantled entirely.
+Only when the rhythm aligns does the final hammerstroke fall, a single, decisive strike that seals the forging. If the [resonance](/structure/mechanic/resonance.md) is true, the artifact shall erupt in a pulse of light, the runes etching themselves permanently into the metal’s surface. With swift precision, the artifact is then plunged into the Memory Shard Basin, tempering the essence within. If the runes hold steady, the work is complete. If they flicker erratically or tremble as though uncertain, the forging is flawed. It must be reforged or dismantled entirely.
 
 ## Spîrûmwaldr - The Bonding
 
-The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/location/settlement/city/or/heartforge.md) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging resonance cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
+The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/location/settlement/city/or/heartforge.md) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging [resonance](/structure/mechanic/resonance.md) cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
 
 If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into [Etheria](/etheria.md) as a true relic of [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md).
 

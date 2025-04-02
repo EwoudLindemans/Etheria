@@ -19,7 +19,7 @@ The date is counted in cycles that correspond to significant magical resonances 
 Cycles are determined by tracking the rhythm of the magical pulses that emanate from [The scales](/location/landmark/scale/the-scales.md). These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
 
 - Fading Echoes:  
-In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the magical energies were released in a symphony of resonance. As time passes, the echoes of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
+In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the magical energies were released in a symphony of [resonance](/structure/mechanic/resonance.md). As time passes, the echoes of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
 
 - Seasonal Variations:  
 Just as the world's landscape and creatures respond to magical energies, the seasons themselves are influenced by the ARCs. Different spans might be associated with unique weather patterns, growth cycles, or even occurrences of magical phenomena. This adds an element of unpredictability to the passage of time.
@@ -43,8 +43,8 @@ Details are still unknown but the arcs seem to have a relation to the [Ornite Ri
 The cataclysmic collision between the world and the mystical creature [Irion](/being/deity/irion.md) resulted in the shattering of the planet into countless fragments. This event, known as [The Collapse](/structure/chronological/event/the-collapse.md), marked the birth of the world of [Etheria](/etheria.md). The land broke apart, and [magic](/structure/mechanic/magic.md) infused the fragments with life.
 
 ### Arc 17 - 33 - Nexus of Recovery
-- The Rising of Resonance (ARC 0 - 57):  
-The planet began to mend through the magical residue left by [Irion](/being/deity/irion.md). This gradual healing process saw the emergence of pockets of Resonance, where the land breathed with life. Mountains shifted, valleys undulated, and forests pulsed, as if the world itself were a living entity, resonating with newfound vitality.
+- The Rising of [Resonance](/structure/mechanic/resonance.md) (ARC 0 - 57):  
+The planet began to mend through the magical residue left by [Irion](/being/deity/irion.md). This gradual healing process saw the emergence of pockets of [Resonance](/structure/mechanic/resonance.md), where the land breathed with life. Mountains shifted, valleys undulated, and forests pulsed, as if the world itself were a living entity, resonating with newfound vitality.
 
 ### Arc 34 - 50 - Nexus of Manifestation
 - The first [Iridian](/being/species/iridian.md) manifestations occurred randomly, deep within uncharted land. A few singular, unknown travelers who were lost manifested, leaving only confusion and questions in its wake.
