@@ -2,7 +2,7 @@
 title: Coalwalk Row
 description: Loud, proud, working-class heart of Or
 published: 1
-date: 2025-04-01T22:30:36.359Z
+date: 2025-04-02T19:49:26.538Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T20:52:30.018Z
