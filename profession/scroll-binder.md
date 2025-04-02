@@ -9,32 +9,32 @@ dateCreated: 2025-03-11T23:48:37.199Z
 ---
 
 # Scroll Binder
-In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the scales of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with [magic](/structure/mechanic/magic.md) and certainty—ensuring that deals are fair, precise, and lasting.
+In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the scales of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with magic and certainty—ensuring that deals are fair, precise, and lasting.
 
 Drawing their power from three sacred elements—Rock, Paper, and Scissors—Scroll Binders use these seemingly simple tools to resolve even the most complicated of diplomatic disputes. Each throw carries weight and meaning, and the stakes are always high. From determining territorial boundaries to forging alliances, the Scroll Binder’s touch turns words into lasting, magical obligations, enforced by ancient rituals and unbreakable pacts.
 
-In every negotiation, the Scroll Binder is both a neutral party and an active force, wielding their influence to make sure the terms are not just agreed upon, but also honored. Their [magic](/structure/mechanic/magic.md) ensures that no party can back out without facing consequences, and each deal is crafted with both fairness and finality.
+In every negotiation, the Scroll Binder is both a neutral party and an active force, wielding their influence to make sure the terms are not just agreed upon, but also honored. Their magic ensures that no party can back out without facing consequences, and each deal is crafted with both fairness and finality.
 
 The Scroll Binder is known for their ability to mediate and ensure that agreements are honored. They bring clarity and structure to every negotiation, creating agreements that stand the test of time.
 
-Whether you’re seeking to settle a dispute, forge an alliance, or carve out your place in the world, a Scroll Binder is the one to trust with your most important agreements. They bring both clarity and [magic](/structure/mechanic/magic.md) to the table, ensuring that every contract is both fair and final, making them indispensable in any diplomatic scenario.
+Whether you’re seeking to settle a dispute, forge an alliance, or carve out your place in the world, a Scroll Binder is the one to trust with your most important agreements. They bring both clarity and magic to the table, ensuring that every contract is both fair and final, making them indispensable in any diplomatic scenario.
 
 ## The Creation of the Scrolls: The Three Sacred Elements
 
-Before any [magic](/structure/mechanic/magic.md) can be infused or any negotiations can take place, the **Scroll Binder** must **create the scroll itself**. This process is always the same, ensuring that the **scroll is always ready** to carry the weight of whatever **diplomatic** task is required.
+Before any magic can be infused or any negotiations can take place, the **Scroll Binder** must **create the scroll itself**. This process is always the same, ensuring that the **scroll is always ready** to carry the weight of whatever **diplomatic** task is required.
 
 - **Rock (Ink)**:  
 The **Rock** is crushed into magical ink, the foundation of any scroll. It contains power, capable of recording **strength**, **territory**, or **conquest**—whatever the negotiation requires. This ink binds the spirit of the agreement to the paper.
   
 - **Paper (To Write On)**:  
-The **Paper** is the medium for the terms, whether it’s trade agreements, alliances, or declarations. It holds the ink’s [magic](/structure/mechanic/magic.md) and is fine-tuned to record details in **clear, permanent strokes**, ensuring nothing is left to chance.
+The **Paper** is the medium for the terms, whether it’s trade agreements, alliances, or declarations. It holds the ink’s magic and is fine-tuned to record details in **clear, permanent strokes**, ensuring nothing is left to chance.
 
 - **Scissors (To Cut the Paper)**:  
 The **Scissors** ensure that every detail is **measured precisely**. The scroll will not be valid unless the terms are clearly defined—no vague agreements, only **sharp** and **measured clauses**. The scroll is carefully cut so there is no room for additions (except on the back) that is soley reserved for the scroll binder. The (closed) scissors will later be used as a pen to write.
 
 ## The Diplomatic Treaty: Resolving Disagreements with Rock, Paper, Scissors
 
-The **Scroll Binder’s** [magic](/structure/mechanic/magic.md) truly shines during the **final resolution** of any diplomatic agreement. Whether it’s dividing a kingdom, setting up a trade agreement, or forming alliances, the **Scroll Binder** uses **Rock, Paper, Scissors** to **determine** the terms. However, they are not just passive spectators—they can adjust the outcome to ensure the agreement remains **fair** and **equitable** for all parties.
+The **Scroll Binder’s** magic truly shines during the **final resolution** of any diplomatic agreement. Whether it’s dividing a kingdom, setting up a trade agreement, or forming alliances, the **Scroll Binder** uses **Rock, Paper, Scissors** to **determine** the terms. However, they are not just passive spectators—they can adjust the outcome to ensure the agreement remains **fair** and **equitable** for all parties.
 
 Here’s how the **three options** from the game are applied to almost any diplomatic scenario, along with options for the **Scroll Binder** to influence the results:
 
@@ -121,4 +121,4 @@ The **Scroll Binder** can **alter** the stakes of the tiebreaker. Perhaps instea
 
 The **Scroll Binder** serves as the ultimate mediator, ensuring that every agreement is fair and balanced, whether it involves **land**, **resources**, or **alliances**. The **Rock, Paper, Scissors** system remains a comedic yet effective way of **resolving** disputes, but the **Scroll Binder’s** ability to adjust the final outcome ensures that no party feels taken advantage of.
 
-The role of the **Scroll Binder** is not just to act as a **neutral party**, but to **ensure fairness**, providing options to modify agreements if the situation calls for it. By keeping things **fair**, the **Scroll Binder** ensures that each deal lasts and that the [magic](/structure/mechanic/magic.md) of the scroll remains **just** for all involved.
+The role of the **Scroll Binder** is not just to act as a **neutral party**, but to **ensure fairness**, providing options to modify agreements if the situation calls for it. By keeping things **fair**, the **Scroll Binder** ensures that each deal lasts and that the magic of the scroll remains **just** for all involved.

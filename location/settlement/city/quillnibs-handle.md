@@ -37,7 +37,7 @@ A forbidden archive deep within the Handle, where books do not contain stories u
 An underground chamber filled with locked scrolls and chained grimoires, some too dangerous to be read. The vault is guarded by sentient paper constructs and quill-armed automatons, all programmed to protect the city’s most perilous knowledge.
 
 #### The Inkspire Spire
-A towering structure where the city's finest calligraphers and [magic](/structure/mechanic/magic.md)-weavers work to transcribe shifting texts into stable records. Messages between powerful factions and lost knowledge from unstable pages are carefully rewritten here.
+A towering structure where the city's finest calligraphers and magic-weavers work to transcribe shifting texts into stable records. Messages between powerful factions and lost knowledge from unstable pages are carefully rewritten here.
 
 #### The Glimmering Shelf
 A district suspended in the air, composed of floating platforms stacked like bookshelves. Lanterns glow with bottled starlight, illuminating bridges that vanish and reappear with the turning of a page.

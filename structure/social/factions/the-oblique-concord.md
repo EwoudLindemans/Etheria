@@ -96,3 +96,5 @@ The Oblique Concord does not operate like a traditional guild with ranks and tit
 The Oblique Concord thrives not on power, but on the **belief in its power**. The moment someone believes they are being manipulated, they begin to question their own thoughts, their own decisions—**and that uncertainty is their greatest weapon.**
 
 # Appended from: chatgpt-output.md
+
+# Appended from: chatgpt-output.md
