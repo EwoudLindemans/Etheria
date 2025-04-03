@@ -9,7 +9,7 @@ dateCreated: 2025-04-03T21:16:02.528Z
 ---
 
 # ⚛️ Vexyrra, The Harmonic Core  
-*[Deity](/structure/mechanic/deity.md) of the Fractured Keep, Echoed Songs, and Accidental Creation*
+*[Deity](/structure/mechanic/deity.md) of [the Fractured Keep](/location/plane/the-fractured-keep.md), Echoed Songs, and Accidental Creation*
 
 ## Domains  
 Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through [resonance](/structure/mechanic/resonance.md), unfinished melodies, and events not meant to happen—but which echo through reality regardless.

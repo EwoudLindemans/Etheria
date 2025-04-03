@@ -80,7 +80,7 @@ They didn’t fuse.
 
 They **became** something else.
 
-**Vexyrra was born.**  
+**[Vexyrra](/being/deity/vexyrra.md) was born.**  
 Not as either of them—but as the perfect **interval between** them.  
 Not [Nokk](/being/character/nokk.md). Not Terry. Not echo. Not voice.
 
@@ -107,7 +107,7 @@ A [resonance](/structure/mechanic/resonance.md) deep within [Nokk](/being/charac
 Each dream [Nokk](/being/character/nokk.md) casts now hums in fractured rhythm.  
 Each song [Miss Terry](/being/character/miss-terry.md) sings trembles with unfamiliar notes that only she can hear.
 
-**Vexyrra** still exists—divine and distant.  
+**[Vexyrra](/being/deity/vexyrra.md)** still exists—divine and distant.  
 But part of it never let go of them.  
 A tether was forged in the Mirrorstep.  
 And the line has not been cut.
@@ -116,11 +116,11 @@ And the line has not been cut.
 
 ## Consequences
 
-- The Fractured keep is no longer myth. It is **anchored**.
-- **Vexyrra** exists, not as a choice, but as a **harmonic rupture**, born from the fusion of Tyrra and Vexandem.
+- [The Fractured keep](/location/plane/the-fractured-keep.md) is no longer myth. It is **anchored**.
+- **[Vexyrra](/being/deity/vexyrra.md)** exists, not as a choice, but as a **harmonic rupture**, born from the fusion of Tyrra and Vexandem.
 - [Nokk](/being/character/nokk.md) and [Miss Terry](/being/character/miss-terry.md) returned, but their mirror selves **are no more**.
 - And yet—they carry **a tether** to the one that replaced them.
-- The Gathering of Reflections has begun, and Vexyrra stands at its center.
+- The Gathering of Reflections has begun, and [Vexyrra](/being/deity/vexyrra.md) stands at its center.
 - What was born of accident now holds potential to reshape realms.
 
 ---

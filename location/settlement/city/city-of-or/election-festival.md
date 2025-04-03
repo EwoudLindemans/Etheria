@@ -119,13 +119,13 @@ Popular sayings include:
 ## Notorious Incidents in Election Festival History
 
 ### The Turnip Incident  
-**Drip**, the chaotic hobgoblin brewer behind **The Cauldron Lottery**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
+**[Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)**, the chaotic hobgoblin brewer behind **[The Cauldron Lottery](/location/settlement/city/city-of-or/shop/the-cauldron-lottery.md)**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
 
 The crowd voted for the vegetable.  
 **[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)** declared it a civic miracle.  
 **Debating the Turnip** is now a wildcard tradition.
 
-A wooden bust of the turnip—**Tharnibus**—sits proudly at Drip’s stall.
+A wooden bust of the turnip—**Tharnibus**—sits proudly at [Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)’s stall.
 
 ---
 
