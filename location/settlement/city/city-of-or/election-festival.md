@@ -12,7 +12,7 @@ dateCreated: 2025-04-03T20:45:42.986Z
 
 ## Overview
 
-The **Election Festival of Or** is the City of Or’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **Council of Or**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
+The **Election Festival of Or** is the [City of Or](/location/settlement/city/city-of-or.md)’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
 
 Though the official festival lasts five days, most Orfolk recognise the far longer and wildly unregulated **Pre-Pre Festival**, a lead-up period of informal campaigning, community scheming, and festive chaos.
 
@@ -39,7 +39,7 @@ Citizens ask anything, anywhere. From formal panels to drunken tavern circles, a
 Satirical floats, symbolic costumes, and public mockery flood the streets. Candidates march among exaggerated parodies of themselves.
 
 **Day Four – The Vote of Echoes**  
-Votes are cast through traditional ballots, enchanted flasks, and resonance stones. All results are harmonised by the **Archive of Whispers**, a humming vault of civic magic.
+Votes are cast through traditional ballots, enchanted flasks, and [resonance](/structure/mechanic/resonance.md) stones. All results are harmonised by the **Archive of Whispers**, a humming vault of civic [magic](/structure/mechanic/magic.md).
 
 **Day Five – The Reckoning Feast**  
 The five new councillors are announced. Celebrations erupt across every district. The defeated are cheered, wept for, or dunked in celebratory broth depending on public mood.
@@ -53,7 +53,7 @@ While not required by law, trials are an essential part of the Election Festival
 - **Drunken Debate** – Argue civic policy while increasingly drunk.
 - **Flatstone Naming** – Name as many Flatstone family members as possible.
 - **The Heated Stone** – Grab a hot forge stone. Last to act is eliminated.
-- **Fish Trial** – Consume a live, flopping fish under supervision. No magic.
+- **Fish Trial** – Consume a live, flopping fish under supervision. No [magic](/structure/mechanic/magic.md).
 
 ### Serious Trials
 - **Climb of Flatstone Mountain** – Ascend and return within one night-cycle.
@@ -84,7 +84,7 @@ There is **no limit** to the number of candidates. The festival’s trials and c
 In accordance with the Civic Representation Edict (as amended), the following criteria and obligations apply to all individuals seeking candidacy for Council appointment during the authorised Election Festival period:
 
 1. **Residency & Civic Investment**  
-   All candidates must demonstrate continuous and verifiable residency within the City of Or and its lawful districts for a period deemed sufficient by the Council Registrar’s Office. Candidates must further provide proof of active civic contribution, to be reviewed and certified by the Electoral Clerk.
+   All candidates must demonstrate continuous and verifiable residency within the [City of Or](/location/settlement/city/city-of-or.md) and its lawful districts for a period deemed sufficient by the Council Registrar’s Office. Candidates must further provide proof of active civic contribution, to be reviewed and certified by the Electoral Clerk.
 
 2. **Suspension of Conflicting Operations During Festival Period**  
    Upon official candidacy registration, individuals must cease all income-generating operations, business directorships, guildmasterships, or analogous leadership activities. Temporary delegation is permitted; active control is not.
@@ -96,7 +96,7 @@ In accordance with the Civic Representation Edict (as amended), the following cr
    Candidates may not claim, advertise, or otherwise benefit from more than seven (7) formal endorsements, to be registered with the Office of Public Declarations. An endorsement is considered formal once offered by an eligible citizen, guild, order, or collective, and submitted in writing with appropriate seals or symbols of intent.
 
 5. **Anti-Corruption Safeguards and Enforced Penalties**  
-   Any candidate found to engage in bribery, magical manipulation (including charm, compulsion, foresight distortion, or resonance tampering), or acts of coercion—directly or through agents—shall be disqualified immediately and referred for civic sanction under the Ethical Violations Charter. Punishments may include public resonance censure, stripping of assets, memory annulment procedures, or symbolic public dunking, at the discretion of the Arbiter of Civic Fairness.
+   Any candidate found to engage in bribery, magical manipulation (including charm, compulsion, foresight distortion, or [resonance](/structure/mechanic/resonance.md) tampering), or acts of coercion—directly or through agents—shall be disqualified immediately and referred for civic sanction under the Ethical Violations Charter. Punishments may include public resonance censure, stripping of assets, memory annulment procedures, or symbolic public dunking, at the discretion of the Arbiter of Civic Fairness.
 
 All candidates are advised to maintain compliance throughout the Pre-Pre Festival period, the Election Festival proper, and the Council’s transitional term.
 
@@ -109,7 +109,7 @@ Throughout the festival, Orfolk express their views through:
 - **Parody songs and drunken chants**
 - **The ceremonial roasting of effigies and past promises**
 
-Tallis Thorne once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
+[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md) once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
 
 Popular sayings include:
 - “You’re drunk enough to run for Council.”
@@ -122,7 +122,7 @@ Popular sayings include:
 **Drip**, the chaotic hobgoblin brewer behind **The Cauldron Lottery**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
 
 The crowd voted for the vegetable.  
-**Tallis Thorne** declared it a civic miracle.  
+**[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)** declared it a civic miracle.  
 **Debating the Turnip** is now a wildcard tradition.
 
 A wooden bust of the turnip—**Tharnibus**—sits proudly at Drip’s stall.
@@ -149,7 +149,7 @@ Mistaken for another nominee, a halfling was elected, sent a letter, and never s
 ---
 
 ### The Flatstone Forgiveness  
-Adventurers caught trespassing during the festival began chanting “Long Live Karath Flatstone!” Background checks were delayed, public sentiment was high, and they were released with:
+Adventurers caught trespassing during the festival began chanting “Long Live [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md)!” Background checks were delayed, public sentiment was high, and they were released with:
 - A formal pardon
 - A signed cask of Flatstone Reserve Ale
 - And mild applause

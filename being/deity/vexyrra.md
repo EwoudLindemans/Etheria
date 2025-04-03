@@ -9,26 +9,26 @@ dateCreated: 2025-04-03T21:16:02.528Z
 ---
 
 # ⚛️ Vexyrra, The Harmonic Core  
-*Deity of the Fractured Keep, Echoed Songs, and Accidental Creation*
+*[Deity](/structure/mechanic/deity.md) of the Fractured Keep, Echoed Songs, and Accidental Creation*
 
 ## Domains  
-Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through resonance, unfinished melodies, and events not meant to happen—but which echo through reality regardless.
+Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through [resonance](/structure/mechanic/resonance.md), unfinished melodies, and events not meant to happen—but which echo through reality regardless.
 
 ## Origin of Vexyrra  
 
 **Vexyrra** was not summoned, chosen, or made.  
-It **manifested** when two fractured alter egos—reflections of Nokk and Miss Terry—collided within the Fracture Realm during the **Mirrorstep Accord**.
+It **manifested** when two fractured alter egos—reflections of [Nokk](/being/character/nokk.md) and [Miss Terry](/being/character/miss-terry.md)—collided within the Fracture Realm during the **Mirrorstep Accord**.
 
 It is not a fusion of them. It is not them.  
 It is what happened **between** them.
 
 ### Composition of Vexyrra
 
-- 🧠 **The Wild Magic of the Pandemonium’s Echo**  
-  A Vedalken echo shaped by Elemental Chaos—Nokk’s potential self, untamed and unresolved.
+- 🧠 **The Wild [Magic](/structure/mechanic/magic.md) of the Pandemonium’s Echo**  
+  A Vedalken echo shaped by Elemental Chaos—[Nokk](/being/character/nokk.md)’s potential self, untamed and unresolved.
 
 - 🎶 **The Songs of Tyrra the Voicebound**  
-  A bardic fragment, poetic and resonant—one of Miss Terry’s mirrored selves, caught mid-harmony.
+  A bardic fragment, poetic and resonant—one of [Miss Terry](/being/character/miss-terry.md)’s mirrored selves, caught mid-harmony.
 
 - 🔥 **A Vessel of Elemental Tension**  
   Fire, lightning, mist, and frost, condensed into a body of divine contradiction—held together by rhythm alone.
@@ -37,7 +37,7 @@ Vexyrra is not the sum of these parts, but a byproduct of their convergence.
 
 ## Appearance
 
-- **Form**: Androgynous and radiant. Each movement trails resonance.
+- **Form**: Androgynous and radiant. Each movement trails [resonance](/structure/mechanic/resonance.md).
 - **Skin**: Vedalken blue with living musical scrollwork, pulsating in harmonic sync with nearby voices.
 - **Eyes**: Crystalline, vibrating—like notes visualized through shattered glass.
 - **Voice**: Dual-toned, fracturing into chords, echoing into thoughts.

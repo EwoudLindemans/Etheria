@@ -40,7 +40,7 @@ Arcane infrastructure formed around scales allows cities to draw sustainable mag
 When raw magic interacts with organic matter and elemental energy, **Iridians** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby scales, but independent of magical consumption.
 
 ### ✦ **The Dense**
-The [scale](/location/scale.md)-connected dimension known as **[The Dense](/location/area/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Etheria](/etheria.md)'s magical saturation.
+The [scale](/location/scale.md)-connected dimension known as **[The Dense](/location/plane/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Etheria](/etheria.md)'s magical saturation.
 
 ## Rules & Risks
 

@@ -71,7 +71,7 @@ The Continents of Eldeviér are
 - Xaratius
 - Meskjor
 
-Crack's are formed between continents they lead into a place called [The Dense](/location/area/the-dense.md)
+Crack's are formed between continents they lead into a place called [The Dense](/location/plane/the-dense.md)
 
 ## Notable Places
 ### Cities

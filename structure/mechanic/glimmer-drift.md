@@ -28,7 +28,7 @@ The most studied Glimmer Drift occurs at the fringes of the [Asara Plate](/locat
 
 The Rift Scholars argue that Glimmer Drift is a natural byproduct of unstable [resonance](/structure/mechanic/resonance.md) frequencies syncing with high emotional imprint zones—essentially, [magic](/structure/mechanic/magic.md) remembering itself. Others claim it's the dream residue of [Irion](/being/deity/irion.md), still seeping into [Etheria](/etheria.md) through cracks left by [The Collapse](/structure/chronological/event/the-collapse.md).
 
-A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/location/area/the-dense.md), testing whether we are ready to be remembered.
+A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/location/plane/the-dense.md), testing whether we are ready to be remembered.
 
 ## Use in Spellcraft
 

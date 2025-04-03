@@ -11,7 +11,7 @@ dateCreated: 2022-01-24T15:54:21.181Z
 # The Council of Or
 
 ## Overview
-The **Council of Or** is the governing body of the City of Or, responsible for overseeing the city's laws, infrastructure, trade regulations, civil services, and cultural traditions. Though closely tied to the powerful Flatstone family, the council incorporates both hereditary leadership and citizen representation, forming a unique blend of authority and civic involvement.
+The **Council of Or** is the governing body of the [City of Or](/location/settlement/city/city-of-or.md), responsible for overseeing the city's laws, infrastructure, trade regulations, civil services, and cultural traditions. Though closely tied to the powerful Flatstone family, the council incorporates both hereditary leadership and citizen representation, forming a unique blend of authority and civic involvement.
 
 While its decisions are often swift and decisive, the council is also known for its unusually robust transparency, particularly given its deep dwarven roots. Debate is encouraged within the chamber, and it is said that a **Flatstone argument is more honest than a silent agreement**.
 
@@ -23,7 +23,7 @@ The Council of Or consists of **seventeen members**:
 The council chamber is carved into a polished cavern at the heart of **Stonehollow**, the city’s interior centre. Runes of listening, honesty, and binding debate line the walls, and a floating lantern of red crystal casts gentle light during every session.
 
 ## Permanent Seats – The Flatstones
-The Flatstone family holds an ancestral claim to governance, tracing their roots to **Or Flatstone**, the city’s founder. Each generation of Flatstones selects twelve representatives to serve as lifelong councillors, though individuals may be replaced in cases of incapacity or disgrace.
+The Flatstone family holds an ancestral claim to governance, tracing their roots to **[Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md)**, the city’s founder. Each generation of Flatstones selects twelve representatives to serve as lifelong councillors, though individuals may be replaced in cases of incapacity or disgrace.
 
 Though dwarves are famously stubborn, the Flatstones are rarely united. Their internal disagreements—often loud and public—form a strange kind of balance, ensuring no single vision dominates unchallenged. It is not uncommon for elected councillors to act as tie-breakers between feuding Flatstone factions.
 
@@ -46,7 +46,7 @@ The current Flatstone councillors are:
 - **Tarnik Flatstone** – Manages enforcement and justice, known for fair rulings and unshakable calm.
 - **Bellga Flatstone** – A brewer by trade and former festival champion; represents cultural affairs and festival planning.
 - **Nundrik Flatstone** – Keeps detailed ledgers on city finances, population shifts, and daily council proceedings. Possibly immortal.
-- **Velda Flatstone** – A religious conservative who believes the Heartforge is semi-divine and should be more tightly guarded.
+- **Velda Flatstone** – A religious conservative who believes the [Heartforge](/location/settlement/city/city-of-or/heartforge.md) is semi-divine and should be more tightly guarded.
 
 Each of these councillors wields significant authority over specific aspects of the city's governance. Although united by name, their opinions diverge so sharply that even minor policy debates can last weeks—unless someone brings ale.
 
@@ -68,7 +68,7 @@ Sitting councillors are **strictly prohibited** from engaging in business or lob
 ## Council Debates and Decision-Making
 Council meetings are open to registered observers and recorded by a trio of official scribes, each from a different district to ensure neutrality. Meetings are held weekly, with emergency sessions called at the discretion of any three councillors.
 
-Debates are known for their passion, poetic insults, and occasional musical interludes—particularly if **Tallis Thorne** has recently visited the chamber.
+Debates are known for their passion, poetic insults, and occasional musical interludes—particularly if **[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)** has recently visited the chamber.
 
 Disagreements are not only tolerated but encouraged, and it is a point of pride that council members rarely speak with one voice unless absolutely necessary.
 
@@ -78,8 +78,8 @@ To outsiders, the Council of Or may appear autocratic or overly dominated by a s
 Most Orfolk agree that while the Flatstones are powerful, their grip is not absolute—and the **Election Trials** give every citizen a voice, or at least a very entertaining chance to try.
 
 ## See Also
-- [Election Festival](/location/settlement/city/or/election-festival.md)
-- [Or Flatstone](/location/settlement/city/or/or-flatstone.md)
+- Election Festival
+- [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md)
 - The Flatstone Family
 - Stonehollow
-- [The Oblique Concord](/structure/social/factions/the-oblique-concord.md) (rumoured influence)
+- The Oblique Concord (rumoured influence)
