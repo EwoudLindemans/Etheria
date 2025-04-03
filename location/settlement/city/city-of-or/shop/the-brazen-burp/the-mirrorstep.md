@@ -2,7 +2,7 @@
 title: The Mirrorstep
 description: 
 published: 1
-date: 2025-04-03T21:40:13.750Z
+date: 2025-04-03T21:42:11.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T21:36:45.104Z
@@ -116,7 +116,7 @@ And the line has not been cut.
 
 ## Consequences
 
-- The Fracture Realm is no longer myth. It is **anchored**.
+- The Fractured keep is no longer myth. It is **anchored**.
 - **Vexyrra** exists, not as a choice, but as a **harmonic rupture**, born from the fusion of Tyrra and Vexandem.
 - Nokk and Miss Terry returned, but their mirror selves **are no more**.
 - And yet—they carry **a tether** to the one that replaced them.
