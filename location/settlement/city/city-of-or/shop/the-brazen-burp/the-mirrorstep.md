@@ -2,13 +2,13 @@
 title: The Mirrorstep
 description: 
 published: 1
-date: 2025-04-03T21:42:28.602Z
+date: 2025-04-03T21:43:29.976Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T21:36:45.104Z
 ---
 
-# 📜 The Mirrorstep
+# The Mirrorstep
 *As recorded by the Silent Rhymer, Third Scribe of the Rift Archives*
 
 ## The Tale of Nokk & Miss Terry
