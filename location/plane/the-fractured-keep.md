@@ -2,7 +2,7 @@
 title: The Fractured Keep
 description: 
 published: 1
-date: 2025-04-03T21:38:57.842Z
+date: 2025-04-03T21:39:34.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T21:06:16.513Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-03T21:06:16.513Z
 # The Fractured Keep
 
 ## The Fracture Realm
-The **Fracture Realm** is a hidden dimension that formed as a byproduct of the Collapse—the event where Irion collided with Etheria. As magic surged and reality buckled, not all rifts sealed cleanly. Some **shattered further**, creating a liminal, paradoxical realm between planes. 
+The **Fractured Keep** is a hidden dimension that formed as a byproduct of the Collapse—the event where Irion collided with Etheria. As magic surged and reality buckled, not all rifts sealed cleanly. Some **shattered further**, creating a liminal, paradoxical realm between planes. 
 
 This place is neither the Elemental Chaos nor the Dense. It is a **temporal echo**, layered with the discarded possibilities and unstable prototypes of what Etheria *might have become*. Magic within the Fracture Realm is wild, volatile, and often folds in on itself—creating sentient landscapes, recursive beings, and thoughts that remember *you* before you think them.
 
