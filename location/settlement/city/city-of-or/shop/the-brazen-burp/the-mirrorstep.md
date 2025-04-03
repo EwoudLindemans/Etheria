@@ -2,7 +2,7 @@
 title: The Mirrorstep
 description: 
 published: 1
-date: 2025-04-03T21:36:45.104Z
+date: 2025-04-03T21:39:50.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T21:36:45.104Z
@@ -39,7 +39,7 @@ In the instant that followed, Etheria cracked.
 
 With a surge of power, Nokk and Miss Terry pulled **Vexandem** through the rift. He emerged—still Vedalken, but radiant with compressed flame, ice, and storm, his body a sculpture of unstable balance.
 
-He gave Nokk a gift: the **Shard of the Fracture Realm**, a prismatic sliver that pulsed with potential. It was more than a relic. It was a **key**. A compass. A tether.
+He gave Nokk a gift: the **Shard of the Fractured Keep**, a prismatic sliver that pulsed with potential. It was more than a relic. It was a **key**. A compass. A tether.
 
 Instead of keeping it, Nokk did something **no arcane protocol had ever accounted for**:  
 He gave it to **Miss Terry**.
