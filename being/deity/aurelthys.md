@@ -2,7 +2,7 @@
 title: Aurelthys
 description: 
 published: 1
-date: 2025-04-01T22:56:06.358Z
+date: 2025-04-02T22:36:39.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T21:00:49.370Z

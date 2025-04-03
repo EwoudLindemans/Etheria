@@ -2,7 +2,7 @@
 title: Councel of Controlled Magical Appliance
 description: 
 published: 1
-date: 2025-04-02T19:39:13.769Z
+date: 2025-04-02T22:36:47.691Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-18T20:29:22.056Z

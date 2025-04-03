@@ -2,7 +2,7 @@
 title: Conduit Aasimar
 description: 
 published: 1
-date: 2025-04-02T19:38:56.824Z
+date: 2025-04-02T22:36:41.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:04:39.819Z

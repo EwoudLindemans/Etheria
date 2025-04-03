@@ -2,7 +2,7 @@
 title: The Cauldron Lottery
 description: 
 published: 1
-date: 2025-04-03T20:02:08.931Z
+date: 2025-04-03T20:02:10.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T20:02:08.931Z
