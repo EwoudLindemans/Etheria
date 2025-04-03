@@ -1,28 +1,28 @@
 ---
-title: Nokkyrra
+title: Vexyrra
 description: 
 published: 1
-date: 2025-04-03T21:16:02.528Z
+date: 2025-04-03T21:38:03.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T21:16:02.528Z
 ---
 
-# ⚛️ Nokkyrra, The Harmonic Core  
+# ⚛️ Vexyrra, The Harmonic Core  
 *Deity of the Fractured Keep, Echoed Songs, and Accidental Creation*
 
 ## Domains  
-Nokkyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through resonance, unfinished melodies, and events not meant to happen—but which echo through reality regardless.
+Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through resonance, unfinished melodies, and events not meant to happen—but which echo through reality regardless.
 
-## Origin of Nokkyrra  
+## Origin of Vexyrra  
 
-**Nokkyrra** was not summoned, chosen, or made.  
+**Vexyrra** was not summoned, chosen, or made.  
 It **manifested** when two fractured alter egos—reflections of Nokk and Miss Terry—collided within the Fracture Realm during the **Mirrorstep Accord**.
 
 It is not a fusion of them. It is not them.  
 It is what happened **between** them.
 
-### Composition of Nokkyrra
+### Composition of Vexyrra
 
 - 🧠 **The Wild Magic of the Pandemonium’s Echo**  
   A Vedalken echo shaped by Elemental Chaos—Nokk’s potential self, untamed and unresolved.
@@ -33,7 +33,7 @@ It is what happened **between** them.
 - 🔥 **A Vessel of Elemental Tension**  
   Fire, lightning, mist, and frost, condensed into a body of divine contradiction—held together by rhythm alone.
 
-Nokkyrra is not the sum of these parts, but a byproduct of their convergence.
+Vexyrra is not the sum of these parts, but a byproduct of their convergence.
 
 ## Appearance
 
@@ -44,7 +44,7 @@ Nokkyrra is not the sum of these parts, but a byproduct of their convergence.
 
 ## Essence & Doctrine  
 
-Nokkyrra is the god of the **accidental divine**, the **resonant misstep**, the **echo given form**.
+Vexyrra is the god of the **accidental divine**, the **resonant misstep**, the **echo given form**.
 
 It teaches that:
 
