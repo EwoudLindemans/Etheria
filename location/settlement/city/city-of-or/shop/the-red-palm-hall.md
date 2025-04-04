@@ -2,7 +2,7 @@
 title: The Red Palm Hall
 description: The primary centre of healing and divine care in The City of Or
 published: 1
-date: 2025-04-04T14:03:15.893Z
+date: 2025-04-04T17:11:43.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-04T13:59:16.850Z
@@ -27,7 +27,7 @@ The clerics who staff the hall follow no single deity. Instead, they hold to a s
 Most clerics wear simple robes embroidered with vein-like stitching in red and gold. Each is trained in both divine magic and herbcraft, and several are known to hold rare blessings specific to Or’s resonant environment.
 
 ## Leadership
-The hall is led by **Brother Ilenor**, an ageing half-elf with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
+The hall is led by **Brother Ienor**, an ageing half-elf with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
 
 > “We are not here to judge how you were hurt. We are here so that hurt no longer defines you.” — *Brother Ilenor*
 
