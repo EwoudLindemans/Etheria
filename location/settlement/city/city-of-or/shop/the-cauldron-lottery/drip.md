@@ -36,7 +36,7 @@ A **wooden bust of the turnip**, now affectionately known as *Tharnibus*, sits b
 ## Relationships and Reputation
 Drip holds **deep respect for alchemy**, even as he blurs its boundaries. He argues that **chaos is not disorder—it’s freedom**. Among the fringe elements of [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md), he’s considered a living patron of the unpredictable.
 
-His relationship with **Professor Marwa Krindlenut** of *The Stable Flask* is both cordial and competitive. While she values stability and order, she respects Drip’s conviction—even if she refuses to drink his products.
+His relationship with **Professor Marwa Krindlenut** of *[The Stable Flask](/location/settlement/city/city-of-or/shop/the-stable-flask.md)* is both cordial and competitive. While she values stability and order, she respects Drip’s conviction—even if she refuses to drink his products.
 
 > “Drip,” she once said, “is what happens when curiosity drinks too much.”
 
