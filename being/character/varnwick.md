@@ -2,7 +2,7 @@
 title: Varnwick Twistroot
 description: 
 published: 1
-date: 2025-04-04T22:17:36.610Z
+date: 2025-04-04T22:31:20.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-04T22:17:36.610Z
@@ -10,6 +10,8 @@ dateCreated: 2025-04-04T22:17:36.610Z
 
 # Varnwick "Twistroot" Marnel  
 *“If the trees speak in riddles, then I must be their punchline.”*
+
+![varnwick.png](/characters/varnwick.png =x500)
 
 There are those who wander the [Cracks near The Dense](/location/plane/the-dense.md) for power. Others seek ancient truths, forbidden knowledge, or shiny things. Varnwick Marnel did not set out for any of those. He was looking for berries. Not just any berries—he was on a lifelong, deeply irrational quest to find and catalog every variety of fruit ending in "-ility." That he somehow survived this fruit-fueled folly is either a miracle, a cosmic prank, or a grim indicator of how little the universe cares for sensible outcomes.
 
