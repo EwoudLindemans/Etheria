@@ -16,7 +16,7 @@ When a deity weakens, it does not vanish entirely but lingers as an imprint. If 
 Some deities in [Etheria](/etheria.md) fight relentlessly to maintain their power, using conduits, and even conflict to keep faith alive. Others manipulate belief by merging with rival domains or altering their own nature to remain relevant. However, some deities are more passive, relying on deeply rooted traditions or ancient temples to sustain their presence. A few accept their decline entirely, fading into imprints or drifting until belief calls them back. While no deity is ever truly gone, their survival depends on how far they are willing to fight for their people.
 
 ## Resonance Drift
-A deity is not bound permanently to a [scale](/location/scale.md) and may drift to another scale if it becomes more aligned with its essence. However, migration can only occur after the current deity weakens. In some cases, multiple deities may compete for a scale, engaging in a **struggle for dominance** until the strongest faith prevails. If a deity senses greater belief elsewhere, it may choose to abandon its current scale in search of a new [home](/home.md). This process can even happen for imprinted deities
+A deity is not bound permanently to a [scale](/location/scale.md) and may drift to another scale if it becomes more aligned with its essence. However, migration can only occur after the current deity weakens. In some cases, multiple deities may compete for a scale, engaging in a **struggle for dominance** until the strongest faith prevails. If a deity senses greater belief elsewhere, it may choose to abandon its current scale in search of a new home. This process can even happen for imprinted deities
 
 ## Resonance Convergence
 When no existing deity fully embodies the **will** of the people, a **new deity emerges**. This process begins as a new resonating thread, triggered by a subtle shift in people's **will** that grows stronger until the new domain(s) are significant enough, the thread **will** then embody the collective **will** of the people.
@@ -25,7 +25,7 @@ When no existing deity fully embodies the **will** of the people, a **new deity 
 Deities in [Etheria](/etheria.md) are never truly lost. However they can linger as a imprint or drift to another [scale](/location/scale.md), When faith declines, a deity weakens and dissolves into this latent state. Yet, these imprints preserve their essence, allowing for potential rebirth or reactivation if belief resurges. Some deities reawaken after years or even centuries, while others seek or are pulled to new scales.
 
 ## Resonance Conduits
-Certain individuals, known as **Echo-Bearers**, act as [resonance](/structure/mechanic/resonance.md) conduits, extending a deity’s influence beyond its [home](/home.md) [scale](/location/scale.md). Though they do not wield divine power themselves, they serve as crucial anchors, preserving the deity’s presence across distant lands.
+Certain individuals, known as **Echo-Bearers**, act as [resonance](/structure/mechanic/resonance.md) conduits, extending a deity’s influence beyond its home [scale](/location/scale.md). Though they do not wield divine power themselves, they serve as crucial anchors, preserving the deity’s presence across distant lands.
 
 ## Resonance Weave
 In regions where neighboring scales overlap, the domains of deities may merge or influence one another, creating blended divine manifestations. 

@@ -24,7 +24,7 @@ The peaks themselves stretch high enough to touch clouds spun with [Scale](/loca
 
 ## Creatures of the Stone
 
-The mountains are [home](/home.md) to things that don’t care for politics or coin. **Trolls**, **cave ogres**, and **stonehide serpents** dwell in the shadows, claiming old tunnels as their own. Packs of **dire mountain wolves** are known to hunt along the ridgelines, their howls reverberating through the valleys like the sound of war drums.
+The mountains are home to things that don’t care for politics or coin. **Trolls**, **cave ogres**, and **stonehide serpents** dwell in the shadows, claiming old tunnels as their own. Packs of **dire mountain wolves** are known to hunt along the ridgelines, their howls reverberating through the valleys like the sound of war drums.
 
 Then there are stranger sightings—winged beasts that glide in total silence, **glimmer-eyed spiders** that spin runes into their webs, and once, supposedly, a **singing golem** that spoke in languages no one had heard in centuries. Most chalk these up to mountain madness. Most.
 

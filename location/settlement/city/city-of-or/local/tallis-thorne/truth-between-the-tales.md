@@ -33,15 +33,15 @@ The space between them is filled with stories, songs, and spectacular distractio
 
 ## Gloriana and the Lost Friend
 
-At the centre of Tallis’s unspoken sorrow is Gloriana, his twelve-string lyre harp. Most believe she was earned, crafted, or stolen in some whimsical Tallis-worthy tale. In truth, she **once belonged to someone else**—a dear friend whose name no longer echoes in any corner of [Etheria](/etheria.md).
+At the centre of Tallis’s unspoken sorrow is [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md), his twelve-string lyre harp. Most believe she was earned, crafted, or stolen in some whimsical Tallis-worthy tale. In truth, she **once belonged to someone else**—a dear friend whose name no longer echoes in any corner of [Etheria](/etheria.md).
 
-She is not dead. She is **erased**—removed so thoroughly from the weave of memory and time that even Tallis no longer remembers her face. But his heart does. The emotional bond remains, anchored unknowingly in Gloriana, who remembers *everything*. To others, she is simply a magical harp. To Tallis, she is the last thread to something lost.
+She is not dead. She is **erased**—removed so thoroughly from the weave of memory and time that even Tallis no longer remembers her face. But his heart does. The emotional bond remains, anchored unknowingly in [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md), who remembers *everything*. To others, she is simply a magical harp. To Tallis, she is the last thread to something lost.
 
-Gloriana may even hold the key to breaking the curse—though Tallis has no idea.
+[Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) may even hold the key to breaking the curse—though Tallis has no idea.
 
 ## The Song He Doesn’t Know
 
-In quiet moments, Tallis plays a nameless melody. He does not recall composing it. He does not speak of it. He simply plays it, always the same, alone. The strings glow soft blue. Gloriana listens.
+In quiet moments, Tallis plays a nameless melody. He does not recall composing it. He does not speak of it. He simply plays it, always the same, alone. The strings glow soft blue. [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) listens.
 
 [Miss Terry](/being/character/miss-terry.md), one of the very few to witness this performance, refers to it as:
 
@@ -57,7 +57,7 @@ The two speak in murmurs, often sharing books, memories, and silences. Those who
 
 ## Miss Terry and the Pact of Silence
 
-If there is one soul other than Gloriana who truly understands Tallis, it is **[Miss Terry](/being/character/miss-terry.md)**. Their history remains a mystery, but their understanding runs deeper than jest and jabs.
+If there is one soul other than [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) who truly understands Tallis, it is **[Miss Terry](/being/character/miss-terry.md)**. Their history remains a mystery, but their understanding runs deeper than jest and jabs.
 
 Out of a love built on respect and understanding, [Miss Terry](/being/character/miss-terry.md) has sworn herself—formally or not—to the protection of Tallis’s truths. She guards them fiercely, turning away eavesdroppers, redirecting conversation, and never speaking of what he hides.
 
@@ -65,7 +65,7 @@ Their friendship is one of laughter and legend. But it is also a bond built on s
 
 ## The Real Memoir: The Library Between Names
 
-Hidden behind Tallis’s jokes about “writing the greatest memoir of all time” lies a very real, very secret book: The Library Between Names
+Hidden behind Tallis’s jokes about “writing the greatest memoir of all time” lies a very real, very secret book: The [Library Between Names](/location/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
 
 A soul-bound tome only Tallis can read or write. Upon his death, it will reveal itself only to his chosen Narrative Heir. It contains the true story—the one even Tallis is still afraid to finish writing.
 

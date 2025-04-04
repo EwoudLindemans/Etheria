@@ -44,7 +44,7 @@ Only the Denseshifters, an elite order of mages, dare to master the Dense’s im
 
 ### Known Locations
 - The [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) a magical hub access only by those with magical ability's. It's a place of study, where knowledge, power, and [resonance](/structure/mechanic/resonance.md) converge. [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md) used to access this location was accidentaly created by [Nokk](/being/character/nokk.md).
-- The [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md) a device made by [Poppy Handyleaf](/being/character/poppy-handyleaf.md). shaping it into a [home](/home.md) where compressed space became a gift rather than a curse. 
+- The [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md) a location where the gnomes of OR found a way to tame a sliver of it by using the [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md) a device made by [Poppy Handyleaf](/being/character/poppy-handyleaf.md). shaping it into a home where compressed space became a gift rather than a curse. 
 
 A gateway that exists in the Dense at The [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md), this swirling portal is a mystery, when passed it may lead to  when passed through leading [Etheria](/etheria.md)
 

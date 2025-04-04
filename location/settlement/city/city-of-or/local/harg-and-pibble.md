@@ -58,4 +58,4 @@ Some say they are touched by a [scale](/location/scale.md).
 Others say they are cursed by one.
 
 But everyone agrees:
-They make [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md) feel like [home](/home.md).
+They make [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md) feel like home.

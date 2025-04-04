@@ -18,7 +18,7 @@ It borders both [Gutterbrew Alley](/location/settlement/city/city-of-or/district
 ## Character
 - **Vibe:** Loud, lived-in, and hard-working  
 - **Residents:** Dwarves, humans, half-orcs, halflings, dragonborn—anyone who’s more practical than posh  
-- **Economy:** Mostly residential, but [home](/home.md) to a variety of independent smiths, scrappers, tutors, and tavern runners
+- **Economy:** Mostly residential, but home to a variety of independent smiths, scrappers, tutors, and tavern runners
 
 ## Architecture
 Buildings are carved from layered stone and reinforced with scavenged forge iron. Shutters and signage are mismatched, and colourful cloth awnings stretch between dwellings like low-hanging skies.

@@ -23,7 +23,7 @@ To any reader save its true author or chosen heir, the pages remain utterly empt
 - **Conditional Revelation**  
   Upon the confirmed death of [Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md), the book may reveal its contents *once*—but only to the individual he has designated as his *Narrative Heir*. This person must present one of the following:  
   - A signed page containing Tallis’s true name  
-  - A keepsake of shared importance bound in his essence (such as a harp string from Gloriana or a journal fragment)  
+  - A keepsake of shared importance bound in his essence (such as a harp string from [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) or a journal fragment)  
   - Or the answer to a riddle only Tallis and the heir would know (e.g., *“What name did I give the owl who wasn’t mine?”*)
 
 - **Memory Seal**  

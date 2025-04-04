@@ -37,7 +37,7 @@ Yet, beneath her clever hands and calculating mind, Poppy is self-conscious—no
 
 A Chaotic Neutral spirit, she is neither hero nor villain, neither saint nor scoundrel. She is pragmatic, impulsive, and utterly unpredictable—loyal only to her own curiosity. If a scheme is brilliant enough, the consequences matter little. If an object is fascinating enough, it must be understood, no matter the risk.
 
-OR is her [home](/home.md), but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
+OR is her home, but the world is her workshop. And as long as there are mysteries left unsolved and contraptions yet to be built, Poppy Handyleaf will always be in motion.
 
 > # Poppy Handyleaf
 > ---

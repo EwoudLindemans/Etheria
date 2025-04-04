@@ -38,10 +38,10 @@ The City of Or is a city of layered stone and shifting depth, with districts exp
 Immediately beyond the great gate into the mountains lies Stonehollow—a massive vaulted chamber that acts as the **interior city centre** of the Undercity. It is a hub for commerce, ritual, and movement deeper into the mountain.
 
 ### Hearthring
-The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is [home](/home.md) to the Stone Council Hall and [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
+The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is home to the Stone Council Hall and [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
 
 ### Coalwalk Row
-A rugged residential and working-class district carved along the mountainside, known for its loud community life, local brews, and smithing culture. Proudly [home](/home.md) to miners, crafters, and independent workers.
+A rugged residential and working-class district carved along the mountainside, known for its loud community life, local brews, and smithing culture. Proudly home to miners, crafters, and independent workers.
 
 ### The Spillway
 A steep and chaotic corridor of trade, connecting surface routes and underground freight lines. [The Spillway](/location/settlement/city/city-of-or/district/the-spillway.md) is where goods, scrolls, crates, and tempers move the fastest.

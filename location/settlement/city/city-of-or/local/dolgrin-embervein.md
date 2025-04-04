@@ -57,7 +57,7 @@ No one saw him do it. No one could prove he did.
 
 But everyone knew.
 
-He didn’t leave because he was forced. He left because something had shifted—because [home](/home.md) stopped feeling like home, and started feeling like a museum where the statues scowled just a little harder at him.
+He didn’t leave because he was forced. He left because something had shifted—because home stopped feeling like home, and started feeling like a museum where the statues scowled just a little harder at him.
 
 Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
