@@ -2,7 +2,7 @@
 title: Covenant of Thalgrin and Ilmater
 description: 
 published: 1
-date: 2025-04-06T20:10:24.834Z
+date: 2025-04-06T20:12:06.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T20:05:34.047Z
@@ -10,7 +10,7 @@ dateCreated: 2025-04-06T20:05:34.047Z
 
 # Covenant of Thalgrin and Ilmater
 
-In the City of Or, where the clang of forge-hammers echoes like prayer, it was **Thalgrin, the Heartbound Smith**, who permitted the red thread of Ilmater to enter Etheria—not as a flood of divine foreignness, but as a trickle of healing fire.
+In the City of Or, where the clang of forge-hammers echoes like prayer, it was **[Thalgrin](/being/deity/thalgrin), the Heartbound Smith**, who permitted the red thread of **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** to enter Etheria not as a flood of divine foreignness, but as a trickle of healing fire.
 
 Thalgrin, god of craft and endurance, did not allow *all* of Ilmater's power. He is no martyr, no weeper of wounds. But when he saw **[Sylieth](/being/character/sylieth)**, a Tiefling whose hands stitched bodies as a smith would steel, he understood. The *healing* they offered—the slow mending of flesh and soul—was not weakness. It was **forging**.
 
