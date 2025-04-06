@@ -2,7 +2,7 @@
 title: The Red Palm Hall
 description: The primary centre of healing and divine care in The City of Or
 published: 1
-date: 2025-04-04T17:11:43.233Z
+date: 2025-04-04T19:32:26.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-04T13:59:16.850Z

@@ -2,7 +2,7 @@
 title: Tallis Thorne
 description: Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
 published: 1
-date: 2025-04-02T20:56:38.643Z
+date: 2025-04-04T21:58:14.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
