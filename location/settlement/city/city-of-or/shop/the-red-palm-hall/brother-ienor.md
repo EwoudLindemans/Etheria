@@ -13,14 +13,14 @@ dateCreated: 2025-04-06T20:52:21.213Z
 **Full Title:** Brother Ienor of the Woven Vein  
 **Race:** Elf  
 **Affiliation:** Order of the Woven Vein  
-**Role:** Lead Healer of The Red Palm Hall  
-**Residence:** Stonehollow District, The City of Or  
+**Role:** Lead Healer of [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)  
+**Residence:** Stonehollow District, The [City of Or](/location/settlement/city/city-of-or.md)  
 **Notable Traits:** Celibate, strikingly handsome, ancient calm, unshakably kind  
 **Nickname(s):** "The Palm of Mercy" (colloquial), "The Saint Who Blushes Not" (poetic)
 
 ## Overview
 
-Brother Ienor is the serene and widely beloved elven healer who leads **The Red Palm Hall**, the sanctuary of the **Order of the Woven Vein** in the **City of Or**. He has devoted his life to alleviating suffering—not through grandeur, but through quiet acts of grace. Despite his dignified age and divine aura, it is his tender presence that most remember. 
+Brother Ienor is the serene and widely beloved elven healer who leads **[The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)**, the sanctuary of the **Order of the Woven Vein** in the **[City of Or](/location/settlement/city/city-of-or.md)**. He has devoted his life to alleviating suffering—not through grandeur, but through quiet acts of grace. Despite his dignified age and divine aura, it is his tender presence that most remember. 
 
 Many Orfolk joke that Ienor’s presence alone can slow a fever and that more than a few mild injuries have been suspiciously exaggerated just to be seen by him.
 
@@ -36,7 +36,7 @@ Those who see him often say he looks like someone who stepped down from a staine
 
 Ienor is gentle but firm, soothing but immovable. He listens with sacred attention, responds with measured truth, and speaks as if each word is a gift. He is slow to judge and quick to act when someone is in pain. Despite a reputation that borders on sainthood, he carries no arrogance—only a deep sadness for the pain he cannot heal.
 
-He has a quiet sense of humour and treats his fame with mild amusement. When Miss Terry wrote *"I Need A Healer"*, which lovingly teased his beauty and reputation, Ienor approved it with a soft smile, saying, *"If laughter heals, let them laugh."*
+He has a quiet sense of humour and treats his fame with mild amusement. When [Miss Terry](/being/character/miss-terry.md) wrote *"I Need A Healer"*, which lovingly teased his beauty and reputation, Ienor approved it with a soft smile, saying, *"If laughter heals, let them laugh."*
 
 ## The Vow
 
@@ -52,13 +52,13 @@ He is often seen late into the night, tending to patients others have given up o
 
 ## Connection to Sylieth
 
-When **Miss Terry** discovered a Tiefling urchin named **Sylieth**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to Etheria.
+When **[Miss Terry](/being/character/miss-terry.md)** discovered a Tiefling urchin named **[Sylieth](/being/character/sylieth.md)**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to [Etheria](/etheria.md).
 
-He supported Sylieth’s path, even when others viewed it as heretical or misguided. To Ienor, the shape of faith matters less than the healing it brings. He has remained a steady mentor in Sylieth’s life, guiding without controlling, and protecting without smothering.
+He supported [Sylieth](/being/character/sylieth.md)’s path, even when others viewed it as heretical or misguided. To Ienor, the shape of faith matters less than the healing it brings. He has remained a steady mentor in Sylieth’s life, guiding without controlling, and protecting without smothering.
 
 ## Cultural Presence
 
-Brother Ienor’s legend is kept alive not by self-promotion, but by songs, sketches, and whispered admiration. The bard **Miss Terry** wrote the song *“I Need A Healer”* about him, and although playful in tone, it captures the genuine reverence Orfolk have for him.
+Brother Ienor’s legend is kept alive not by self-promotion, but by songs, sketches, and whispered admiration. The bard **[Miss Terry](/being/character/miss-terry.md)** wrote the song *“I Need A Healer”* about him, and although playful in tone, it captures the genuine reverence Orfolk have for him.
 
 It is common to see small carvings of open palms placed near shrines and fountains throughout the city—tiny tributes in his name.
 
@@ -74,4 +74,4 @@ Brother Ienor has never confirmed or denied any of these tales. When asked direc
 
 - *“If pain is a wound, kindness is the bandage. If suffering is a river, compassion is the bridge.”*
 - *“Let them laugh, if it eases their burden. Healing begins in many strange places.”*
-- *“I do not serve a god of Etheria. I serve the ache in every breath, the wound in every soul. That is enough.”*
+- *“I do not serve a god of [Etheria](/etheria.md). I serve the ache in every breath, the wound in every soul. That is enough.”*
