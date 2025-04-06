@@ -2,13 +2,13 @@
 title: Covenant of Thalgrin and Ilmater
 description: 
 published: 1
-date: 2025-04-06T20:05:34.047Z
+date: 2025-04-06T20:07:33.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T20:05:34.047Z
 ---
 
-## Covenant of Thalgrin and Ilmater
+# Covenant of Thalgrin and Ilmater
 
 In the City of Or, where the clang of forge-hammers echoes like prayer, it was **Thalgrin, the Heartbound Smith**, who permitted the red thread of Ilmater to enter Etheria—not as a flood of divine foreignness, but as a trickle of healing fire.
 
