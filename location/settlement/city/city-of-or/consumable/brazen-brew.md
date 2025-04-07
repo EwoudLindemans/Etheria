@@ -2,13 +2,13 @@
 title: Drink: The Brazen Brew
 description: 
 published: 1
-date: 2025-04-07T19:49:09.164Z
+date: 2025-04-07T19:49:21.239Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-07T19:49:09.164Z
 ---
 
-# The Brazen Brew
+# Drink: The Brazen Brew
 
 **The Brazen Brew** is the most infamous and unpredictable drink in the City of Or. A concoction of reckless inspiration, it was accidentally forged during the legendary **Battle of The Brazen Burp**, when chaos and ale collided—literally. Its creation marked a moment so explosive that it birthed a drink, a song, and a warning, all in one.
 
