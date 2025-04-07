@@ -2,13 +2,36 @@
 title: Batès Lamina
 description: 
 published: 1
-date: 2025-04-02T19:39:04.510Z
+date: 2025-04-07T19:30:18.254Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:06:03.398Z
 ---
 
 # Batès Lamina
-The smallest of all scales, Its a bright red colored [scale](/location/scale.md). it became a precious place to the Followers of [Irion](/being/deity/irion.md). Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself. This poses no problems though, because the Followers of Irion  are peaceful and well respected by their neighbours. They are also a religious people, and the shrine at the centre of their city is the most important place in the world to them.
 
-People from all over the world travel to the shrine to bring offers of wine and fruits, and to say prayers for good fortune. The Followers of [Irion](/being/deity/irion.md) believe that the magical creature, Irion, speaks to them through the magical scales that are best accessible through a cavity in the center of the shrine. The Followers of Irion have a strict non-political policy that has led to their city being a neutral ground for many years.
+**Batès Lamina** is the smallest of the five major Scales in Etheria. A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual resonance and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
+
+## Appearance and Structure
+
+Batès Lamina is a **bright red Scale**, polished and smooth in texture, and unmistakable in appearance. Despite its modest size, it radiates a low-frequency hum that can be **felt rather than heard**. This hum has a **calming effect** and is a central part of the spiritual practice of those who live around it.
+
+The Scale stands at the heart of a lake, with a **city built along the water’s edge**. The terrain is mostly **open fields**, and the settlement has **barely any defensive structures**. Despite this vulnerability, the city has never been under serious threat, in large part due to the respect it commands throughout Etheria.
+
+## The City and Shrine
+
+The city surrounding Batès Lamina is a spiritual centre for the **Followers of Irion**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the Scales.
+
+At the city's heart lies a **shrine built directly above the Scale**, with a **central cavity** said to give direct access to the Scale’s resonance. The Followers believe that **Irion speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
+
+The shrine is considered **the most important place in the world** by the Followers of Irion, and it is treated with reverence by visiting pilgrims.
+
+## Pilgrimage and Tradition
+
+People from all over Etheria journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with Irion and to help align the soul with the great resonant forces of the world.
+
+The ambient hum of the Scale is also used in meditative practices, allowing seekers to sit in silence for hours or days, absorbing the rhythmic pulse of the Scale and seeking inner stillness.
+
+## Politics and Neutrality
+
+The **Followers of Irion maintain a strict non-political policy**, refusing alliances, endorsements, or involvement in worldly governance. This detachment has earned them a reputation as **neutral mediators**, and their city is recognised as **neutral ground**—a place where feuding groups may meet without fear of manipulation or violence.
