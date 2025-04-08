@@ -46,12 +46,12 @@ Built on the foundation of an old **dueling hall**, the Burp allegedly turned it
 ## Open Talent Night  
 Held **every other moonrise**, these chaotic performances are hosted by [Miss Terry](/being/character/miss-terry.md), backed by the Pluckers. Tales abound of spontaneous fame, lifelong humiliation, and one **accidental summoning of a spectral chicken**.
 
-**Most legendary night?** When Gundy entered Harg & Pibble without their consent. Their seated, slurred debate on "the opposite of victory" won them first place—and a barrel of **Brazen Brew** they never remember claiming.
+**Most legendary night?** When Gundy entered Harg & Pibble without their consent. Their seated, slurred debate on "the opposite of victory" won them first place—and a barrel of **[Brazen Brew](/location/settlement/city/city-of-or/consumable/brazen-brew.md)** they never remember claiming.
 
 ## The Brazen Brew  
 
 ### Origins & Ingredients
-The infamous Brazen Brew was first concocted in a moment of chaotic inspiration by a younger, wilder Bogrum the Booming during a particularly violent brawl. The drink’s origins lie in the legendary Battle of The Brazen Burp, where a night of chaos, fists, and flying chairs led to the accidental mixing of:
+The infamous [Brazen Brew](/location/settlement/city/city-of-or/consumable/brazen-brew.md) was first concocted in a moment of chaotic inspiration by a younger, wilder Bogrum the Booming during a particularly violent brawl. The drink’s origins lie in the legendary Battle of The Brazen Burp, where a night of chaos, fists, and flying chairs led to the accidental mixing of:
 
 - Whiskey (for wisdom, ironically)
 - Cider (for sweetness, deceptively)

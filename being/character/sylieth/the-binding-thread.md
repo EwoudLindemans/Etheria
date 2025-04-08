@@ -24,7 +24,7 @@ The cord is usually **wrapped around their wrist**, stitched into the inside of 
 
 ## Origin
 
-The thread comes from **[Sylieth](/being/character/sylieth.md)’s first act of healing** at [the Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md). It was part of a bandage used on a wounded boy’s hand, tied under Brother Ienor’s guidance. The child survived. The bandage was discarded. But a single length of it clung to Sylieth’s sleeve.
+The thread comes from **[Sylieth](/being/character/sylieth.md)’s first act of healing** at [the Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md). It was part of a bandage used on a wounded boy’s hand, tied under [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)’s guidance. The child survived. The bandage was discarded. But a single length of it clung to Sylieth’s sleeve.
 
 That night, [Sylieth](/being/character/sylieth.md) held it during prayer—a prayer not to any known Etherian god, but to something they felt and could not name. In that moment of stillness and weight, the thread became more than a memory. It became **a tether**.
 

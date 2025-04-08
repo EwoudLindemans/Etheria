@@ -34,7 +34,7 @@ She crouched down like I was a stray kitten. I expected her to haul me to the co
 
 I didn’t trust her. Not then. But I followed.
 
-She took me to **Brother Ienor**. You’d think a man that handsome would be insufferable. But he wasn’t. He didn’t flinch at my horns, didn’t squint at my skin like it was something to fix. He asked my name. I told him I didn’t have one. He just nodded and said, *“Then let’s find one together.”*
+She took me to **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**. You’d think a man that handsome would be insufferable. But he wasn’t. He didn’t flinch at my horns, didn’t squint at my skin like it was something to fix. He asked my name. I told him I didn’t have one. He just nodded and said, *“Then let’s find one together.”*
 
 They let me stay at **[The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)**. They gave me work, food, a bed with a blanket that smelled like dried herbs and old books. The first night, I slept with one eye open. The second night, I didn’t sleep at all. The third, I cried and didn’t know why.
 
@@ -60,5 +60,5 @@ Threadbare. Bound. Unbroken.
 - [The Binding Thread](/being/character/sylieth/the-binding-thread.md)  
 - Red Palm Hall  
 - [Miss Terry](/being/character/miss-terry.md)  
-- Brother Ienor  
+- [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)  
 - [The Inkblot Bindery](/location/settlement/city/city-of-or/shop/the-inkblot-bindery.md)

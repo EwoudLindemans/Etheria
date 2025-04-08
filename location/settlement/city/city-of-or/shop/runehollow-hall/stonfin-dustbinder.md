@@ -12,7 +12,7 @@ dateCreated: 2025-04-08T08:26:45.660Z
 
 Stonfin Dustbinder is the cheerful and ever-curious halfling librarian who oversees **Runehollow Hall**, the ancient and revered library at the entrance of the Undercity of Or. A beloved fixture of the district of Stonehollow, Stonfin is known for his gentle wit, encyclopaedic recall, and the quiet joy he brings to the dusty work of knowledge preservation.
 
-Though the dwarves originally built the hall in honour of Or Flatstone, Stonfin has become a natural guardian of its contents—respected by scholars, craftsmen, and council scribes alike. His presence bridges generations of lore with a humility and humour that keeps the great stone vault of knowledge feeling remarkably alive.
+Though the dwarves originally built the hall in honour of [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md), Stonfin has become a natural guardian of its contents—respected by scholars, craftsmen, and council scribes alike. His presence bridges generations of lore with a humility and humour that keeps the great stone vault of knowledge feeling remarkably alive.
 
 ## Appearance
 
@@ -36,13 +36,13 @@ Despite his quiet demeanour, he is far from timid. He has stood his ground befor
 
 ## Role in the City of Or
 
-Though not a native dwarf, Stonfin is deeply woven into the intellectual life of the City of Or. His stewardship of Runehollow Hall ensures the preservation of city charters, ancestral records, magical ledgers, and engineering manuscripts. He is often sought for guidance by apprentices, researchers, and curious council aides alike.
+Though not a native dwarf, Stonfin is deeply woven into the intellectual life of the [City of Or](/location/settlement/city/city-of-or.md). His stewardship of Runehollow Hall ensures the preservation of city charters, ancestral records, magical ledgers, and engineering manuscripts. He is often sought for guidance by apprentices, researchers, and curious council aides alike.
 
 Some say he knows *exactly* where every volume is shelved—even the ones that were never officially recorded. Whether this is a halfling gift, a personal system, or enchantment is unknown, and Stonfin isn't telling.
 
 ## Known Facts (and Unknowns)
 
-- **Backstory:** Stonfin's past remains unspoken—either by choice or design. Some believe he once travelled the Scales of Etheria; others think he was always meant to live among the shelves of Runehollow.
+- **Backstory:** Stonfin's past remains unspoken—either by choice or design. Some believe he once travelled the Scales of [Etheria](/etheria.md); others think he was always meant to live among the shelves of Runehollow.
 - **Rumours:** It is said that he once deciphered a cursed book simply by smelling its spine—and politely returned it to its shelf before sealing the aisle.
 - **Favourites:** Known to favour candied ginger, quiet afternoons, and annotated margins.
 

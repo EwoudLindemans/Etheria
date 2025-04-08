@@ -27,7 +27,7 @@ The clerics who staff the hall follow no single [deity](/structure/mechanic/deit
 Most clerics wear simple robes embroidered with vein-like stitching in red and gold. Each is trained in both divine [magic](/structure/mechanic/magic.md) and herbcraft, and several are known to hold rare blessings specific to Or’s resonant environment.
 
 ## Leadership
-The hall is led by **Brother Ienor**, an ageing half-elf with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
+The hall is led by **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**, an ageing half-elf with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
 
 > “We are not here to judge how you were hurt. We are here so that hurt no longer defines you.” — *Brother Ilenor*
 

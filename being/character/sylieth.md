@@ -42,7 +42,7 @@ That life changed the day Sylieth dropped a bottle near **[The Brazen Burp](/loc
 ## The Turning Point
 Caught mid-escape, Sylieth expected to be punished. Instead, they met **[Miss Terry](/being/character/miss-terry.md)**, the jolly Tiefling bard known for her sharp wit and enormous heart. She didn’t scold. She simply extended her hand and offered a kindness Sylieth didn’t know how to refuse.
 
-[Miss Terry](/being/character/miss-terry.md) brought them to **Brother Ienor**, the compassionate and strikingly handsome elven healer who led **[The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)**. The monks there didn’t treat Sylieth as a nuisance—they offered rest, food, work, and dignity. They gave Sylieth a name, and in time, a purpose.
+[Miss Terry](/being/character/miss-terry.md) brought them to **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**, the compassionate and strikingly handsome elven healer who led **[The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)**. The monks there didn’t treat Sylieth as a nuisance—they offered rest, food, work, and dignity. They gave Sylieth a name, and in time, a purpose.
 
 It was here that Sylieth’s divine connection awakened—not to a god of [Etheria](/etheria.md), but to **Ilmater**, a [deity](/structure/mechanic/deity.md) from beyond the plane. Through a frayed red thread—once part of a bandage, now a sacred tether—Sylieth felt the presence of Ilmater for the first time. A god of suffering, endurance, and compassion. A god who understood them.
 
@@ -55,7 +55,7 @@ They will bear it. That is the vow.
 
 ## Known Allies
 - **[Miss Terry](/being/character/miss-terry.md)** – Tiefling bard who first showed Sylieth compassion.  
-- **Brother Ienor** – Dignified and deeply kind elven healer who became a mentor.  
+- **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Dignified and deeply kind elven healer who became a mentor.  
 - **[Dottie Copperlocks](/location/settlement/city/city-of-or/local/dottie-copperlocks.md)** – Paranoid dwarven researcher who unwittingly gave Sylieth their first role in the world.
 
 ## Symbolic Artifact
