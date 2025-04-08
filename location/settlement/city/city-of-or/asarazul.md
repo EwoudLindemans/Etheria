@@ -2,13 +2,15 @@
 title: Asarazul
 description: 
 published: 1
-date: 2025-04-02T20:35:18.841Z
+date: 2025-04-08T20:52:47.002Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T13:40:05.552Z
 ---
 
 # Asarazul
+
+![azurazul.jpg](/world/ores/azurazul.jpg =500x)
 
 Long before the [City of Or](/location/settlement/city/city-of-or.md) was a name whispered through the mountain halls, and long before the undercity glowed red beneath the [Scale](/location/scale.md), there was a gem—cut from the frozen depths of the **[Asara Plate](/location/scale/asara-plate.md)**, said to hold the stillness of a thousand winters.
 
