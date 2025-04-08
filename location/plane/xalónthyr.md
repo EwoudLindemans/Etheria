@@ -2,13 +2,13 @@
 title: Xalónthyr
 description: 
 published: 1
-date: 2025-04-08T20:33:58.008Z
+date: 2025-04-08T20:54:45.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-07T21:52:26.471Z
 ---
 
-# Xalónthyr
+# The Fractured Keep (Xalónthyr)
 
 > *“To walk from war into light is not a journey. It is a negotiation.” — Inscription on the border pillar between Askarath’s Blight and Vennalune’s Dawnreach*
 
