@@ -2,7 +2,7 @@
 title: Cirxa
 description: 
 published: 1
-date: 2025-04-06T19:51:11.806Z
+date: 2025-04-08T20:50:05.013Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T19:51:10.288Z
@@ -11,6 +11,8 @@ dateCreated: 2025-04-06T19:51:10.288Z
 # Cirxa, The Candle-Eyed Broker
 
 > *"Everything has a price. Even silence. Especially silence."*
+
+![cirxa.webp](/characters/cirxa.webp =500x)
 
 In the mist-drenched corridors of [Arkona](/location/settlement/city/arkona.md), where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed Broker**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
 
