@@ -1,14 +1,14 @@
 ---
-title: The Concordant Thread
+title: Xalónthyr
 description: 
 published: 1
-date: 2025-04-08T20:03:45.394Z
+date: 2025-04-08T20:33:58.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-07T21:52:26.471Z
 ---
 
-# The Concordant Tread
+# Xalónthyr
 
 > *“To walk from war into light is not a journey. It is a negotiation.” — Inscription on the border pillar between Askarath’s Blight and Vennalune’s Dawnreach*
 
@@ -30,7 +30,7 @@ Every domain has borders—but **borders are sacred**. To pass through another d
 
 ### Travel = Theology in Motion
 
-To move across the Concordant Tread is to **enter** the influence of another god. For mortal agents, this means:
+To move across Xalónthyr is to **enter** the influence of another god. For mortal agents, this means:
 
 - Their spells may behave differently (a fire spell cast in Dawnreach burns golden truth instead of flame).
 - Their minds may be altered temporarily by ambient domain logic.
