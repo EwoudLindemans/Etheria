@@ -2,8 +2,8 @@
 title: Darik Stoneveil
 description: A quiet step among the runes, with thoughts that echo deeper than orders
 published: 1
-date: 2025-04-09T13:57:31.718Z
-tags: dwarf, guard, city of or
+date: 2025-04-09T14:07:46.559Z
+tags: city of or, dwarf, guard
 editor: markdown
 dateCreated: 2025-04-09T13:57:31.718Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2025-04-09T13:57:31.718Z
 # Darik Stoneveil  
 *Guardling of the Runehollow Beat, student of law, lore, and lives between*
 
-Darik Stoneveil is a young dwarf currently serving as a **Guardling** on the Runehollow Beat in the City of Or. Though newly stationed, he has already earned quiet praise from superiors and citizens alike for his calm under pressure, his thoughtful manner, and his keen observational skills.
+Darik Stoneveil is a young dwarf currently serving as a **Guardling** on the Runehollow Beat in the [City of Or](/location/settlement/city/city-of-or.md). Though newly stationed, he has already earned quiet praise from superiors and citizens alike for his calm under pressure, his thoughtful manner, and his keen observational skills.
 
 Darik represents the **newer generation of Orinite Guards**—those raised on stories, city lore, and the conviction that service is not just duty, but understanding. While others stride, Darik watches. While others speak, he listens. And while his record is modest, his reports are often more insightful than his rank suggests.
 
@@ -51,9 +51,9 @@ He’s known to **write reflections in the margins of his own Guard manual**, an
 
 Though soft-spoken and not well-known beyond his district, Darik has built **meaningful bonds** with those who watch closely:
 
-- **Watchwarden Berrun Dimmabrow** – Darik’s commanding officer, who sees great potential in him. Berrun often tests Darik with odd or overlooked assignments, trusting that he’ll uncover what others miss.
+- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard/berrun-dimmabrow.md)** – Darik’s commanding officer, who sees great potential in him. Berrun often tests Darik with odd or overlooked assignments, trusting that he’ll uncover what others miss.
 
-- **Brother Ienor** – Darik respects the healer deeply, and occasionally visits the Red Palm Hall—not for wounds, but to ask questions about empathy, faith, or phrasing.
+- **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Darik respects the healer deeply, and occasionally visits the Red Palm Hall—not for wounds, but to ask questions about empathy, faith, or phrasing.
 
 - **Stonfin Dustbinder** – The halfling librarian of Runehollow Hall and a quiet friend to Darik. They share reading notes and footnote theories over shared tea breaks.
 
