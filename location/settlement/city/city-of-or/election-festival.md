@@ -131,7 +131,7 @@ A wooden bust of the turnip—**Tharnibus**—sits proudly at [Drip](/location/s
 
 ### The Fourfold Tie  
 A tie between four unlikely candidates forced the Council to temporarily expand. The resulting term was shockingly effective. The winners:
-- **Jolek Lokar** – clumsy but adored guard.
+- **Jolek Lokar** – clumsy but adored [guard](/location/settlement/city/city-of-or/guard.md).
 - **Arr Ermcrimson** – already drunk when the festival began.
 - **Ilek ir’Wynarn** – formerly pardoned Flatstone loyalist.
 - **Sendar Elorfindar** – wizard with a talent for crowd-pleasing illusions.

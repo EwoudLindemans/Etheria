@@ -23,7 +23,7 @@ The foundation of [Etheria](/etheria.md): its cosmic origin, magical essence, an
 | [Etheria](/etheria.md) | The living world formed from [Irion](/being/deity/irion.md)'s impact. |
 | [The Collapse](/structure/chronological/event/the-collapse.md) | The shattering event that created the scales. |
 | [Irion](/being/deity/irion.md) | The primordial being whose fall seeded the land with [magic](/structure/mechanic/magic.md). |
-| The Orinite Ring | A black celestial ring always visible above [Etheria](/etheria.md). |
+| The [Ornite Ring](/location/scale/ornite-ring.md) | A black celestial ring always visible above [Etheria](/etheria.md). |
 | [The Dense](/location/plane/the-dense.md) | A chaotic subrealm between the world's fractured plates. |
 
 ## Magic & Resonance

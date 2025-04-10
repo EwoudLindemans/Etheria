@@ -26,7 +26,7 @@ Each [Scale](/location/scale.md) is a titan's shard, with different magical prop
 | **[Eldeviérs Shell](/location/scale/eldeviérs-shell.md)** | Opal spire holding [Mohinders](/location/settlement/city/mohinders.md) in the air            | Healing, levitation, light |
 | **[Umperas Hull](/location/scale/umperas-hull.md)**  | Wall-like yellow, broken top                         | Defense, warding |
 | **The [Asara Plate](/location/scale/asara-plate.md)** | Broken blue [scale](/location/scale.md) with crystalline reflections    | Illusion, perception manipulation |
-| **Orinite Ring**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
+| **[Ornite Ring](/location/scale/ornite-ring.md)**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
 
 ## Types of Magical Manifestation
 

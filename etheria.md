@@ -53,8 +53,8 @@ A large curved [scale](/location/scale.md) with the top broken off, it pretty mu
 ### The Asara Plate
 The [Asara Plate](/location/scale/asara-plate.md) sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique [scale](/location/scale.md) is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
 
-### The Orinite Ring
-Surrounding Etheria is the **Orinite Ring**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Etheria from the unknown beyond.  
+### The Ornite Ring
+Surrounding Etheria is the **[Ornite Ring](/location/scale/ornite-ring.md)**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Etheria from the unknown beyond.  
 
 ## Religions
 - **Followers of [Irion](/being/deity/irion.md)**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.

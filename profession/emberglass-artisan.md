@@ -92,7 +92,7 @@ These finely cut glass lenses are inscribed with draconic runes, granting the we
 
 ### **The Everflame Lantern**  
 *"A light that never dies."*  
-A relic of old, these lanterns burn with a glass-encased fire that never extinguishes, even underwater or in magical darkness. They serve as guiding beacons, carried by travelers, warriors, and those who guard sacred places.
+A relic of old, these lanterns burn with a glass-encased fire that never extinguishes, even underwater or in magical darkness. They serve as guiding beacons, carried by travelers, warriors, and those who [guard](/location/settlement/city/city-of-or/guard.md) sacred places.
 
 ### **The Fractured Prism**  
 *"Each shard holds a different truth."*  
