@@ -2,7 +2,7 @@
 title: Darik Stoneveil
 description: A quiet step among the runes, with thoughts that echo deeper than orders
 published: 1
-date: 2025-04-10T19:35:03.846Z
+date: 2025-04-10T19:35:30.846Z
 tags: city of or, dwarf, guard
 editor: markdown
 dateCreated: 2025-04-09T13:57:31.718Z
