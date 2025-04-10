@@ -22,19 +22,19 @@ The Goons trace their roots to a disaster in **[Triz Valley](/location/settlemen
 
 In the warped depths of the [Verdant Divide](/area/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
 
-They dwell within *The Cartocrater*—a resonance-scarred chasm carved from a fractured [scale](/location/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
+They dwell within *The Cartocrater*—a [resonance](/structure/mechanic/resonance.md)-scarred chasm carved from a fractured [scale](/location/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
 
 ### The Bone Marshal
-A skull-faced strategist with armor stitched from ceremonial shards of a defunct [Redemptious Myphos](/structure/social/religion/redemptious-myphos.md) sect. His mane of cobalt fur rises like a war banner in fog. He doesn’t command with shouts—he taps maps with a claw and calamity follows. Said to dream in invasions and wake to predictions. Once blinked, and a fortress surrendered.
+A skull-faced strategist with armor stitched from ceremonial shards of a defunct Redemptious Myphos sect. His mane of cobalt fur rises like a war banner in fog. He doesn’t command with shouts—he taps maps with a claw and calamity follows. Said to dream in invasions and wake to predictions. Once blinked, and a fortress surrendered.
 
 ### The Pale Scholar  
-Wrapped in scrolls and sagging sanity, this ex-[Veiled Canticle](/structure/social/factions/veiled-canticle.md) scribe recites events that haven’t happened yet. His beard carries inkstains older than some cities. Famous for the phrase: “This isn’t a plan—it’s a prophecy with poor handwriting.” Claims compasses scream when he's near. No one’s disagreed twice.
+Wrapped in scrolls and sagging sanity, this ex-Veiled Canticle scribe recites events that haven’t happened yet. His beard carries inkstains older than some cities. Famous for the phrase: “This isn’t a plan—it’s a prophecy with poor handwriting.” Claims compasses scream when he's near. No one’s disagreed twice.
 
 ### The Rusted Thaumaturge  
 Molten sigils burn along his damp bandages. His coat—a salvaged relic from a ghost-ship’s apothecary—smells faintly of regret and formaldehyde. Exiled from [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) for “weaponizing bad ideas.” His spells often work, just not as intended. Built a candle once that screams in four languages. Still carries it.
 
 ### The Crowstrider  
-All spikes and silence. Goggles hide eyes no one’s confirmed exist. He walks like a forgotten trap resetting itself, always sideways, never straightforward. Believed to think exclusively in pressure plates and proximity hexes. Speaks only to maps, traps, and Shriekbeak. Occasionally hums. It’s unsettling.
+All spikes and silence. Goggles hide eyes no one’s confirmed exist. He walks like a forgotten trap resetting itself, always sideways, never straightforward. Believed to think exclusively in pressure plates and proximity hexes. Speaks only to maps, traps, and [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md). Occasionally hums. It’s unsettling.
 
 ### The Scythe Lass  
 A woman of exposed ribs, morbid wit, and elegant violence. Her curved blade is treated more like punctuation than a weapon. Once fought a weather witch and won the forecast. Her hat has its own bounty. Frequently mistaken for dead—uses that mistake to great effect. Has opinions about your bones.

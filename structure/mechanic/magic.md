@@ -67,7 +67,7 @@ Religious protectors of **Batès Lamina**. They believe [scale](/location/scale.
 
 - **[Scale](/location/scale.md)-Tuned Artifacts:** Items bound to specific scales, carrying unique resonant properties. Some cities auction these for incredible sums.
 - **[Scale](/location/scale.md)-Backed Architecture:** Walls, bridges, and city foundations integrated with scales—enhancing durability and providing passive enchantments.
-- **Myphos Refining:** A controversial technique involving the distillation of [scale](/location/scale.md) fragments into magical enhancements. Practiced secretly or by outlaw groups like **The Arcane Fangs**.
+- **Myphos Refining:** A controversial technique involving the distillation of [scale](/location/scale.md) fragments into magical enhancements. Practiced secretly or by outlaw groups like **The [Arcane Fangs](/structure/social/factions/arcane-fangs.md)**.
 
 ## Final Notes
 

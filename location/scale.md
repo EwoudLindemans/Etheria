@@ -39,7 +39,7 @@ To many, the scales are sacred.
 
 - **Followers of [Irion](/being/deity/irion.md)** treat them as the resting body of their god, especially revering sites like Batès Lamina.
 - Others believe the scales are sentient or dreaming, and that tampering with them risks invoking a second Collapse.
-- Some, like the Cult of Dy, attribute randomness and divine will to the patterns of [resonance](/structure/mechanic/resonance.md) the scales emit.
+- Some, like the [Cult of Dy](/structure/social/factions/cult-of-dy.md), attribute randomness and divine will to the patterns of [resonance](/structure/mechanic/resonance.md) the scales emit.
 
 ## Conflict & Exploitation
 

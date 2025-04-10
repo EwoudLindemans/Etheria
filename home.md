@@ -81,8 +81,8 @@ Faiths and factions control resources, conduct rites, and compete for [scale](/l
 | Title | Summary |
 |-------|---------|
 | Followers of [Irion](/being/deity/irion.md) | Defenders of Batès Lamina and sacred [scale](/location/scale.md) sites. |
-| Arcane Fangs | [Scale](/location/scale.md) harvesters who merge [magic](/structure/mechanic/magic.md) into body and gear. |
-| Cult of Dy | Fatalists ruled by divine dice and ritual fire trials. |
+| [Arcane Fangs](/structure/social/factions/arcane-fangs.md) | [Scale](/location/scale.md) harvesters who merge [magic](/structure/mechanic/magic.md) into body and gear. |
+| [Cult of Dy](/structure/social/factions/cult-of-dy.md) | Fatalists ruled by divine dice and ritual fire trials. |
 | [Ragged Goons](/structure/social/factions/ragged-goons.md) | Nomads hunting for hidden, unguarded scales. |
 | Gorgrath’s Wrath | Revolutionaries targeting the Flatstone regime in Or. |
 | Sisterhood of Assassination | A covert guild of elite, magically-trained killers. |
