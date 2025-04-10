@@ -2,7 +2,7 @@
 title: The City of Or
 description: The largest city of Etheria, built beneath The Armour of Or.
 published: 1
-date: 2025-04-07T21:07:36.483Z
+date: 2025-04-10T21:13:35.742Z
 tags: or
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
@@ -36,6 +36,8 @@ The City of Or is a city of layered stone and shifting depth, with districts exp
 
 ### Stonehollow
 Immediately beyond the great gate into the mountains lies Stonehollow—a massive vaulted chamber that acts as the **interior city centre** of the Undercity. It is a hub for commerce, ritual, and movement deeper into the mountain.
+
+The red-glowing crystal embedded in the vaulted ceiling of Stonehollow—formed from the exposed underside of the Armour of Or—is commonly referred to in Orfolk songs and poetry as “the Armour’s Red Moon.” This name captures the way its radiant beams filter through the Undercity like a second sun, casting angled shadows and suffusing the district with warm, magical twilight.
 
 ### Hearthring
 The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is home to the Stone Council Hall and [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
