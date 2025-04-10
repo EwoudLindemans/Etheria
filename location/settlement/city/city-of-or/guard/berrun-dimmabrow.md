@@ -2,7 +2,7 @@
 title: Berrun Dimmabrow
 description: A steady hand and a knowing smile among the stonebound streets
 published: 1
-date: 2025-04-09T14:08:42.731Z
+date: 2025-04-10T19:34:11.429Z
 tags: dwarf, guard
 editor: markdown
 dateCreated: 2025-04-09T13:51:34.697Z
@@ -10,6 +10,8 @@ dateCreated: 2025-04-09T13:51:34.697Z
 
 # Berrun Dimmabrow  
 *Watchwarden of Hearthring Post, friend to firelight and folk alike*
+
+![Berrun Dimmabrow](/world/berrun-dimmabrow.png)
 
 Berrun Dimmabrow is a long-serving Watchwarden of the Hearthring Post in the [City of Or](/location/settlement/city/city-of-or.md). A dwarf of middle age and dependable temperament, he serves not just as a lawkeeper but as a familiar face across the upper districts—greeting bakers, helping lost children, settling disputes, and ensuring that the city’s warmth runs deeper than its stone.
 
