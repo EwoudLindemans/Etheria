@@ -11,13 +11,13 @@ dateCreated: 2025-04-09T13:39:53.121Z
 # The Guard of the City of Or  
 *A tradition of watchful kindness beneath the glowing stone*
 
-The Guard of the City of Or is the official civic force tasked with upholding the peace, ensuring safety, and maintaining the deep trust between Orfolk and their mountain. Though often simply called “the Guard,” their presence is as layered as the city they serve—ring by ring, gate by gate, voice by voice.
+The Guard of the [City of Or](/location/settlement/city/city-of-or.md) is the official civic force tasked with upholding the peace, ensuring safety, and maintaining the deep trust between Orfolk and their mountain. Though often simply called “the Guard,” their presence is as layered as the city they serve—ring by ring, gate by gate, voice by voice.
 
-Unlike many militarised patrols in Etheria, Or’s Guard is woven directly into the fabric of community life. Known for its humane enforcement, empathetic response, and layered ranks, the Guard is as much a cultural institution as a force of order.
+Unlike many militarised patrols in [Etheria](/etheria.md), Or’s Guard is woven directly into the fabric of community life. Known for its humane enforcement, empathetic response, and layered ranks, the Guard is as much a cultural institution as a force of order.
 
 ## Structure and Division
 
-The Guard is composed of interconnected posts and specialist teams, each designed to suit the demands of a city split between sunlit terraces and glowing underdeep. While leadership is officially overseen by the Council of Or, everyday operations are handled by veteran Watchwardens, many of whom have walked the same beats for decades.
+The Guard is composed of interconnected posts and specialist teams, each designed to suit the demands of a city split between sunlit terraces and glowing underdeep. While leadership is officially overseen by the [Council of Or](/location/settlement/city/city-of-or/council-of-or.md), everyday operations are handled by veteran Watchwardens, many of whom have walked the same beats for decades.
 
 ### Known Divisions
 
@@ -27,7 +27,7 @@ The Guard is composed of interconnected posts and specialist teams, each designe
 
 - **Deepward Keepers** – Operating in the lower Undercity where forge smoke blurs light and the clang of metal never sleeps. These guards face dangers from smuggling to tunnel creatures.
 
-- **Ashen Enclave Patrol** – A rare, rotating post for those trained in unpredictable navigation, magical logic puzzles, and gnomish customs. Required for operations near or within the Glimmering Ashenburrow.
+- **Ashen Enclave Patrol** – A rare, rotating post for those trained in unpredictable navigation, magical logic puzzles, and gnomish customs. Required for operations near or within the [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md).
 
 - **Outer Gate Guard** – Those stationed on the high roads and tundra watchpoints. These guards serve as first contact for travellers and threats alike.
 
@@ -45,25 +45,25 @@ Guards are selected not only for strength or skill, but for their ability to nav
 
 - Local law and dwarven custom  
 - De-escalation and negotiation  
-- Arcane field safety and resonance anomalies  
+- Arcane field safety and [resonance](/structure/mechanic/resonance.md) anomalies  
 - Orinite philosophy and practical ethics
 
 Many Guard members are born into multi-generational service families, though the city welcomes fresh blood from varied walks of life. Cross-cultural empathy and resilience are prized above bravado.
 
 ## Public Perception
 
-The Guard is generally beloved in the City of Or. Jokes, stories, and small tokens of appreciation are common—especially in Hearthring and Stonehollow. Their authority is tempered by tradition, oversight, and visibility: many citizens know their local guards by name.
+The Guard is generally beloved in the [City of Or](/location/settlement/city/city-of-or.md). Jokes, stories, and small tokens of appreciation are common—especially in Hearthring and Stonehollow. Their authority is tempered by tradition, oversight, and visibility: many citizens know their local guards by name.
 
 Criticism, when it arises, tends to centre around bureaucratic slowness or uneven representation in newer districts. However, internal correction is swift and reputations are taken seriously.
 
 ## Notable Members (Summarised)
 
-- **Watchwarden Berrun Dimmabrow** – The friendly and widely respected head of Hearthring Post, Berrun is known for his even temper, clear authority, and longstanding ties to the community. He is often seen speaking with Brother Ienor or enjoying a quiet pint near The Brazen Burp.
+- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard/berrun-dimmabrow.md)** – The friendly and widely respected head of Hearthring Post, Berrun is known for his even temper, clear authority, and longstanding ties to the community. He is often seen speaking with [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) or enjoying a quiet pint near [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
 
-- **Guardling Darik Stoneveil** – A thoughtful, bookish young dwarf stationed on the Runehollow Beat. Darik shows promise beyond his rank and is known for his calm under pressure, keen observation, and love of Or's history.
+- **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard/darik-stoneveil.md)** – A thoughtful, bookish young dwarf stationed on the Runehollow Beat. Darik shows promise beyond his rank and is known for his calm under pressure, keen observation, and love of Or's history.
 
 ## Rumours and Local Lore
 
 - “Stonewatch is always listening”—A half-serious saying implying the Guard knows more than it shows.
 - Some whisper that the **Oblique Concord** has hidden influence over certain divisions. No confirmed evidence exists.
-- "Ashen Patrols never report the same way twice"—a joke among Guardlings about getting lost in the Glimmering Ashenburrow.
+- "Ashen Patrols never report the same way twice"—a joke among Guardlings about getting lost in the [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md).

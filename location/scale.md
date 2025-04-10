@@ -54,7 +54,7 @@ There are **five known surface-penetrating scales**, each distinct in form and f
 - **[Armour of Or](/location/scale/armour-of-or.md)**: The largest known scale, resting beneath a mountain. White with red crystalline spikes. Powers the forges of the [City of Or](/location/settlement/city/city-of-or.md).
 - **Batès Lamina**: Bright red and smallest in size, sits in a lake. Revered by the Followers of [Irion](/being/deity/irion.md).
 - **[Eldeviérs Shell](/location/scale/eldeviérs-shell.md)**: A tall, opal-green spire with healing light. Suspends the city of [Mohinders](/location/settlement/city/mohinders.md).
-- **Umperas Hull**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
+- **[Umperas Hull](/location/scale/umperas-hull.md)**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
 - **[Asara Plate](/location/scale/asara-plate.md)**: A broken blue scale angled into a scenic overhang, known for its dazzling light shows.
 - **[Ornite Ring](/location/scale/ornite-ring.md)**: The only known celestial scale, orbiting [Etheria](/etheria.md) in the sky—black with a glowing red lining.
 

@@ -10,7 +10,7 @@ dateCreated: 2025-04-01T15:38:56.246Z
 
 # Innerhold Hearthstead
 
-There are no banners hanging above its gates, for **there are no gates at all**. Only the long, winding stair climbs the inner wall of **Umperas Hull**—golden, broken, and towering—like the spine of some colossal, buried beast. From below, the curve of the ancient [scale](/location/scale.md) stretches into a circle, so large that clouds often catch on its jagged rim.
+There are no banners hanging above its gates, for **there are no gates at all**. Only the long, winding stair climbs the inner wall of **[Umperas Hull](/location/scale/umperas-hull.md)**—golden, broken, and towering—like the spine of some colossal, buried beast. From below, the curve of the ancient [scale](/location/scale.md) stretches into a circle, so large that clouds often catch on its jagged rim.
 
 Those who reach the top and peer into the hollow find a city not of wealth, nor conquest—but of **welcome**.
 

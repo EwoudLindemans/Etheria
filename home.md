@@ -49,7 +49,7 @@ Each [scale](/location/scale.md) anchors a region of [Etheria](/etheria.md) and 
 | [Armour of Or](/location/scale/armour-of-or.md) | The largest known [scale](/location/scale.md), deep and crystalline, surrounded by tundra. |
 | Batès Lamina | A bright red [scale](/location/scale.md) at the centre of a sacred lake. |
 | [Eldeviérs Shell](/location/scale/eldeviérs-shell.md) | A floating green spire holding the city of [Mohinders](/location/settlement/city/mohinders.md) aloft. |
-| Umperas Hull | A yellow, wall-like [scale](/location/scale.md) that curves around a fortified city. |
+| [Umperas Hull](/location/scale/umperas-hull.md) | A yellow, wall-like [scale](/location/scale.md) that curves around a fortified city. |
 | [Asara Plate](/location/scale/asara-plate.md) | A fractured blue [scale](/location/scale.md) casting dazzling reflections at dusk. |
 
 ### Settlements

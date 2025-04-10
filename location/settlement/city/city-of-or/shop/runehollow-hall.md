@@ -40,7 +40,7 @@ It is said that every law passed, every invention crafted, and every poem publis
 
 ## Notable Figures
 
-- **Stonfin Dustbinder**, halfling keeper of the library, is the current steward of its secrets. His warm presence and remarkable recall make him a quiet legend in his own right.
+- **[Stonfin Dustbinder](/location/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)**, halfling keeper of the library, is the current steward of its secrets. His warm presence and remarkable recall make him a quiet legend in his own right.
 
 ## Rumours and Whispers
 

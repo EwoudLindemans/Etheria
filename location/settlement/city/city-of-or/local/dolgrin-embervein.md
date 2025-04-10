@@ -63,7 +63,7 @@ Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
 ## The Stair He Chose
 
-Dolgrin wandered until he reached the **Umperas Hull**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow [scale](/location/scale.md)'s broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
+Dolgrin wandered until he reached the **[Umperas Hull](/location/scale/umperas-hull.md)**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow [scale](/location/scale.md)'s broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
 
 He climbed.
 

@@ -24,7 +24,7 @@ Each [Scale](/location/scale.md) is a titan's shard, with different magical prop
 | **[Armour of Or](/location/scale/armour-of-or.md)**  | Largest, crystalline red-white beneath tundra       | Heat, pressure, metallurgy |
 | **Batès Lamina**  | Smallest, radiant red, in a sacred lake              | Calm, spiritual [resonance](/structure/mechanic/resonance.md) |
 | **[Eldeviérs Shell](/location/scale/eldeviérs-shell.md)** | Opal spire holding [Mohinders](/location/settlement/city/mohinders.md) in the air            | Healing, levitation, light |
-| **Umperas Hull**  | Wall-like yellow, broken top                         | Defense, warding |
+| **[Umperas Hull](/location/scale/umperas-hull.md)**  | Wall-like yellow, broken top                         | Defense, warding |
 | **The [Asara Plate](/location/scale/asara-plate.md)** | Broken blue [scale](/location/scale.md) with crystalline reflections    | Illusion, perception manipulation |
 | **Orinite Ring**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
 

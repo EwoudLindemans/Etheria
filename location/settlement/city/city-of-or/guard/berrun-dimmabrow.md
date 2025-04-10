@@ -11,7 +11,7 @@ dateCreated: 2025-04-09T13:51:34.697Z
 # Berrun Dimmabrow  
 *Watchwarden of Hearthring Post, friend to firelight and folk alike*
 
-Berrun Dimmabrow is a long-serving Watchwarden of the Hearthring Post in the City of Or. A dwarf of middle age and dependable temperament, he serves not just as a lawkeeper but as a familiar face across the upper districts—greeting bakers, helping lost children, settling disputes, and ensuring that the city’s warmth runs deeper than its stone.
+Berrun Dimmabrow is a long-serving Watchwarden of the Hearthring Post in the [City of Or](/location/settlement/city/city-of-or.md). A dwarf of middle age and dependable temperament, he serves not just as a lawkeeper but as a familiar face across the upper districts—greeting bakers, helping lost children, settling disputes, and ensuring that the city’s warmth runs deeper than its stone.
 
 With a weathered smile, a nose for trouble (and cinnamon buns), and the unshakable air of someone who’s heard it all before and still chooses to listen, Berrun is both public official and beloved neighbour. Though he wears the sigil of the Hearthring Guard, he carries himself with the quiet grace of someone who considers the entire city part of his extended clan.
 
@@ -29,15 +29,15 @@ He speaks plainly but warmly, choosing words with the same care he uses when car
 
 ## Duties and Reputation
 
-As **Watchwarden**, Berrun oversees operations across the Hearthring, ensuring patrol rotations, market peacekeeping, and conflict resolutions. He liaises regularly with council aides and civic guilds, and keeps a friendly working relationship with Brother Ienor of the Red Palm Hall, especially during public health concerns or festival overflows.
+As **Watchwarden**, Berrun oversees operations across the Hearthring, ensuring patrol rotations, market peacekeeping, and conflict resolutions. He liaises regularly with council aides and civic guilds, and keeps a friendly working relationship with [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) of [the Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md), especially during public health concerns or festival overflows.
 
-Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate. Children wave when they see him; elders know to invite him in when the tea is ready. His presence during the **Election Festival** is often accompanied by cheers, veiled bribes in pastry form, and a running tally of how many pies he can eat without flinching.
+Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate. Children wave when they see him; elders know to invite him in when the tea is ready. His presence during the **[Election Festival](/location/settlement/city/city-of-or/election-festival.md)** is often accompanied by cheers, veiled bribes in pastry form, and a running tally of how many pies he can eat without flinching.
 
 ## Relationships
 
 - **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Berrun respects the healer deeply, both as a professional and a personal friend. The two have often been seen in gentle conversation, sometimes sitting together in silence beneath one of the older flame-statues of Stonehollow.
 
-- **Gundric "Gundy" Alebrow** – While Gundy rarely speaks, the two share an unspoken rapport. Berrun is one of the few people permitted behind the Brazen Burp’s bar without question, often fetching his own mug while Gundy raises a brow in approval.
+- **Gundric "Gundy" Alebrow** – While Gundy rarely speaks, the two share an unspoken rapport. Berrun is one of the few people permitted behind [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)’s bar without question, often fetching his own mug while Gundy raises a brow in approval.
 
 - **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard/darik-stoneveil.md)** – Berrun keeps a watchful eye on Darik, recognising in him the makings of a future Watchwarden. He offers the young guard mentorship through quiet assignments and gentle nudges, never praise too quickly, but always watching with hope.
 
