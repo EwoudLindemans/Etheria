@@ -60,9 +60,9 @@ Criticism, when it arises, tends to centre around bureaucratic slowness or uneve
 
 ## Notable Members (Summarised)
 
-- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard/berrun-dimmabrow.md)** – The friendly and widely respected head of Hearthring Post, Berrun is known for his even temper, clear authority, and longstanding ties to the community. He is often seen speaking with [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) or enjoying a quiet pint near [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
+- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)** – The friendly and widely respected head of Hearthring Post, Berrun is known for his even temper, clear authority, and longstanding ties to the community. He is often seen speaking with [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) or enjoying a quiet pint near [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md).
 
-- **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard/darik-stoneveil.md)** – A thoughtful, bookish young dwarf stationed on the Runehollow Beat. Darik shows promise beyond his rank and is known for his calm under pressure, keen observation, and love of Or's history.
+- **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)** – A thoughtful, bookish young dwarf stationed on the Runehollow Beat. Darik shows promise beyond his rank and is known for his calm under pressure, keen observation, and love of Or's history.
 
 ## Rumours and Local Lore
 

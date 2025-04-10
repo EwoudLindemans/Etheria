@@ -27,10 +27,10 @@ I survived by being useful. [Dottie Copperlocks](/location/settlement/city/city-
 
 Then came the bottle.
 
-It broke. Fell right out of my bag near the edge of **[The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)**. I was hungry, distracted. I thought I could outrun the voice that called out to me, but it wasn’t the [guard](/location/settlement/city/city-of-or/guard.md)’s voice. It was… warm. Musical. Infuriatingly gentle.
+It broke. Fell right out of my bag near the edge of **[The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)**. I was hungry, distracted. I thought I could outrun the voice that called out to me, but it wasn’t the guard’s voice. It was… warm. Musical. Infuriatingly gentle.
 
 **[Miss Terry](/being/character/miss-terry.md).**  
-She crouched down like I was a stray kitten. I expected her to haul me to the council or bribe the [guard](/location/settlement/city/city-of-or/guard.md) or hand me back to Dottie with a warning. Instead, she held out her hand and said, *“You look like someone in need of a little kindness… and a long nap.”*
+She crouched down like I was a stray kitten. I expected her to haul me to the council or bribe the guard or hand me back to Dottie with a warning. Instead, she held out her hand and said, *“You look like someone in need of a little kindness… and a long nap.”*
 
 I didn’t trust her. Not then. But I followed.
 

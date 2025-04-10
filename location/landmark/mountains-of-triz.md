@@ -46,7 +46,7 @@ Some of these guides are brilliant. Others are brilliant liars. A common saying 
 The most respected goblin guides paint symbols in phosphorescent ink, mark stones with whispered runes, and carry weathered books of half-true stories. Navigation, in Triz, is part cartography and part prophecy.
 
 ## Gurdalk's Gang
-A nomadic goblin tribe, feared across the **Mountains of Triz**. Masters of guerrilla tactics and deadly engineering. Their traps are not just lethal—they’re theatrical. Swinging blades, collapsing bridges, illusion-choked ravines. They don’t *[guard](/location/settlement/city/city-of-or/guard.md)* treasure—they *bait* it.
+A nomadic goblin tribe, feared across the **Mountains of Triz**. Masters of guerrilla tactics and deadly engineering. Their traps are not just lethal—they’re theatrical. Swinging blades, collapsing bridges, illusion-choked ravines. They don’t *guard* treasure—they *bait* it.
 
 Travelers often find gold coins… balanced on tripwires. No one ever sees the same trap twice. Some say Gurdalk himself once trapped a troll inside its own shadow. Others say Gurdalk died years ago—then who’s leading now?  
 

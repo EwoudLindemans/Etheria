@@ -41,7 +41,7 @@ Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate.
 
 - **Gundric "Gundy" Alebrow** – While Gundy rarely speaks, the two share an unspoken rapport. Berrun is one of the few people permitted behind [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)’s bar without question, often fetching his own mug while Gundy raises a brow in approval.
 
-- **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard/darik-stoneveil.md)** – Berrun keeps a watchful eye on Darik, recognising in him the makings of a future Watchwarden. He offers the young guard mentorship through quiet assignments and gentle nudges, never praise too quickly, but always watching with hope.
+- **Guardling [Darik Stoneveil](/location/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)** – Berrun keeps a watchful eye on Darik, recognising in him the makings of a future Watchwarden. He offers the young guard mentorship through quiet assignments and gentle nudges, never praise too quickly, but always watching with hope.
 
 ## Lore and Local Sayings
 

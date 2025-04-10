@@ -53,7 +53,7 @@ He’s known to **write reflections in the margins of his own Guard manual**, an
 
 Though soft-spoken and not well-known beyond his district, Darik has built **meaningful bonds** with those who watch closely:
 
-- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard/berrun-dimmabrow.md)** – Darik’s commanding officer, who sees great potential in him. Berrun often tests Darik with odd or overlooked assignments, trusting that he’ll uncover what others miss.
+- **Watchwarden [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)** – Darik’s commanding officer, who sees great potential in him. Berrun often tests Darik with odd or overlooked assignments, trusting that he’ll uncover what others miss.
 
 - **[Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Darik respects the healer deeply, and occasionally visits [the Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)—not for wounds, but to ask questions about empathy, faith, or phrasing.
 

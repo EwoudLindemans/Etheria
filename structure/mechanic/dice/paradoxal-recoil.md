@@ -40,7 +40,7 @@ Whenever a creature with Paradoxical Recoil makes an **attack roll, ability chec
 | **16 & 16** | **Divine Trickery** – The roll succeeds, but a **random [deity](/structure/mechanic/deity.md), fey, or supernatural entity** takes interest in the character, marking them for future interference. |
 | **17 & 17** | **Energy Surge** – The roll succeeds, and the character **gains temporary magical energy**, causing their next action to have **advantage**. |
 | **18 & 18** | **Destiny’s Favor** – The roll succeeds, and the character is granted **one free reroll** to use anytime in the next hour. |
-| **19 & 19** | **Perfect Execution** – The roll succeeds **so well** that it creates an **additional positive effect** (e.g., not just sneaking past a [guard](/location/settlement/city/city-of-or/guard.md), but stealing their key while doing so). |
+| **19 & 19** | **Perfect Execution** – The roll succeeds **so well** that it creates an **additional positive effect** (e.g., not just sneaking past a guard, but stealing their key while doing so). |
 | **20 & 20** | **Divine Rejection** – Instead of a critical success, this counts as a **natural 1**, as the universe itself resists the action. The failure should be **catastrophic**, often leading to unintended disaster. |
 
 ## **Escalating Chaos**  

@@ -19,7 +19,7 @@ A scribe, weary of his lord’s greed, changed a single number in the tax record
 
 The story spread—not as a name, nor a legend, but as a whisper. A merchant, hearing of the scribe’s quiet defiance, did something similar. He made a clerical error in a debtor’s account, erasing a sum that had bound a struggling craftsman in servitude. That craftsman went on to form a guild that broke the monopolies of corrupt nobles.
 
-A [guard](/location/settlement/city/city-of-or/guard.md), hearing that story, made a different choice. One night, instead of arresting a known agitator, he looked the other way. The agitator went on to inspire a rebellion—not a war, but a peaceful, bloodless movement that changed the laws of the land.
+A guard, hearing that story, made a different choice. One night, instead of arresting a known agitator, he looked the other way. The agitator went on to inspire a rebellion—not a war, but a peaceful, bloodless movement that changed the laws of the land.
 
 None of these people knew each other. But their stories inspired more. Each was a single droplet, a lone stroke of coincidence. Until one man—who would never be named—saw the pattern forming.
 
