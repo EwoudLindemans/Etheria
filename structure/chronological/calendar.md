@@ -50,7 +50,7 @@ The planet began to mend through the magical residue left by [Irion](/being/deit
 - The first [Iridian](/being/species/iridian.md) manifestations occurred randomly, deep within uncharted land. A few singular, unknown travelers who were lost manifested, leaving only confusion and questions in its wake.
 
 ### Arc 51 - 67 - Nexus of Scale Sanctuaries
-- First Public Witnessing of an [Iridian](/being/species/iridian.md) Manifestation (ARC 51):  
+- First Public Witnessing of an [Iridian](/being/species/iridian.md) [Manifestation](/structure/chronological/event/manifestation.md) (ARC 51):  
 A group of explorers stumbled upon a strange, massive [scale](/location/scale.md). As it hummed with static, a harmonic sound filled the air, and for the first time, an [Iridian](/being/species/iridian.md) was seen by many, its form coalescing from the energy surrounding it, leaving the witnesses in awe and fear.
 
 - The Era of [Scale](/location/scale.md) Sanctuaries and Scale-Backed Architecture (ARC 58):  

@@ -9,7 +9,7 @@ dateCreated: 2022-01-24T11:47:02.222Z
 ---
 
 # The City of Or
-Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the scales what is now called The [Armour of Or](/location/scale/armour-of-or.md). The Mines of Or provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
+Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the scales what is now called The [Armour of Or](/location/scale/armour-of-or.md). The [Mines of Or](/location/settlement/city/city-of-or/mines-of-or.md) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
 
 ![the_city_of_or.png](/world/the_city_of_or_v2.png =500x)
 

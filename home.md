@@ -95,7 +95,7 @@ The world’s fate is shaped by wandering figures of power, wit, and mystery.
 | Title | Summary |
 |-------|---------|
 | [Miss Terry](/being/character/miss-terry.md) | A bard of endless tales and unknown origin, adored in Or. |
-| Matt | A phantom pirate cursed by stolen fortune and ghostly whispers. |
+| [Matt](/being/character/matt.md) | A phantom pirate cursed by stolen fortune and ghostly whispers. |
 | [Nokk](/being/character/nokk.md) | A sorcerer entangled with wild [magic](/structure/mechanic/magic.md) and the Rift’s creation. |
 | [Poppy Handyleaf](/being/character/poppy-handyleaf.md) | A gnome-Aasimar artificer who blends invention with divine spark. |
 

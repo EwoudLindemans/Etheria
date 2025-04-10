@@ -10,6 +10,6 @@ dateCreated: 2022-10-22T18:35:23.408Z
 
 # The Unborn
 Gods that never stepped on [Etheria](/etheria.md)
-Aelfar
-Tophix
-Dithrir
+[Aelfar](/being/deity/aelfar.md)
+[Tophix](/being/deity/tophix.md)
+[Dithrir](/being/deity/dithrir.md)

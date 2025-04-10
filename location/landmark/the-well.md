@@ -25,4 +25,4 @@ These runners are trained heavily in dexterity. After the installation of a spec
 Extra Planar Shadow Manifested on the prime material plane in a subltile form, impacting it a minor or even hidden way. A collapse of two realms that was slightly intentional. The entrance to the plane is restricted to individuals that have found the entrance by accident.
 Inside there is some floating debree, and some gentle currents.
 
-A ancient Intelligent Invisible Stalker that is in many ways not the same of its own kind lives here. The monster seems to be waiting for something. It seems to have no trouble finding patches of collapsed planes to travel between.
+A ancient Intelligent [Invisible Stalker](/being/monster/invisible-stalker.md) that is in many ways not the same of its own kind lives here. The monster seems to be waiting for something. It seems to have no trouble finding patches of collapsed planes to travel between.

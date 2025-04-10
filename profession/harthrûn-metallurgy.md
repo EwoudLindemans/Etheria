@@ -41,7 +41,7 @@ The [magic](/structure/mechanic/magic.md) that flows through Harthrûn Metallurg
 
 The process of crafting magical items is complex, involving many steps that require the Heartsmith to tune both their mind and their body to the pulse of the forge. The runes that are carved into the metal are not just symbols but a representation of the metal’s [resonance](/structure/mechanic/resonance.md), a way to communicate with the natural energy that binds the world together. These runes are integral to the forging process, as they dictate the magical properties that the item will inherit.
 
-An artifact created through Harthrûn Metallurgy is more than just an object—it is a living manifestation of the Heartsmith’s skill, imprinted with the forge’s power. Whether it’s a sword that sings with the voice of the forge or armor that channels the very essence of the earth, each creation carries with it the heartbeat of the forge itself.
+An artifact created through Harthrûn Metallurgy is more than just an object—it is a living [manifestation](/structure/chronological/event/manifestation.md) of the Heartsmith’s skill, imprinted with the forge’s power. Whether it’s a sword that sings with the voice of the forge or armor that channels the very essence of the earth, each creation carries with it the heartbeat of the forge itself.
 
 ---
 
