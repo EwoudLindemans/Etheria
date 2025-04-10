@@ -2,7 +2,7 @@
 title: Darik Stoneveil
 description: A quiet step among the runes, with thoughts that echo deeper than orders
 published: 1
-date: 2025-04-09T14:08:14.017Z
+date: 2025-04-10T19:35:03.846Z
 tags: city of or, dwarf, guard
 editor: markdown
 dateCreated: 2025-04-09T13:57:31.718Z
@@ -10,6 +10,8 @@ dateCreated: 2025-04-09T13:57:31.718Z
 
 # Darik Stoneveil  
 *Guardling of the Runehollow Beat, student of law, lore, and lives between*
+
+![Darik Stoneveil](/world/darik-stoneveil.png)
 
 Darik Stoneveil is a young dwarf currently serving as a **Guardling** on the Runehollow Beat in the [City of Or](/location/settlement/city/city-of-or.md). Though newly stationed, he has already earned quiet praise from superiors and citizens alike for his calm under pressure, his thoughtful manner, and his keen observational skills.
 
