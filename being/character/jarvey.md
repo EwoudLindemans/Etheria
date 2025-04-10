@@ -2,13 +2,15 @@
 title: Jarvey
 description: 
 published: 1
-date: 2025-04-10T21:39:22.494Z
+date: 2025-04-10T21:45:33.968Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-10T21:39:22.494Z
 ---
 
 # Jarvey – The Scribe of Wandering Hearts
+
+![jarvey.webp](/world/jarvey.webp =500x)
 
 **Race:** Firbolg  
 **Class:** Bard  
