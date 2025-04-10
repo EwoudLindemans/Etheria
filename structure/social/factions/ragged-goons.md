@@ -1,8 +1,8 @@
 ---
-title: Ragged Goons
+title: The Ragged Goons
 description: Take what works, consequences be damned
 published: 1
-date: 2025-04-10T21:12:39.716Z
+date: 2025-04-10T21:30:39.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T20:16:23.594Z
