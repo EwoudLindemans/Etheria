@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-04-10T21:28:09.908Z
+date: 2025-04-10T21:33:49.108Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -82,15 +82,6 @@ Momentus Outpost
 ### Places
 [Mountains of Triz](/location/landmark/mountains-of-triz.md)
 The Desert of the Rendishing Night
-
-## Fruits
-#### Liabilaberry
-Makes the user extremely dependent on Liabilaberry's its considered to be the most delicious fruit on the lands. These fruits are considered rare.
-#### Reliabilaberry
-Found all over the lands, but it tastes awefull. They look exactly like liabilaberry's. Atleast you have something to eat. This makes them a reliable food source.
-
-Make your own berries:
-https://www.thefreedictionary.com/words-that-end-in-ility
 
 ### To be determined
 [The Unborn](/being/deity/the-unborn.md) -> Benúron
