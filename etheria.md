@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-04-03T21:48:27.405Z
+date: 2025-04-10T21:28:09.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
@@ -58,7 +58,7 @@ Surrounding Etheria is the **[Ornite Ring](/location/scale/ornite-ring.md)**, an
 
 ## Religions
 - **Followers of [Irion](/being/deity/irion.md)**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.
-- **Redemptious Myphos**, or more commonly known as **The Arcane Fangs** is a group of culprits that focusus on finding and exploiting magical scales. Usually for their own benefit of becoming rich or powerful. They believe that the [scale](/location/scale.md)'s should be for everyone to use to make life easier. Some of them have obtained immense powers through different means of refining scales, and fusing them into specialized gear or even themselves.
+- The **Arcane Fangs** are a group of culprits that focusus on finding and exploiting magical scales. Usually for their own benefit of becoming rich or powerful. They believe that the [scale](/location/scale.md)'s should be for everyone to use to make life easier. Some of them have obtained immense powers through different means of refining scales, and fusing them into specialized gear or even themselves.
 - The **Cult of Dy** theorizes that every action and reaction by living beings is randomly determined by the three deities called Dy, who roll their [magic](/structure/mechanic/magic.md) stones to determine the outcome. Even though evidence for this is slim, the Cult of Dy has many dangerous rituals where they challenge their faith by subjecting condemned criminals and lesser animals to The Fire Trials. If luck is on their side, they are set free unconditionally.
 
 ## Organisations
