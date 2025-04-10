@@ -2,7 +2,7 @@
 title: The Guard of the City of Or
 description: A civic force layered like the city it serves
 published: 1
-date: 2025-04-09T13:39:53.121Z
+date: 2025-04-10T19:33:10.356Z
 tags: city or or
 editor: markdown
 dateCreated: 2025-04-09T13:39:53.121Z
@@ -10,6 +10,8 @@ dateCreated: 2025-04-09T13:39:53.121Z
 
 # The Guard of the City of Or  
 *A tradition of watchful kindness beneath the glowing stone*
+
+![The Guard of Or on patrol](/world/guard-of-or.png)
 
 The Guard of the [City of Or](/location/settlement/city/city-of-or.md) is the official civic force tasked with upholding the peace, ensuring safety, and maintaining the deep trust between Orfolk and their mountain. Though often simply called “the Guard,” their presence is as layered as the city they serve—ring by ring, gate by gate, voice by voice.
 
