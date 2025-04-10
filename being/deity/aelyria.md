@@ -59,8 +59,7 @@ A half-mask of silver veils, pierced by seven stars in a spiral. Often etched on
 
 **Titles:** The Resonant Veil, She Who Shines in Silence, Weaver of Star-Kissed Glamour  
 **Worshippers:** The Velvet Chorus, Moonglimmered Arcanists, The Blush-Wrought  
-**Sacred Animal:** The **Lunetail Seraph**, a moth-lizard hybrid with a luminous tail that writes sonnets midair  
-**Favored Berry:** The elusive **Vanillavulnerability**, sweet on the tongue, bitter on the memory  
+**Sacred Animal:** The **Lunetail Seraph**, a moth-lizard hybrid with a luminous tail that writes sonnets midair
 
 ---
 *To follow Aelyria is to walk the line between mystery and performance, to cast your truth in gold thread and drape it across the night.*
