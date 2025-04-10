@@ -2,7 +2,7 @@
 title: Ragged Goons
 description: Take what works, consequences be damned
 published: 1
-date: 2025-04-10T21:00:48.001Z
+date: 2025-04-10T21:12:39.716Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-11T20:16:23.594Z
@@ -17,6 +17,38 @@ The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/l
 ## Origins: The Spark of Defiance (Arc 131)
 
 The Goons trace their roots to a disaster in **[Triz Valley](/location/settlement/city/triz-valley.md)**, where a botched attempt to harness a **Hidden [Scale](/location/scale.md)** conduit unleashed wild [magic](/structure/mechanic/magic.md), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring the scales theirs to claim, Ruk led his band into the **[Mountains of Triz](/location/landmark/mountains-of-triz.md)**, clashing with **[Gurdalk’s Gang](/location/landmark/mountains-of-triz/gurdalks-gang.md)** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
+
+## The Ink-sane Six – Leaders of the Ragged Goons
+
+In the warped depths of the [Verdant Divide](/area/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
+
+They dwell within *The Cartocrater*—a resonance-scarred chasm carved from a fractured [scale](/location/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
+
+### The Bone Marshal
+A skull-faced strategist with armor stitched from ceremonial shards of a defunct [Redemptious Myphos](/structure/social/religion/redemptious-myphos.md) sect. His mane of cobalt fur rises like a war banner in fog. He doesn’t command with shouts—he taps maps with a claw and calamity follows. Said to dream in invasions and wake to predictions. Once blinked, and a fortress surrendered.
+
+### The Pale Scholar  
+Wrapped in scrolls and sagging sanity, this ex-[Veiled Canticle](/structure/social/factions/veiled-canticle.md) scribe recites events that haven’t happened yet. His beard carries inkstains older than some cities. Famous for the phrase: “This isn’t a plan—it’s a prophecy with poor handwriting.” Claims compasses scream when he's near. No one’s disagreed twice.
+
+### The Rusted Thaumaturge  
+Molten sigils burn along his damp bandages. His coat—a salvaged relic from a ghost-ship’s apothecary—smells faintly of regret and formaldehyde. Exiled from [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) for “weaponizing bad ideas.” His spells often work, just not as intended. Built a candle once that screams in four languages. Still carries it.
+
+### The Crowstrider  
+All spikes and silence. Goggles hide eyes no one’s confirmed exist. He walks like a forgotten trap resetting itself, always sideways, never straightforward. Believed to think exclusively in pressure plates and proximity hexes. Speaks only to maps, traps, and Shriekbeak. Occasionally hums. It’s unsettling.
+
+### The Scythe Lass  
+A woman of exposed ribs, morbid wit, and elegant violence. Her curved blade is treated more like punctuation than a weapon. Once fought a weather witch and won the forecast. Her hat has its own bounty. Frequently mistaken for dead—uses that mistake to great effect. Has opinions about your bones.
+
+### Shriekbeak  
+The team’s winged warcry. Not a pet. Not a mascot. A prophetic, screeching avian horror with a beak full of threats and feathered spite. Speaks in cryptic map-borne riddles like “Turn thrice at the echo’s echo” or “Follow the toothless sun.” Believed to be older than several religions. Eats ink. Judges decisions. Bites ankles.
+
+
+Together, the **Ink-sane Six** don’t lead the Ragged Goons by virtue of rank—they lead by being the only ones mad enough to map madness and survive it. Where they go, plans unravel, coordinates combust, and the world *reconfigures itself out of sheer nervousness*.
+
+They don’t follow the lines.
+
+They redraw them—with blood and laughter.
+
 
 ## Creed and Culture
 
