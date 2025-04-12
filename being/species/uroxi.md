@@ -12,7 +12,7 @@ dateCreated: 2025-04-12T21:34:07.367Z
 
 ![uroxi.webp](/characters/uroxi.webp =500x)
 
-Deep beneath the crust of [Morakai](/etheria.md#continents-of-eldeviér), in the glass-veined chasms known only as the **Umbral Seep**, thrives a race that glimmers like molten shadow and pulses with stolen light: the **Uroxi**. At first glance, surfacefolk might mistake them for deep gnomes or duergar—but the Uroxi are neither stone nor sullen. They are **biolux sentients**, shaped by subterranean resonance, light-eating fungi, and forgotten glimmers buried since [The Collapse](/structure/chronological/event/the-collapse.md).
+Deep beneath the crust of Morakai, in the glass-veined chasms known only as the **Umbral Seep**, thrives a race that glimmers like molten shadow and pulses with stolen light: the **Uroxi**. At first glance, surfacefolk might mistake them for deep gnomes or duergar—but the Uroxi are neither stone nor sullen. They are **biolux sentients**, shaped by subterranean [resonance](/structure/mechanic/resonance.md), light-eating fungi, and forgotten glimmers buried since [The Collapse](/structure/chronological/event/the-collapse.md).
 
 An Uroxi's form is short and stocky, built to navigate collapsed tunnel systems and vertical shafts. Their skin appears like polished coal threaded with veins of glowing sap-light—amber, teal, or crimson depending on lineage. Their eyes glow with a warm internal luminance, and their forearms contain natural **phosphor sacs**, which swell with radiant fluid when they’re excited, afraid, or joyful. These sacs are used for both communication and defense—bursting in blinding pulses or soft beacon flares.
 
@@ -22,7 +22,7 @@ The Uroxi live in vast caverns cradled within hollow crystals, where ambient glo
 
 Culturally, they believe that **light is inherited**, passed from action to action like a flame across candles. Uroxi are trained in “Lightbinding,” an art that lets them store, reflect, and shape light for practical, ceremonial, or defensive purposes. Their warriors, called **Glowshapers**, wield weapons infused with their own stored light, bending beams into hardened force or searing arcs.
 
-They are often employed by surface settlements like [Triz Valley](/location/settlement/city/triz-valley.md) and [The City of Or](/location/settlement/city/city-of-or.md) as tunnel guides, ruin-scanners, or luminous pathmakers in regions where traditional light sources fail or feed dangerous fauna.
+They are often employed by surface settlements like [Triz Valley](/location/settlement/city/triz-valley.md) and The [City of Or](/location/settlement/city/city-of-or.md) as tunnel guides, ruin-scanners, or luminous pathmakers in regions where traditional light sources fail or feed dangerous fauna.
 
 Despite their subterranean lifestyle, the Uroxi are curious, humorous, and stubbornly optimistic. They have a saying etched into the arches of Zhay-Phorran:
 
