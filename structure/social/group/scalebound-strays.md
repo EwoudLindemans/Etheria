@@ -2,13 +2,13 @@
 title: The Scalebound Strays
 description: 
 published: 1
-date: 2025-04-12T20:53:29.444Z
+date: 2025-04-12T20:53:45.032Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T20:53:29.444Z
 ---
 
-# The Scale-Bound Strays
+# The Scalebound Strays
 
 ![scalebound-strays.webp](/world/scalebound-strays.webp =500x)
 
