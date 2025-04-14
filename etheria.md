@@ -2,7 +2,7 @@
 title: Etheria
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-04-10T21:33:49.108Z
+date: 2025-04-14T21:15:06.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
