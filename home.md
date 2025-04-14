@@ -2,130 +2,411 @@
 title: Home
 description: 
 published: 1
+date: 2025-04-14T20:13:56.845Z
+tags: 
+editor: markdown
+dateCreated: 2022-01-24T15:40:43.899Z
+---
+
+---
+title: Home
+description: 
+published: 1
 date: 2025-04-04T21:58:01.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
 
-# Etheria World Index
-*A Living Archive of Collapse-Born Wonders, Arcane Scales, and Cosmic Secrets*
+# Wiki Index
+<details>
+<summary><strong>📂 Area</strong></summary>
 
-This page serves as your central navigation index for [Etheria](/etheria.md). All entries are categorised by subject and formatted for clarity and world consistency.
+- 📄 [Verdant Divide](/area/verdant-divide.md)
 
-## World & Origins
+</details>
+<details>
+<summary><strong>📂 Being</strong></summary>
 
-### Etheria – The Living World
-The foundation of [Etheria](/etheria.md): its cosmic origin, magical essence, and improbable structure.
+  <details>
+  <summary><strong>📂 Ancient</strong></summary>
 
-| Title | Summary |
-|-------|---------|
-| [Etheria](/etheria.md) | The living world formed from [Irion](/being/deity/irion.md)'s impact. |
-| [The Collapse](/structure/chronological/event/the-collapse.md) | The shattering event that created the scales. |
-| [Irion](/being/deity/irion.md) | The primordial being whose fall seeded the land with [magic](/structure/mechanic/magic.md). |
-| The [Ornite Ring](/location/scale/ornite-ring.md) | A black celestial ring always visible above [Etheria](/etheria.md). |
-| [The Dense](/location/plane/the-dense.md) | A chaotic subrealm between the world's fractured plates. |
+  - 📄 [Demeriun](/being/ancient/demeriun.md)
+  - 📄 [Zelorei](/being/ancient/zelorei.md)
 
-## Magic & Resonance
+  </details>
+  <details>
+  <summary><strong>📂 Animal</strong></summary>
 
-### Magic and Its Manifestations
-[Magic](/structure/mechanic/magic.md) flows freely through [Etheria](/etheria.md), but control is rare and perilous.
+  - 📄 [Snail](/being/animal/snail.md)
 
-| Title | Summary |
-|-------|---------|
-| [Magic](/structure/mechanic/magic.md) | A volatile and omnipresent force, altered by [Irion](/being/deity/irion.md)'s residue. |
-| [Resonance](/structure/mechanic/resonance.md) | The magical frequency linking creatures, scales, and constructs. |
-| [Scale](/location/scale.md) Conduits | Devices and systems powered by scale-infused energy. |
-| [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md) | A sentient portal that selectively admits travellers. |
-| Kin'Darei | A cursed ruin built around a breached [scale](/location/scale.md). |
+  </details>
+  <details>
+  <summary><strong>📂 Character</strong></summary>
 
-## Scales & Geography
+  - 📄 [Jarvey](/being/character/jarvey.md)
+  - 📄 [Matt](/being/character/matt.md)
+  - 📄 [Miss Terry](/being/character/miss-terry.md)
+  - 📄 [Nokk](/being/character/nokk.md)
+  - 📄 [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
+    <details>
+    <summary><strong>📂 [Sylieth](/being/character/sylieth.md)</strong></summary>
 
-### The Five Known Scales
-Each [scale](/location/scale.md) anchors a region of [Etheria](/etheria.md) and influences its environment and people.
+    - 📄 [Sylieth](/being/character/sylieth.md)
+    - 📄 [Covenant Of Thalgrin And Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
+    - 📄 [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
+    - 📄 [Threadbare](/being/character/sylieth/threadbare.md)
 
-| Title | Summary |
-|-------|---------|
-| [Armour of Or](/location/scale/armour-of-or.md) | The largest known [scale](/location/scale.md), deep and crystalline, surrounded by tundra. |
-| Batès Lamina | A bright red [scale](/location/scale.md) at the centre of a sacred lake. |
-| [Eldeviérs Shell](/location/scale/eldeviérs-shell.md) | A floating green spire holding the city of [Mohinders](/location/settlement/city/mohinders.md) aloft. |
-| [Umperas Hull](/location/scale/umperas-hull.md) | A yellow, wall-like [scale](/location/scale.md) that curves around a fortified city. |
-| [Asara Plate](/location/scale/asara-plate.md) | A fractured blue [scale](/location/scale.md) casting dazzling reflections at dusk. |
+    </details>
+  - 📄 [Varnwick](/being/character/varnwick.md)
 
-### Settlements
-Civilisations thrive around [scale](/location/scale.md) sanctuaries, each with distinct culture and magical practices.
+  </details>
+  <details>
+  <summary><strong>📂 [Deity](/structure/mechanic/deity.md)</strong></summary>
 
-| Title | Summary |
-|-------|---------|
-| [City of Or](/location/settlement/city/city-of-or.md) | Dwarven capital beneath the [Armour of Or](/location/scale/armour-of-or.md). |
-| [Mohinders](/location/settlement/city/mohinders.md) | Arcane city of control, hierarchy, and secrecy. |
-| [Triz Valley](/location/settlement/city/triz-valley.md) | A frontier hub of trade and wandering travellers. |
-| [Arkona](/location/settlement/city/arkona.md) | A strategic settlement bordering [The Dense](/location/plane/the-dense.md). |
-| [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) | A hidden enclave of selective magical knowledge. |
+  - 📄 [Aelfar](/being/deity/aelfar.md)
+  - 📄 [Aelyria](/being/deity/aelyria.md)
+  - 📄 [Aurelthys](/being/deity/aurelthys.md)
+  - 📄 [Dithrir](/being/deity/dithrir.md)
+  - 📄 [Irion](/being/deity/irion.md)
+  - 📄 [Thalgrin](/being/deity/thalgrin.md)
+  - 📄 [The Unborn](/being/deity/the-unborn.md)
+  - 📄 [Tophix](/being/deity/tophix.md)
+  - 📄 [Uldur](/being/deity/uldur.md)
+  - 📄 [Vexyrra](/being/deity/vexyrra.md)
+  - 📄 [Xal Zyra](/being/deity/xal-zyra.md)
 
-## Deities & Factions
+  </details>
+  <details>
+  <summary><strong>📂 Monster</strong></summary>
 
-### Divine Powers of Etheria
-[Etheria](/etheria.md)’s gods are rarely seen, but their doctrines shape law, culture, and ambition.
+  - 📄 [Invisible Stalker](/being/monster/invisible-stalker.md)
 
-| Title | Summary |
-|-------|---------|
-| [Irion](/being/deity/irion.md) | God of transformation, collapse, and ambient [magic](/structure/mechanic/magic.md). |
-| [Aurelthys](/being/deity/aurelthys.md) | [Deity](/structure/mechanic/deity.md) of hierarchy, restriction, and selective knowledge. |
-| [Thalgrin](/being/deity/thalgrin.md) | Dwarven god of craft, will, and magical metallurgy. |
-| [The Unborn](/being/deity/the-unborn.md) | A cryptic power linked to potential and unfinished creation. |
+  </details>
+  <details>
+  <summary><strong>📂 Species</strong></summary>
 
-### Religious Orders & Organisations
-Faiths and factions control resources, conduct rites, and compete for [scale](/location/scale.md) access.
+  - 📄 [Etherial](/being/species/etherial.md)
+  - 📄 [Graith](/being/species/graith.md)
+  - 📄 [Iridian](/being/species/iridian.md)
+  - 📄 [Kavrethul](/being/species/kavrethul.md)
+  - 📄 [Merinari](/being/species/merinari.md)
+    <details>
+    <summary><strong>📂 Sub Species</strong></summary>
 
-| Title | Summary |
-|-------|---------|
-| Followers of [Irion](/being/deity/irion.md) | Defenders of Batès Lamina and sacred [scale](/location/scale.md) sites. |
-| [Arcane Fangs](/structure/social/factions/arcane-fangs.md) | [Scale](/location/scale.md) harvesters who merge [magic](/structure/mechanic/magic.md) into body and gear. |
-| [Cult of Dy](/structure/social/factions/cult-of-dy.md) | Fatalists ruled by divine dice and ritual fire trials. |
-| [Ragged Goons](/structure/social/factions/ragged-goons.md) | Nomads hunting for hidden, unguarded scales. |
-| Gorgrath’s Wrath | Revolutionaries targeting the Flatstone regime in Or. |
-| Sisterhood of Assassination | A covert guild of elite, magically-trained killers. |
+    - 📄 [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
 
-## Characters & Creatures
+    </details>
+  - 📄 [Uroxi](/being/species/uroxi.md)
 
-### Notable Characters
-The world’s fate is shaped by wandering figures of power, wit, and mystery.
+  </details>
+  <details>
+  <summary><strong>📂 Titan</strong></summary>
 
-| Title | Summary |
-|-------|---------|
-| [Miss Terry](/being/character/miss-terry.md) | A bard of endless tales and unknown origin, adored in Or. |
-| [Matt](/being/character/matt.md) | A phantom pirate cursed by stolen fortune and ghostly whispers. |
-| [Nokk](/being/character/nokk.md) | A sorcerer entangled with wild [magic](/structure/mechanic/magic.md) and the Rift’s creation. |
-| [Poppy Handyleaf](/being/character/poppy-handyleaf.md) | A gnome-Aasimar artificer who blends invention with divine spark. |
+  - 📄 [Anemostrus](/being/titan/anemostrus.md)
+  - 📄 [Gor Thuun](/being/titan/gor-thuun.md)
+  - 📄 [Obelion](/being/titan/obelion.md)
+  - 📄 [Rhyzmare](/being/titan/rhyzmare.md)
+  - 📄 [Robustus](/being/titan/robustus.md)
+  - 📄 [Skul Kruk](/being/titan/skul-kruk.md)
+  - 📄 [Vorr Gul](/being/titan/vorr-gul.md)
+  - 📄 [Zephiryx](/being/titan/zephiryx.md)
 
-### Magical Creatures
-From void-snails to forgotten titans, [Etheria](/etheria.md)’s creatures often defy understanding.
+  </details>
 
-| Title | Summary |
-|-------|---------|
-| Eclipsed Aegiscoil [Snail](/being/animal/snail.md) | A void-hopping magical creature that consumes ambient energy. |
+</details>
+<details>
+<summary><strong>📂 Class</strong></summary>
 
-## Culture, Flora & Curiosities
+  <details>
+  <summary><strong>📂 Sorcerer</strong></summary>
+    
+    <details>
+    <summary><strong>📂 Subclass</strong></summary>
 
-### Mysteries and Mundane Magic
-The world is alive with strange fruits, ancient inventions, and cultural curiosities.
+    - 📄 [Arcane Resonance](/class/sorcerer/subclass/arcane-resonance.md)
 
-| Title | Summary |
-|-------|---------|
-| [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md) | A stabilisation engine hidden beneath Or, guarding against collapse. |
-| Liabilaberry | Addictive and delicious fruit considered dangerously desirable. |
-| Reliabilaberry | Common, bitter-tasting, and indistinguishable from its rare cousin. |
-| [Miss Terry](/being/character/miss-terry.md)’s Songs | Bardic tales woven with humour, warning, and hidden truths. |
+    </details>
 
-## Index & Navigation
+  </details>
 
-### Reference and Contribution Tools
-For researchers, scribes, and those who would add to the world’s unfolding record.
+</details>
+- 📄 [Etheria](/etheria.md)
+<details>
+<summary><strong>📂 Location</strong></summary>
 
-| Title | Summary |
-|-------|---------|
-| Full Wiki Index | An alphabetical index of every article. |
-| Timeline of Events | Major historical shifts and milestones (in progress). |
-| Interactive Map | A future visual overview of [Etheria](/etheria.md)’s scales and cities. |
-| Submit to the Rift | Entry point for adding characters, places, and lore. |
+  <details>
+  <summary><strong>📂 Landmark</strong></summary>
+
+    <details>
+    <summary><strong>📂 [Mountains Of Triz](/location/landmark/mountains-of-triz.md)</strong></summary>
+
+    - 📄 [Mountains Of Triz](/location/landmark/mountains-of-triz.md)
+    - 📄 [Gurdalks Gang](/location/landmark/mountains-of-triz/gurdalks-gang.md)
+
+    </details>
+  - 📄 [The Well](/location/landmark/the-well.md)
+
+  </details>
+  <details>
+  <summary><strong>📂 Plane</strong></summary>
+
+  - 📄 [The Dense](/location/plane/the-dense.md)
+  - 📄 [The Fractured Keep](/location/plane/the-fractured-keep.md)
+
+  </details>
+  <details>
+  <summary><strong>📂 [Scale](/location/scale.md)</strong></summary>
+
+  - 📄 [Scale](/location/scale.md)
+  - 📄 [Armour Of Or](/location/scale/armour-of-or.md)
+  - 📄 [Asara Plate](/location/scale/asara-plate.md)
+  - 📄 [Bates Lamina](/location/scale/bates-lamina.md)
+  - 📄 [Eldeviérs Shell](/location/scale/eldeviérs-shell.md)
+  - 📄 [Ornite Ring](/location/scale/ornite-ring.md)
+  - 📄 [Umperas Hull](/location/scale/umperas-hull.md)
+
+  </details>
+  <details>
+  <summary><strong>📂 Settlement</strong></summary>
+
+    <details>
+    <summary><strong>📂 City</strong></summary>
+
+    - 📄 [Arkona](/location/settlement/city/arkona.md)
+      <details>
+      <summary><strong>📂 [City Of Or](/location/settlement/city/city-of-or.md)</strong></summary>
+
+      - 📄 [City Of Or](/location/settlement/city/city-of-or.md)
+      - 📄 [Asarazul](/location/settlement/city/city-of-or/asarazul.md)
+        <details>
+        <summary><strong>📂 Consumable</strong></summary>
+
+        - 📄 [Brazen Brew](/location/settlement/city/city-of-or/consumable/brazen-brew.md)
+        - 📄 [Sweetmoss Sip](/location/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
+
+        </details>
+      - 📄 [Council Of Or](/location/settlement/city/city-of-or/council-of-or.md)
+        <details>
+        <summary><strong>📂 District</strong></summary>
+
+        - 📄 [Coalwalk Row](/location/settlement/city/city-of-or/district/coalwalk-row.md)
+        - 📄 [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md)
+        - 📄 [Passage Of Or](/location/settlement/city/city-of-or/district/passage-of-or.md)
+        - 📄 [The Spillway](/location/settlement/city/city-of-or/district/the-spillway.md)
+
+        </details>
+      - 📄 [Election Festival](/location/settlement/city/city-of-or/election-festival.md)
+        <details>
+        <summary><strong>📂 [Guard Of Or](/location/settlement/city/city-of-or/guard-of-or.md)</strong></summary>
+
+        - 📄 [Guard Of Or](/location/settlement/city/city-of-or/guard-of-or.md)
+        - 📄 [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
+        - 📄 [Darik Stoneveil](/location/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
+
+        </details>
+        <details>
+        <summary><strong>📂 [Heartforge](/location/settlement/city/city-of-or/heartforge.md)</strong></summary>
+
+        - 📄 [Heartforge](/location/settlement/city/city-of-or/heartforge.md)
+        - 📄 [The Codex Of The Heartflame](/location/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
+
+        </details>
+        <details>
+        <summary><strong>📂 Local</strong></summary>
+
+        - 📄 [Dolgrin Embervein](/location/settlement/city/city-of-or/local/dolgrin-embervein.md)
+        - 📄 [Dottie Copperlocks](/location/settlement/city/city-of-or/local/dottie-copperlocks.md)
+        - 📄 [Gorgrath The Brute](/location/settlement/city/city-of-or/local/gorgrath-the-brute.md)
+        - 📄 [Harg And Pibble](/location/settlement/city/city-of-or/local/harg-and-pibble.md)
+        - 📄 [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md)
+        - 📄 [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md)
+          <details>
+          <summary><strong>📂 [Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)</strong></summary>
+
+          - 📄 [Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)
+          - 📄 [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
+          - 📄 [Library Between Names](/location/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
+          - 📄 [Truth Between The Tales](/location/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
+
+          </details>
+
+        </details>
+      - 📄 [Mines Of Or](/location/settlement/city/city-of-or/mines-of-or.md)
+        <details>
+        <summary><strong>📂 Shop</strong></summary>
+
+          <details>
+          <summary><strong>📂 [Runehollow Hall](/location/settlement/city/city-of-or/shop/runehollow-hall.md)</strong></summary>
+
+          - 📄 [Runehollow Hall](/location/settlement/city/city-of-or/shop/runehollow-hall.md)
+          - 📄 [Stonfin Dustbinder](/location/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
+
+          </details>
+          <details>
+          <summary><strong>📂 [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)</strong></summary>
+
+          - 📄 [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)
+          - 📄 [Rusty Pluckers](/location/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md)
+          - 📄 [The Mirrorstep](/location/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md)
+
+          </details>
+          <details>
+          <summary><strong>📂 [The Cauldron Lottery](/location/settlement/city/city-of-or/shop/the-cauldron-lottery.md)</strong></summary>
+
+          - 📄 [The Cauldron Lottery](/location/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
+          - 📄 [Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)
+
+          </details>
+          <details>
+          <summary><strong>📂 [The Inkblot Bindery](/location/settlement/city/city-of-or/shop/the-inkblot-bindery.md)</strong></summary>
+
+          - 📄 [The Inkblot Bindery](/location/settlement/city/city-of-or/shop/the-inkblot-bindery.md)
+          - 📄 [Fragment From The Personal Journal Of Dcs](/location/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
+
+          </details>
+          <details>
+          <summary><strong>📂 [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)</strong></summary>
+
+          - 📄 [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)
+          - 📄 [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
+
+          </details>
+        - 📄 [The Stable Flask](/location/settlement/city/city-of-or/shop/the-stable-flask.md)
+
+        </details>
+      - 📄 [The Fargash Gambit](/location/settlement/city/city-of-or/the-fargash-gambit.md)
+
+      </details>
+      <details>
+      <summary><strong>📂 [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md)</strong></summary>
+
+      - 📄 [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md)
+      - 📄 [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md)
+
+      </details>
+    - 📄 [Innerhold Heartstead](/location/settlement/city/innerhold-heartstead.md)
+      <details>
+      <summary><strong>📂 [Mohinders](/location/settlement/city/mohinders.md)</strong></summary>
+
+      - 📄 [Mohinders](/location/settlement/city/mohinders.md)
+      - 📄 [Ccma](/location/settlement/city/mohinders/ccma.md)
+      - 📄 [Runeswindler](/location/settlement/city/mohinders/runeswindler.md)
+      - 📄 [The Obsession Of Vorelith](/location/settlement/city/mohinders/the-obsession-of-vorelith.md)
+
+      </details>
+    - 📄 [Quillnibs Handle](/location/settlement/city/quillnibs-handle.md)
+    - 📄 [Triz Valley](/location/settlement/city/triz-valley.md)
+
+    </details>
+    <details>
+    <summary><strong>📂 [Scholars Rift](/location/settlement/scholars-rift/scholars-rift.md)</strong></summary>
+
+    - 📄 [Headmasters Roost](/location/settlement/scholars-rift/headmasters-roost.md)
+    - 📄 [Scholars Rift](/location/settlement/scholars-rift/scholars-rift.md)
+    - 📄 [The Echo Halls](/location/settlement/scholars-rift/the-echo-halls.md)
+    - 📄 [The Forbidden Library](/location/settlement/scholars-rift/the-forbidden-library.md)
+    - 📄 [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md)
+    - 📄 [The Tipping Point](/location/settlement/scholars-rift/the-tipping-point.md)
+    - 📄 [The Unstable Grounds](/location/settlement/scholars-rift/the-unstable-grounds.md)
+
+    </details>
+
+  </details>
+
+</details>
+<details>
+<summary><strong>📂 Profession</strong></summary>
+
+- 📄 [Concordium Medica](/profession/concordium-medica.md)
+- 📄 [Dreamweaving](/profession/dreamweaving.md)
+- 📄 [Emberglass Artisan](/profession/emberglass-artisan.md)
+- 📄 [Fizzlemancy](/profession/fizzlemancy.md)
+- 📄 [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md)
+- 📄 [Hexbit Mechanics](/profession/hexbit-mechanics.md)
+- 📄 [Mud Shaper](/profession/mud-shaper.md)
+- 📄 [Scroll Binder](/profession/scroll-binder.md)
+- 📄 [Tankard Trekkers](/profession/tankard-trekkers.md)
+- 📄 [Tuskbreakers](/profession/tuskbreakers.md)
+
+</details>
+<details>
+<summary><strong>📂 Structure</strong></summary>
+
+  <details>
+  <summary><strong>📂 Chronological</strong></summary>
+
+  - 📄 [Calendar](/structure/chronological/calendar.md)
+    <details>
+    <summary><strong>📂 Event</strong></summary>
+
+    - 📄 [Manifestation](/structure/chronological/event/manifestation.md)
+    - 📄 [The Collapse](/structure/chronological/event/the-collapse.md)
+
+    </details>
+
+  </details>
+  <details>
+  <summary><strong>📂 Mechanic</strong></summary>
+
+    <details>
+    <summary><strong>📂 Condition</strong></summary>
+
+    - 📄 [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
+
+    </details>
+  - 📄 [Deity](/structure/mechanic/deity.md)
+    <details>
+    <summary><strong>📂 Dice</strong></summary>
+
+    - 📄 [Carefull](/structure/mechanic/dice/carefull.md)
+    - 📄 [Epic](/structure/mechanic/dice/epic.md)
+    - 📄 [Paradoxal Recoil](/structure/mechanic/dice/paradoxal-recoil.md)
+
+    </details>
+  - 📄 [Fracture Link](/structure/mechanic/fracture-link.md)
+  - 📄 [Glimmer Drift](/structure/mechanic/glimmer-drift.md)
+  - 📄 [Magic](/structure/mechanic/magic.md)
+  - 📄 [Resonance](/structure/mechanic/resonance.md)
+
+  </details>
+  <details>
+  <summary><strong>📂 Social</strong></summary>
+
+    <details>
+    <summary><strong>📂 Factions</strong></summary>
+
+    - 📄 [Arcane Fangs](/structure/social/factions/arcane-fangs.md)
+    - 📄 [Cult Of Dy](/structure/social/factions/cult-of-dy.md)
+    - 📄 [Followers Of Irion](/structure/social/factions/followers-of-irion.md)
+      <details>
+      <summary><strong>📂 [Ragged Goons](/structure/social/factions/ragged-goons.md)</strong></summary>
+
+      - 📄 [Ragged Goons](/structure/social/factions/ragged-goons.md)
+      - 📄 [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
+      - 📄 [The Bone Marshal](/structure/social/factions/ragged-goons/the-bone-marshal.md)
+      - 📄 [The Crowstrider](/structure/social/factions/ragged-goons/the-crowstrider.md)
+      - 📄 [The Pale Scholar](/structure/social/factions/ragged-goons/the-pale-scholar.md)
+      - 📄 [The Rusted Thaumaturge](/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md)
+      - 📄 [The Scythe Lass](/structure/social/factions/ragged-goons/the-scythe-lass.md)
+
+      </details>
+    - 📄 [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
+
+    </details>
+    <details>
+    <summary><strong>📂 Group</strong></summary>
+
+    - 📄 [Scalebound Strays](/structure/social/group/scalebound-strays.md)
+
+    </details>
+
+  </details>
+
+</details>
+<details>
+<summary><strong>📂 Wip</strong></summary>
+
+- 📄 [Cirxa](/wip/cirxa.md)
+
+</details>
