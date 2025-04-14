@@ -24,7 +24,7 @@ Despite their natural void of arcane interference, Merinari society is surprisin
 
 In times of conflict, a Merinari can stand unmoving while spells crumble around them. Arrows still strike, but fireballs fizzle. Curses snap. Magical surveillance cannot see them. As such, several Merinari have become deeply entrenched in political espionage across the lands between [Arkona](/geography/settlement/city/arkona.md) and [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md), often serving as mediators where no enchanted contract can be trusted.
 
-And yet, they remain a people searching. Not for war or power, but for [resonance](/structure/mechanic/resonance.md). Not the magical kind—but emotional, relational, existential. They seek to belong in a world where their presence unravels what others hold sacred. And in the quiet places where [scale](/geography/scale.md) light does not touch, you might hear their songs drifting through the mist—faint, harmonic, and unspeakably lonely.
+And yet, they remain a people searching. Not for war or power, but for [resonance](/structure/mechanic/resonance.md). Not the magical kind—but emotional, relational, existential. They seek to belong in a world where their presence unravels what others hold sacred. And in the quiet places where [scale](/geography/landmark/scale.md) light does not touch, you might hear their songs drifting through the mist—faint, harmonic, and unspeakably lonely.
 
 > *"We do not undo magic. We remember the world before it was sung."*  
 > — Vi'thessa of the Quiet Curve, Merinari Driftwalker

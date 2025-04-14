@@ -29,7 +29,7 @@ dateCreated: 2025-04-06T20:24:45.097Z
 
 I wasn’t born into anything soft.
 
-No name, no crib, no gentle cooing or lullabies—just breath, cold stone, and the press of the city’s underbelly above me. Some say the [Armour of Or](/geography/scale/armour-of-or.md) hums, like the [scale](/geography/scale.md) it rests on remembers [the Collapse](/structure/chronological/event/the-collapse.md). Maybe that was the lullaby I got. A rumble, a warning, a promise: *You’ll have to earn every moment.*
+No name, no crib, no gentle cooing or lullabies—just breath, cold stone, and the press of the city’s underbelly above me. Some say the [Armour of Or](/geography/landmark/scale/armour-of-or.md) hums, like the [scale](/geography/landmark/scale.md) it rests on remembers [the Collapse](/structure/chronological/event/the-collapse.md). Maybe that was the lullaby I got. A rumble, a warning, a promise: *You’ll have to earn every moment.*
 
 I don’t know who left me, or why. I tell myself they had no choice, but some nights I wonder if they just couldn’t stand to look at me. The horns, the tail, the skin—people always assume the worst of a Tiefling. You learn quickly how to look smaller than you are. How to vanish. How to hide your hunger and your hope in the same place, so no one can steal either.
 

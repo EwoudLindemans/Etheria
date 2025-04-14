@@ -14,7 +14,7 @@ dateCreated: 2025-04-07T19:25:11.783Z
 
 ## Appearance
 
-The [Scale](/geography/scale.md) is a **beautiful yellow with slight hints of orange**, making it visually distinct among [Etheria](/geography/cosmology/etheria.md)’s major Scales. The curvature of Umperas Hull gives the impression of a colossal protective structure, as if part of a circular monument torn from the earth.
+The [Scale](/geography/landmark/scale.md) is a **beautiful yellow with slight hints of orange**, making it visually distinct among [Etheria](/geography/cosmology/etheria.md)’s major Scales. The curvature of Umperas Hull gives the impression of a colossal protective structure, as if part of a circular monument torn from the earth.
 
 The fractured top lends the Hull a jagged, unfinished aesthetic, while its sheer face curves outward, suggesting it may have once been part of a larger, more complete form.
 

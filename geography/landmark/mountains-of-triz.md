@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T19:16:27.603Z
 
 # The Mountains of Triz
 
-The **Mountains of Triz** rise like broken blades between the great Scales of **The [Armour of Or](/geography/scale/armour-of-or.md)** and **The [Asara Plate](/geography/scale/asara-plate.md)**, a jagged wall of stone and shadow visible from leagues away. Their sharp silhouettes mark the edge of comfort for most travellers, standing as both barrier and guardian—an untamed spine of the world, ancient and unresolved.
+The **Mountains of Triz** rise like broken blades between the great Scales of **The [Armour of Or](/geography/landmark/scale/armour-of-or.md)** and **The [Asara Plate](/geography/landmark/scale/asara-plate.md)**, a jagged wall of stone and shadow visible from leagues away. Their sharp silhouettes mark the edge of comfort for most travellers, standing as both barrier and guardian—an untamed spine of the world, ancient and unresolved.
 
 They are beautiful in the way storms are beautiful: too large, too loud, and uncaring if you’re ready.
 
@@ -20,7 +20,7 @@ No proper map has ever charted the full depth of the Triz range. What begins as 
 
 Dwarves claim ancestral knowledge of the deeper routes, while goblin guides invent new ones as they go. Even the bravest miners and smugglers leave markings behind—runes, scratches, old bones—to keep from vanishing entirely.
 
-The peaks themselves stretch high enough to touch clouds spun with [Scale](/geography/scale.md)-light. Snow dusts the upper ridges even in the warmer months, though no one has ever lived comfortably up there for long. Strange winds howl through certain passes, and more than one traveller has returned with tales of whispers echoing from nowhere.
+The peaks themselves stretch high enough to touch clouds spun with [Scale](/geography/landmark/scale.md)-light. Snow dusts the upper ridges even in the warmer months, though no one has ever lived comfortably up there for long. Strange winds howl through certain passes, and more than one traveller has returned with tales of whispers echoing from nowhere.
 
 ## Creatures of the Stone
 

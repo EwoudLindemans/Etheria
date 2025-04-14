@@ -20,7 +20,7 @@ Here, gods do not merely reside. They **expand**, **contract**, and **border**.
 
 ### Structure
 
-The plane is made up of **Domain-Spaces**, each fully material and utterly distinct in logic, physics, and danger. These regions form organically around a god once it becomes sufficiently anchored in [Etheria](/geography/cosmology/etheria.md) through its [Scale](/geography/scale.md) association.
+The plane is made up of **Domain-Spaces**, each fully material and utterly distinct in logic, physics, and danger. These regions form organically around a god once it becomes sufficiently anchored in [Etheria](/geography/cosmology/etheria.md) through its [Scale](/geography/landmark/scale.md) association.
 
 - A god of **light and clarity** (e.g., Vennalune) may govern the **Dawnreach**, a blinding, sun-drenched expanse where shadows are illegal and knowledge grows from the soil.
 - A [deity](/structure/mechanic/deity.md) of **war and conquest** rules **Askarath’s Blight**, a scorched badland of eternal sieges, where terrain shifts based on acts of dominance.
@@ -40,11 +40,11 @@ For deities, it is worse: **They are constrained by the rules of the host domain
 
 ### The Role of Scales
 
-Each domain on the Tread is **anchored to a [Scale](/geography/scale.md) in the mortal world**. When a [deity](/structure/mechanic/deity.md) is tethered to a Scale (e.g., Batès Lamina or the [Armour of Or](/geography/scale/armour-of-or.md)), their domain becomes stable and sustained within the Tread. If they die, fade, or are overthrown, the domain-space begins to **rot or mutate**, becoming unstable and difficult to cross.
+Each domain on the Tread is **anchored to a [Scale](/geography/landmark/scale.md) in the mortal world**. When a [deity](/structure/mechanic/deity.md) is tethered to a Scale (e.g., Batès Lamina or the [Armour of Or](/geography/landmark/scale/armour-of-or.md)), their domain becomes stable and sustained within the Tread. If they die, fade, or are overthrown, the domain-space begins to **rot or mutate**, becoming unstable and difficult to cross.
 
 Therefore, **transitions of divinity** must follow domain adjacency:
 
-- If a war god dies and the [scale](/geography/scale.md) is to be taken over, **only a [deity](/structure/mechanic/deity.md) whose domains border War’s lands** in the Tread can inherit it.
+- If a war god dies and the [scale](/geography/landmark/scale.md) is to be taken over, **only a [deity](/structure/mechanic/deity.md) whose domains border War’s lands** in the Tread can inherit it.
 - Otherwise, they must cross through other deities’ territory—an **act of divine diplomacy, invasion, or miracle**.
 
 This system has led to divine alliances and betrayals over border rearrangements, and some deities (like [The Unborn](/being/deity/the-unborn.md)) have **floating or unstable domains**, accessible only by rare configurations.
@@ -69,6 +69,6 @@ Others speculate the **[Ragged Goons](/structure/social/factions/ragged-goons.md
 **Rumors from the Borders:**
 
 - A minor [deity](/structure/mechanic/deity.md) of decay is said to have found a way to *walk backwards through domains*, leaving no trace.
-- [Cirxa](/wip/cirxa.md) once traded a [scale](/geography/scale.md) fragment for the right to “blink” across three domains undetected—for reasons unknown.
+- [Cirxa](/wip/cirxa.md) once traded a [scale](/geography/landmark/scale.md) fragment for the right to “blink” across three domains undetected—for reasons unknown.
 - The Phrastic Isle once swallowed an entire mortal army for misusing a metaphor.
 

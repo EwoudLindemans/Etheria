@@ -14,15 +14,15 @@ dateCreated: 2022-10-23T19:06:03.398Z
 
 ## Appearance and Structure
 
-Batès Lamina is a **bright red [Scale](/geography/scale.md)**, polished and smooth in texture, and unmistakable in appearance. Despite its modest size, it radiates a low-frequency hum that can be **felt rather than heard**. This hum has a **calming effect** and is a central part of the spiritual practice of those who live around it.
+Batès Lamina is a **bright red [Scale](/geography/landmark/scale.md)**, polished and smooth in texture, and unmistakable in appearance. Despite its modest size, it radiates a low-frequency hum that can be **felt rather than heard**. This hum has a **calming effect** and is a central part of the spiritual practice of those who live around it.
 
-The [Scale](/geography/scale.md) stands at the heart of a lake, with a **city built along the water’s edge**. The terrain is mostly **open fields**, and the settlement has **barely any defensive structures**. Despite this vulnerability, the city has never been under serious threat, in large part due to the respect it commands throughout [Etheria](/geography/cosmology/etheria.md).
+The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a **city built along the water’s edge**. The terrain is mostly **open fields**, and the settlement has **barely any defensive structures**. Despite this vulnerability, the city has never been under serious threat, in large part due to the respect it commands throughout [Etheria](/geography/cosmology/etheria.md).
 
 ## The City and Shrine
 
 The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the Scales.
 
-At the city's heart lies a **shrine built directly above the [Scale](/geography/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/structure/mechanic/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
+At the city's heart lies a **shrine built directly above the [Scale](/geography/landmark/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/structure/mechanic/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
 
 The shrine is considered **the most important place in the world** by the Followers of [Irion](/being/deity/irion.md), and it is treated with reverence by visiting pilgrims.
 
@@ -30,7 +30,7 @@ The shrine is considered **the most important place in the world** by the Follow
 
 People from all over [Etheria](/geography/cosmology/etheria.md) journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with [Irion](/being/deity/irion.md) and to help align the soul with the great resonant forces of the world.
 
-The ambient hum of the [Scale](/geography/scale.md) is also used in meditative practices, allowing seekers to sit in silence for hours or days, absorbing the rhythmic pulse of the Scale and seeking inner stillness.
+The ambient hum of the [Scale](/geography/landmark/scale.md) is also used in meditative practices, allowing seekers to sit in silence for hours or days, absorbing the rhythmic pulse of the Scale and seeking inner stillness.
 
 ## Politics and Neutrality
 

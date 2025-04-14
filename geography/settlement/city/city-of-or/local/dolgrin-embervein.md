@@ -10,7 +10,7 @@ dateCreated: 2025-04-01T15:57:54.846Z
 
 # Dolgrin Embervein – The Heretic Sculptor
 
-Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/social/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with arcane [resonance](/structure/mechanic/resonance.md).
+Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/landmark/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/social/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with arcane [resonance](/structure/mechanic/resonance.md).
 
 But Dolgrin's heart never beat for the hammer's strike alone. He heard music in stone—silence in shape. His art was not in weaponry, but in form. Though trained in runes, he spent his days carving scraps into faces—dwarves, orcs, even elves. He claimed stone had memory, and his fingers listened.
 
@@ -63,7 +63,7 @@ Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
 ## The Stair He Chose
 
-Dolgrin wandered until he reached the **[Umperas Hull](/geography/scale/umperas-hull.md)**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow [scale](/geography/scale.md)'s broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
+Dolgrin wandered until he reached the **[Umperas Hull](/geography/landmark/scale/umperas-hull.md)**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow [scale](/geography/landmark/scale.md)'s broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
 
 He climbed.
 

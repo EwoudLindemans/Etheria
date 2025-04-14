@@ -66,16 +66,16 @@ dateCreated: 2022-01-24T15:40:43.899Z
     - ## Landmark
       - ### [Mountains Of Triz](/geography/landmark/mountains-of-triz.md)
         - #### [Gurdalks Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
+      - ### [Scale](/geography/landmark/scale.md)
+        - #### [Armour Of Or](/geography/landmark/scale/armour-of-or.md)
+        - #### [Asara Plate](/geography/landmark/scale/asara-plate.md)
+        - #### [Bates Lamina](/geography/landmark/scale/bates-lamina.md)
+        - #### [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)
+        - #### [Ornite Ring](/geography/landmark/scale/ornite-ring.md)
+        - #### [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
       - ### [The Well](/geography/landmark/the-well.md)
     - ## Region
       - ### [Verdant Divide](/geography/region/verdant-divide.md)
-    - ## [Scale](/geography/scale.md)
-      - ### [Armour Of Or](/geography/scale/armour-of-or.md)
-      - ### [Asara Plate](/geography/scale/asara-plate.md)
-      - ### [Bates Lamina](/geography/scale/bates-lamina.md)
-      - ### [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)
-      - ### [Ornite Ring](/geography/scale/ornite-ring.md)
-      - ### [Umperas Hull](/geography/scale/umperas-hull.md)
     - ## Settlement
       - ### City
         - #### [Arkona](/geography/settlement/city/arkona.md)

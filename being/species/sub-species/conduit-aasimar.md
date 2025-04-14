@@ -23,7 +23,7 @@ Your **Charisma** score increases by **2**, and your **Wisdom** score increases 
 You are a bridge between the mortal and divine, amplifying the presence of your patron and detecting divine shifts.  
 
 - You can communicate simple concepts, emotions, or intentions to any **celestial, fiend, or fey**, even if you do not share a language. This does not allow direct conversation but conveys intent.  
-- After a **1-minute meditation**, you can sense whether there is an **active** or **imprinted [deity](/structure/mechanic/deity.md)** within the [Scale](/geography/scale.md). You do not automatically know their identity unless they **share a domain** with your patron or you have encountered them before.  
+- After a **1-minute meditation**, you can sense whether there is an **active** or **imprinted [deity](/structure/mechanic/deity.md)** within the [Scale](/geography/landmark/scale.md). You do not automatically know their identity unless they **share a domain** with your patron or you have encountered them before.  
 
 ## **Self-Reflect**  
 At the end of a **long rest**, you must **meditate and reaffirm your connection to your patron [deity](/structure/mechanic/deity.md)**.  

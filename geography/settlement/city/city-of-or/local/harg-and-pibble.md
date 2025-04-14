@@ -23,9 +23,9 @@ To call Harg a drunk would be to miss the point entirely—he is a philosopher o
 
 He believes deeply in the importance of “gut-thinkin’,” and treats each sip of ale as a ritualistic uncovering of truth. Sometimes those truths are brilliant. Sometimes they are SPLORP. And always, Harg insists the opposite of a thing is rarely what you think it is.
 
-Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a [scale](/geography/scale.md)’s very soul… or just got lucky mid-ramble.
+Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a [scale](/geography/landmark/scale.md)’s very soul… or just got lucky mid-ramble.
 
-He is beloved in the tavern for his grand, sweeping gestures, his ability to toast to anything (“To socks!”), and his maddening yet magnetic monologues. Some say he once drank a thimbleful of condensed [scale](/geography/scale.md) essence, mistaking it for syrup. He says that’s nonsense—and if it were true, “I’d probably be even *more* brilliant.”
+He is beloved in the tavern for his grand, sweeping gestures, his ability to toast to anything (“To socks!”), and his maddening yet magnetic monologues. Some say he once drank a thimbleful of condensed [scale](/geography/landmark/scale.md) essence, mistaking it for syrup. He says that’s nonsense—and if it were true, “I’d probably be even *more* brilliant.”
 
 ## Traits
 - **Wisdom Beyond Words** – Can intuit complex truths, but rarely explain them usefully.
@@ -54,7 +54,7 @@ Together, Harg and Pibble are more than a pair of fools. They are a phenomenon. 
 
 Their debates have stopped fights, started romances, inspired poetry, and, on one memorable night, resulted in the spontaneous naming of a child (“Welcome, lil’ Splorpina.”)
 
-Some say they are touched by a [scale](/geography/scale.md).
+Some say they are touched by a [scale](/geography/landmark/scale.md).
 Others say they are cursed by one.
 
 But everyone agrees:

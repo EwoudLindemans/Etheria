@@ -34,7 +34,7 @@ Unlike most festival brews, Sweetmoss is calm, communal, and comforting—a drin
 ## Origins
 The true origin of **Sweetmoss Sip** is a story still debated in taverns and workshops across the city. What is generally agreed upon is this:
 
-A young gnomish brewer—name now lost to boast and rumour—was taught the fundamentals of orcish brewing by an aging orc veteran who had once walked from the far side of the [Asara Plate](/geography/scale/asara-plate.md). The two worked together on a shared batch to commemorate their long journey and shared survival.
+A young gnomish brewer—name now lost to boast and rumour—was taught the fundamentals of orcish brewing by an aging orc veteran who had once walked from the far side of the [Asara Plate](/geography/landmark/scale/asara-plate.md). The two worked together on a shared batch to commemorate their long journey and shared survival.
 
 The gnome, interpreting the recipe **"creatively,"** introduced moss-filtering, herbal sweetness, and a fermentation adjustment that horrified traditionalists and delighted everyone else. The resulting green ale was served at a small street gathering, and from there, its fame spread district by district, mug by mug.
 

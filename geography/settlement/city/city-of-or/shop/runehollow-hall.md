@@ -16,7 +16,7 @@ Unlike the chaotic brilliance of gnomish design or the fluid grace of elven scri
 
 ## Exterior
 
-The entrance to Runehollow Hall faces the gate into the Undercity. It is a symmetrical and solemn structure of carved stone and understated grandeur, bathed in the ever-glowing red light of the [Armour of Or](/geography/scale/armour-of-or.md)’s crystalline ceiling above.
+The entrance to Runehollow Hall faces the gate into the Undercity. It is a symmetrical and solemn structure of carved stone and understated grandeur, bathed in the ever-glowing red light of the [Armour of Or](/geography/landmark/scale/armour-of-or.md)’s crystalline ceiling above.
 
 Six massive, square pillars stand in a proud row, etched with glowing dwarven runes of wisdom and memory. Between the outermost pillars stand four towering marble statues—depictions of legendary dwarven scribes, each holding a carved stone lantern. These lanterns burn with a pale green flame that never flickers nor fades, casting a ghostly light beneath the wide canopy above the stairs.
 
@@ -30,7 +30,7 @@ Recessed reading tables—each surrounded by soft, rune-etched sound barriers—
 
 A mechanical elevator system of brass rails and gnomish design allows the librarian and their assistants to navigate the higher levels. Small brass platforms move with a whisper, directed by arcane levers and glowing runic switches.
 
-At the far end of the hall lies a great desk, carved with the relief of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md), and behind it, a mural of the founding of the city: miners, historians, and spellwrights gathered under the radiant red sky of the [Scale](/geography/scale.md).
+At the far end of the hall lies a great desk, carved with the relief of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md), and behind it, a mural of the founding of the city: miners, historians, and spellwrights gathered under the radiant red sky of the [Scale](/geography/landmark/scale.md).
 
 ## Significance
 

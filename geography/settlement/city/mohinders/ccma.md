@@ -11,7 +11,7 @@ dateCreated: 2025-03-18T20:29:22.056Z
 # **Council of Controlled Magical Appliance (CCMA)**
 *"[Magic](/structure/mechanic/magic.md) is power, but power ungoverned is catastrophe."* — First High Regulator, Alvinas the Measured  
 
-The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **[Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing [Mohinders](/geography/settlement/city/mohinders.md) apart.  
+The **Council of Controlled Magical Appliance (CCMA)** is the ruling authority responsible for monitoring, regulating, and maintaining the raw magical energy coursing through **[Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)** and the **Veilsteel Tail**. Without their intervention, the vast, unrefined power contained within the city’s foundations could spiral into uncontrolled surges, tearing [Mohinders](/geography/settlement/city/mohinders.md) apart.  
 
 ## **Structure & Hierarchy**
 The CCMA is composed of scholars, artificers, enchanters, and arcane engineers, all dedicated to the stability of the city’s magical infrastructure. The Council is divided into several specialized branches, each with distinct roles:  
@@ -37,7 +37,7 @@ The CCMA’s primary mission is to prevent catastrophe. Their responsibilities i
 ✔ **Maintaining the Arcane Flow** – Ensuring the raw energy from the Shell is properly channeled into the city’s infrastructure.  
 ✔ **Overseeing the Portals** – Regulating and stabilizing the arcane gateways connecting [Mohinders](/geography/settlement/city/mohinders.md) to the lands below.  
 ✔ **Preventing Overload Events** – Monitoring magical pressure points to avoid catastrophic failures.  
-✔ **Research & Experimentation** – Studying the properties of [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md) and the Veilsteel Tail, seeking safer containment methods.  
+✔ **Research & Experimentation** – Studying the properties of [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md) and the Veilsteel Tail, seeking safer containment methods.  
 ✔ **Crisis Response** – Deploying containment squads when [magic](/structure/mechanic/magic.md) surges beyond safe levels.  
 
 ---

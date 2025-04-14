@@ -51,12 +51,12 @@ Groups like the [Ragged Goons](/structure/social/factions/ragged-goons.md) activ
 
 There are **five known surface-penetrating scales**, each distinct in form and function:
 
-- **[Armour of Or](/geography/scale/armour-of-or.md)**: The largest known scale, resting beneath a mountain. White with red crystalline spikes. Powers the forges of the [City of Or](/geography/settlement/city/city-of-or.md).
+- **[Armour of Or](/geography/landmark/scale/armour-of-or.md)**: The largest known scale, resting beneath a mountain. White with red crystalline spikes. Powers the forges of the [City of Or](/geography/settlement/city/city-of-or.md).
 - **Batès Lamina**: Bright red and smallest in size, sits in a lake. Revered by the Followers of [Irion](/being/deity/irion.md).
-- **[Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)**: A tall, opal-green spire with healing light. Suspends the city of [Mohinders](/geography/settlement/city/mohinders.md).
-- **[Umperas Hull](/geography/scale/umperas-hull.md)**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
-- **[Asara Plate](/geography/scale/asara-plate.md)**: A broken blue scale angled into a scenic overhang, known for its dazzling light shows.
-- **[Ornite Ring](/geography/scale/ornite-ring.md)**: The only known celestial scale, orbiting [Etheria](/geography/cosmology/etheria.md) in the sky—black with a glowing red lining.
+- **[Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)**: A tall, opal-green spire with healing light. Suspends the city of [Mohinders](/geography/settlement/city/mohinders.md).
+- **[Umperas Hull](/geography/landmark/scale/umperas-hull.md)**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
+- **[Asara Plate](/geography/landmark/scale/asara-plate.md)**: A broken blue scale angled into a scenic overhang, known for its dazzling light shows.
+- **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**: The only known celestial scale, orbiting [Etheria](/geography/cosmology/etheria.md) in the sky—black with a glowing red lining.
 
 ## Mysteries of the Scales
 
