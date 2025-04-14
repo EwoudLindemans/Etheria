@@ -12,7 +12,7 @@ dateCreated: 2025-04-03T20:45:42.986Z
 
 ## Overview
 
-The **Election Festival of Or** is the [City of Or](/location/settlement/city/city-of-or.md)’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **[Council of Or](/location/settlement/city/city-of-or/council-of-or.md)**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
+The **Election Festival of Or** is the [City of Or](/geography/settlement/city/city-of-or.md)’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **[Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
 
 Though the official festival lasts five days, most Orfolk recognise the far longer and wildly unregulated **Pre-Pre Festival**, a lead-up period of informal campaigning, community scheming, and festive chaos.
 
@@ -84,7 +84,7 @@ There is **no limit** to the number of candidates. The festival’s trials and c
 In accordance with the Civic Representation Edict (as amended), the following criteria and obligations apply to all individuals seeking candidacy for Council appointment during the authorised Election Festival period:
 
 1. **Residency & Civic Investment**  
-   All candidates must demonstrate continuous and verifiable residency within the [City of Or](/location/settlement/city/city-of-or.md) and its lawful districts for a period deemed sufficient by the Council Registrar’s Office. Candidates must further provide proof of active civic contribution, to be reviewed and certified by the Electoral Clerk.
+   All candidates must demonstrate continuous and verifiable residency within the [City of Or](/geography/settlement/city/city-of-or.md) and its lawful districts for a period deemed sufficient by the Council Registrar’s Office. Candidates must further provide proof of active civic contribution, to be reviewed and certified by the Electoral Clerk.
 
 2. **Suspension of Conflicting Operations During Festival Period**  
    Upon official candidacy registration, individuals must cease all income-generating operations, business directorships, guildmasterships, or analogous leadership activities. Temporary delegation is permitted; active control is not.
@@ -109,7 +109,7 @@ Throughout the festival, Orfolk express their views through:
 - **Parody songs and drunken chants**
 - **The ceremonial roasting of effigies and past promises**
 
-[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md) once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
+[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
 
 Popular sayings include:
 - “You’re drunk enough to run for Council.”
@@ -119,13 +119,13 @@ Popular sayings include:
 ## Notorious Incidents in Election Festival History
 
 ### The Turnip Incident  
-**[Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)**, the chaotic hobgoblin brewer behind **[The Cauldron Lottery](/location/settlement/city/city-of-or/shop/the-cauldron-lottery.md)**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
+**[Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)**, the chaotic hobgoblin brewer behind **[The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
 
 The crowd voted for the vegetable.  
-**[Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)** declared it a civic miracle.  
+**[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)** declared it a civic miracle.  
 **Debating the Turnip** is now a wildcard tradition.
 
-A wooden bust of the turnip—**Tharnibus**—sits proudly at [Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)’s stall.
+A wooden bust of the turnip—**Tharnibus**—sits proudly at [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)’s stall.
 
 ---
 
@@ -149,7 +149,7 @@ Mistaken for another nominee, a halfling was elected, sent a letter, and never s
 ---
 
 ### The Flatstone Forgiveness  
-Adventurers caught trespassing during the festival began chanting “Long Live [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md)!” Background checks were delayed, public sentiment was high, and they were released with:
+Adventurers caught trespassing during the festival began chanting “Long Live [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md)!” Background checks were delayed, public sentiment was high, and they were released with:
 - A formal pardon
 - A signed cask of Flatstone Reserve Ale
 - And mild applause

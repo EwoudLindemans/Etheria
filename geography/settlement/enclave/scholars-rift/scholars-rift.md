@@ -9,7 +9,7 @@ dateCreated: 2025-04-01T21:45:37.357Z
 ---
 
 # The Scholar’s Rift
-The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and [resonance](/structure/mechanic/resonance.md) converge. It resides in [The Dense](/location/plane/the-dense.md)
+The **Scholar’s Rift** is a magical hub, isolated from the non-magical world by a metaphysical barrier. Only those with magical ability can access it. It's a place of study, where knowledge, power, and [resonance](/structure/mechanic/resonance.md) converge. It resides in [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
 
 ## **The Leader: Barty Dunderfield**
 **Name:** Barty Dunderfield  
@@ -107,7 +107,7 @@ In the end, even if you fail, it’s all part of the journey. After all, this is
 As the exams draw closer each ARC, the entire Scholar’s Rift seems to hum with excitement and anxiety. Only a handful will rise to become Scalespeakers—but no matter the outcome, every student learns more, grows stronger, and prepares for next ARC’s shot at the title.
 
 ### The Joke
-An Initiate, A Resonant, and a Scalespeaker walk into [The Tipping Point](/location/settlement/scholars-rift/the-tipping-point.md).
+An Initiate, A Resonant, and a Scalespeaker walk into [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md).
 
 The bartender looks up, eyebrow raised. "This is either going to be really interesting, or I’m about to be put out of business."
 

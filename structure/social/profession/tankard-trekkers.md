@@ -14,12 +14,12 @@ dateCreated: 2025-03-29T22:59:43.792Z
 ![tankard-tracker.png](/professions/tankard-tracker.png =500x)
 
 ## Overview  
-Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across [Etheria](/etheria.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/location/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
+Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across [Etheria](/geography/cosmology/etheria.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/geography/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
 
 Their authority is recognized in Or and respected (or feared) elsewhere. They wield the sacred **Right of the Last Pour**, can bless taverns with long life, and—on rare, somber occasions—**revoke licenses**, condemning a pub to silence.
 
 ## Origins  
-The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three halflings from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/location/settlement/city/city-of-or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
+The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three halflings from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
 
 Since then, halflings have traditionally passed the title from elder to apprentice, though humans, dwarves, and even the occasional orc have earned the right to carry the Tankard.
 
@@ -67,8 +67,8 @@ A black-mark ritual in which three Trekkers overturn their mugs and declare the 
 Once done, the tavern is spiritually unblessed—its luck fades, its drinks spoil, and regulars slowly drift away.
 
 ## Social Standing  
-In the [City of Or](/location/settlement/city/city-of-or.md), Tankard Trekkers are beloved. In [Triz Valley](/location/settlement/city/triz-valley.md), they're welcomed with stories and free ale.  
-In [Mohinders](/location/settlement/city/mohinders.md), their presence is politely tolerated—though the upper arcane elite rarely understand their function.  
+In the [City of Or](/geography/settlement/city/city-of-or.md), Tankard Trekkers are beloved. In [Triz Valley](/geography/settlement/city/triz-valley.md), they're welcomed with stories and free ale.  
+In [Mohinders](/geography/settlement/city/mohinders.md), their presence is politely tolerated—though the upper arcane elite rarely understand their function.  
 Outside these regions, they’re folk heroes to some, annoying drunkards to others, and mysterious prophets to a few.
 
 ## Halfling Tradition  
@@ -77,7 +77,7 @@ While anyone can *earn* the mug, the tradition of Trekking is halfling to its co
 - Find the nearest hearth blindfolded,
 - And recall every toast ever spoken in their presence.
 
-Some believe the first Tankard Trekker was not a halfling at all—but a [scale](/location/scale.md)-touched [Iridian](/being/species/iridian.md) who took halfling form just to keep drinking.
+Some believe the first Tankard Trekker was not a halfling at all—but a [scale](/geography/scale.md)-touched [Iridian](/being/species/iridian.md) who took halfling form just to keep drinking.
 
 > “A poured pint is a sacred thing. Don’t spill it with anger. Spill it with joy.”
 > —Old Mugsy, First of the Trek

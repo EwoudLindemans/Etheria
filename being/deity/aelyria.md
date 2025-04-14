@@ -29,7 +29,7 @@ Her followers describe her presence not as light or sound, but as a feeling: tha
 
 Her sanctuaries are called **Twilight Mirrors**—shimmering domes made of glass, moonstone, and still water. They reflect not just light, but memory, potential, and your best self on a really good hair day.  
 
-The most famous temple, the **Choral Pool of Veyri**, is said to hum when someone lies within its presence. In [Arkona](/location/settlement/city/arkona.md), her devotees build shrines entirely out of music—structures made from sustained notes and echoed whispers.
+The most famous temple, the **Choral Pool of Veyri**, is said to hum when someone lies within its presence. In [Arkona](/geography/settlement/city/arkona.md), her devotees build shrines entirely out of music—structures made from sustained notes and echoed whispers.
 
 Worship involves:
 - Painting with moonlight on water’s surface.
@@ -44,8 +44,8 @@ A half-mask of silver veils, pierced by seven stars in a spiral. Often etched on
 
 - Aelyria once turned an entire army’s armor into flower petals during a siege—not to protect the besieged, but because *“the moon disapproved of
 - She once gifted a warlock a smile so radiant that an entire army surrendered rather than risk wrinkling it.
-- In [Mohinders](/location/settlement/city/mohinders.md), an Aelyrian prophet once asked [the Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md) a riddle so beautiful it blushed—and opened *sideways*. The prophet is still walking through new answers.
-- On the longest night ever recorded in [The Dense](/location/plane/the-dense.md), it is said Aelyria whispered stories to every child, every lost soul, and every sleeping tree. The trees are now bards. The children? Even worse.
+- In [Mohinders](/geography/settlement/city/mohinders.md), an Aelyrian prophet once asked [the Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md) a riddle so beautiful it blushed—and opened *sideways*. The prophet is still walking through new answers.
+- On the longest night ever recorded in [The Dense](/geography/cosmology/plane-of-existance/the-dense.md), it is said Aelyria whispered stories to every child, every lost soul, and every sleeping tree. The trees are now bards. The children? Even worse.
 
 ## **Doctrine**
 

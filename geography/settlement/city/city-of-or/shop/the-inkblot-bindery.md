@@ -14,7 +14,7 @@ dateCreated: 2025-04-02T20:10:24.868Z
 
 ## Introduction: A Bookstore Where There Should Be None
 
-The very idea of a **bookstore in [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md)** is absurd. Gutterbrew is where failed alchemists sling sour tonic from cursed barrels, where gnomish distillers rent still-space to kobold picklers, and where potion vapour clings to the brick like mould. No one goes there for literature—*and that’s precisely why it works*.
+The very idea of a **bookstore in [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)** is absurd. Gutterbrew is where failed alchemists sling sour tonic from cursed barrels, where gnomish distillers rent still-space to kobold picklers, and where potion vapour clings to the brick like mould. No one goes there for literature—*and that’s precisely why it works*.
 
 Tucked between an unlicensed dye-maker and a collapsed teashop, **The Inkblot Bindery** should be dismissed at a glance. Its exterior is uninviting by design: the shingles are warped, the door sticks in humid weather, and the sign above—“**THE INKBLOT BINDERY**”—looks like it was painted in a fit of sarcasm and never retouched. A crooked "CLOSED" sign permanently dangles in the fogged-over window, no matter the hour.
 

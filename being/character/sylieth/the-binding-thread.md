@@ -12,8 +12,8 @@ dateCreated: 2025-04-06T19:53:18.071Z
 
 **Type:** Personal Relic  
 **Wielder:** [Sylieth](/being/character/sylieth.md)  
-**Origin:** [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md), [City of Or](/location/settlement/city/city-of-or.md)  
-**Associated [Deity](/structure/mechanic/deity.md):** Ilmater (non-native to [Etheria](/etheria.md))  
+**Origin:** [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md), [City of Or](/geography/settlement/city/city-of-or.md)  
+**Associated [Deity](/structure/mechanic/deity.md):** Ilmater (non-native to [Etheria](/geography/cosmology/etheria.md))  
 **Status:** Spiritually active, functionally mundane  
 
 ## Description
@@ -24,11 +24,11 @@ The cord is usually **wrapped around their wrist**, stitched into the inside of 
 
 ## Origin
 
-The thread comes from **[Sylieth](/being/character/sylieth.md)’s first act of healing** at [the Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md). It was part of a bandage used on a wounded boy’s hand, tied under [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)’s guidance. The child survived. The bandage was discarded. But a single length of it clung to Sylieth’s sleeve.
+The thread comes from **[Sylieth](/being/character/sylieth.md)’s first act of healing** at [the Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md). It was part of a bandage used on a wounded boy’s hand, tied under [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)’s guidance. The child survived. The bandage was discarded. But a single length of it clung to Sylieth’s sleeve.
 
 That night, [Sylieth](/being/character/sylieth.md) held it during prayer—a prayer not to any known Etherian god, but to something they felt and could not name. In that moment of stillness and weight, the thread became more than a memory. It became **a tether**.
 
-Soon after, [Sylieth](/being/character/sylieth.md) began to feel the quiet presence of **Ilmater**, a god not native to [Etheria](/etheria.md) but known across planes as the Lord of Suffering and Mercy. The thread became the **bridge** between Sylieth’s pain, purpose, and the divine.
+Soon after, [Sylieth](/being/character/sylieth.md) began to feel the quiet presence of **Ilmater**, a god not native to [Etheria](/geography/cosmology/etheria.md) but known across planes as the Lord of Suffering and Mercy. The thread became the **bridge** between Sylieth’s pain, purpose, and the divine.
 
 ## Properties
 
@@ -52,4 +52,4 @@ To [Sylieth](/being/character/sylieth.md), it is not proof of faith. It is **fai
 ## Related Pages
 - [Sylieth](/being/character/sylieth.md)  
 - Ilmater  
-- [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)
+- [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)

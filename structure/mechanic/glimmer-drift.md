@@ -10,7 +10,7 @@ dateCreated: 2025-04-02T22:37:02.812Z
 
 # Glimmer Drift
 
-It is not fog, nor dust, nor light—but something between. **Glimmer Drift** is a phenomenon that occurs irregularly near zones of strong [scale](/location/scale.md) [resonance](/structure/mechanic/resonance.md), particularly around exposed or fractured scale sites. It appears as faint, shimmering particles suspended in the air, lazily drifting in impossible patterns. Each mote pulses with dim color, as if reflecting memories no one remembers having.
+It is not fog, nor dust, nor light—but something between. **Glimmer Drift** is a phenomenon that occurs irregularly near zones of strong [scale](/geography/scale.md) [resonance](/structure/mechanic/resonance.md), particularly around exposed or fractured scale sites. It appears as faint, shimmering particles suspended in the air, lazily drifting in impossible patterns. Each mote pulses with dim color, as if reflecting memories no one remembers having.
 
 While harmless to most, Glimmer Drift is known to alter perception. Travelers caught within it speak of seeing familiar places warped by dreams, hearing songs in languages they do not know, or recalling entire days they never lived. In some cases, particularly among the magically sensitive, it has triggered episodes of trance, revelation, or panic.
 
@@ -22,13 +22,13 @@ While harmless to most, Glimmer Drift is known to alter perception. Travelers ca
 
 ## Known Locations
 
-The most studied Glimmer Drift occurs at the fringes of the [Asara Plate](/location/scale/asara-plate.md) during moonrise, where travelers have reported time feeling "looped sideways" and entire caravans reappearing hours before they departed.
+The most studied Glimmer Drift occurs at the fringes of the [Asara Plate](/geography/scale/asara-plate.md) during moonrise, where travelers have reported time feeling "looped sideways" and entire caravans reappearing hours before they departed.
 
 ## Theories
 
-The Rift Scholars argue that Glimmer Drift is a natural byproduct of unstable [resonance](/structure/mechanic/resonance.md) frequencies syncing with high emotional imprint zones—essentially, [magic](/structure/mechanic/magic.md) remembering itself. Others claim it's the dream residue of [Irion](/being/deity/irion.md), still seeping into [Etheria](/etheria.md) through cracks left by [The Collapse](/structure/chronological/event/the-collapse.md).
+The Rift Scholars argue that Glimmer Drift is a natural byproduct of unstable [resonance](/structure/mechanic/resonance.md) frequencies syncing with high emotional imprint zones—essentially, [magic](/structure/mechanic/magic.md) remembering itself. Others claim it's the dream residue of [Irion](/being/deity/irion.md), still seeping into [Etheria](/geography/cosmology/etheria.md) through cracks left by [The Collapse](/structure/chronological/event/the-collapse.md).
 
-A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/location/plane/the-dense.md), testing whether we are ready to be remembered.
+A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/geography/cosmology/plane-of-existance/the-dense.md), testing whether we are ready to be remembered.
 
 ## Use in Spellcraft
 

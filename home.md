@@ -2,15 +2,12 @@
 title: Home
 description: 
 published: 1
-date: 2025-04-14T21:29:46.646Z
+date: 2025-04-04T21:58:01.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
-
 # Wiki Index
-  - # Area
-    - ## [Verdant Divide](/area/verdant-divide.md)
   - # Being
     - ## Ancient
       - ### [Demeriun](/being/ancient/demeriun.md)
@@ -60,100 +57,89 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Skul Kruk](/being/titan/skul-kruk.md)
       - ### [Vorr Gul](/being/titan/vorr-gul.md)
       - ### [Zephiryx](/being/titan/zephiryx.md)
-  - # Class
-    - ## Sorcerer
-      - ### Subclass
-        - #### [Arcane Resonance](/class/sorcerer/subclass/arcane-resonance.md)
-  - # [Etheria](/etheria.md)
-  - # Location
+  - # Geography
+    - ## Cosmology
+      - ### [Etheria](/geography/cosmology/etheria.md)
+      - ### Plane Of Existance
+        - #### [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
+        - #### [The Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md)
     - ## Landmark
-      - ### [Mountains Of Triz](/location/landmark/mountains-of-triz.md)
-        - #### [Gurdalks Gang](/location/landmark/mountains-of-triz/gurdalks-gang.md)
-      - ### [The Well](/location/landmark/the-well.md)
-    - ## Plane
-      - ### [The Dense](/location/plane/the-dense.md)
-      - ### [The Fractured Keep](/location/plane/the-fractured-keep.md)
-    - ## [Scale](/location/scale.md)
-      - ### [Armour Of Or](/location/scale/armour-of-or.md)
-      - ### [Asara Plate](/location/scale/asara-plate.md)
-      - ### [Bates Lamina](/location/scale/bates-lamina.md)
-      - ### [Eldeviérs Shell](/location/scale/eldeviérs-shell.md)
-      - ### [Ornite Ring](/location/scale/ornite-ring.md)
-      - ### [Umperas Hull](/location/scale/umperas-hull.md)
+      - ### [Mountains Of Triz](/geography/landmark/mountains-of-triz.md)
+        - #### [Gurdalks Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
+      - ### [The Well](/geography/landmark/the-well.md)
+    - ## Region
+      - ### [Verdant Divide](/geography/region/verdant-divide.md)
+    - ## [Scale](/geography/scale.md)
+      - ### [Armour Of Or](/geography/scale/armour-of-or.md)
+      - ### [Asara Plate](/geography/scale/asara-plate.md)
+      - ### [Bates Lamina](/geography/scale/bates-lamina.md)
+      - ### [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)
+      - ### [Ornite Ring](/geography/scale/ornite-ring.md)
+      - ### [Umperas Hull](/geography/scale/umperas-hull.md)
     - ## Settlement
       - ### City
-        - #### [Arkona](/location/settlement/city/arkona.md)
-        - #### [City Of Or](/location/settlement/city/city-of-or.md)
-          - ##### [Asarazul](/location/settlement/city/city-of-or/asarazul.md)
+        - #### [Arkona](/geography/settlement/city/arkona.md)
+        - #### [City Of Or](/geography/settlement/city/city-of-or.md)
+          - ##### [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
           - ##### Consumable
-            -  [Brazen Brew](/location/settlement/city/city-of-or/consumable/brazen-brew.md)
-            -  [Sweetmoss Sip](/location/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
-          - ##### [Council Of Or](/location/settlement/city/city-of-or/council-of-or.md)
+            -  [Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
+            -  [Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
+          - ##### [Council Of Or](/geography/settlement/city/city-of-or/council-of-or.md)
           - ##### District
-            -  [Coalwalk Row](/location/settlement/city/city-of-or/district/coalwalk-row.md)
-            -  [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md)
-            -  [Passage Of Or](/location/settlement/city/city-of-or/district/passage-of-or.md)
-            -  [The Spillway](/location/settlement/city/city-of-or/district/the-spillway.md)
-          - ##### [Election Festival](/location/settlement/city/city-of-or/election-festival.md)
-          - ##### [Guard Of Or](/location/settlement/city/city-of-or/guard-of-or.md)
-            -  [Berrun Dimmabrow](/location/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
-            -  [Darik Stoneveil](/location/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
-          - ##### [Heartforge](/location/settlement/city/city-of-or/heartforge.md)
-            -  [The Codex Of The Heartflame](/location/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
+            -  [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
+            -  [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
+            -  [Passage Of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
+            -  [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
+          - ##### [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
+          - ##### [Guard Of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
+            -  [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
+            -  [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
+          - ##### [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
+            -  [The Codex Of The Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
           - ##### Local
-            -  [Dolgrin Embervein](/location/settlement/city/city-of-or/local/dolgrin-embervein.md)
-            -  [Dottie Copperlocks](/location/settlement/city/city-of-or/local/dottie-copperlocks.md)
-            -  [Gorgrath The Brute](/location/settlement/city/city-of-or/local/gorgrath-the-brute.md)
-            -  [Harg And Pibble](/location/settlement/city/city-of-or/local/harg-and-pibble.md)
-            -  [Karath Flatstone](/location/settlement/city/city-of-or/local/karath-flatstone.md)
-            -  [Or Flatstone](/location/settlement/city/city-of-or/local/or-flatstone.md)
-            -  [Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)
-              -  [Gloriana](/location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
-              -  [Library Between Names](/location/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
-              -  [Truth Between The Tales](/location/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
-          - ##### [Mines Of Or](/location/settlement/city/city-of-or/mines-of-or.md)
+            -  [Dolgrin Embervein](/geography/settlement/city/city-of-or/local/dolgrin-embervein.md)
+            -  [Dottie Copperlocks](/geography/settlement/city/city-of-or/local/dottie-copperlocks.md)
+            -  [Gorgrath The Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md)
+            -  [Harg And Pibble](/geography/settlement/city/city-of-or/local/harg-and-pibble.md)
+            -  [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md)
+            -  [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
+            -  [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)
+              -  [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
+              -  [Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
+              -  [Truth Between The Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
+          - ##### [Mines Of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
           - ##### Shop
-            -  [Runehollow Hall](/location/settlement/city/city-of-or/shop/runehollow-hall.md)
-              -  [Stonfin Dustbinder](/location/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
-            -  [The Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md)
-              -  [Rusty Pluckers](/location/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md)
-              -  [The Mirrorstep](/location/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md)
-            -  [The Cauldron Lottery](/location/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
-              -  [Drip](/location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)
-            -  [The Inkblot Bindery](/location/settlement/city/city-of-or/shop/the-inkblot-bindery.md)
-              -  [Fragment From The Personal Journal Of Dcs](/location/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
-            -  [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)
-              -  [Brother Ienor](/location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
-            -  [The Stable Flask](/location/settlement/city/city-of-or/shop/the-stable-flask.md)
-          - ##### [The Fargash Gambit](/location/settlement/city/city-of-or/the-fargash-gambit.md)
-        - #### [Glimmering Ashenburrow](/location/settlement/city/glimmering-ashenburrow.md)
-          - ##### [Density Calibrator](/location/settlement/city/glimmering-ashenburrow/density-calibrator.md)
-        - #### [Innerhold Heartstead](/location/settlement/city/innerhold-heartstead.md)
-        - #### [Mohinders](/location/settlement/city/mohinders.md)
-          - ##### [Ccma](/location/settlement/city/mohinders/ccma.md)
-          - ##### [Runeswindler](/location/settlement/city/mohinders/runeswindler.md)
-          - ##### [The Obsession Of Vorelith](/location/settlement/city/mohinders/the-obsession-of-vorelith.md)
-        - #### [Quillnibs Handle](/location/settlement/city/quillnibs-handle.md)
-        - #### [Triz Valley](/location/settlement/city/triz-valley.md)
-      - ### [Scholars Rift](/location/settlement/scholars-rift/scholars-rift.md)
-        - #### [Headmasters Roost](/location/settlement/scholars-rift/headmasters-roost.md)
-        - #### [Scholars Rift](/location/settlement/scholars-rift/scholars-rift.md)
-        - #### [The Echo Halls](/location/settlement/scholars-rift/the-echo-halls.md)
-        - #### [The Forbidden Library](/location/settlement/scholars-rift/the-forbidden-library.md)
-        - #### [The Rift Gate](/location/settlement/scholars-rift/the-rift-gate.md)
-        - #### [The Tipping Point](/location/settlement/scholars-rift/the-tipping-point.md)
-        - #### [The Unstable Grounds](/location/settlement/scholars-rift/the-unstable-grounds.md)
-  - # Profession
-    - ## [Concordium Medica](/profession/concordium-medica.md)
-    - ## [Dreamweaving](/profession/dreamweaving.md)
-    - ## [Emberglass Artisan](/profession/emberglass-artisan.md)
-    - ## [Fizzlemancy](/profession/fizzlemancy.md)
-    - ## [Harthrûn Metallurgy](/profession/harthrûn-metallurgy.md)
-    - ## [Hexbit Mechanics](/profession/hexbit-mechanics.md)
-    - ## [Mud Shaper](/profession/mud-shaper.md)
-    - ## [Scroll Binder](/profession/scroll-binder.md)
-    - ## [Tankard Trekkers](/profession/tankard-trekkers.md)
-    - ## [Tuskbreakers](/profession/tuskbreakers.md)
+            -  [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
+              -  [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
+            -  [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)
+              -  [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md)
+              -  [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md)
+            -  [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
+              -  [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)
+            -  [The Inkblot Bindery](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery.md)
+              -  [Fragment From The Personal Journal Of Dcs](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
+            -  [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
+              -  [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
+            -  [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md)
+          - ##### [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
+        - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
+          - ##### [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
+        - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
+        - #### [Mohinders](/geography/settlement/city/mohinders.md)
+          - ##### [Ccma](/geography/settlement/city/mohinders/ccma.md)
+          - ##### [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
+          - ##### [The Obsession Of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
+        - #### [Quillnibs Handle](/geography/settlement/city/quillnibs-handle.md)
+        - #### [Triz Valley](/geography/settlement/city/triz-valley.md)
+      - ### Enclave
+        - #### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
+          - ##### [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md)
+          - ##### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
+          - ##### [The Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md)
+          - ##### [The Forbidden Library](/geography/settlement/enclave/scholars-rift/the-forbidden-library.md)
+          - ##### [The Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md)
+          - ##### [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md)
+          - ##### [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md)
   - # Structure
     - ## Chronological
       - ### [Calendar](/structure/chronological/calendar.md)
@@ -161,6 +147,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Manifestation](/structure/chronological/event/manifestation.md)
         - #### [The Collapse](/structure/chronological/event/the-collapse.md)
     - ## Mechanic
+      - ### Class
+        - #### Sorcerer
+          - ##### Subclass
+            -  [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md)
       - ### Condition
         - #### [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
       - ### [Deity](/structure/mechanic/deity.md)
@@ -187,5 +177,16 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
       - ### Group
         - #### [Scalebound Strays](/structure/social/group/scalebound-strays.md)
+      - ### Profession
+        - #### [Concordium Medica](/structure/social/profession/concordium-medica.md)
+        - #### [Dreamweaving](/structure/social/profession/dreamweaving.md)
+        - #### [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
+        - #### [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
+        - #### [Harthrûn Metallurgy](/structure/social/profession/harthrûn-metallurgy.md)
+        - #### [Hexbit Mechanics](/structure/social/profession/hexbit-mechanics.md)
+        - #### [Mud Shaper](/structure/social/profession/mud-shaper.md)
+        - #### [Scroll Binder](/structure/social/profession/scroll-binder.md)
+        - #### [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
+        - #### [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
   - # Wip
     - ## [Cirxa](/wip/cirxa.md)

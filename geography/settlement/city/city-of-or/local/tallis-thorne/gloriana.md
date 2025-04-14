@@ -10,7 +10,7 @@ dateCreated: 2025-04-04T12:55:49.420Z
 
 ---
 title: Item: Gloriana
-description: Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
+description: Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)
 published: 1
 date: 2025-04-04T20:36:41.948Z
 tags: item
@@ -19,7 +19,7 @@ dateCreated: 2025-04-04T12:55:49.420Z
 ---
 
 ## **Gloriana**  
-*Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to [Tallis Thorne](/location/settlement/city/city-of-or/local/tallis-thorne.md)*
+*Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*
 
 Gloriana is a radiant twelve-string lyre-harp of rare craftsmanship, her frame forged from golden wood that hums faintly when no one listens. Her strings glisten with a soft light that shifts in colour and intensity based on the emotional truth behind the music. When Tallis sings praises of himself, she glows in theatrical delight; when he performs in grief or sincerity, her tone deepens, revealing echoes far older than the bard himself.
 

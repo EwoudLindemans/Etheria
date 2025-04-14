@@ -13,7 +13,7 @@ dateCreated: 2025-03-31T20:52:30.018Z
 ## Overview
 **Coalwalk Row** is a rugged residential and working-class district carved into the mountainside above The Deepforge. Once a hub of miner housing, it has evolved into a **multi-racial, low-cost quarter** known for its resilience, loud street life, and unpretentious charm.
 
-It borders both [Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md) and The Hearthring, and is a critical zone for cultural interaction within the [City of Or](/location/settlement/city/city-of-or.md).
+It borders both [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md) and The Hearthring, and is a critical zone for cultural interaction within the [City of Or](/geography/settlement/city/city-of-or.md).
 
 ## Character
 - **Vibe:** Loud, lived-in, and hard-working  
@@ -30,7 +30,7 @@ Buildings are carved from layered stone and reinforced with scavenged forge iron
 
 ## Relationship with Other Districts
 - **Hearthring:** Many Coalwalkers commute here for work and drink  
-- **[Gutterbrew Alley](/location/settlement/city/city-of-or/district/gutterbrew-alley.md):** Considered someone else’s problem, but secretly beloved  
+- **[Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md):** Considered someone else’s problem, but secretly beloved  
 - **Spillway:** Supplies most of its workers; the two districts have a love–grumble relationship
 
 ## Notable Locations

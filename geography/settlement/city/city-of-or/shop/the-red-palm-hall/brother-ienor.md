@@ -13,14 +13,14 @@ dateCreated: 2025-04-06T20:52:21.213Z
 **Full Title:** Brother Ienor of the Woven Vein  
 **Race:** Elf  
 **Affiliation:** Order of the Woven Vein  
-**Role:** Lead Healer of [The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)  
-**Residence:** Stonehollow District, The [City of Or](/location/settlement/city/city-of-or.md)  
+**Role:** Lead Healer of [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)  
+**Residence:** Stonehollow District, The [City of Or](/geography/settlement/city/city-of-or.md)  
 **Notable Traits:** Celibate, strikingly handsome, ancient calm, unshakably kind  
 **Nickname(s):** "The Palm of Mercy" (colloquial), "The Saint Who Blushes Not" (poetic)
 
 ## Overview
 
-Brother Ienor is the serene and widely beloved elven healer who leads **[The Red Palm Hall](/location/settlement/city/city-of-or/shop/the-red-palm-hall.md)**, the sanctuary of the **Order of the Woven Vein** in the **[City of Or](/location/settlement/city/city-of-or.md)**. He has devoted his life to alleviating suffering—not through grandeur, but through quiet acts of grace. Despite his dignified age and divine aura, it is his tender presence that most remember. 
+Brother Ienor is the serene and widely beloved elven healer who leads **[The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)**, the sanctuary of the **Order of the Woven Vein** in the **[City of Or](/geography/settlement/city/city-of-or.md)**. He has devoted his life to alleviating suffering—not through grandeur, but through quiet acts of grace. Despite his dignified age and divine aura, it is his tender presence that most remember. 
 
 Many Orfolk joke that Ienor’s presence alone can slow a fever and that more than a few mild injuries have been suspiciously exaggerated just to be seen by him.
 
@@ -52,7 +52,7 @@ He is often seen late into the night, tending to patients others have given up o
 
 ## Connection to Sylieth
 
-When **[Miss Terry](/being/character/miss-terry.md)** discovered a Tiefling urchin named **[Sylieth](/being/character/sylieth.md)**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to [Etheria](/etheria.md).
+When **[Miss Terry](/being/character/miss-terry.md)** discovered a Tiefling urchin named **[Sylieth](/being/character/sylieth.md)**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to [Etheria](/geography/cosmology/etheria.md).
 
 He supported [Sylieth](/being/character/sylieth.md)’s path, even when others viewed it as heretical or misguided. To Ienor, the shape of faith matters less than the healing it brings. He has remained a steady mentor in Sylieth’s life, guiding without controlling, and protecting without smothering.
 
@@ -74,4 +74,4 @@ Brother Ienor has never confirmed or denied any of these tales. When asked direc
 
 - *“If pain is a wound, kindness is the bandage. If suffering is a river, compassion is the bridge.”*
 - *“Let them laugh, if it eases their burden. Healing begins in many strange places.”*
-- *“I do not serve a god of [Etheria](/etheria.md). I serve the ache in every breath, the wound in every soul. That is enough.”*
+- *“I do not serve a god of [Etheria](/geography/cosmology/etheria.md). I serve the ache in every breath, the wound in every soul. That is enough.”*

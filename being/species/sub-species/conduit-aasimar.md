@@ -12,7 +12,7 @@ dateCreated: 2025-03-21T20:04:39.819Z
 
 ![conduit-aasimar.webp](/world/conduit-aasimar.webp =500x)
 
-**Divine envoys and living echoes of belief, Conduit Aasimar serve as the will of their patron [deity](/structure/mechanic/deity.md) while resonating with the shifting faiths of [Etheria](/etheria.md).** Unlike other aasimar, who are permanently tied to a celestial influence, Conduits act as **living anchors** for deities, ensuring their presence lingers even as faith fluctuates.  
+**Divine envoys and living echoes of belief, Conduit Aasimar serve as the will of their patron [deity](/structure/mechanic/deity.md) while resonating with the shifting faiths of [Etheria](/geography/cosmology/etheria.md).** Unlike other aasimar, who are permanently tied to a celestial influence, Conduits act as **living anchors** for deities, ensuring their presence lingers even as faith fluctuates.  
 
 Each Conduit Aasimar has **one primary patron [deity](/structure/mechanic/deity.md)**, but their connection to the divine allows them to **sense and harmonize with active deities in the region**. This makes them **diplomats of the gods**, uniquely attuned to the changing will of the people.  
 
@@ -23,7 +23,7 @@ Your **Charisma** score increases by **2**, and your **Wisdom** score increases 
 You are a bridge between the mortal and divine, amplifying the presence of your patron and detecting divine shifts.  
 
 - You can communicate simple concepts, emotions, or intentions to any **celestial, fiend, or fey**, even if you do not share a language. This does not allow direct conversation but conveys intent.  
-- After a **1-minute meditation**, you can sense whether there is an **active** or **imprinted [deity](/structure/mechanic/deity.md)** within the [Scale](/location/scale.md). You do not automatically know their identity unless they **share a domain** with your patron or you have encountered them before.  
+- After a **1-minute meditation**, you can sense whether there is an **active** or **imprinted [deity](/structure/mechanic/deity.md)** within the [Scale](/geography/scale.md). You do not automatically know their identity unless they **share a domain** with your patron or you have encountered them before.  
 
 ## **Self-Reflect**  
 At the end of a **long rest**, you must **meditate and reaffirm your connection to your patron [deity](/structure/mechanic/deity.md)**.  

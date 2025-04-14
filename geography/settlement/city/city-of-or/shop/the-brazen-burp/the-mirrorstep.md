@@ -13,7 +13,7 @@ dateCreated: 2025-04-03T21:36:45.104Z
 
 ## A Discord Beneath the Song
 
-When [Nokk](/being/character/nokk.md) visited [the Brazen Burp](/location/settlement/city/city-of-or/shop/the-brazen-burp.md), he expected drink and noise, not unraveling [magic](/structure/mechanic/magic.md). But from the moment he heard **[Miss Terry](/being/character/miss-terry.md)** perform, something felt off. Her voice still held its power—capable of rousing cheers or silencing a crowd—but underneath every note was a subtle instability. The chords stretched just a bit too far, like something inside her was pulling against the fabric of the world itself.
+When [Nokk](/being/character/nokk.md) visited [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md), he expected drink and noise, not unraveling [magic](/structure/mechanic/magic.md). But from the moment he heard **[Miss Terry](/being/character/miss-terry.md)** perform, something felt off. Her voice still held its power—capable of rousing cheers or silencing a crowd—but underneath every note was a subtle instability. The chords stretched just a bit too far, like something inside her was pulling against the fabric of the world itself.
 
 ## The Rift Below
 
@@ -53,6 +53,6 @@ Though [Vexyrra](/being/deity/vexyrra.md) remained behind, something of it linge
 
 ## A Song Yet Unfinished
 
-Across [Etheria](/etheria.md), others began to feel something similar. A [resonance](/structure/mechanic/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
+Across [Etheria](/geography/cosmology/etheria.md), others began to feel something similar. A [resonance](/structure/mechanic/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
 
 And it remembers where it came from.

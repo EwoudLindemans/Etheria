@@ -14,11 +14,11 @@ dateCreated: 2025-04-06T19:51:10.288Z
 
 ![cirxa.webp](/characters/cirxa.webp =500x)
 
-In the mist-drenched corridors of [Arkona](/location/settlement/city/arkona.md), where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed Broker**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
+In the mist-drenched corridors of [Arkona](/geography/settlement/city/arkona.md), where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed Broker**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
 
 ## Origins in Unrecorded Ink
 
-Cirxa claims to hail from a forgotten settlement called **Ossinreach**, which, naturally, no one can seem to find on any map. Scholars from [Scholar’s Rift](/location/settlement/scholars-rift/scholars-rift.md) argue that it might be a temporal echo—a village that exists only at midnight under a waxing moon. Others suggest she simply made it up to mess with historians, and frankly, that seems likely.
+Cirxa claims to hail from a forgotten settlement called **Ossinreach**, which, naturally, no one can seem to find on any map. Scholars from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) argue that it might be a temporal echo—a village that exists only at midnight under a waxing moon. Others suggest she simply made it up to mess with historians, and frankly, that seems likely.
 
 Her appearance is a paradox of elegance and dread: ash-gray skin, hair like unraveling silk, and eyes replaced with two flickering, sentient candleflames. The flames never burn out, and those who stare into them too long often walk away muttering things they never knew they knew. It’s said these flames were a gift from [the Unborn](/being/deity/the-unborn.md)—a [deity](/structure/mechanic/deity.md) who carved her destiny using wax instead of fate.
 
@@ -32,9 +32,9 @@ Her most infamous deal involved selling a silence so deep it consumed a city’s
 
 ## Role in Etheria
 
-Cirxa acts as a neutral agent between factions like **The [Arcane Fangs](/structure/social/factions/arcane-fangs.md)** and the **Council of Elders**. She sells information, occasionally artifacts, and sometimes entire destinies. She has dealings in [Triz Valley](/location/settlement/city/triz-valley.md), where she is persona non grata after a rather inconvenient prophecy-fulfilling incident involving an aggressive potato cult and a misunderstood tomato festival.
+Cirxa acts as a neutral agent between factions like **The [Arcane Fangs](/structure/social/factions/arcane-fangs.md)** and the **Council of Elders**. She sells information, occasionally artifacts, and sometimes entire destinies. She has dealings in [Triz Valley](/geography/settlement/city/triz-valley.md), where she is persona non grata after a rather inconvenient prophecy-fulfilling incident involving an aggressive potato cult and a misunderstood tomato festival.
 
-Even the [Ragged Goons](/structure/social/factions/ragged-goons.md) have approached her for [scale](/location/scale.md) fragments, only to be rebuffed with a smile and the words: "You couldn't afford the truth even if you sold your future twice."
+Even the [Ragged Goons](/structure/social/factions/ragged-goons.md) have approached her for [scale](/geography/scale.md) fragments, only to be rebuffed with a smile and the words: "You couldn't afford the truth even if you sold your future twice."
 
 ## Personality
 
@@ -45,7 +45,7 @@ She prefers shadowy corners, warm tea, and riddles with no correct solution. Her
 ---
 
 ## Strange Rumors:
-- Some say Cirxa *is* a [scale](/location/scale.md) fragment given life.
+- Some say Cirxa *is* a [scale](/geography/scale.md) fragment given life.
 - Others believe her candle-eyes see through time and that she weeps wax only when someone she’s met dies.
 - It’s whispered that she keeps a ledger of the world’s last secrets—and there’s only one page left.
 

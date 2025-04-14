@@ -22,7 +22,7 @@ The Uroxi live in vast caverns cradled within hollow crystals, where ambient glo
 
 Culturally, they believe that **light is inherited**, passed from action to action like a flame across candles. Uroxi are trained in “Lightbinding,” an art that lets them store, reflect, and shape light for practical, ceremonial, or defensive purposes. Their warriors, called **Glowshapers**, wield weapons infused with their own stored light, bending beams into hardened force or searing arcs.
 
-They are often employed by surface settlements like [Triz Valley](/location/settlement/city/triz-valley.md) and The [City of Or](/location/settlement/city/city-of-or.md) as tunnel guides, ruin-scanners, or luminous pathmakers in regions where traditional light sources fail or feed dangerous fauna.
+They are often employed by surface settlements like [Triz Valley](/geography/settlement/city/triz-valley.md) and The [City of Or](/geography/settlement/city/city-of-or.md) as tunnel guides, ruin-scanners, or luminous pathmakers in regions where traditional light sources fail or feed dangerous fauna.
 
 Despite their subterranean lifestyle, the Uroxi are curious, humorous, and stubbornly optimistic. They have a saying etched into the arches of Zhay-Phorran:
 

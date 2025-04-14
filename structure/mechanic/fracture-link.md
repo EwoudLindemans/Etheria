@@ -40,5 +40,5 @@ A Fracture Link is **predictable, stable, and reciprocal**. It is not emotional.
 ### Theoretical Implications
 Some scholars believe Fracture Links may be key to understanding the deeper structure of the fractured weave—how [resonance](/structure/mechanic/resonance.md) flows not only between places and scales, but between possible selves. The more stable the link, the closer a being may draw toward convergence with their potential forms. The link might be more than just between echoes.
 
-Fracture Links are studied, measured, and monitored by arcane theorists across [Etheria](/etheria.md)—but few can replicate one without risking collapse. They remain rare, powerful, and deeply entwined with the events of [the Mirrorstep](/location/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md).
+Fracture Links are studied, measured, and monitored by arcane theorists across [Etheria](/geography/cosmology/etheria.md)—but few can replicate one without risking collapse. They remain rare, powerful, and deeply entwined with the events of [the Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md).
 
