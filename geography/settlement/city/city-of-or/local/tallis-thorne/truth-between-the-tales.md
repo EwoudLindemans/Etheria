@@ -2,6 +2,16 @@
 title: Background: The Truth Between the Tales
 description: Actual background information about Tallis
 published: 1
+date: 2025-04-14T21:32:24.645Z
+tags: 
+editor: markdown
+dateCreated: 2025-04-04T13:19:13.463Z
+---
+
+---
+title: Background: The Truth Between the Tales
+description: Actual background information about Tallis
+published: 1
 date: 2025-04-04T21:58:17.282Z
 tags: 
 editor: markdown

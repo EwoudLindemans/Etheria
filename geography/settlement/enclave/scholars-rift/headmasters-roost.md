@@ -2,7 +2,7 @@
 title: Headmasters Roost
 description: 
 published: 1
-date: 2025-04-02T22:36:49.166Z
+date: 2025-04-14T21:30:36.398Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:23:20.594Z

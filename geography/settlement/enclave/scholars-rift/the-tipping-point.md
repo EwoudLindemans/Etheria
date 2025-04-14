@@ -2,7 +2,7 @@
 title: The Tipping Point
 description: 
 published: 1
-date: 2025-04-02T22:36:53.687Z
+date: 2025-04-14T21:30:30.357Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-05T00:12:14.041Z

@@ -2,7 +2,7 @@
 title: The Fargash Gambit
 description: 
 published: 1
-date: 2025-04-02T20:35:38.737Z
+date: 2025-04-14T21:31:55.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T20:54:14.479Z

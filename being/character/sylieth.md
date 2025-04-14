@@ -2,7 +2,7 @@
 title: Sylieth
 description: 
 published: 1
-date: 2025-04-06T20:39:15.124Z
+date: 2025-04-14T21:32:33.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T19:52:09.659Z

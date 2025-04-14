@@ -2,7 +2,7 @@
 title: Karmic Slap
 description: 
 published: 1
-date: 2025-04-01T22:30:22.259Z
+date: 2025-04-14T21:31:39.824Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T23:55:28.904Z

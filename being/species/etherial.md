@@ -2,7 +2,7 @@
 title: Etherials
 description: 
 published: 1
-date: 2025-04-01T22:56:15.489Z
+date: 2025-04-14T21:30:18.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T18:04:48.841Z

@@ -2,7 +2,7 @@
 title: Paradoxical Roll
 description: 
 published: 1
-date: 2025-04-02T22:37:02.787Z
+date: 2025-04-14T21:31:32.197Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:44:10.632Z

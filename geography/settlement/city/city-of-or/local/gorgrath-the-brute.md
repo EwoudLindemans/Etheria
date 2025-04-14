@@ -2,7 +2,7 @@
 title: Gorgrath the Brute
 description: Gorgath the Brute, the Orcish Barbarian
 published: 1
-date: 2025-04-02T20:35:31.111Z
+date: 2025-04-14T21:29:43.362Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:08:41.580Z

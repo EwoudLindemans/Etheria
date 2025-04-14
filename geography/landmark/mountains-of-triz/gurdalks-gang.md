@@ -2,7 +2,7 @@
 title: Gurdalk's Gang
 description: 
 published: 1
-date: 2025-04-02T22:03:45.675Z
+date: 2025-04-14T21:32:10.806Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T21:33:46.916Z

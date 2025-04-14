@@ -2,8 +2,8 @@
 title: Berrun Dimmabrow
 description: A steady hand and a knowing smile among the stonebound streets
 published: 1
-date: 2025-04-10T19:34:11.429Z
-tags: dwarf, guard
+date: 2025-04-14T21:32:53.700Z
+tags: guard, dwarf
 editor: markdown
 dateCreated: 2025-04-09T13:51:34.697Z
 ---
