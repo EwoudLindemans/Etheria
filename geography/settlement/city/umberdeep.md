@@ -2,7 +2,7 @@
 title: Umberdeep
 description: 
 published: 1
-date: 2025-04-15T20:29:38.060Z
+date: 2025-04-15T20:36:50.156Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T20:29:38.060Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-15T20:29:38.060Z
 # Umberdeep
 *Burrowed Cradle of the [Uroxi](/being/species/uroxi.md)*
 
-![Umberdeep](assets_task_01jrxhq0fpeahtavh333yqm6v0_img_0.webp)
+![umberdeep.webp](/world/umberdeep.webp =500x)
 
 Beneath ten thousand tons of silence, where the weight of the world presses down like the grip of a god, there lies **Umberdeep**—the sacred subterranean city of the [Uroxi](/being/species/uroxi.md). More than just shelter, it is a memory carved into stone and root, a living monument to survival, unity, and stubborn defiance.
 
