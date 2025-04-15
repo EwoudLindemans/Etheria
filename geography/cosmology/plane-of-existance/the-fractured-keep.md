@@ -69,6 +69,6 @@ Others speculate the **[Ragged Goons](/structure/social/factions/ragged-goons.md
 **Rumors from the Borders:**
 
 - A minor [deity](/structure/mechanic/deity.md) of decay is said to have found a way to *walk backwards through domains*, leaving no trace.
-- [Cirxa](/wip/cirxa.md) once traded a [scale](/geography/landmark/scale.md) fragment for the right to “blink” across three domains undetected—for reasons unknown.
+- [Cirxa](/being/character/cirxa.md) once traded a [scale](/geography/landmark/scale.md) fragment for the right to “blink” across three domains undetected—for reasons unknown.
 - The Phrastic Isle once swallowed an entire mortal army for misusing a metaphor.
 

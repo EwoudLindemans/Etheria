@@ -15,6 +15,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
     - ## Animal
       - ### [Snail](/being/animal/snail.md)
     - ## Character
+      - ### [Cirxa](/being/character/cirxa.md)
       - ### [Jarvey](/being/character/jarvey.md)
       - ### [Matt](/being/character/matt.md)
       - ### [Miss Terry](/being/character/miss-terry.md)
@@ -131,6 +132,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - ##### [The Obsession Of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
         - #### [Quillnibs Handle](/geography/settlement/city/quillnibs-handle.md)
         - #### [Triz Valley](/geography/settlement/city/triz-valley.md)
+        - #### [Umberdeep](/geography/settlement/city/umberdeep.md)
       - ### Enclave
         - #### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
           - ##### [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md)
@@ -188,5 +190,3 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Scroll Binder](/structure/social/profession/scroll-binder.md)
         - #### [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
         - #### [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
-  - # Wip
-    - ## [Cirxa](/wip/cirxa.md)
