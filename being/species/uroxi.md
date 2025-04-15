@@ -2,7 +2,7 @@
 title: The Uroxi
 description: 
 published: 1
-date: 2025-04-14T21:33:19.052Z
+date: 2025-04-15T20:32:55.150Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T21:34:07.367Z
@@ -18,7 +18,7 @@ An Uroxi's form is short and stocky, built to navigate collapsed tunnel systems 
 
 Their hair, when present, grows in thick tendrils resembling translucent kelp or glassy moss, often woven into **light-ritual braids** that track significant events or personal oaths. Many surfacefolk assume they are constructs or alchemical hybrids, but Uroxi are entirely biological—just deeply altered by their luminous environment.
 
-The Uroxi live in vast caverns cradled within hollow crystals, where ambient glowstone provides constant dim warmth. Their capital, **Zhay-Phorran**, is an inverted city—hanging from the ceiling like a nest of glass lanterns. Its citizens traverse its winding paths by magnetized boots, slow leaps, and gentle gliding lifts carved from buoyant fungus bladders.
+The Uroxi dwell in immense caverns nestled within the bones of hollow crystal formations, where veins of ambient glowstone emit a steady, gentle warmth that never fades. Their capital, **Umberdeep**, is not merely a city—it is a **burrowed bastion**, carved layer by layer into the earth’s embrace, a living archive of endurance and stonebound memory.
 
 Culturally, they believe that **light is inherited**, passed from action to action like a flame across candles. Uroxi are trained in “Lightbinding,” an art that lets them store, reflect, and shape light for practical, ceremonial, or defensive purposes. Their warriors, called **Glowshapers**, wield weapons infused with their own stored light, bending beams into hardened force or searing arcs.
 
