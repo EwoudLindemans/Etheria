@@ -2,7 +2,7 @@
 title: Umberdeep
 description: 
 published: 1
-date: 2025-04-15T20:36:50.156Z
+date: 2025-04-15T20:39:38.755Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T20:29:38.060Z
@@ -36,7 +36,7 @@ Still, it’s no sanctuary for the soft. The earth here remembers tremors. And s
 
 ## Notable Lore
 
-- Umberdeep is believed to have been founded not long after the first **Great Collapse**, when the surface above fractured and bled light down into the underdeeps.
+- Umberdeep is believed to have been founded not long after **the Collapse**, when the surface above fractured and bled light down into the underdeeps.
 - According to [Uroxi](/being/species/uroxi.md) myth, the cavern was discovered by **Gharr the Solehorn**, a hermit-warrior who followed the [resonance](/structure/mechanic/resonance.md) of a broken spear into the stone and emerged into the hollow days later with glowing eyes and a map made of bone.
 
 **To live in Umberdeep is not to hide from the world, but to live where the world cannot reach you.**
