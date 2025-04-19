@@ -2,7 +2,7 @@
 title: Miss Terry
 description: Or as everyone says, Mystery.
 published: 1
-date: 2025-04-14T21:31:42.992Z
+date: 2025-04-19T19:54:40.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
@@ -15,7 +15,7 @@ dateCreated: 2025-03-29T19:39:09.285Z
 
 Few names in The [City of Or](/geography/settlement/city/city-of-or.md) carry as much simultaneous reverence and bewilderment as Miss Terry, the jolly Tiefling bard of [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md). She is often called “Mystery” by those slurring their words too hard to get it right. To call her simply a performer would be a grave understatement—she is the heart of the tavern, the spark that keeps its fire burning, and the unsolvable riddle that keeps its regulars guessing.
 
-Among [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)’s regulars, Miss Terry is a revered figure. Many an outsider has learned that any insult directed at her will earn  a reputation so tarnished that no tavern in The [City of Or](/geography/settlement/city/city-of-or.md) will serve them again. Yet, for all their fierce loyalty, Miss Terry needs no protection. Those who mistake her for helpless quickly find themselves on the receiving end of a sharp tongue, sharper wit, and if needed, a perfectly thrown tankard. Still, she humors her self-appointed guardians, accepting their watchful eyes with a knowing smirk. After all, a queen must have her devoted subjects.
+Among [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)’s regulars, Miss Terry is a revered figure. Many an outsider has learned that any insult directed at her will earn  a reputation so tarnished that no  tavern in The [City of Or](/geography/settlement/city/city-of-or.md) will serve them again. Yet, for all their fierce loyalty, Miss Terry needs no protection. Those who mistake her for helpless quickly find themselves on the receiving end of a sharp tongue, sharper wit, and if needed, a perfectly thrown tankard. Still, she humors her self-appointed guardians, accepting their watchful eyes with a knowing smirk. After all, a queen must have her devoted subjects.
 
 She occasionaly works the taproom at the Rusty Keg in [Triz Valley](/geography/settlement/city/triz-valley.md).
 
