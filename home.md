@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
 # Wiki Index
+  - # [Home](/home.md)
   - # Being
     - ## Ancient
       - ### [Demeriun](/being/ancient/demeriun.md)
@@ -26,7 +27,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
         - #### [Threadbare](/being/character/sylieth/threadbare.md)
       - ### [Varnwick](/being/character/varnwick.md)
-    - ## [Deity](/structure/mechanic/deity.md)
+    - ## Deity
       - ### [Aelfar](/being/deity/aelfar.md)
       - ### [Aelyria](/being/deity/aelyria.md)
       - ### [Aurelthys](/being/deity/aurelthys.md)
@@ -46,9 +47,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Iridian](/being/species/iridian.md)
       - ### [Kavrethul](/being/species/kavrethul.md)
       - ### [Merinari](/being/species/merinari.md)
+      - ### [Uroxi](/being/species/uroxi.md)
       - ### Sub Species
         - #### [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
-      - ### [Uroxi](/being/species/uroxi.md)
     - ## Titan
       - ### [Anemostrus](/being/titan/anemostrus.md)
       - ### [Gor Thuun](/being/titan/gor-thuun.md)
@@ -82,21 +83,23 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Arkona](/geography/settlement/city/arkona.md)
         - #### [City Of Or](/geography/settlement/city/city-of-or.md)
           - ##### [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
-          - ##### Consumable
-            -  [Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
-            -  [Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
           - ##### [Council Of Or](/geography/settlement/city/city-of-or/council-of-or.md)
-          - ##### District
-            -  [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
-            -  [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
-            -  [Passage Of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
-            -  [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
           - ##### [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
           - ##### [Guard Of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
             -  [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
             -  [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
           - ##### [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
             -  [The Codex Of The Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
+          - ##### [Mines Of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
+          - ##### [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
+          - ##### Consumable
+            -  [Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
+            -  [Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
+          - ##### District
+            -  [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
+            -  [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
+            -  [Passage Of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
+            -  [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
           - ##### Local
             -  [Dolgrin Embervein](/geography/settlement/city/city-of-or/local/dolgrin-embervein.md)
             -  [Dottie Copperlocks](/geography/settlement/city/city-of-or/local/dottie-copperlocks.md)
@@ -108,7 +111,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
               -  [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
               -  [Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
               -  [Truth Between The Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
-          - ##### [Mines Of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
           - ##### Shop
             -  [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
               -  [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
@@ -122,7 +124,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
             -  [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
               -  [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
             -  [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md)
-          - ##### [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
         - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
           - ##### [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
         - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
@@ -134,7 +135,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Triz Valley](/geography/settlement/city/triz-valley.md)
         - #### [Umberdeep](/geography/settlement/city/umberdeep.md)
       - ### Enclave
-        - #### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
+        - #### Scholars Rift
           - ##### [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md)
           - ##### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
           - ##### [The Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md)
@@ -149,26 +150,26 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Manifestation](/structure/chronological/event/manifestation.md)
         - #### [The Collapse](/structure/chronological/event/the-collapse.md)
     - ## Mechanic
-      - ### Class
-        - #### Sorcerer
-          - ##### Subclass
-            -  Arcane [Resonance](/structure/mechanic/resonance.md)
-      - ### Condition
-        - #### [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
       - ### [Deity](/structure/mechanic/deity.md)
-      - ### Dice
-        - #### [Carefull](/structure/mechanic/dice/carefull.md)
-        - #### [Epic](/structure/mechanic/dice/epic.md)
-        - #### [Paradoxal Recoil](/structure/mechanic/dice/paradoxal-recoil.md)
       - ### [Fracture Link](/structure/mechanic/fracture-link.md)
       - ### [Glimmer Drift](/structure/mechanic/glimmer-drift.md)
       - ### [Magic](/structure/mechanic/magic.md)
       - ### [Resonance](/structure/mechanic/resonance.md)
+      - ### Condition
+        - #### [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
+      - ### Dice
+        - #### [Carefull](/structure/mechanic/dice/carefull.md)
+        - #### [Epic](/structure/mechanic/dice/epic.md)
+        - #### [Paradoxal Recoil](/structure/mechanic/dice/paradoxal-recoil.md)
+      - ### Class
+        - #### Sorcerer
+          - ##### Subclass
+            -  [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md)
     - ## Social
       - ### Factions
         - #### [Arcane Fangs](/structure/social/factions/arcane-fangs.md)
         - #### [Cult Of Dy](/structure/social/factions/cult-of-dy.md)
-        - #### Followers Of [Irion](/being/deity/irion.md)
+        - #### [Followers Of Irion](/structure/social/factions/followers-of-irion.md)
         - #### [Ragged Goons](/structure/social/factions/ragged-goons.md)
           - ##### [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
           - ##### [The Bone Marshal](/structure/social/factions/ragged-goons/the-bone-marshal.md)
