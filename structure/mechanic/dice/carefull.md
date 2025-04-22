@@ -2,7 +2,7 @@
 title: Carefull Roll
 description: 
 published: 1
-date: 2025-04-14T21:31:33.698Z
+date: 2025-04-22T00:58:16.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T21:52:25.479Z
@@ -13,7 +13,7 @@ dateCreated: 2025-03-23T21:52:25.479Z
 
 ## **Mechanic:**  
 - When rolling an **attack, ability check, or saving throw**, roll **two d20s**.  
-- Choose the result **closest to 10** (favoring the lower number in a tie).  
+- Choose the result **closest to 10** (averaging the number in a tie).  
 
 ## **Effect:**  
 - Reduces extreme **failures** and **successes**, keeping rolls near **the middle range (8-12)**.  
