@@ -1,5 +1,5 @@
 ---
-title: Chronological
+title: Class
 description:
 published: 1
 date: 2025-04-14T21:29:58.893Z
@@ -8,6 +8,5 @@ editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
-# Chronological
-- [Calendar](/structure/chronological/calendar.md)
-- [Event](/structure/chronological/event.md)
+# Class
+- [Sorcerer](/structure/mechanic/class/sorcerer.md)

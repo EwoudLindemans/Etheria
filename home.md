@@ -8,18 +8,13 @@ editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
 # Wiki Index
-  - # Background
-  - # Being
-    - ## Ancient
+  - # [Being](/being.md)
+    - ## [Ancient](/being/ancient.md)
       - ### [Demeriun](/being/ancient/demeriun.md)
       - ### [Zelorei](/being/ancient/zelorei.md)
-    - ## Animal
+    - ## [Animal](/being/animal.md)
       - ### [Snail](/being/animal/snail.md)
-    - ## Character
-      - ### Sylieth
-        - #### [Covenant Of Thalgrin And Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
-        - #### [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
-        - #### [Threadbare](/being/character/sylieth/threadbare.md)
+    - ## [Character](/being/character.md)
       - ### [Cirxa](/being/character/cirxa.md)
       - ### [Jarvey](/being/character/jarvey.md)
       - ### [Matt](/being/character/matt.md)
@@ -27,8 +22,11 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Nokk](/being/character/nokk.md)
       - ### [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
       - ### [Sylieth](/being/character/sylieth.md)
+        - #### [Covenant Of Thalgrin And Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
+        - #### [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
+        - #### [Threadbare](/being/character/sylieth/threadbare.md)
       - ### [Varnwick](/being/character/varnwick.md)
-    - ## Deity
+    - ## [Deity](/being/deity.md)
       - ### [Aelfar](/being/deity/aelfar.md)
       - ### [Aelyria](/being/deity/aelyria.md)
       - ### [Aurelthys](/being/deity/aurelthys.md)
@@ -40,18 +38,18 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Uldur](/being/deity/uldur.md)
       - ### [Vexyrra](/being/deity/vexyrra.md)
       - ### [Xal Zyra](/being/deity/xal-zyra.md)
-    - ## Monster
+    - ## [Monster](/being/monster.md)
       - ### [Invisible Stalker](/being/monster/invisible-stalker.md)
-    - ## Species
-      - ### Sub Species
-        - #### [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
+    - ## [Species](/being/species.md)
       - ### [Etherial](/being/species/etherial.md)
       - ### [Graith](/being/species/graith.md)
       - ### [Iridian](/being/species/iridian.md)
       - ### [Kavrethul](/being/species/kavrethul.md)
       - ### [Merinari](/being/species/merinari.md)
+      - ### [Sub Species](/being/species/sub-species.md)
+        - #### [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
       - ### [Uroxi](/being/species/uroxi.md)
-    - ## Titan
+    - ## [Titan](/being/titan.md)
       - ### [Anemostrus](/being/titan/anemostrus.md)
       - ### [Gor Thuun](/being/titan/gor-thuun.md)
       - ### [Obelion](/being/titan/obelion.md)
@@ -60,52 +58,46 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Skul Kruk](/being/titan/skul-kruk.md)
       - ### [Vorr Gul](/being/titan/vorr-gul.md)
       - ### [Zephiryx](/being/titan/zephiryx.md)
-  - # Classes
-    - ## Subclasses
-  - # Creatures
-  - # Fonts
-  - # Geography
-    - ## Cosmology
-      - ### Plane Of Existance
+  - # [Geography](/geography.md)
+    - ## [Cosmology](/geography/cosmology.md)
+      - ### [Etheria](/geography/cosmology/etheria.md)
+      - ### [Plane Of Existance](/geography/cosmology/plane-of-existance.md)
         - #### [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
         - #### [The Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md)
-      - ### [Etheria](/geography/cosmology/etheria.md)
-    - ## Landmark
-      - ### Mountains Of Triz
+    - ## [Landmark](/geography/landmark.md)
+      - ### [Mountains Of Triz](/geography/landmark/mountains-of-triz.md)
         - #### [Gurdalks Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
-      - ### Scale
+      - ### [Scale](/geography/landmark/scale.md)
         - #### [Armour Of Or](/geography/landmark/scale/armour-of-or.md)
         - #### [Asara Plate](/geography/landmark/scale/asara-plate.md)
         - #### [Bates Lamina](/geography/landmark/scale/bates-lamina.md)
         - #### [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)
         - #### [Ornite Ring](/geography/landmark/scale/ornite-ring.md)
         - #### [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
-      - ### [Mountains Of Triz](/geography/landmark/mountains-of-triz.md)
-      - ### [Scale](/geography/landmark/scale.md)
       - ### [The Well](/geography/landmark/the-well.md)
-    - ## Region
+    - ## [Region](/geography/region.md)
       - ### [Verdant Divide](/geography/region/verdant-divide.md)
-    - ## Settlement
-      - ### City
-        - #### City Of Or
-          - ##### Consumable
+    - ## [Settlement](/geography/settlement.md)
+      - ### [City](/geography/settlement/city.md)
+        - #### [Arkona](/geography/settlement/city/arkona.md)
+        - #### [City Of Or](/geography/settlement/city/city-of-or.md)
+          - ##### [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
+          - ##### [Consumable](/geography/settlement/city/city-of-or/consumable.md)
             -  [Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
             -  [Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
-          - ##### District
+          - ##### [Council Of Or](/geography/settlement/city/city-of-or/council-of-or.md)
+          - ##### [District](/geography/settlement/city/city-of-or/district.md)
             -  [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
             -  [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
             -  [Passage Of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
             -  [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
-          - ##### Guard Of Or
+          - ##### [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
+          - ##### [Guard Of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
             -  [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
             -  [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
-          - ##### Heartforge
+          - ##### [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
             -  [The Codex Of The Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
-          - ##### Local
-            -  Tallis Thorne
-              -  [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
-              -  [Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
-              -  [Truth Between The Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
+          - ##### [Local](/geography/settlement/city/city-of-or/local.md)
             -  [Dolgrin Embervein](/geography/settlement/city/city-of-or/local/dolgrin-embervein.md)
             -  [Dottie Copperlocks](/geography/settlement/city/city-of-or/local/dottie-copperlocks.md)
             -  [Gorgrath The Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md)
@@ -113,47 +105,36 @@ dateCreated: 2022-01-24T15:40:43.899Z
             -  [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md)
             -  [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
             -  [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)
-          - ##### Shop
-            -  Runehollow Hall
+              -  [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
+              -  [Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
+              -  [Truth Between The Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
+          - ##### [Mines Of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
+          - ##### [Shop](/geography/settlement/city/city-of-or/shop.md)
+            -  [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
               -  [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
-            -  The Brazen Burp
+            -  [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)
               -  [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md)
               -  [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md)
-            -  The Cauldron Lottery
-              -  [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)
-            -  The Inkblot Bindery
-              -  [Fragment From The Personal Journal Of Dcs](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
-            -  The Red Palm Hall
-              -  [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
-            -  [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
-            -  [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)
             -  [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
+              -  [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)
             -  [The Inkblot Bindery](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery.md)
+              -  [Fragment From The Personal Journal Of Dcs](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
             -  [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
+              -  [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
             -  [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md)
-          - ##### [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
-          - ##### [Council Of Or](/geography/settlement/city/city-of-or/council-of-or.md)
-          - ##### [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
-          - ##### [Guard Of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
-          - ##### [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
-          - ##### [Mines Of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
           - ##### [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
-        - #### Glimmering Ashenburrow
+        - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
           - ##### [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
-        - #### Mohinders
+        - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
+        - #### [Mohinders](/geography/settlement/city/mohinders.md)
           - ##### [Ccma](/geography/settlement/city/mohinders/ccma.md)
           - ##### [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
           - ##### [The Obsession Of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
-        - #### [Arkona](/geography/settlement/city/arkona.md)
-        - #### [City Of Or](/geography/settlement/city/city-of-or.md)
-        - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
-        - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
-        - #### [Mohinders](/geography/settlement/city/mohinders.md)
         - #### [Quillnibs Handle](/geography/settlement/city/quillnibs-handle.md)
         - #### [Triz Valley](/geography/settlement/city/triz-valley.md)
         - #### [Umberdeep](/geography/settlement/city/umberdeep.md)
-      - ### Enclave
-        - #### Scholars Rift
+      - ### [Enclave](/geography/settlement/enclave.md)
+        - #### [Scholars Rift](/geography/settlement/enclave/scholars-rift.md)
           - ##### [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md)
           - ##### [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
           - ##### [The Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md)
@@ -161,50 +142,45 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - ##### [The Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md)
           - ##### [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md)
           - ##### [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md)
-  - # Logo
-  - # Music
-  - # Paper
-  - # Professions
-  - # Races
-  - # Structure
-    - ## Chronological
-      - ### Event
+  - # [Home](/home.md)
+  - # [Structure](/structure.md)
+    - ## [Chronological](/structure/chronological.md)
+      - ### [Calendar](/structure/chronological/calendar.md)
+      - ### [Event](/structure/chronological/event.md)
         - #### [Manifestation](/structure/chronological/event/manifestation.md)
         - #### [The Collapse](/structure/chronological/event/the-collapse.md)
-      - ### [Calendar](/structure/chronological/calendar.md)
-    - ## Mechanic
-      - ### Class
-        - #### Sorcerer
-          - ##### Subclass
+    - ## [Mechanic](/structure/mechanic.md)
+      - ### [Class](/structure/mechanic/class.md)
+        - #### [Sorcerer](/structure/mechanic/class/sorcerer.md)
+          - ##### [Subclass](/structure/mechanic/class/sorcerer/subclass.md)
             -  [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md)
-      - ### Condition
+      - ### [Condition](/structure/mechanic/condition.md)
         - #### [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
-      - ### Dice
+      - ### [Deity](/structure/mechanic/deity.md)
+      - ### [Dice](/structure/mechanic/dice.md)
         - #### [Carefull](/structure/mechanic/dice/carefull.md)
         - #### [Epic](/structure/mechanic/dice/epic.md)
         - #### [Paradoxal Recoil](/structure/mechanic/dice/paradoxal-recoil.md)
-      - ### [Deity](/structure/mechanic/deity.md)
       - ### [Fracture Link](/structure/mechanic/fracture-link.md)
       - ### [Glimmer Drift](/structure/mechanic/glimmer-drift.md)
       - ### [Magic](/structure/mechanic/magic.md)
       - ### [Resonance](/structure/mechanic/resonance.md)
-    - ## Social
-      - ### Factions
-        - #### Ragged Goons
+    - ## [Social](/structure/social.md)
+      - ### [Factions](/structure/social/factions.md)
+        - #### [Arcane Fangs](/structure/social/factions/arcane-fangs.md)
+        - #### [Cult Of Dy](/structure/social/factions/cult-of-dy.md)
+        - #### [Followers Of Irion](/structure/social/factions/followers-of-irion.md)
+        - #### [Ragged Goons](/structure/social/factions/ragged-goons.md)
           - ##### [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
           - ##### [The Bone Marshal](/structure/social/factions/ragged-goons/the-bone-marshal.md)
           - ##### [The Crowstrider](/structure/social/factions/ragged-goons/the-crowstrider.md)
           - ##### [The Pale Scholar](/structure/social/factions/ragged-goons/the-pale-scholar.md)
           - ##### [The Rusted Thaumaturge](/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md)
           - ##### [The Scythe Lass](/structure/social/factions/ragged-goons/the-scythe-lass.md)
-        - #### [Arcane Fangs](/structure/social/factions/arcane-fangs.md)
-        - #### [Cult Of Dy](/structure/social/factions/cult-of-dy.md)
-        - #### [Followers Of Irion](/structure/social/factions/followers-of-irion.md)
-        - #### [Ragged Goons](/structure/social/factions/ragged-goons.md)
         - #### [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
-      - ### Group
+      - ### [Group](/structure/social/group.md)
         - #### [Scalebound Strays](/structure/social/group/scalebound-strays.md)
-      - ### Profession
+      - ### [Profession](/structure/social/profession.md)
         - #### [Concordium Medica](/structure/social/profession/concordium-medica.md)
         - #### [Dreamweaving](/structure/social/profession/dreamweaving.md)
         - #### [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
@@ -215,9 +191,3 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Scroll Binder](/structure/social/profession/scroll-binder.md)
         - #### [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
         - #### [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
-  - # World
-    - ## Alloys
-    - ## Ores
-    - ## Profession
-      - ### Emberglass Shaper
-  - # [Home](/home.md)
