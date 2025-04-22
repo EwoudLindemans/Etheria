@@ -13,15 +13,15 @@ dateCreated: 2025-03-12T21:31:42.572Z
 
 ![tuskbreaker.webp](/professions/tuskbreaker.webp =500x)
 
-The **Tuskbreakers** are orcish masters of reclaiming power from the dead, inspired by the legendary Skul’Kruk – The Fossil Crusher. They unearth the colossal remains of long-extinct behemoths and ancient warriors, carving them into brutal weapons and armor infused with the lingering [resonance](/structure/mechanic/resonance.md) of the magical collapse. Unlike mere blacksmiths or enchanters, Tuskbreakers do not simply shape materials—they force the past to fight for the present, wrenching raw power from fossilized remains through strength, ritual, and brutal craftsmanship.  
+The **Tuskbreakers** are orcish masters of reclaiming power from the dead, inspired by the legendary [Skul’Kruk](/being/titan/skul-kruk.md) – The Fossil Crusher. They unearth the colossal remains of long-extinct behemoths and ancient warriors, carving them into brutal weapons and armor infused with the lingering [resonance](/structure/mechanic/resonance.md) of the magical collapse. Unlike mere blacksmiths or enchanters, Tuskbreakers do not simply shape materials—they force the past to fight for the present, wrenching raw power from fossilized remains through strength, ritual, and brutal craftsmanship.  
 
 ## The Legend of Skul’Kruk  
 
 *"Bones of the past, weapons of the future. The earth does not forget, and neither does he."*  
 
-Skul’Kruk is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen titans in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage no longer eternal.  
+[Skul’Kruk](/being/titan/skul-kruk.md) is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen titans in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage no longer eternal.  
 
-Over the centuries, the fire that once fueled Skul’Kruk has waned. Though still a formidable force, the relentless fury that once drove him to endless war has dulled, tempered by time and solitude. No longer the mindless engine of destruction he once was, he now roams not in search of battle, but out of habit, his towering form a fading echo of an age of war long past. Some believe he lingers, waiting for a cause to reignite his fury. Others claim that even war itself may no longer be enough to stir the beast he once was.  
+Over the centuries, the fire that once fueled [Skul’Kruk](/being/titan/skul-kruk.md) has waned. Though still a formidable force, the relentless fury that once drove him to endless war has dulled, tempered by time and solitude. No longer the mindless engine of destruction he once was, he now roams not in search of battle, but out of habit, his towering form a fading echo of an age of war long past. Some believe he lingers, waiting for a cause to reignite his fury. Others claim that even war itself may no longer be enough to stir the beast he once was.  
 
 The Tuskbreakers see themselves as his inheritors. While he may have slowed, they carry his purpose forward, ensuring the power of the past is never forgotten.  
 

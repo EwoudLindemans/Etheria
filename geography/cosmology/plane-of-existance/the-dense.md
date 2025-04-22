@@ -29,7 +29,7 @@ A canvas of forgotten constellations—breathing. Watching. Waiting.
 ## Deity Xal'Zyra, the Veil Between  
 **[Deity](/structure/mechanic/deity.md) of the Dense, Shadows, and Passage**  
 
-Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **the Dense**.
+[Xal'Zyra](/being/deity/xal-zyra.md), the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **the Dense**.
 
 ## A Place of Impossible Space
 The Dense defies logic. A single step might span a mile within its borders, yet escape remains elusive as the realm folds inward like a snare. Strange flora thrives in its shadows—twisted plants and fungi, some glowing with faint luminescence, others laced with deadly poison. The wildlife is ravenous, eager to consume anything that stirs, from hulking beasts to hapless travelers. Safe passage is unknown; the Dense is a domain of danger and death, not to be underestimated. Those who enter must tread carefully, for touching or eating the wrong thing could spell doom.
