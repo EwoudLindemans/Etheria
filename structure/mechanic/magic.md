@@ -55,7 +55,7 @@ The [scale](/geography/landmark/scale.md)-connected dimension known as **[The De
 ## Institutional Approaches
 
 ### ☼ **The Scholar's Rift**
-A metaphysically concealed research enclave accessible only by arcane [resonance](/structure/mechanic/resonance.md) compatibility. It stabilizes [scale](/geography/landmark/scale.md) studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
+A metaphysically concealed research enclave accessible only by [arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) compatibility. It stabilizes [scale](/geography/landmark/scale.md) studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
 
 ### ☼ **The City of Or**
 Dwarves master **[Harthrûn Metallurgy](/structure/social/profession/harthrûn-metallurgy.md)**, fusing ore with [scale](/geography/landmark/scale.md)-essence through **Core Heat** derived from the [Armour of Or](/geography/landmark/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.

@@ -10,7 +10,7 @@ dateCreated: 2025-04-06T20:24:45.097Z
 
 ---
 title: Backstory: “Threadbare”
-description: Fragment from Sylieth’s personal journal
+description: Fragment from [Sylieth](/being/character/sylieth.md)’s personal journal
 published: 1
 date: 2025-04-14T21:32:38.367Z
 tags: backstory
