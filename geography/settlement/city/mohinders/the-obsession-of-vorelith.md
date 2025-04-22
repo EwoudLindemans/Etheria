@@ -2,7 +2,7 @@
 title: The Obsession of Vorelith
 description: 
 published: 1
-date: 2025-04-14T21:31:36.792Z
+date: 2025-04-14T21:45:55.017Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T21:57:06.673Z

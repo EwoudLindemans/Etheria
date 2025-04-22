@@ -2,7 +2,7 @@
 title: The Graith
 description: 
 published: 1
-date: 2025-04-14T21:33:14.501Z
+date: 2025-04-14T21:44:21.113Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T20:36:08.726Z

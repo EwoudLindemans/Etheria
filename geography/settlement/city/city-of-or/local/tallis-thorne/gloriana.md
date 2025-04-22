@@ -2,6 +2,16 @@
 title: Item: Gloriana
 description: Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
 published: 1
+date: 2025-04-14T21:45:22.544Z
+tags: item
+editor: markdown
+dateCreated: 2025-04-04T12:55:49.420Z
+---
+
+---
+title: Item: Gloriana
+description: Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
+published: 1
 date: 2025-04-14T21:32:21.556Z
 tags: item
 editor: markdown

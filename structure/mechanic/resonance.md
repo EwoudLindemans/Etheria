@@ -2,7 +2,7 @@
 title: Resonance
 description: The magical current that flows from the scales and shapes Etheria.
 published: 1
-date: 2025-04-14T21:32:04.694Z
+date: 2025-04-14T21:51:22.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-02T18:48:43.068Z

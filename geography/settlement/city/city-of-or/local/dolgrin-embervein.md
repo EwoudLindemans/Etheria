@@ -2,7 +2,7 @@
 title: Dolgrin Embervein
 description: 
 published: 1
-date: 2025-04-14T21:32:00.078Z
+date: 2025-04-14T21:51:02.595Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-01T15:57:54.846Z

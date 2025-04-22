@@ -2,7 +2,7 @@
 title: Magic
 description: 
 published: 1
-date: 2025-04-14T21:31:49.224Z
+date: 2025-04-14T21:51:21.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T00:34:43.575Z

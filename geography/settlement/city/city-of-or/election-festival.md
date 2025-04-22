@@ -2,7 +2,7 @@
 title: The Election Festival of Or
 description: 
 published: 1
-date: 2025-04-14T21:32:16.986Z
+date: 2025-04-14T21:45:02.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T20:45:42.986Z

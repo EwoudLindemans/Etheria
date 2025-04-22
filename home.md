@@ -2,11 +2,12 @@
 title: Home
 description: 
 published: 1
-date: 2025-04-04T21:58:01.715Z
+date: 2025-04-22T08:15:13.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
+
 # Wiki Index
   - # [Home](/home.md)
   - # Being

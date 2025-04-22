@@ -2,7 +2,7 @@
 title: Rusty Pluckers
 description: 
 published: 1
-date: 2025-04-14T21:31:44.581Z
+date: 2025-04-14T21:45:31.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:07:05.769Z

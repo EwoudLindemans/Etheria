@@ -2,7 +2,7 @@
 title: Drip
 description: 
 published: 1
-date: 2025-04-14T21:32:15.393Z
+date: 2025-04-14T21:45:36.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-03T20:10:03.821Z
