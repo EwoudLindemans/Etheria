@@ -9,6 +9,7 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Species
+- [Denslings](/being/species/denslings.md)
 - [Etherial](/being/species/etherial.md)
 - [Graith](/being/species/graith.md)
 - [Iridian](/being/species/iridian.md)
@@ -16,3 +17,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Merinari](/being/species/merinari.md)
 - [Sub Species](/being/species/sub-species.md)
 - [Uroxi](/being/species/uroxi.md)
+- [Ythrylari](/being/species/ythrylari.md)
