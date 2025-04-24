@@ -2,7 +2,7 @@
 title: Ythrylari
 description: 
 published: 1
-date: 2025-04-24T19:21:08.661Z
+date: 2025-04-24T20:10:57.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-24T19:21:08.661Z
@@ -10,6 +10,8 @@ dateCreated: 2025-04-24T19:21:08.661Z
 
 # Ythrylari
 The Echo Between Star and [Scale](/geography/landmark/scale.md)
+
+![ythrylari.webp](/world/ythrylari.webp =500x)
 
 > *“We are not what the Dense made.  
 > We are what the Dense regrets.”*  
