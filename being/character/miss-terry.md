@@ -1,6 +1,6 @@
 ---
 title: Miss Terry
-description: Or as everyone says, Mystery.
+description: The embodiment of charm, wit, and endless tales, shrouded in mystery.
 published: 1
 date: 2025-04-19T19:54:41.988Z
 tags: 

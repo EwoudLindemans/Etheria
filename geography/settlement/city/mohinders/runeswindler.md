@@ -1,6 +1,6 @@
 ---
 title: Runeswindler
-description: 
+description: A Kavrethul who controls the portals of Mohinders with an iron grip.
 published: 1
 date: 2025-04-14T21:45:53.418Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Mines of Or
-description: 
+description: The legendary mines that fuel the City of Or's prosperity.
 published: 1
 date: 2025-04-14T21:29:52.740Z
 tags: or
