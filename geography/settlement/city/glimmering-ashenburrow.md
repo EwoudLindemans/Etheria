@@ -33,3 +33,8 @@ At the heart of the burrow lies the Hearthcore, a great glowing engine, pulsing 
 The Ashenburrow is a refuge for the strange, the misplaced, and the impossible. Gnomes who never quite fit in among the dwarves, tinkerers who push the limits of what should be built, outcasts who slip between the cracks of history itself. It is a city that does not belong, yet refuses to be erased—an anomaly hidden in plain sight, thriving in the sliver of space where logic has forgotten to look.
 
 ![the_glimmering_ashenburrow.png](/world/the_glimmering_ashenburrow.png =800x)
+
+## Index (generated)
+- [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
+
+&nbsp;&nbsp;&nbsp;

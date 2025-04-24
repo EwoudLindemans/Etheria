@@ -60,3 +60,11 @@ They will bear it. That is the vow.
 
 ## Symbolic Artifact
 [The Binding Thread](/being/character/sylieth/the-binding-thread.md) – A frayed red cord, tied once and worn beneath Sylieth’s sleeve. It is worthless to anyone else, but sacred to them. It warms when they heal, tightens when they carry too much, and returns to them when lost. It is their connection to Ilmater—quiet, constant, and unbreakable.
+
+## Index (generated)
+- [Backstory: “Threadbare”](/being/character/sylieth/threadbare.md)
+  Fragment from Sylieth’s personal journal
+- [Covenant of Thalgrin and Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
+- [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
+
+&nbsp;&nbsp;&nbsp;

@@ -58,3 +58,8 @@ The Dense is unforgiving. A misstep can hurl a Denseshifter to a random corner o
 
 ## Survival in the Dense
 For those without the Denseshifters’ mastery, survival demands vigilance. Move silently, avoid the toxic flora, and evade the wildlife’s hunger. The Dense is a crucible where the careless perish, its crushing weight and predatory shadows testing even the boldest. It is a realm few challenge—and fewer still conquer.
+
+## Index (generated)
+- [The Threefold Bloom](/geography/cosmology/plane-of-existance/the-dense/threefold-bloom.md)
+
+&nbsp;&nbsp;&nbsp;

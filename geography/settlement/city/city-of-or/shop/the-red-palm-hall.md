@@ -46,3 +46,8 @@ The hall does not charge for healing, though donations are encouraged. On feast 
 - The Order of the Woven Vein
 - [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md) (for alchemical treatment alternatives)
 - [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md) (frequent unplanned referrals)
+
+## Index (generated)
+- [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
+
+&nbsp;&nbsp;&nbsp;

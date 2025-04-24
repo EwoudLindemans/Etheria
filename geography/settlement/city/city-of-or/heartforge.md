@@ -77,3 +77,8 @@ The Heartforge is a cornerstone of dwarven identity, revered by Heartsmiths as a
 
 ## Risks and Future
 The Heartforge’s draw on the Heart risks destabilizing The [Armour of Or](/geography/landmark/scale/armour-of-or.md), with tremors hinting at an awakening. The Council of Elders monitors its output, while the Merchants Guild seeks its alloys. The Order believes it could unlock [Irion](/being/deity/irion.md)’s secrets, but at what cost?
+
+## Index (generated)
+- [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
+
+&nbsp;&nbsp;&nbsp;

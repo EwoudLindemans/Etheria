@@ -85,3 +85,13 @@ The Ragged Goons are [Etheria](/geography/cosmology/etheria.md)’s untamed edge
 ---
 
 *Last Updated: Arc 152*
+
+## Index (generated)
+- [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
+- [The Bone Marshal](/structure/social/factions/ragged-goons/the-bone-marshal.md)
+- [The Crowstrider](/structure/social/factions/ragged-goons/the-crowstrider.md)
+- [The Pale Scholar](/structure/social/factions/ragged-goons/the-pale-scholar.md)
+- [The Rusted Thaumaturge](/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md)
+- [The Scythe Lass](/structure/social/factions/ragged-goons/the-scythe-lass.md)
+
+&nbsp;&nbsp;&nbsp;

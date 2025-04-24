@@ -82,3 +82,21 @@ Crime is not tolerated and is punished harshly—but most citizens agree the cou
 
 ## Story
 The truth is that [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md) has been kidnapped by a group of bandits and is being held for ransom. The council members are in contact with the kidnappers and are working on a plan to rescue him. However, they are worried that if news of the kidnapping gets out, it could destabilize the city.
+
+## Index (generated)
+- [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
+- [Consumable](/geography/settlement/city/city-of-or/consumable.md)
+- [District](/geography/settlement/city/city-of-or/district.md)
+- [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
+- [Local](/geography/settlement/city/city-of-or/local.md)
+- [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
+  The legendary mines that fuel the City of Or's prosperity.
+- [Shop](/geography/settlement/city/city-of-or/shop.md)
+- [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)
+  The local government of the City of Or.
+- [The Election Festival of Or](/geography/settlement/city/city-of-or/election-festival.md)
+- [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
+- [The Guard of the City of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
+  A civic force layered like the city it serves
+
+&nbsp;&nbsp;&nbsp;

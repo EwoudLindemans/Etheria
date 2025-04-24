@@ -55,3 +55,8 @@ Others believe it is a tool they forged long ago—one they *don’t remember ma
 The Inkblot Bindery is not a place you find by map. You find it by mistake—or because *you were meant to*. It is, in every sense of the word, a **library of coincidence**.
 
 And coincidence is a myth we tell ourselves when we’re not ready to say “conspiracy.”
+
+## Index (generated)
+- [Fragment from the Personal Journal of D.C.S.](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md)
+
+&nbsp;&nbsp;&nbsp;

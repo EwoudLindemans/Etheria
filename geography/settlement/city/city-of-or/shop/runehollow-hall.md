@@ -48,3 +48,8 @@ It is said that every law passed, every invention crafted, and every poem publis
 - Others believe that Runehollow Hall is secretly linked by magical passages to other ancient archives across [Etheria](/geography/cosmology/etheria.md).
 - A few whisper of a **book that rewrites itself**, locked behind a forgotten door only Stonfin has seen.
 
+## Index (generated)
+- [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
+  Keeper of Runehollow Hall
+
+&nbsp;&nbsp;&nbsp;
