@@ -194,3 +194,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Scroll Binder](/structure/social/profession/scroll-binder.md)
         - #### [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
         - #### [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
+## Attributions
+Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
+
+> This work includes material from the System Reference Document 5.2 (“SRD 5.2”) by Wizards of the Coast
+> LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the Creative Commons
+> Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
