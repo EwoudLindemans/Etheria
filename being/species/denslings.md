@@ -1,5 +1,5 @@
 ---
-title: Denselings
+title: Denslings
 description: 
 published: 1
 date: 2025-04-24T19:29:54.089Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-24T19:25:27.530Z
 # Densling
 The Squallborn Sludge
 
-![denselings.png](/world/denselings.png =500x)
+![denslings.png](/world/denslings.png =500x)
 
 > *“You cannot reason with a Densling.  
 > But you can feel when it remembers you.”*  

@@ -18,7 +18,7 @@ dateCreated: 2025-03-26T21:57:06.673Z
 2. Key NPCs
 3. Factions
 4. [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
-5. The Denselings
+5. The Denslings
 6. Plot Hooks & Narrative Arcs
 7. Vorelith's Descent
 8. Potential Story Outcomes
@@ -41,10 +41,10 @@ dateCreated: 2025-03-26T21:57:06.673Z
 - **Personality**: Driven, brilliant, compassionate, but increasingly obsessed with [the Dense](/geography/cosmology/plane-of-existance/the-dense.md)'s power.
 - **Goal**: To create a new world order where resources are plentiful, and space is no longer a limiting factor. His obsession with [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) leads him to make increasingly risky and dangerous decisions.
 
-### The Denselings
+### The Denslings
 - **Role**: Warped, shadowy creatures that inhabit [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). At first, they are inconspicuous but grow in power as Vorelith manipulates the Dense.
 - **Personality**: Initially silent and passive, they become more active and supportive of Vorelith as he helps them expand their reach into [Etheria](/geography/cosmology/etheria.md).
-- **Goal**: The Denselings are aligned with Vorelith as they share his goal of reshaping [Etheria](/geography/cosmology/etheria.md), but their true intentions might be more sinister—wanting to overrun and consume the world beyond [the Dense](/geography/cosmology/plane-of-existance/the-dense.md).
+- **Goal**: The Denslings are aligned with Vorelith as they share his goal of reshaping [Etheria](/geography/cosmology/etheria.md), but their true intentions might be more sinister—wanting to overrun and consume the world beyond [the Dense](/geography/cosmology/plane-of-existance/the-dense.md).
 
 ---
 
@@ -72,15 +72,15 @@ dateCreated: 2025-03-26T21:57:06.673Z
 
 ---
 
-## The Denselings
+## The Denslings
 
 ### Description
-- **What Are the Denselings?**  
-The Denselings are the inhabitants of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md), creatures born from the twisted fabric of reality within. They are dark, shadowy beings that exist in the periphery, unnoticed at first. However, their numbers and influence begin to grow as Vorelith continues manipulating the Dense for his own ends. 
+- **What Are the Denslings?**  
+The Denslings are the inhabitants of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md), creatures born from the twisted fabric of reality within. They are dark, shadowy beings that exist in the periphery, unnoticed at first. However, their numbers and influence begin to grow as Vorelith continues manipulating the Dense for his own ends. 
 - **Transformation**  
-Initially, the Denselings are passive, watching from the shadows. As Vorelith’s obsession deepens, they begin to view him as their benefactor and grow more powerful, ultimately becoming his servants.
+Initially, the Denslings are passive, watching from the shadows. As Vorelith’s obsession deepens, they begin to view him as their benefactor and grow more powerful, ultimately becoming his servants.
 - **Necromantic Army**  
-Over time, the Denselings begin to form a necromancer-like army, ready to help Vorelith take over [Etheria](/geography/cosmology/etheria.md), using the energy of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) to fuel his growing dominion.
+Over time, the Denslings begin to form a necromancer-like army, ready to help Vorelith take over [Etheria](/geography/cosmology/etheria.md), using the energy of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) to fuel his growing dominion.
 
 ---
 
@@ -92,22 +92,22 @@ Over time, the Denselings begin to form a necromancer-like army, ready to help V
 - **First Signs of Distortion**: As the [magic](/structure/mechanic/magic.md) of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is harnessed, reality begins to warp. Buildings may shift, resources become distorted, or minor magical anomalies occur, hinting at the greater dangers ahead.
 
 ### Act 2: *Unraveling the Truth*  
-- **Rising Tensions**: The players begin to see the effects of Vorelith’s actions on [Mohinders](/geography/settlement/city/mohinders.md). The conflict between the factions intensifies, and Vorelith’s obsession grows. Meanwhile, the Denselings begin to appear, seemingly harmless at first.
+- **Rising Tensions**: The players begin to see the effects of Vorelith’s actions on [Mohinders](/geography/settlement/city/mohinders.md). The conflict between the factions intensifies, and Vorelith’s obsession grows. Meanwhile, the Denslings begin to appear, seemingly harmless at first.
 - **Personal Consequences**: Players may witness or experience personal losses—homes being destroyed, loved ones caught in the crossfire of magical chaos, or dangerous creatures from [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) appearing in the city.
-- **The Denselings’ Support**: As Vorelith’s power grows, the Denselings start aiding him in secret, preparing to expand into [Etheria](/geography/cosmology/etheria.md). They subtly manipulate events, using their powers to influence key players in the conflict.
+- **The Denslings’ Support**: As Vorelith’s power grows, the Denslings start aiding him in secret, preparing to expand into [Etheria](/geography/cosmology/etheria.md). They subtly manipulate events, using their powers to influence key players in the conflict.
 - **The Players’ Choice**: The players are faced with a dilemma. Do they continue to support Vorelith in the name of resolving the conflict, or do they begin to resist as they realize the terrible consequences of his obsession?
 
 ### Act 3: *The Corruption Unleashed*  
-- **Vorelith’s Descent**: Vorelith begins to unravel, driven mad by the power he wields. His obsession with [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) turns darker as he allies fully with the Denselings and seeks total dominion over [Etheria](/geography/cosmology/etheria.md).
+- **Vorelith’s Descent**: Vorelith begins to unravel, driven mad by the power he wields. His obsession with [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) turns darker as he allies fully with the Denslings and seeks total dominion over [Etheria](/geography/cosmology/etheria.md).
 - **The Final Collapse**: Reality itself begins to bend and twist around [Mohinders](/geography/settlement/city/mohinders.md). Entire sections of the city collapse into [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). The players must choose—stop Vorelith and prevent the total destruction of the city, or face the terrifying consequences of their involvement.
-- **The Denseling Army**: In the final moments, the Denselings, now a growing necromantic army, prepare to invade [Etheria](/geography/cosmology/etheria.md). Vorelith’s transformation into a dark sorcerer marks the ultimate showdown between the players and their once-ally.
+- **The Densling Army**: In the final moments, the Denslings, now a growing necromantic army, prepare to invade [Etheria](/geography/cosmology/etheria.md). Vorelith’s transformation into a dark sorcerer marks the ultimate showdown between the players and their once-ally.
 
 ---
 
 ## Potential Story Outcomes
 
 1. **Saving Vorelith**: The players manage to break through to Vorelith, appealing to his former self and convincing him to stop his dangerous quest. This leads to the restoration of balance and the potential to rebuild [Mohinders](/geography/settlement/city/mohinders.md).
-2. **[The Collapse](/structure/chronological/event/the-collapse.md) of [Mohinders](/geography/settlement/city/mohinders.md)**: The city falls, and the players must escape the devastation. In the aftermath, the Denselings begin to take over [Etheria](/geography/cosmology/etheria.md), creating a new order. The players may have to choose how they align in this new world.
+2. **[The Collapse](/structure/chronological/event/the-collapse.md) of [Mohinders](/geography/settlement/city/mohinders.md)**: The city falls, and the players must escape the devastation. In the aftermath, the Denslings begin to take over [Etheria](/geography/cosmology/etheria.md), creating a new order. The players may have to choose how they align in this new world.
 3. **The Complete Victory of Vorelith**: Vorelith becomes a dark overlord, and the players must serve him or fight against the forces they once helped create. [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)’s influence spreads, reshaping [Etheria](/geography/cosmology/etheria.md) into a twisted, shadow-filled realm.
 
 ---
@@ -116,7 +116,7 @@ Over time, the Denselings begin to form a necromancer-like army, ready to help V
 
 ### The Spire
 - **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with scales, where the energy of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is contained.
-- **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of Denselings. The Spire will gradually shift its shape and function as the [magic](/structure/mechanic/magic.md) grows more unstable.
+- **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of Denslings. The Spire will gradually shift its shape and function as the [magic](/structure/mechanic/magic.md) grows more unstable.
   
 ### The Dense
 - **Description**: The realm itself, an area where space is compressed and time distorts. It becomes an increasingly central place for the players to explore, confront danger, and attempt to stop Vorelith’s madness.
