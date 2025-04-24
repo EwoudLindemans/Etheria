@@ -13,8 +13,9 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Jarvey](/being/character/jarvey.md)
 - [Matt & Bubbles](/being/character/matt.md)
 - [Miss Terry](/being/character/miss-terry.md)
-  Or as everyone says, Mystery.
-- [Nokk the Brave](/being/character/nokk.md)
+  The embodiment of charm, wit, and endless tales, shrouded in mystery.
+- [Nokk the Scale’s Chosen](/being/character/nokk.md)
+  Nokk is a chaos resonance sorcerer and the embodyment of chaos, a disaster waiting to happen.
 - [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
   Poppy Handyleaf – The Tinkering Star of OR
 - [Sylieth](/being/character/sylieth.md)

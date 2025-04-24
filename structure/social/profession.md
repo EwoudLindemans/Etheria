@@ -12,10 +12,12 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Dreamweaving](/structure/social/profession/dreamweaving.md)
 - [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
 - [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
+  A gnomish art blending alchemy, engineering, and enchanted water.
 - [Harthrûn Metallurgy](/structure/social/profession/harthrûn-metallurgy.md)
 - [Hexbit Mechanics](/structure/social/profession/hexbit-mechanics.md)
 - [Mud Shaper](/structure/social/profession/mud-shaper.md)
 - [Scroll Binder](/structure/social/profession/scroll-binder.md)
+  Masters of magical agreements, ensuring fairness and lasting pacts.
 - [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
 - [The Concordium Medica](/structure/social/profession/concordium-medica.md)
 - [Tuskbreakers](/structure/social/profession/tuskbreakers.md)

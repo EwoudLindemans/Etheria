@@ -2,12 +2,11 @@
 title: Home
 description: 
 published: 1
-date: 2025-04-24T21:27:01.678Z
+date: 2025-04-04T21:58:01.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
-
 # Wiki Index
   - [Being](/being.md)
     - [Ancient](/being/ancient.md)
@@ -20,8 +19,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Jarvey](/being/character/jarvey.md)
       - [Matt & Bubbles](/being/character/matt.md)
       - [Miss Terry](/being/character/miss-terry.md)
-        Or as everyone says, Mystery.
-      - [Nokk the Brave](/being/character/nokk.md)
+        The embodiment of charm, wit, and endless tales, shrouded in mystery.
+      - [Nokk the Scale’s Chosen](/being/character/nokk.md)
+        Nokk is a chaos resonance sorcerer and the embodyment of chaos, a disaster waiting to happen.
       - [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
         Poppy Handyleaf – The Tinkering Star of OR
       - [Sylieth](/being/character/sylieth.md)
@@ -95,6 +95,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Mohinders Spire](/geography/settlement/city/mohinders.md)
           - [Councel of Controlled Magical Appliance](/geography/settlement/city/mohinders/ccma.md)
           - [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
+            A Kavrethul who controls the portals of Mohinders with an iron grip.
           - [The Obsession of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
         - [Quillnib’s Handle](/geography/settlement/city/quillnibs-handle.md)
         - [The City of Or](/geography/settlement/city/city-of-or.md)
@@ -134,6 +135,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
               - [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
                 Wondrous Item (unique), legendary, soulbound
           - [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
+            The legendary mines that fuel the City of Or's prosperity.
           - [Shop](/geography/settlement/city/city-of-or/shop.md)
             - [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
               The City of Or Grand Archive and Library
@@ -173,6 +175,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Forbidden Library](/geography/settlement/enclave/scholars-rift/the-forbidden-library.md)
           - [The Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md)
           - [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md)
+            A tavern in Scholar’s Rift where magic is strongly discouraged.
           - [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md)
   - [Home](/home.md)
   - [Structure](/structure.md)
@@ -205,6 +208,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [The Arcane Fangs](/structure/social/factions/arcane-fangs.md)
         - [The Cult of Dy](/structure/social/factions/cult-of-dy.md)
         - [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
+          A secretive faction born from a single act of defiance.
         - [The Ragged Goons](/structure/social/factions/ragged-goons.md)
           Take what works, consequences be damned
           - [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
@@ -219,10 +223,12 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Dreamweaving](/structure/social/profession/dreamweaving.md)
         - [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
         - [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
+          A gnomish art blending alchemy, engineering, and enchanted water.
         - [Harthrûn Metallurgy](/structure/social/profession/harthrûn-metallurgy.md)
         - [Hexbit Mechanics](/structure/social/profession/hexbit-mechanics.md)
         - [Mud Shaper](/structure/social/profession/mud-shaper.md)
         - [Scroll Binder](/structure/social/profession/scroll-binder.md)
+          Masters of magical agreements, ensuring fairness and lasting pacts.
         - [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
         - [The Concordium Medica](/structure/social/profession/concordium-medica.md)
         - [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
