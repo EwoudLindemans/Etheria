@@ -9,5 +9,5 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Ancient
-- [Demeriun](/being/ancient/demeriun.md)
-- [Zelorei](/being/ancient/zelorei.md)
+- [Demeriún](/being/ancient/demeriun.md)
+- [Zeloréi](/being/ancient/zelorei.md)

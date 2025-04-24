@@ -10,10 +10,10 @@ dateCreated: 2022-01-27T08:44:37.050Z
 
 # Titan
 - [Anemostrus](/being/titan/anemostrus.md)
-- [Gor Thuun](/being/titan/gor-thuun.md)
+- [Gor’Thuun](/being/titan/gor-thuun.md)
 - [Obelion](/being/titan/obelion.md)
 - [Rhyzmare](/being/titan/rhyzmare.md)
 - [Robustus](/being/titan/robustus.md)
-- [Skul Kruk](/being/titan/skul-kruk.md)
-- [Vorr Gul](/being/titan/vorr-gul.md)
+- [Skul’Kruk](/being/titan/skul-kruk.md)
+- [Vorr’Gul](/being/titan/vorr-gul.md)
 - [Zephiryx](/being/titan/zephiryx.md)

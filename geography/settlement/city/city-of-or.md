@@ -63,7 +63,7 @@ Some of the most iconic brews include:
 
 - **The [Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)** – A legendary mix of whiskey, cider, gin, stout, and something wild. Created during a tavern brawl, it’s both a rite of passage and a warning. Three mugs and you're singing to gods. Four? No one remembers four.
 - **[Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)** – A green, earthy ale with a vanishing sweet tone, born from a rare alliance between a gnome and an orc brewer. A symbol of harmony, now beloved across the city.
-- **Light of Fargash** – A pale, golden elven-style ale brewed in honour of Fargash Flatstone, known for its smooth taste and diplomatic afterglow.
+- **Light of Fargash** – A pale, golden elven-style ale brewed in honour of [Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md), known for its smooth taste and diplomatic afterglow.
 - **Deepdrip Black** – A bold mushroom stout with earthy tones and a hint of enchanted bitterness, brewed deep in the caverns near Hearthroot Garden.
 - **Pickman’s Pour** – A crisp light ale made from local grains, often served in mining flasks and celebrated as the everyday drink of Orfolk.
 - **Council’s Shame** – A tart, dark ale brewed from underground berries, famously named after a drunken council debate incident.

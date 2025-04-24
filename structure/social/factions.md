@@ -9,8 +9,9 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Factions
-- [Arcane Fangs](/structure/social/factions/arcane-fangs.md)
-- [Cult Of Dy](/structure/social/factions/cult-of-dy.md)
-- [Followers Of Irion](/structure/social/factions/followers-of-irion.md)
-- [Ragged Goons](/structure/social/factions/ragged-goons.md)
+- [The Arcane Fangs](/structure/social/factions/arcane-fangs.md)
+- [The Cult of Dy](/structure/social/factions/cult-of-dy.md)
+- [Followers of Irion](/structure/social/factions/followers-of-irion.md)
+- [The Ragged Goons](/structure/social/factions/ragged-goons.md)
+  Take what works, consequences be damned
 - [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)

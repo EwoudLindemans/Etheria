@@ -10,4 +10,4 @@ dateCreated: 2025-04-24T20:31:32.591Z
 
 # Fargash Flatstone
 
-Known for The Fargash Gambit
+Known for [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)

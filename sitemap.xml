@@ -307,6 +307,9 @@
     <loc>https://wiki.hq.rockycore.com/being/species/ythrylari.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/ythrylari.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/being/titan.md</loc>
@@ -670,6 +673,11 @@
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/local/dottie-copperlocks.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/local/fargash-flatstone.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

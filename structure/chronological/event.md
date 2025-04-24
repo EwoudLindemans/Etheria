@@ -9,5 +9,5 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Event
-- [Manifestation](/structure/chronological/event/manifestation.md)
+- [Manifistation](/structure/chronological/event/manifestation.md)
 - [The Collapse](/structure/chronological/event/the-collapse.md)

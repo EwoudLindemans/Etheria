@@ -10,6 +10,10 @@ dateCreated: 2022-01-27T08:44:37.050Z
 
 # District
 - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
+  Loud, proud, working-class heart of Or
 - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
-- [Passage Of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
+  Unofficial, unregulated, unforgettable brew-lab alley
+- [The Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md)
+  An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
 - [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
+  Or’s chaotic, ever-moving trade chute

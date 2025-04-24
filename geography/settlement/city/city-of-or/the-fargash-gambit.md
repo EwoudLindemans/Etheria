@@ -11,7 +11,7 @@ dateCreated: 2025-03-31T20:54:14.479Z
 # The Fargash Gambit
 
 ## Overview
-The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **Fargash Flatstone**, then the oldest sitting member of the [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md). It marked a pivotal moment in Etherian diplomacy and solidified Or's reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
+The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre executed by **[Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)**, then the oldest sitting member of the [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md). It marked a pivotal moment in Etherian diplomacy and solidified Or's reputation as a city of refuge, reason, and radical pragmatism—especially remarkable given its deep roots in **dwarven tradition**, **magical metallurgy**, and pragmatic governance.
 
 ## Prelude
 
@@ -23,7 +23,7 @@ The conflict in question, known in later records as the *Clash at Ironwake Hold*
 Though distant from the war's frontlines, **Or's neutrality** and its political weight—thanks a growing multicultural populace—made it a logical place for parley. Yet, every diplomatic attempt failed until the gambit.
 
 ## The Turning Point
-After weeks of unproductive shouting matches between military delegates, Fargash Flatstone—known for his blunt wisdom and unmatched drinking constitution—grew impatient.
+After weeks of unproductive shouting matches between military delegates, [Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)—known for his blunt wisdom and unmatched drinking constitution—grew impatient.
 
 > “Let’s stop talking to the brass and start talking to the boots.”
 
@@ -48,7 +48,7 @@ The remaining generals were livid—many of them marched to Or’s gates demandi
 The threat of war faded like a fog. With their forces gone and public sentiment shifted, the war collapsed under its own irrelevance. Or emerged not as a victor, but as a **living monument to the gamble of peace**.
 
 ## Legacy
-- **Fargash Flatstone** became a folk hero. His statue—tankard raised—is now central in the **Forum of Or**, a place where speeches, songs, and even weddings occur.
+- **[Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)** became a folk hero. His statue—tankard raised—is now central in the **Forum of Or**, a place where speeches, songs, and even weddings occur.
 - The term **“Pulling a Fargash”** became slang across [Etheria](/geography/cosmology/etheria.md) for defusing tension through unexpected, generous action.
 - Though [The Oblique Concord](/structure/social/factions/the-oblique-concord.md) has never claimed involvement, rumors suggest it whispered the idea into Fargash’s dreams—or orchestrated the whole thing through subtle influence.
 - In Council archives, the event is dryly listed as:  

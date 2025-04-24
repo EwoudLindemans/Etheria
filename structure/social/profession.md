@@ -9,7 +9,7 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Profession
-- [Concordium Medica](/structure/social/profession/concordium-medica.md)
+- [The Concordium Medica](/structure/social/profession/concordium-medica.md)
 - [Dreamweaving](/structure/social/profession/dreamweaving.md)
 - [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
 - [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
