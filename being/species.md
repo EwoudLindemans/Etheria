@@ -11,10 +11,10 @@ dateCreated: 2022-01-27T08:44:37.050Z
 # Species
 - [Denslings](/being/species/denslings.md)
 - [Etherials](/being/species/etherial.md)
-- [The Graith](/being/species/graith.md)
 - [Iridian](/being/species/iridian.md)
 - [Kavrethul](/being/species/kavrethul.md)
 - [Merinari](/being/species/merinari.md)
 - [Sub Species](/being/species/sub-species.md)
+- [The Graith](/being/species/graith.md)
 - [The Uroxi](/being/species/uroxi.md)
 - [Ythrylari](/being/species/ythrylari.md)

@@ -9,7 +9,6 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Profession
-- [The Concordium Medica](/structure/social/profession/concordium-medica.md)
 - [Dreamweaving](/structure/social/profession/dreamweaving.md)
 - [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
 - [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
@@ -18,4 +17,5 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Mud Shaper](/structure/social/profession/mud-shaper.md)
 - [Scroll Binder](/structure/social/profession/scroll-binder.md)
 - [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
+- [The Concordium Medica](/structure/social/profession/concordium-medica.md)
 - [Tuskbreakers](/structure/social/profession/tuskbreakers.md)

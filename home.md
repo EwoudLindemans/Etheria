@@ -24,10 +24,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - ### [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
         Poppy Handyleaf – The Tinkering Star of OR
       - ### [Sylieth](/being/character/sylieth.md)
-        - #### [Covenant of Thalgrin and Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
-        - #### [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
         - #### [Backstory: “Threadbare”](/being/character/sylieth/threadbare.md)
           Fragment from Sylieth’s personal journal
+        - #### [Covenant of Thalgrin and Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
+        - #### [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
       - ### [Varnwick Twistroot](/being/character/varnwick.md)
     - ## [Deity](/being/deity.md)
       - ### [Aelfar](/being/deity/aelfar.md)
@@ -46,12 +46,12 @@ dateCreated: 2022-01-24T15:40:43.899Z
     - ## [Species](/being/species.md)
       - ### [Denslings](/being/species/denslings.md)
       - ### [Etherials](/being/species/etherial.md)
-      - ### [The Graith](/being/species/graith.md)
       - ### [Iridian](/being/species/iridian.md)
       - ### [Kavrethul](/being/species/kavrethul.md)
       - ### [Merinari](/being/species/merinari.md)
       - ### [Sub Species](/being/species/sub-species.md)
         - #### [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
+      - ### [The Graith](/being/species/graith.md)
       - ### [The Uroxi](/being/species/uroxi.md)
       - ### [Ythrylari](/being/species/ythrylari.md)
     - ## [Titan](/being/titan.md)
@@ -88,14 +88,20 @@ dateCreated: 2022-01-24T15:40:43.899Z
     - ## [Settlement](/geography/settlement.md)
       - ### [City](/geography/settlement/city.md)
         - #### [Arkona](/geography/settlement/city/arkona.md)
+        - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
+          - ##### [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
+        - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
+        - #### [Mohinders Spire](/geography/settlement/city/mohinders.md)
+          - ##### [Councel of Controlled Magical Appliance](/geography/settlement/city/mohinders/ccma.md)
+          - ##### [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
+          - ##### [The Obsession of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
+        - #### [Quillnib’s Handle](/geography/settlement/city/quillnibs-handle.md)
         - #### [The City of Or](/geography/settlement/city/city-of-or.md)
           The largest city of Etheria, built beneath The Armour of Or.
           - ##### [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
           - ##### [Consumable](/geography/settlement/city/city-of-or/consumable.md)
-            -  [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
             -  [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
-          - ##### [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)
-            The local government of the City of Or.
+            -  [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
           - ##### [District](/geography/settlement/city/city-of-or/district.md)
             -  [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
               Loud, proud, working-class heart of Or
@@ -105,34 +111,27 @@ dateCreated: 2022-01-24T15:40:43.899Z
               An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
             -  [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)
               Or’s chaotic, ever-moving trade chute
-          - ##### [The Election Festival of Or](/geography/settlement/city/city-of-or/election-festival.md)
-          - ##### [The Guard of the City of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
-            A civic force layered like the city it serves
-            -  [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
-              A steady hand and a knowing smile among the stonebound streets
-            -  [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
-              A quiet step among the runes, with thoughts that echo deeper than orders
           - ##### [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
             -  [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
           - ##### [Local](/geography/settlement/city/city-of-or/local.md)
+            -  [🪦 Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)
+            -  [🪦 Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
+              The founder and first leader of the City of Or.
             -  [Dolgrin Embervein](/geography/settlement/city/city-of-or/local/dolgrin-embervein.md)
             -  [Dottie Copperlocks](/geography/settlement/city/city-of-or/local/dottie-copperlocks.md)
-            -  [🪦 Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)
             -  [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md)
               Gorgath the Brute, the Orcish Barbarian
             -  [Harg & Pibble](/geography/settlement/city/city-of-or/local/harg-and-pibble.md)
             -  [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md)
               The current leader of the City of Or.
-            -  [🪦 Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
-              The founder and first leader of the City of Or.
             -  [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)
               Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
+              -  [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
+                Actual background information about Tallis
               -  [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
                 Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
               -  [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
                 Wondrous Item (unique), legendary, soulbound
-              -  [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
-                Actual background information about Tallis
           - ##### [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
           - ##### [Shop](/geography/settlement/city/city-of-or/shop.md)
             -  [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
@@ -152,15 +151,16 @@ dateCreated: 2022-01-24T15:40:43.899Z
               -  [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)
             -  [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md)
               A Reputable Laboratory
+          - ##### [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)
+            The local government of the City of Or.
+          - ##### [The Election Festival of Or](/geography/settlement/city/city-of-or/election-festival.md)
           - ##### [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
-        - #### [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
-          - ##### [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
-        - #### [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md)
-        - #### [Mohinders Spire](/geography/settlement/city/mohinders.md)
-          - ##### [Councel of Controlled Magical Appliance](/geography/settlement/city/mohinders/ccma.md)
-          - ##### [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
-          - ##### [The Obsession of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
-        - #### [Quillnib’s Handle](/geography/settlement/city/quillnibs-handle.md)
+          - ##### [The Guard of the City of Or](/geography/settlement/city/city-of-or/guard-of-or.md)
+            A civic force layered like the city it serves
+            -  [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
+              A steady hand and a knowing smile among the stonebound streets
+            -  [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
+              A quiet step among the runes, with thoughts that echo deeper than orders
         - #### [Triz Valley](/geography/settlement/city/triz-valley.md)
           Small town near the Mountains of Triz, popular amongst travelers.
         - #### [Umberdeep](/geography/settlement/city/umberdeep.md)
@@ -200,9 +200,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
         The magical current that flows from the scales and shapes Etheria.
     - ## [Social](/structure/social.md)
       - ### [Factions](/structure/social/factions.md)
+        - #### [Followers of Irion](/structure/social/factions/followers-of-irion.md)
         - #### [The Arcane Fangs](/structure/social/factions/arcane-fangs.md)
         - #### [The Cult of Dy](/structure/social/factions/cult-of-dy.md)
-        - #### [Followers of Irion](/structure/social/factions/followers-of-irion.md)
+        - #### [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
         - #### [The Ragged Goons](/structure/social/factions/ragged-goons.md)
           Take what works, consequences be damned
           - ##### [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
@@ -211,11 +212,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - ##### [The Pale Scholar](/structure/social/factions/ragged-goons/the-pale-scholar.md)
           - ##### [The Rusted Thaumaturge](/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md)
           - ##### [The Scythe Lass](/structure/social/factions/ragged-goons/the-scythe-lass.md)
-        - #### [The Oblique Concord](/structure/social/factions/the-oblique-concord.md)
       - ### [Group](/structure/social/group.md)
         - #### [The Scalebound Strays](/structure/social/group/scalebound-strays.md)
       - ### [Profession](/structure/social/profession.md)
-        - #### [The Concordium Medica](/structure/social/profession/concordium-medica.md)
         - #### [Dreamweaving](/structure/social/profession/dreamweaving.md)
         - #### [Emberglass Artisan](/structure/social/profession/emberglass-artisan.md)
         - #### [Fizzlemancy](/structure/social/profession/fizzlemancy.md)
@@ -224,6 +223,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - #### [Mud Shaper](/structure/social/profession/mud-shaper.md)
         - #### [Scroll Binder](/structure/social/profession/scroll-binder.md)
         - #### [Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)
+        - #### [The Concordium Medica](/structure/social/profession/concordium-medica.md)
         - #### [Tuskbreakers](/structure/social/profession/tuskbreakers.md)
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
