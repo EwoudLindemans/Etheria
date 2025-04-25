@@ -17,4 +17,6 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Sub Species](/being/species/sub-species.md)
 - [The Graith](/being/species/graith.md)
 - [The Uroxi](/being/species/uroxi.md)
+- [The Zynkri](/being/species/zynkri.md)
+- [Velkrin](/being/species/velkrin.md)
 - [Ythrylari](/being/species/ythrylari.md)

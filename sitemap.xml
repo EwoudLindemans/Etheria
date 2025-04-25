@@ -304,11 +304,33 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/being/species/velkrin.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/veydr.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/sylvachor.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/thyrnari.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/being/species/ythrylari.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/ythrylari.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/being/species/zynkri.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/zynkri.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -921,11 +943,6 @@
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/home.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

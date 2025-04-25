@@ -20,7 +20,7 @@ Their skin gleams like polished dark jade, dappled with freckles of gold that sh
 
 ## Origins: Born of Thorn and Song
 
-Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of the [Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md) had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
+Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of [the Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md) had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
 
 Thus were the Zynkri seeded: not of womb or egg, but of sprouted defiance and grinning chaos.
 
@@ -39,9 +39,9 @@ Among their customs:
 ## Traits and Traditions
 
 - **Armor** is a patchwork miracle: shimmering beetle shells, braided reeds, thorny vines, and stubborn optimism stitched together with surprising grace.
-- **Weapons** are grown rather than forged—barbed spears whose tips drip with crystallized venom harvested from dream-stung vipers.
+- **Weapons** are grown rather than forged—barbed spears whose tips [drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md) with crystallized venom harvested from dream-stung vipers.
 - Their **teeth** are often etched with decorative tribal runes, recounting the number of successful tricks, hunts, or particularly scandalous love affairs.
-- **Magic** among the Zynkri is botanical—growing snare-vines, whispering to ferns, or calling down clouds of blinding pollen with a sharp whistle.
+- **[Magic](/structure/mechanic/magic.md)** among the Zynkri is botanical—growing snare-vines, whispering to ferns, or calling down clouds of blinding pollen with a sharp whistle.
 
 ## Interaction with Outsiders
 
