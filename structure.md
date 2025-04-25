@@ -11,4 +11,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
 # Structure
 - [Chronological](/structure/chronological.md)
 - [Mechanic](/structure/mechanic.md)
-- [Social](/structure/social.md)
+- [Society](/structure/society.md)

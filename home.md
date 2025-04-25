@@ -61,7 +61,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [Subclass](/structure/mechanic/class/sorcerer/subclass.md)
       - [Condition](/structure/mechanic/condition.md)
       - [Dice](/structure/mechanic/dice.md)
-    - Society
+    - [Society](/structure/society.md)
       - [Factions](/structure/society/factions.md)
         - [The Ragged Goons](/structure/society/factions/ragged-goons.md)
           Take what works, consequences be damned
