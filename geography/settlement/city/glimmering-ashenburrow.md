@@ -34,7 +34,3 @@ The Ashenburrow is a refuge for the strange, the misplaced, and the impossible. 
 
 ![the_glimmering_ashenburrow.png](/world/the_glimmering_ashenburrow.png =800x)
 
-## Index (generated)
-- [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
-
-&nbsp;&nbsp;&nbsp;

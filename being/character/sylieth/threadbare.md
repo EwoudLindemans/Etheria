@@ -8,26 +8,6 @@ editor: markdown
 dateCreated: 2025-04-06T20:24:45.097Z
 ---
 
----
-title: Backstory: “Threadbare”
-description: Fragment from [Sylieth](/being/character/sylieth.md)’s personal journal
-published: 1
-date: 2025-04-14T21:32:38.367Z
-tags: backstory
-editor: markdown
-dateCreated: 2025-04-06T20:24:45.097Z
----
-
----
-title: Backstory: “Threadbare”
-description: Fragment from [Sylieth](/being/character/sylieth.md)’s personal journal
-published: 1
-date: 2025-04-06T20:26:42.711Z
-tags: backstory
-editor: markdown
-dateCreated: 2025-04-06T20:24:45.097Z
----
-
 # Backstory: “Threadbare”
 
 **Author:** [Sylieth](/being/character/sylieth.md)  

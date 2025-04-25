@@ -79,8 +79,3 @@ Wanderers from **[Triz Valley](/geography/settlement/city/triz-valley.md)**, **t
 
 Raise your tankard. Just maybe not a third time.
 
-## Index (generated)
-- [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md)
-- [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md)
-
-&nbsp;&nbsp;&nbsp;

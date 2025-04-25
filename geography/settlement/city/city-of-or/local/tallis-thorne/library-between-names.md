@@ -8,36 +8,6 @@ editor: markdown
 dateCreated: 2025-04-04T13:04:12.697Z
 ---
 
----
-title: Item: The Library Between Names
-description: Wondrous Item (unique), legendary, soulbound
-published: 1
-date: 2025-04-14T21:32:23.099Z
-tags: item
-editor: markdown
-dateCreated: 2025-04-04T13:04:12.697Z
----
-
----
-title: Item: The Library Between Names
-description: Wondrous Item (unique), legendary, soulbound
-published: 1
-date: 2025-04-04T21:58:15.747Z
-tags: item
-editor: markdown
-dateCreated: 2025-04-04T13:04:12.697Z
----
-
----
-title: Item: The Library Between Names
-description: Wondrous Item (unique), legendary, soulbound
-published: 1
-date: 2025-04-04T20:36:59.288Z
-tags: item
-editor: markdown
-dateCreated: 2025-04-04T13:04:12.697Z
----
-
 ## **Item: The Library Between Names**  
 *Wondrous Item (unique), legendary, soulbound*
 

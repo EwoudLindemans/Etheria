@@ -153,12 +153,3 @@ What Tallis Says About [Miss Terry](/being/character/miss-terry.md):
 "If she ever admits I taught her anything, I’ll write a whole ballad about honesty. Until then, I assume she just learned from watching me."
 — Tallis, during a joint performance rehearsal.
 
-## Index (generated)
-- [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md)
-  Actual background information about Tallis
-- [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md)
-  Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
-- [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md)
-  Wondrous Item (unique), legendary, soulbound
-
-&nbsp;&nbsp;&nbsp;

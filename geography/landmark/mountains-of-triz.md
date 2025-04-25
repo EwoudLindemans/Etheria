@@ -70,7 +70,3 @@ Those who make it through often carry stories. Those who don’t become them.
 - [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) and his band are amongst the first to have found a passage through the Mountains of Triz.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) is believed to have spent seven years in the tunnels of the Mountains of Triz preparing for his revenge on [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md).
 
-## Index (generated)
-- [Gurdalk's Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
-
-&nbsp;&nbsp;&nbsp;

@@ -130,10 +130,3 @@ There are many shops of refinement in the Mohinders Spire
 Emerald Compass
 Lords' Adventurers
 
-## Index (generated)
-- [Councel of Controlled Magical Appliance](/geography/settlement/city/mohinders/ccma.md)
-- [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)
-  A Kavrethul who controls the portals of Mohinders with an iron grip.
-- [The Obsession of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md)
-
-&nbsp;&nbsp;&nbsp;

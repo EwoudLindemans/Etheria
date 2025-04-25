@@ -71,12 +71,3 @@ The answers remain unclear. The scales are not just remnants—they are [Etheria
 
 **Note**: All known scales are cataloged the [Catalog].
 
-## Index (generated)
-- [Armour of Or](/geography/landmark/scale/armour-of-or.md)
-- [Asara Plate](/geography/landmark/scale/asara-plate.md)
-- [Batès Lamina](/geography/landmark/scale/bates-lamina.md)
-- [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)
-- [The Ornite Ring](/geography/landmark/scale/ornite-ring.md)
-- [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
-
-&nbsp;&nbsp;&nbsp;

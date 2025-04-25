@@ -70,10 +70,3 @@ Criticism, when it arises, tends to centre around bureaucratic slowness or uneve
 - Some whisper that the **Oblique Concord** has hidden influence over certain divisions. No confirmed evidence exists.
 - "Ashen Patrols never report the same way twice"—a joke among Guardlings about getting lost in the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md).
 
-## Index (generated)
-- [Berrun Dimmabrow](/geography/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md)
-  A steady hand and a knowing smile among the stonebound streets
-- [Darik Stoneveil](/geography/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md)
-  A quiet step among the runes, with thoughts that echo deeper than orders
-
-&nbsp;&nbsp;&nbsp;
