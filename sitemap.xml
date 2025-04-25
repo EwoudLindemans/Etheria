@@ -1057,27 +1057,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/arcane-fangs.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/arcane-fangs.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/cult-of-dy.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/cult-of-dy.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/followers-of-irion.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/followers-of-irion.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1085,37 +1085,37 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/shriekbeak.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/shriekbeak.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/the-bone-marshal.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/the-bone-marshal.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/the-crowstrider.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/the-crowstrider.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/the-pale-scholar.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/the-pale-scholar.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/ragged-goons/the-scythe-lass.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/ragged-goons/the-scythe-lass.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/factions/the-oblique-concord.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/factions/the-oblique-concord.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1126,12 +1126,12 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/group.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/group.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/group/scalebound-strays.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/group/scalebound-strays.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1139,17 +1139,17 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/concordium-medica.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/concordium-medica.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/dreamweaving.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/dreamweaving.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1157,7 +1157,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/emberglass-artisan.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/emberglass-artisan.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1183,7 +1183,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/fizzlemancy.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/fizzlemancy.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1191,17 +1191,17 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/harthrûn-metallurgy.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/harthrûn-metallurgy.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/hexbit-mechanics.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/hexbit-mechanics.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/mud-shaper.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/mud-shaper.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1209,7 +1209,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/scroll-binder.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/scroll-binder.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1217,7 +1217,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/tankard-trekkers.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/tankard-trekkers.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1225,7 +1225,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social/profession/tuskbreakers.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/tuskbreakers.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

@@ -119,7 +119,7 @@ Although it is hard to decide which of his many works shine out the most, here's
 - **I won a drinking contest, a duel, and a poetry slam *simultaneously*.**  
    It was a complicated night. The poetry killed. The duel didn’t.
 
-- **[The Oblique Concord](/structure/social/factions/the-oblique-concord.md) offered to make me their official historian. I declined.**  
+- **[The Oblique Concord](/structure/society/factions/the-oblique-concord.md) offered to make me their official historian. I declined.**  
    They wanted “objectivity.” I offered “better.”
 
 - **I once wrote a song so beautiful that an entire city voted to change their anthem to it.**  

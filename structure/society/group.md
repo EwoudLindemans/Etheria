@@ -9,4 +9,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Group
-- [The Scalebound Strays](/structure/social/group/scalebound-strays.md)
+- [The Scalebound Strays](/structure/society/group/scalebound-strays.md)

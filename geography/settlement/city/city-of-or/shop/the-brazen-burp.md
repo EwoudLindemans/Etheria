@@ -69,7 +69,7 @@ By the time the brawl ended, those still conscious raised their mugs in unity an
 No one drinks a fourth. No one *remembers* drinking a fourth.
 
 ## Reputation  
-Recognized by **[Tankard Trekkers](/structure/social/profession/tankard-trekkers.md)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
+Recognized by **[Tankard Trekkers](/structure/society/profession/tankard-trekkers.md)** as a **Legendary Pint Post**, the Brazen Burp is **sacred ground** for any adventurer who values a good drink, a strange tale, or both at once.
 
 Wanderers from **[Triz Valley](/geography/settlement/city/triz-valley.md)**, **the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)**, and even a few **[Iridian](/being/species/iridian.md)** have visited—some to drink, others to hear the whispers said to **linger in the walls between sips.**
 

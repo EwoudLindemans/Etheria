@@ -39,13 +39,13 @@ To many, the scales are sacred.
 
 - **Followers of [Irion](/being/deity/irion.md)** treat them as the resting body of their god, especially revering sites like Batès Lamina.
 - Others believe the scales are sentient or dreaming, and that tampering with them risks invoking a second Collapse.
-- Some, like the [Cult of Dy](/structure/social/factions/cult-of-dy.md), attribute randomness and divine will to the patterns of [resonance](/structure/mechanic/resonance.md) the scales emit.
+- Some, like the [Cult of Dy](/structure/society/factions/cult-of-dy.md), attribute randomness and divine will to the patterns of [resonance](/structure/mechanic/resonance.md) the scales emit.
 
 ## Conflict & Exploitation
 
 While most of [Etheria](/geography/cosmology/etheria.md) respects the power and danger of scales, not all do.
 
-Groups like the [Ragged Goons](/structure/social/factions/ragged-goons.md) actively seek out hidden or unprotected scales, attempting to exploit them for wealth, power, or chaos. These excavations often end in disaster—unleashing bursts of magical radiation, spawning monstrous entities, or warping the land around them.
+Groups like the [Ragged Goons](/structure/society/factions/ragged-goons.md) actively seek out hidden or unprotected scales, attempting to exploit them for wealth, power, or chaos. These excavations often end in disaster—unleashing bursts of magical radiation, spawning monstrous entities, or warping the land around them.
 
 ## Known Scales
 

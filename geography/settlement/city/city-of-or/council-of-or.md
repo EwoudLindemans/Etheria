@@ -82,4 +82,4 @@ Most Orfolk agree that while the Flatstones are powerful, their grip is not abso
 - [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
 - The Flatstone Family
 - Stonehollow
-- [The Oblique Concord](/structure/social/factions/the-oblique-concord.md) (rumoured influence)
+- [The Oblique Concord](/structure/society/factions/the-oblique-concord.md) (rumoured influence)

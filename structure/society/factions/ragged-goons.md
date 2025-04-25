@@ -34,7 +34,7 @@ Wrapped in scrolls and sagging sanity, this ex-Veiled Canticle scribe recites ev
 Molten sigils burn along his damp bandages. His coat—a salvaged relic from a ghost-ship’s apothecary—smells faintly of regret and formaldehyde. Exiled from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) for “weaponizing bad ideas.” His spells often work, just not as intended. Built a candle once that screams in four languages. Still carries it.
 
 ### The Crowstrider  
-All spikes and silence. Goggles hide eyes no one’s confirmed exist. He walks like a forgotten trap resetting itself, always sideways, never straightforward. Believed to think exclusively in pressure plates and proximity hexes. Speaks only to maps, traps, and [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md). Occasionally hums. It’s unsettling.
+All spikes and silence. Goggles hide eyes no one’s confirmed exist. He walks like a forgotten trap resetting itself, always sideways, never straightforward. Believed to think exclusively in pressure plates and proximity hexes. Speaks only to maps, traps, and [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md). Occasionally hums. It’s unsettling.
 
 ### The Scythe Lass  
 A woman of exposed ribs, morbid wit, and elegant violence. Her curved blade is treated more like punctuation than a weapon. Once fought a weather witch and won the forecast. Her hat has its own bounty. Frequently mistaken for dead—uses that mistake to great effect. Has opinions about your bones.
@@ -87,11 +87,11 @@ The Ragged Goons are [Etheria](/geography/cosmology/etheria.md)’s untamed edge
 *Last Updated: Arc 152*
 
 ## Index (generated)
-- [Shriekbeak](/structure/social/factions/ragged-goons/shriekbeak.md)
-- [The Bone Marshal](/structure/social/factions/ragged-goons/the-bone-marshal.md)
-- [The Crowstrider](/structure/social/factions/ragged-goons/the-crowstrider.md)
-- [The Pale Scholar](/structure/social/factions/ragged-goons/the-pale-scholar.md)
-- [The Rusted Thaumaturge](/structure/social/factions/ragged-goons/the-rusted-thaumaturge.md)
-- [The Scythe Lass](/structure/social/factions/ragged-goons/the-scythe-lass.md)
+- [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md)
+- [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md)
+- [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md)
+- [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md)
+- [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md)
+- [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md)
 
 &nbsp;&nbsp;&nbsp;

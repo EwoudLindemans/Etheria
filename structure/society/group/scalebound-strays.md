@@ -26,7 +26,7 @@ Grizzled and built like a barrel wrapped in callouses, Durla hails from the deep
 
 ### 🪨 **Brukk the Splinterseer** — *Prophet of Shards*
 
-An orc of monumental stature and unsettling calm, Brukk once preached under the [Cult of Dy](/structure/social/factions/cult-of-dy.md) until he suffered a [scale](/geography/landmark/scale.md)-induced revelation mid-sermon and calmly walked into a river, emerging three days later with a crystal staff and a very different theology. Now the group’s spiritual compass (unfortunately), Brukk claims to hear the “songs of the splintered world.” While mostly peaceful, he can snap a dire wolf in half like kindling. Local Followers of [Irion](/being/deity/irion.md) claim he may be some kind of anti-saint; Brukk disagrees and invites them to tea.
+An orc of monumental stature and unsettling calm, Brukk once preached under the [Cult of Dy](/structure/society/factions/cult-of-dy.md) until he suffered a [scale](/geography/landmark/scale.md)-induced revelation mid-sermon and calmly walked into a river, emerging three days later with a crystal staff and a very different theology. Now the group’s spiritual compass (unfortunately), Brukk claims to hear the “songs of the splintered world.” While mostly peaceful, he can snap a dire wolf in half like kindling. Local Followers of [Irion](/being/deity/irion.md) claim he may be some kind of anti-saint; Brukk disagrees and invites them to tea.
 
 ---
 
@@ -44,7 +44,7 @@ Cloaked in song and layered sarcasm, Vaelira drifts between bardic brilliance an
 
 ### Legacy & Infamy
 
-Together, the **[Scale](/geography/landmark/scale.md)-Bound Strays** have a knack for tripping over ancient magical secrets and accidentally resolving them. They've outwitted [Arcane Fangs](/structure/social/factions/arcane-fangs.md), guided desperate caravans through the [Verdant Divide](/geography/region/verdant-divide.md), and caused no fewer than three minor magical singularities—though Furlin insists that “one was *definitely* on purpose.” 
+Together, the **[Scale](/geography/landmark/scale.md)-Bound Strays** have a knack for tripping over ancient magical secrets and accidentally resolving them. They've outwitted [Arcane Fangs](/structure/society/factions/arcane-fangs.md), guided desperate caravans through the [Verdant Divide](/geography/region/verdant-divide.md), and caused no fewer than three minor magical singularities—though Furlin insists that “one was *definitely* on purpose.” 
 
 Whispers say they’re now searching for something specific: not treasure, not power, but an “echo lost in a [scale](/geography/landmark/scale.md).” Whatever that means, one thing is certain: if you see a glowing goblin arguing with a lantern while a giant orc sings lullabies to a tree, it’s too late to run.
 

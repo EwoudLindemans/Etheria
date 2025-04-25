@@ -21,7 +21,7 @@ They say I’ve gone mad.
 They call me Dustcake Scribblebrow, as if the title of Dame Cartographer of the Sealvault Library meant nothing.  
 Let them. I pray they keep laughing. Laughter keeps me alive.
 
-[The Oblique Concord](/structure/social/factions/the-oblique-concord.md) is not a myth. It is not a cult. It is not a guild, nor a rebellion, nor a school of thought.  
+[The Oblique Concord](/structure/society/factions/the-oblique-concord.md) is not a myth. It is not a cult. It is not a guild, nor a rebellion, nor a school of thought.  
 It is a convergence of invisible intent.  
 It is the shape smoke makes in a still room.  
 It is the hand that presses the scales while convincing the weight it was always there.

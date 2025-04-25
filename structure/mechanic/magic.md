@@ -58,7 +58,7 @@ The [scale](/geography/landmark/scale.md)-connected dimension known as **[The De
 A metaphysically concealed research enclave accessible only by [arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) compatibility. It stabilizes [scale](/geography/landmark/scale.md) studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
 
 ### ☼ **The City of Or**
-Dwarves master **[Harthrûn Metallurgy](/structure/social/profession/harthrûn-metallurgy.md)**, fusing ore with [scale](/geography/landmark/scale.md)-essence through **Core Heat** derived from the [Armour of Or](/geography/landmark/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
+Dwarves master **[Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**, fusing ore with [scale](/geography/landmark/scale.md)-essence through **Core Heat** derived from the [Armour of Or](/geography/landmark/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
 
 ### ☼ **Followers of Irion**
 Religious protectors of **Batès Lamina**. They believe [scale](/geography/landmark/scale.md) magic is the remaining soul of [Irion](/being/deity/irion.md) and practice harmony through spiritual [resonance](/structure/mechanic/resonance.md) and sound-based rituals.
@@ -67,7 +67,7 @@ Religious protectors of **Batès Lamina**. They believe [scale](/geography/landm
 
 - **[Scale](/geography/landmark/scale.md)-Tuned Artifacts:** Items bound to specific scales, carrying unique resonant properties. Some cities auction these for incredible sums.
 - **[Scale](/geography/landmark/scale.md)-Backed Architecture:** Walls, bridges, and city foundations integrated with scales—enhancing durability and providing passive enchantments.
-- **Myphos Refining:** A controversial technique involving the distillation of [scale](/geography/landmark/scale.md) fragments into magical enhancements. Practiced secretly or by outlaw groups like **The [Arcane Fangs](/structure/social/factions/arcane-fangs.md)**.
+- **Myphos Refining:** A controversial technique involving the distillation of [scale](/geography/landmark/scale.md) fragments into magical enhancements. Practiced secretly or by outlaw groups like **The [Arcane Fangs](/structure/society/factions/arcane-fangs.md)**.
 
 ## Final Notes
 

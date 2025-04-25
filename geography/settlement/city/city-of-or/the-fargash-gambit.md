@@ -50,7 +50,7 @@ The threat of war faded like a fog. With their forces gone and public sentiment 
 ## Legacy
 - **[Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)** became a folk hero. His statue—tankard raised—is now central in the **Forum of Or**, a place where speeches, songs, and even weddings occur.
 - The term **“Pulling a Fargash”** became slang across [Etheria](/geography/cosmology/etheria.md) for defusing tension through unexpected, generous action.
-- Though [The Oblique Concord](/structure/social/factions/the-oblique-concord.md) has never claimed involvement, rumors suggest it whispered the idea into Fargash’s dreams—or orchestrated the whole thing through subtle influence.
+- Though [The Oblique Concord](/structure/society/factions/the-oblique-concord.md) has never claimed involvement, rumors suggest it whispered the idea into Fargash’s dreams—or orchestrated the whole thing through subtle influence.
 - In Council archives, the event is dryly listed as:  
   > *Strategic Redirection of Hostilities through Voluntary Integration (Council Entry #1147: Ref. Flatstone-173b)*  
   No one calls it that.
