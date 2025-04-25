@@ -2,7 +2,7 @@
 title: The Zynkri
 description: 
 published: 1
-date: 2025-04-25T18:49:05.516Z
+date: 2025-04-25T18:50:02.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-25T18:48:34.068Z
