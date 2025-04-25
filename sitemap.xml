@@ -1052,11 +1052,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/social.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wiki.hq.rockycore.com/structure/society.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
