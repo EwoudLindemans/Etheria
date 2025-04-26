@@ -8,12 +8,12 @@ editor: markdown
 dateCreated: 2025-03-30T00:34:43.575Z
 ---
 
-# Magic in Etheria
+# Magic in Iridia
 *“The world breathes with it, bends with it, burns with it. Magic is not learned—it is survived.”* — Unknown Scalespeaker
 
 ## Origins of Magic
 
-Magic in [Etheria](/geography/cosmology/etheria.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **Scales**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Etheria is the residual pulse of Irion's being, diffused into the world like breath into glass.
+Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **Scales**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
 
 ## The Five Known Scales
 
@@ -40,12 +40,12 @@ Arcane infrastructure formed around scales allows cities to draw sustainable mag
 When raw magic interacts with organic matter and elemental energy, **Iridians** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby scales, but independent of magical consumption.
 
 ### ✦ **The Dense**
-The [scale](/geography/landmark/scale.md)-connected dimension known as **[The Dense](/geography/cosmology/plane-of-existance/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Etheria](/geography/cosmology/etheria.md)'s magical saturation.
+The [scale](/geography/landmark/scale.md)-connected dimension known as **[The Dense](/geography/cosmology/plane-of-existance/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Iridia](/geography/cosmology/iridia.md)'s magical saturation.
 
 ## Rules & Risks
 
 - **No New Breaches:** Creating new openings in a [scale](/geography/landmark/scale.md) is taboo and often punishable by death. The reasons are not just cultural—uncontrolled scale breaches have resulted in entire cities becoming cursed, warped, or erased.
-- **Magical Corruption:** Overuse or exploitation of [scale](/geography/landmark/scale.md) magic gradually corrupts both land and soul. The timeline of [Etheria](/geography/cosmology/etheria.md) is divided by **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
+- **Magical Corruption:** Overuse or exploitation of [scale](/geography/landmark/scale.md) magic gradually corrupts both land and soul. The timeline of [Iridia](/geography/cosmology/iridia.md) is divided by **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
 - **[Scale](/geography/landmark/scale.md) Exposure Effects:** Long-term exposure to raw scale magic can result in:
   - Elemental mutations
   - Temporal disjunctions
@@ -71,4 +71,4 @@ Religious protectors of **Batès Lamina**. They believe [scale](/geography/landm
 
 ## Final Notes
 
-Magic in [Etheria](/geography/cosmology/etheria.md) is **not a skill**. It is **a force**, a **remnant of divinity**, a **constant gamble**. Every interaction, every enchantment, and every discovery is a risk taken in the shadow of [Irion](/being/deity/irion.md)’s broken majesty.
+Magic in [Iridia](/geography/cosmology/iridia.md) is **not a skill**. It is **a force**, a **remnant of divinity**, a **constant gamble**. Every interaction, every enchantment, and every discovery is a risk taken in the shadow of [Irion](/being/deity/irion.md)’s broken majesty.

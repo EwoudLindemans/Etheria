@@ -20,7 +20,7 @@ The Graith once served as **gravekeepers** of the sea, or so they claim. Accordi
 
 Graith society is **communal but migratory**, centered around floating kelp-cradles and stone reef sanctuaries dragged slowly across the ocean floor. Leadership is earned through a ritual called **The Undertide**, where one must swim blindfolded through a screaming current and retrieve a “Whisper Shell”—a fossilized sea-clam said to house the voice of the drowned.
 
-Unlike tritons, the Graith distrust the surface. Their contact with [Etheria](/geography/cosmology/etheria.md)’s landfolk comes mainly through **stormwreck salvage**, where they pluck sunken vessels for relics, art, and words. They’re particularly intrigued by the myths of [Irion](/being/deity/irion.md), wondering aloud if the god fell not from the stars, but from the *deepest trench* of the world’s oceanic underbelly.
+Unlike tritons, the Graith distrust the surface. Their contact with [Iridia](/geography/cosmology/iridia.md)’s landfolk comes mainly through **stormwreck salvage**, where they pluck sunken vessels for relics, art, and words. They’re particularly intrigued by the myths of [Irion](/being/deity/irion.md), wondering aloud if the god fell not from the stars, but from the *deepest trench* of the world’s oceanic underbelly.
 
 Some surface-dwelling Graith serve as navigators, salvage-mages, or tidecallers—wielders of a unique brine-[magic](/structure/mechanic/magic.md) that manipulates pressure, salt, and forgotten sound. Their spells don’t shimmer—they churn. Even their healing magic sounds like a riptide pulling pain into the depths.
 

@@ -33,7 +33,7 @@ The space between them is filled with stories, songs, and spectacular distractio
 
 ## Gloriana and the Lost Friend
 
-At the centre of Tallis’s unspoken sorrow is [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md), his twelve-string lyre harp. Most believe she was earned, crafted, or stolen in some whimsical Tallis-worthy tale. In truth, she **once belonged to someone else**—a dear friend whose name no longer echoes in any corner of [Etheria](/geography/cosmology/etheria.md).
+At the centre of Tallis’s unspoken sorrow is [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md), his twelve-string lyre harp. Most believe she was earned, crafted, or stolen in some whimsical Tallis-worthy tale. In truth, she **once belonged to someone else**—a dear friend whose name no longer echoes in any corner of [Iridia](/geography/cosmology/iridia.md).
 
 She is not dead. She is **erased**—removed so thoroughly from the weave of memory and time that even Tallis no longer remembers her face. But his heart does. The emotional bond remains, anchored unknowingly in [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md), who remembers *everything*. To others, she is simply a magical harp. To Tallis, she is the last thread to something lost.
 

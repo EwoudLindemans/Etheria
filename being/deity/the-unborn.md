@@ -9,7 +9,7 @@ dateCreated: 2022-10-22T18:35:23.408Z
 ---
 
 # The Unborn
-Gods that never stepped on [Etheria](/geography/cosmology/etheria.md)
+Gods that never stepped on [Iridia](/geography/cosmology/iridia.md)
 [Aelfar](/being/deity/aelfar.md)
 [Tophix](/being/deity/tophix.md)
 [Dithrir](/being/deity/dithrir.md)

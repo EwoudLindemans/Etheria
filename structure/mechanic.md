@@ -18,4 +18,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
   A subtle magical weather phenomenon born of scale resonance.
 - [Magic](/structure/mechanic/magic.md)
 - [Resonance](/structure/mechanic/resonance.md)
-  The magical current that flows from the scales and shapes Etheria.
+  The magical current that flows from the scales and shapes Iridia.

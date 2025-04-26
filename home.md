@@ -32,13 +32,13 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
         - [Mohinders Spire](/geography/settlement/city/mohinders.md)
         - [The City of Or](/geography/settlement/city/city-of-or.md)
-          The largest city of Etheria, built beneath The Armour of Or.
+          The largest city of Iridia, built beneath The Armour of Or.
           - [Consumable](/geography/settlement/city/city-of-or/consumable.md)
           - [District](/geography/settlement/city/city-of-or/district.md)
           - [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
           - [Local](/geography/settlement/city/city-of-or/local.md)
             - [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)
-              Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
+              Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
           - [Shop](/geography/settlement/city/city-of-or/shop.md)
             - [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
               The City of Or Grand Archive and Library

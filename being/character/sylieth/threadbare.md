@@ -44,7 +44,7 @@ A scrap of red cord, torn from a bandage I’d used to bind a boy’s hand. It s
 
 Someone was.
 
-Not from this world. Not from [Etheria](/geography/cosmology/etheria.md). But he listened. And I listened back. His name was **Ilmater**—not from here, not known by the monks, but known to *me.* Through pain, through mercy, through stillness. I don’t know how he found me. I only know I feel him when I take someone’s pain into my hands, when I shoulder their grief and leave nothing behind. That red thread tightens around my wrist like a pulse. And I know I'm not alone.
+Not from this world. Not from [Iridia](/geography/cosmology/iridia.md). But he listened. And I listened back. His name was **Ilmater**—not from here, not known by the monks, but known to *me.* Through pain, through mercy, through stillness. I don’t know how he found me. I only know I feel him when I take someone’s pain into my hands, when I shoulder their grief and leave nothing behind. That red thread tightens around my wrist like a pulse. And I know I'm not alone.
 
 So now… I heal.
 

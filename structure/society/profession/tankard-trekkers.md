@@ -14,7 +14,7 @@ dateCreated: 2025-03-29T22:59:43.792Z
 ![tankard-tracker.png](/professions/tankard-tracker.png =500x)
 
 ## Overview  
-Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across [Etheria](/geography/cosmology/etheria.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/geography/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
+Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across [Iridia](/geography/cosmology/iridia.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/geography/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
 
 Their authority is recognized in Or and respected (or feared) elsewhere. They wield the sacred **Right of the Last Pour**, can bless taverns with long life, and—on rare, somber occasions—**revoke licenses**, condemning a pub to silence.
 

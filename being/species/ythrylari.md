@@ -46,21 +46,21 @@ Every Ythrylari knows they are not whole.
 
 Their legends speak of the **Shellsong**, a self-written harmonic collapse that fractures a Ythrylari’s [resonance](/structure/mechanic/resonance.md) into three parts:
 1. One sinks back into [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) to seed future [Denslings](/being/species/denslings.md).
-2. One becomes a permanent resonant echo in the [Resonance](/structure/mechanic/resonance.md) Web of [Etheria](/geography/cosmology/etheria.md).
-3. One *becomes [Iridian](/being/species/iridian.md)*—a full [manifestation](/structure/chronological/event/manifestation.md) of potential, emerging into [Etheria](/geography/cosmology/etheria.md) as a being of clarity, grace, and embodied purpose.
+2. One becomes a permanent resonant echo in the [Resonance](/structure/mechanic/resonance.md) Web of [Iridia](/geography/cosmology/iridia.md).
+3. One *becomes [Iridian](/being/species/iridian.md)*—a full [manifestation](/structure/chronological/event/manifestation.md) of potential, emerging into [Iridia](/geography/cosmology/iridia.md) as a being of clarity, grace, and embodied purpose.
 
 This metamorphosis is not guaranteed. It is feared, revered, and often resisted. Only a Ythrylari who has fully understood their own chord, unraveled their history, and chosen to *let go of all that [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) ever taught them* can complete the transformation.
 
 These rare few are known as **Threnaries**—those who write their own final song.
 
-## First Contact with Etheria
+## First Contact with Iridia
 
 Though no Ythrylari has truly crossed the veil, events around the [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) suggest a Shellsong event is approaching. Strange vibrations have begun haunting the [scale](/geography/landmark/scale.md)-forged walls, and the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md) reports crystalline dust forming in silence—always in the shape of a spiral.
 
 They say when the first Ythrylari arrives, they will not *walk*.  
 They will *resonate*.
 
-And [Etheria](/geography/cosmology/etheria.md) will know [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is no longer silent.
+And [Iridia](/geography/cosmology/iridia.md) will know [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is no longer silent.
 
 ---
 

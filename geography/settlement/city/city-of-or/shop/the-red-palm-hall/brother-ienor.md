@@ -52,7 +52,7 @@ He is often seen late into the night, tending to patients others have given up o
 
 ## Connection to Sylieth
 
-When **[Miss Terry](/being/character/miss-terry.md)** discovered a Tiefling urchin named **[Sylieth](/being/character/sylieth.md)**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to [Etheria](/geography/cosmology/etheria.md).
+When **[Miss Terry](/being/character/miss-terry.md)** discovered a Tiefling urchin named **[Sylieth](/being/character/sylieth.md)**, she brought them to the Hall instead of the authorities. Brother Ienor welcomed the child without question. He recognised a rare divine spark within them, despite their worship of **Ilmater**—a god unknown to [Iridia](/geography/cosmology/iridia.md).
 
 He supported [Sylieth](/being/character/sylieth.md)’s path, even when others viewed it as heretical or misguided. To Ienor, the shape of faith matters less than the healing it brings. He has remained a steady mentor in Sylieth’s life, guiding without controlling, and protecting without smothering.
 
@@ -74,4 +74,4 @@ Brother Ienor has never confirmed or denied any of these tales. When asked direc
 
 - *“If pain is a wound, kindness is the bandage. If suffering is a river, compassion is the bridge.”*
 - *“Let them laugh, if it eases their burden. Healing begins in many strange places.”*
-- *“I do not serve a god of [Etheria](/geography/cosmology/etheria.md). I serve the ache in every breath, the wound in every soul. That is enough.”*
+- *“I do not serve a god of [Iridia](/geography/cosmology/iridia.md). I serve the ache in every breath, the wound in every soul. That is enough.”*

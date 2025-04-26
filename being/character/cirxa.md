@@ -30,7 +30,7 @@ It is also said she once bartered a storm from a Sky-Monarch in the mountains of
 
 Her most infamous deal involved selling a silence so deep it consumed a city’s entire library for one night. What did the buyer get in return? No one knows. The books returned at dawn, slightly rearranged… and slightly sarcastic.
 
-## Role in Etheria
+## Role in Iridia
 
 Cirxa acts as a neutral agent between factions like **The [Arcane Fangs](/structure/society/factions/arcane-fangs.md)** and the **Council of Elders**. She sells information, occasionally artifacts, and sometimes entire destinies. She has dealings in [Triz Valley](/geography/settlement/city/triz-valley.md), where she is persona non grata after a rather inconvenient prophecy-fulfilling incident involving an aggressive potato cult and a misunderstood tomato festival.
 

@@ -13,7 +13,7 @@ dateCreated: 2025-04-06T19:52:09.659Z
 **Race:** Tiefling  
 **Class:** Cleric (Life Domain)  
 **Background:** Urchin  
-**Faith:** Ilmater (non-native to [Etheria](/geography/cosmology/etheria.md))  
+**Faith:** Ilmater (non-native to [Iridia](/geography/cosmology/iridia.md))  
 **Origin:** The [City of Or](/geography/settlement/city/city-of-or.md)  
 **Current Location:** Strixhaven University (via planar transfer)  
 
@@ -44,7 +44,7 @@ Caught mid-escape, Sylieth expected to be punished. Instead, they met **[Miss Te
 
 [Miss Terry](/being/character/miss-terry.md) brought them to **[Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**, the compassionate and strikingly handsome elven healer who led **[The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)**. The monks there didn’t treat Sylieth as a nuisance—they offered rest, food, work, and dignity. They gave Sylieth a name, and in time, a purpose.
 
-It was here that Sylieth’s divine connection awakened—not to a god of [Etheria](/geography/cosmology/etheria.md), but to **Ilmater**, a [deity](/structure/mechanic/deity.md) from beyond the plane. Through a frayed red thread—once part of a bandage, now a sacred tether—Sylieth felt the presence of Ilmater for the first time. A god of suffering, endurance, and compassion. A god who understood them.
+It was here that Sylieth’s divine connection awakened—not to a god of [Iridia](/geography/cosmology/iridia.md), but to **Ilmater**, a [deity](/structure/mechanic/deity.md) from beyond the plane. Through a frayed red thread—once part of a bandage, now a sacred tether—Sylieth felt the presence of Ilmater for the first time. A god of suffering, endurance, and compassion. A god who understood them.
 
 ## Belief and Purpose
 Sylieth follows **Ilmater** not through doctrine, but through action. They bind wounds, absorb pain, and offer comfort with quiet resolve. They do not believe they are worthy of the comfort they give—but they offer it anyway.

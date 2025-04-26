@@ -13,7 +13,7 @@ dateCreated: 2025-04-06T19:53:18.071Z
 **Type:** Personal Relic  
 **Wielder:** [Sylieth](/being/character/sylieth.md)  
 **Origin:** [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md), [City of Or](/geography/settlement/city/city-of-or.md)  
-**Associated [Deity](/structure/mechanic/deity.md):** Ilmater (non-native to [Etheria](/geography/cosmology/etheria.md))  
+**Associated [Deity](/structure/mechanic/deity.md):** Ilmater (non-native to [Iridia](/geography/cosmology/iridia.md))  
 **Status:** Spiritually active, functionally mundane  
 
 ## Description
@@ -28,7 +28,7 @@ The thread comes from **[Sylieth](/being/character/sylieth.md)’s first act of 
 
 That night, [Sylieth](/being/character/sylieth.md) held it during prayer—a prayer not to any known Etherian god, but to something they felt and could not name. In that moment of stillness and weight, the thread became more than a memory. It became **a tether**.
 
-Soon after, [Sylieth](/being/character/sylieth.md) began to feel the quiet presence of **Ilmater**, a god not native to [Etheria](/geography/cosmology/etheria.md) but known across planes as the Lord of Suffering and Mercy. The thread became the **bridge** between Sylieth’s pain, purpose, and the divine.
+Soon after, [Sylieth](/being/character/sylieth.md) began to feel the quiet presence of **Ilmater**, a god not native to [Iridia](/geography/cosmology/iridia.md) but known across planes as the Lord of Suffering and Mercy. The thread became the **bridge** between Sylieth’s pain, purpose, and the divine.
 
 ## Properties
 

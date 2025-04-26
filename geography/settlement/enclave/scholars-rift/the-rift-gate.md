@@ -22,7 +22,7 @@ The paradox was born when [Nokk](/being/character/nokk.md) embarked on one of hi
 
 At the peak of his exploration, something went wrong—or perhaps, went exactly as it was meant to.
 
-[Nokk](/being/character/nokk.md) attempted to harness the [resonance](/structure/mechanic/resonance.md) of [The Dense](/geography/cosmology/plane-of-existance/the-dense.md) itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, merging two points of time into a single point. Reality itself seemed to buckle, and when the rift finally settled, scholars across [Etheria](/geography/cosmology/etheria.md) realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
+[Nokk](/being/character/nokk.md) attempted to harness the [resonance](/structure/mechanic/resonance.md) of [The Dense](/geography/cosmology/plane-of-existance/the-dense.md) itself, but the reaction was far more violent than he anticipated. A massive arcane pulse rippled outward, merging two points of time into a single point. Reality itself seemed to buckle, and when the rift finally settled, scholars across [Iridia](/geography/cosmology/iridia.md) realized that something had changed. The Rift Gate—long believed to be an ancient construct—had been stabilized at that exact moment.
 
 Yet historical records made it clear: The Rift Gate had already existed before [Nokk](/being/character/nokk.md)’s birth.
 

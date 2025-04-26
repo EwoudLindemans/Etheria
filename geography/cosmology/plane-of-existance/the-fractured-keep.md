@@ -14,13 +14,13 @@ dateCreated: 2025-04-07T21:52:26.471Z
 
 ![the-concordant-thread.webp](/world/the-concordant-thread.webp =500x)
 
-The **Concordant Tread** is a divine plane formed entirely by the presence and interplay of [Etheria](/geography/cosmology/etheria.md)’s deities. It is not a single, unified realm—but a **stitched continent of god-territories**, each one an exact spatial [manifestation](/structure/chronological/event/manifestation.md) of a [deity](/structure/mechanic/deity.md)’s domain. These domains are not metaphors or symbols—they are *real*, material, and deeply territorial.
+The **Concordant Tread** is a divine plane formed entirely by the presence and interplay of [Iridia](/geography/cosmology/iridia.md)’s deities. It is not a single, unified realm—but a **stitched continent of god-territories**, each one an exact spatial [manifestation](/structure/chronological/event/manifestation.md) of a [deity](/structure/mechanic/deity.md)’s domain. These domains are not metaphors or symbols—they are *real*, material, and deeply territorial.
 
 Here, gods do not merely reside. They **expand**, **contract**, and **border**.
 
 ### Structure
 
-The plane is made up of **Domain-Spaces**, each fully material and utterly distinct in logic, physics, and danger. These regions form organically around a god once it becomes sufficiently anchored in [Etheria](/geography/cosmology/etheria.md) through its [Scale](/geography/landmark/scale.md) association.
+The plane is made up of **Domain-Spaces**, each fully material and utterly distinct in logic, physics, and danger. These regions form organically around a god once it becomes sufficiently anchored in [Iridia](/geography/cosmology/iridia.md) through its [Scale](/geography/landmark/scale.md) association.
 
 - A god of **light and clarity** (e.g., Vennalune) may govern the **Dawnreach**, a blinding, sun-drenched expanse where shadows are illegal and knowledge grows from the soil.
 - A [deity](/structure/mechanic/deity.md) of **war and conquest** rules **Askarath’s Blight**, a scorched badland of eternal sieges, where terrain shifts based on acts of dominance.
@@ -60,7 +60,7 @@ This system has led to divine alliances and betrayals over border rearrangements
 
 ### Theoretical Implications
 
-Scholars at [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) have argued that the **Tread is not eternal**—only the presence of the Scales and divine [resonance](/structure/mechanic/resonance.md) maintains its existence. Should [Etheria](/geography/cosmology/etheria.md)’s Scales all be broken, the Tread may collapse, throwing the gods into disarray and unmooring their territories into a free-floating war of unstable realms.
+Scholars at [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) have argued that the **Tread is not eternal**—only the presence of the Scales and divine [resonance](/structure/mechanic/resonance.md) maintains its existence. Should [Iridia](/geography/cosmology/iridia.md)’s Scales all be broken, the Tread may collapse, throwing the gods into disarray and unmooring their territories into a free-floating war of unstable realms.
 
 Others speculate the **[Ragged Goons](/structure/society/factions/ragged-goons.md)** seek to discover Tread-passages to reach domains not yet mapped, attempting to introduce *foreign deities* into the Tread through forbidden domains—like the **Waxed Hollow** or the lost **Stone of Indulgence**.
 

@@ -16,12 +16,12 @@ From Densling to [Ythrylari](/being/species/ythrylari.md) to [Iridian](/being/sp
 
 The story of the **[Ythrylari](/being/species/ythrylari.md)** does not end with their shimmering silhouettes and chord-born minds. They are not the final design, but the penultimate stanza in a grander fugue—one orchestrated by [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) itself. Their destiny, whispered along collapsed ley-lines and humming in the throat of broken stars, is **to become [Iridian](/being/species/iridian.md)**.
 
-The [Iridian](/being/species/iridian.md), long thought to be beings native to [Etheria](/geography/cosmology/etheria.md), are in truth **the manifested end-state of a [Ythrylari](/being/species/ythrylari.md) who has successfully shed the gravitational echo of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md)**. This process, known among the Ythrylari as **“The [Manifestation](/structure/chronological/event/manifestation.md) Spiral”**, is not ascension—it is *decay with intent*. 
+The [Iridian](/being/species/iridian.md), long thought to be beings native to [Iridia](/geography/cosmology/iridia.md), are in truth **the manifested end-state of a [Ythrylari](/being/species/ythrylari.md) who has successfully shed the gravitational echo of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md)**. This process, known among the Ythrylari as **“The [Manifestation](/structure/chronological/event/manifestation.md) Spiral”**, is not ascension—it is *decay with intent*. 
 
 The [Ythrylari](/being/species/ythrylari.md) must reach a state of harmonic dissonance so complex, it fractures the self across three realities simultaneously:
 - One fragment returns to [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) as raw [resonance](/structure/mechanic/resonance.md) (to seed new [Denslings](/being/species/denslings.md)).
-- One forms a [Resonance](/structure/mechanic/resonance.md) Node somewhere in [Etheria](/geography/cosmology/etheria.md)—often mistaken as a magical anomaly.
-- One becomes **the [Iridian](/being/species/iridian.md) self**—fully formed, physical, and *strangely radiant*, walking the soils of [Etheria](/geography/cosmology/etheria.md) with no memory of its origin... only the pull of music in their bones.
+- One forms a [Resonance](/structure/mechanic/resonance.md) Node somewhere in [Iridia](/geography/cosmology/iridia.md)—often mistaken as a magical anomaly.
+- One becomes **the [Iridian](/being/species/iridian.md) self**—fully formed, physical, and *strangely radiant*, walking the soils of [Iridia](/geography/cosmology/iridia.md) with no memory of its origin... only the pull of music in their bones.
 
 ---
 
@@ -29,7 +29,7 @@ The [Ythrylari](/being/species/ythrylari.md) must reach a state of harmonic diss
 
 The transformation is not peaceful. It is an event.
 
-Some scholars call it **a sonic detonation**, others a **resonant rebirth**. To the [Ythrylari](/being/species/ythrylari.md), it is **The Cracking of the Shellsong**—a moment where the tone-core within a Ythrylari fractures, sending waves across [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) and [Etheria](/geography/cosmology/etheria.md) alike. Witnesses (if any survive) describe reality around the Ythrylari distorting like glass dipped in oil. Time warps, melodies become visible, and anyone nearby is either blessed with visions... or turned inside out, gently.
+Some scholars call it **a sonic detonation**, others a **resonant rebirth**. To the [Ythrylari](/being/species/ythrylari.md), it is **The Cracking of the Shellsong**—a moment where the tone-core within a Ythrylari fractures, sending waves across [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) and [Iridia](/geography/cosmology/iridia.md) alike. Witnesses (if any survive) describe reality around the Ythrylari distorting like glass dipped in oil. Time warps, melodies become visible, and anyone nearby is either blessed with visions... or turned inside out, gently.
 
 ---
 

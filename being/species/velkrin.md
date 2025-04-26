@@ -15,9 +15,9 @@ dateCreated: 2025-04-25T17:53:00.521Z
 | ![veydr.webp](/world/veydr.webp =500x) | ![sylvachor.webp](/world/sylvachor.webp =500x) | ![thyrnari.webp](/world/thyrnari.webp =500x) 
 ## Overview
 
-The **Velkrin** are not many races—they are **one species**, **one people**, whose forms ripple with the dreaming breath of [Etheria](/geography/cosmology/etheria.md) itself. Though their appearances vary wildly—some bearing antlers of crystal, others sprouting velvet wings or lupine ears—these are not subspecies or kinfolk. They are all **Velkrin**, shaped by instinct, memory, and the [resonance](/structure/mechanic/resonance.md) of place.
+The **Velkrin** are not many races—they are **one species**, **one people**, whose forms ripple with the dreaming breath of [Iridia](/geography/cosmology/iridia.md) itself. Though their appearances vary wildly—some bearing antlers of crystal, others sprouting velvet wings or lupine ears—these are not subspecies or kinfolk. They are all **Velkrin**, shaped by instinct, memory, and the [resonance](/structure/mechanic/resonance.md) of place.
 
-They are the **Undivided Wild**: [Etheria](/geography/cosmology/etheria.md)’s will given sapient shape. Where others see beastfolk or spiritkin, the Velkrin see only **the Manyfold Face of Life**.
+They are the **Undivided Wild**: [Iridia](/geography/cosmology/iridia.md)’s will given sapient shape. Where others see beastfolk or spiritkin, the Velkrin see only **the Manyfold Face of Life**.
 
 ## Shared Physiology
 
@@ -42,7 +42,7 @@ Velkrin do not organize by nation, caste, or bloodline. Instead, they belong to 
 
 Among themselves, difference in form is neither strange nor significant. It is *expected*. Only outsiders confuse phenotype with kind.
 
-## Role in Etheria
+## Role in Iridia
 
 The Velkrin are **everywhere** that wildness still breathes. Where the [Verdant Divide](/geography/region/verdant-divide.md) grows thick, where forgotten groves sigh with old echoes, where beasts speak in dream—you will find Velkrin. Sometimes only one. Sometimes whole forests walking in silence.
 
@@ -69,7 +69,7 @@ These forms shift and evolve with each generation. A Velkrin may even transform 
 
 ## Encounters and Awe
 
-To encounter a Velkrin is to witness **[Etheria](/geography/cosmology/etheria.md) speaking directly**, shaped into form. Some will stare at you with beast’s silence. Others will dance in spirals that stir winds. Some will speak, though rarely in words.
+To encounter a Velkrin is to witness **[Iridia](/geography/cosmology/iridia.md) speaking directly**, shaped into form. Some will stare at you with beast’s silence. Others will dance in spirals that stir winds. Some will speak, though rarely in words.
 
 You will know a Velkrin not by their shape, but by what they stir in you:  
 **the old hunger to belong to something older than time.**

@@ -1,5 +1,5 @@
 ---
-title: Etheria
+title: Iridia
 description: A world created from a collision with a magical creature.
 published: 1
 date: 2025-04-14T21:50:34.282Z
@@ -8,16 +8,16 @@ editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
 
-# Etheria
+# Iridia
 ![etheria_v2.webp](/world/etheria_v2.webp =500x)
 In the old days past, a barren world collided with the magical creature [Irion](/being/deity/irion.md). Rupturing the planet and shattering it into a thousand fragments. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as [The Collapse](/structure/chronological/event/the-collapse.md), This event shattered reality and created enormous, interlocked scales each possessing unique properties. This world exists in a stable yet improbable formation, suspended in the cosmos by forces beyond comprehension.
 
 The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful [magic](/structure/mechanic/magic.md). Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.
 
-The magical essence of the creature is what gives Etheria its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with [magic](/structure/mechanic/magic.md). It is a world that is in constant flux, and it is this magic that makes it so special.
+The magical essence of the creature is what gives Iridia its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with [magic](/structure/mechanic/magic.md). It is a world that is in constant flux, and it is this magic that makes it so special.
 It is said that in certain area's the magical essence has merged so much that Mountains shift, valleys rise and fall, and forests expand and contract as if the land itself were breathing.
 
-In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the survival of the people on Etheria hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature [Irion](/being/deity/irion.md). These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors. The very essence of Irion’s [magic](/structure/mechanic/magic.md) courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
+In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the survival of the people on Iridia hinged on their ability to adapt to the presence of magical scales left behind by the collision with the creature [Irion](/being/deity/irion.md). These colossal, shimmering scales, with immense height and width, became not only a symbol of the cataclysmic event but also a lifeline for the scattered survivors. The very essence of Irion’s [magic](/structure/mechanic/magic.md) courses through the land, shaping landscapes, sustaining civilizations, and fueling both wonder and conflict. 
 
 - [Scale](/geography/landmark/scale.md) Sanctuaries:
 Communities quickly discovered that areas where these magical scales were concentrated had unique properties. The scales emitted a soothing energy that repelled the more dangerous creatures that roamed the post-collapse landscape. People began to build settlements around these [scale](/geography/landmark/scale.md) sanctuaries, utilizing the immense size of the scales as natural barriers and shelters against the monstrous threats.
@@ -28,7 +28,7 @@ The immense size of the magical scales allowed survivors to build intricate shel
 - [Scale](/geography/landmark/scale.md) Conduits:
 Over time, the survivors learned to harness the latent [magic](/structure/mechanic/magic.md) within the scales to power various devices and technologies. Scales could be infused into tools, lighting systems, and communication devices, creating a kind of "[scale](/geography/landmark/scale.md)-driven" technological renaissance that facilitated their resurgence as a civilization.
 
-There is no one ruler of Etheria. Each race has its own territory that it controls. But there is an overall peace throughout Etheria that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Etheria
+There is no one ruler of Iridia. Each race has its own territory that it controls. But there is an overall peace throughout Iridia that is maintained by the Council of Elders. This is a group of wise beings who represent each race and act as mediators between them. They settle disputes and keep the peace throughout Iridia
 
 ## Magic
 From every place in the land, the remaining scales of the ancient creature can be seen towering over the world, their impossible heights a testament to forgotten times. These scales, infused with immense [magic](/structure/mechanic/magic.md), are nearly indestructible, making them objects of both reverence and caution. Few dare to tamper with them, and those who do often pay with their lives. However, over centuries, some managed to pierce small gaps into the thick plates. From these openings, magic sparks pour into the land, raw and unstable. Cities ([City of Or](/geography/settlement/city/city-of-or.md) and the [Mohinders](/geography/settlement/city/mohinders.md) Spire) have learned to harness these sparks with specialized means, stabilizing them as a power source. Yet, any new attempt to create more cavities is strictly forbidden.
@@ -54,7 +54,7 @@ A large curved [scale](/geography/landmark/scale.md) with the top broken off, it
 The [Asara Plate](/geography/landmark/scale/asara-plate.md) sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique [scale](/geography/landmark/scale.md) is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
 
 ### The Ornite Ring
-Surrounding Etheria is the **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Etheria from the unknown beyond.  
+Surrounding Iridia is the **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Iridia from the unknown beyond.  
 
 ## Religions
 - **Followers of [Irion](/being/deity/irion.md)**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical scales. They use Batès Lamina as shrine's and will protect it whatever the cost.

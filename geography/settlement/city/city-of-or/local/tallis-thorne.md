@@ -1,6 +1,6 @@
 ---
 title: Tallis Thorne
-description: Bard Extraordinaire, Living Legend, Voice of Etheria, Definitely Not a Narcissist
+description: Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
 published: 1
 date: 2025-04-14T21:45:21.018Z
 tags: 
@@ -22,7 +22,7 @@ Behind the golden curls and ever-present smirk lies a complicated figure: part m
 
 Tallis's ego is both his signature and his shield. He truly believes that the world is a story in which he has been cast as the lead—and to be fair, he has a shocking number of ballads, statues, and scandals to support that claim.
 
-## Bard Extraordinaire, Living Legend, Voice of Etheria
+## Bard Extraordinaire, Living Legend, Voice of Iridia
 
 ### Physical Description
 
@@ -57,7 +57,7 @@ Tallis’s elven blood is undeniable—evident in his unaging features, sylvan g
 Despite Tallis’s partial elven heritage being obvious, the **other half of his lineage remains a source of great mystery—and greater storytelling.** Here are just a few of the most popular (and often contradictory) theories:
 
 #### 1. **Celestial Entity**  
-Some claim his other half descends from a fallen star, an astral muse who whispered melodies into the fabric of [Etheria](/geography/cosmology/etheria.md) itself.  
+Some claim his other half descends from a fallen star, an astral muse who whispered melodies into the fabric of [Iridia](/geography/cosmology/iridia.md) itself.  
 - *Evidence:* He sparkles in moonlight. Has literally glowed while performing.  
 - *Tallis’s Response:* “I don’t like to brag about being cosmic. That would make me… distant.”
 
@@ -101,7 +101,7 @@ Although it is hard to decide which of his many works shine out the most, here's
 - **Haters**: Dismiss him as an attention-hungry exaggerator. Call him an “applause addict,” “a walking ego with a lute,” or “a one-man propaganda machine.”
 - **Tallis**: Assumes the haters are just undereducated or jealous. Probably both.
 
-### A curated list of modest (yet historically significant) reasons why Tallis Thorne is the greatest bard in Etheria  
+### A curated list of modest (yet historically significant) reasons why Tallis Thorne is the greatest bard in Iridia  
 *Written by Tallis Thorne, Bard Extraordinaire, Most Trusted Historical Authority Alive*
 
 - **I once ended a war with a love ballad.**  

@@ -12,7 +12,7 @@ dateCreated: 2025-03-11T20:16:23.594Z
 
 ![the-ragged-goons.webp](/world/the-ragged-goons.webp =500x)
 
-The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/geography/landmark/scale.md)-exploiters who thrive on the chaos of [Etheria](/geography/cosmology/etheria.md)’s fringes. Born in the wake of a catastrophic scale experiment in **Arc 131**, they reject the sanctity of [Irion](/being/deity/irion.md)’s relics, viewing the scales as tools to be stripped and wielded. Their history is one of reckless raids, bloody rivalries, and a stubborn refusal to bow to the world’s order—a legacy that endures even as their numbers dwindle in the **Arc of Corruption**.
+The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/geography/landmark/scale.md)-exploiters who thrive on the chaos of [Iridia](/geography/cosmology/iridia.md)’s fringes. Born in the wake of a catastrophic scale experiment in **Arc 131**, they reject the sanctity of [Irion](/being/deity/irion.md)’s relics, viewing the scales as tools to be stripped and wielded. Their history is one of reckless raids, bloody rivalries, and a stubborn refusal to bow to the world’s order—a legacy that endures even as their numbers dwindle in the **Arc of Corruption**.
 
 ## Origins: The Spark of Defiance (Arc 131)
 
@@ -80,7 +80,7 @@ Ruk’s death fractured the Goons, but their spirit persists in scattered crews.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Etheria](/geography/cosmology/etheria.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Etheria, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The Ragged Goons are [Iridia](/geography/cosmology/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

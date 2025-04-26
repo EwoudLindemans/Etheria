@@ -1,6 +1,6 @@
 ---
 title: The City of Or
-description: The largest city of Etheria, built beneath The Armour of Or.
+description: The largest city of Iridia, built beneath The Armour of Or.
 published: 1
 date: 2025-04-14T21:50:56.384Z
 tags: or
@@ -71,7 +71,7 @@ Some of the most iconic brews include:
 
 ## Rulers of Or
 
-Present day, the Great Dwarven Flatstone Family is the richest family on all of [Etheria](/geography/cosmology/etheria.md). The [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) consists of **seventeen members**: **twelve permanent seats** held by the Flatstone family, and **five elected seats** filled every three years during the city's renowned [Election Festival](/geography/settlement/city/city-of-or/election-festival.md). While the Flatstones dominate the council numerically, elected representatives hold strong influence over civil matters. 
+Present day, the Great Dwarven Flatstone Family is the richest family on all of [Iridia](/geography/cosmology/iridia.md). The [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) consists of **seventeen members**: **twelve permanent seats** held by the Flatstone family, and **five elected seats** filled every three years during the city's renowned [Election Festival](/geography/settlement/city/city-of-or/election-festival.md). While the Flatstones dominate the council numerically, elected representatives hold strong influence over civil matters. 
 
 Crime is not tolerated and is punished harshly—but most citizens agree the council rules with a firm but fair hand.
 
