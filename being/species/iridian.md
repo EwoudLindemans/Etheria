@@ -19,7 +19,7 @@ dateCreated: 2025-03-04T18:17:56.349Z
 ## Origin & Birth
 Iridian are not born through conventional means. Instead, they form naturally when a surge of raw [magic](/structure/mechanic/magic.md) escapes from a [scale](/geography/landmark/scale.md)’s cavity, drawing in nearby organic matter, elemental energy, and remnants of past life into a new, sentient being. These events—called Manifestations—are rare, and many Iridian do not remember their creation.
 
-Though all Iridia originate from a [scale](/geography/landmark/scale.md), they are not bound to it. Some Iridian retain the properties of the scale where they manifested, while others change over time, adapting to the [magic](/structure/mechanic/magic.md) of a different scale if they spend long enough near it.
+Though all Iridians originate from a [scale](/geography/landmark/scale.md), they are not bound to it. Some Iridian retain the properties of the scale where they manifested, while others change over time, adapting to the [magic](/structure/mechanic/magic.md) of a different scale if they spend long enough near it.
 
 ### A Body of Many Origins
 Each Iridian is unique, shaped by the forces present at their creation. Some might have faint glowing patterns across their skin, while others carry the scent of the land or the hum of distant energy within them. Some might have hardened skin like bark, others might carry a faint aura of warmth or static, and a few might even have an unnatural fluidity to their movements, as if slightly disconnected from the rules of the world.
