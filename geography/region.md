@@ -11,4 +11,5 @@ dateCreated: 2022-01-27T08:44:37.050Z
 # Region
 - [Mistveil Marshes](/geography/region/mistveil-marshes.md)
 - [Skein of Bones](/geography/region/skein-of-bones.md)
+- [The Blooming Skein](/geography/region/blooming-skein.md)
 - [Verdant Divide](/geography/region/verdant-divide.md)

@@ -12,3 +12,5 @@ dateCreated: 2022-01-27T08:44:37.050Z
 - [Factions](/structure/society/factions.md)
 - [Group](/structure/society/group.md)
 - [Profession](/structure/society/profession.md)
+- [The Ashenfang Orcs](/structure/society/ashenfang-orc.md)
+- [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md)

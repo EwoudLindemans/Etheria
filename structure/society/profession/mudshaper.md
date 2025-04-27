@@ -13,7 +13,7 @@ dateCreated: 2025-03-18T15:01:06.378Z
 ![mud-shaper.webp](/professions/mud-shaper.webp =500x)
 
 ## Concept & Fantasy Twist:
-Deep in the swampy heartlands where stone is scarce but **earth is alive**, the ogres of Glutt’thar have perfected a profession both sacred and practical—the **Mudshaper**. These towering artisans use their immense strength and deep connection to the land to **mold entire homes, forge living armor, and breathe crude life into lumbering golems** using enchanted mud, clay, and swamp essence. Their work is revered, for they do not simply build—they **grow** their creations, shaping structures that shift over time, armor that repairs itself when fed with fresh earth, and golems that stir to life when given purpose.
+Deep in the swampy heartlands where stone is scarce but **earth is alive**, the [ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) have perfected a profession both sacred and practical—the **Mudshaper**. These towering artisans use their immense strength and deep connection to the land to **mold entire homes, forge living armor, and breathe crude life into lumbering golems** using enchanted mud, clay, and swamp essence. Their work is revered, for they do not simply build—they **grow** their creations, shaping structures that shift over time, armor that repairs itself when fed with fresh earth, and golems that stir to life when given purpose.
 
 To outsiders, their methods seem crude, but to the ogres, **a well-shaped bog wall can withstand a siege**, and a **properly sculpted Mud Golem can defend a village for generations.**
 

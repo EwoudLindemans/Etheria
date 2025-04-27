@@ -29,13 +29,13 @@ Ash and soot cling to them like a second skin, and wherever they tread, the air 
 
 ## Objective
 
-The Ashenfang Orcs seek nothing less than the total domination of the Skein of Bones and the Mistveil Marshes.
+The Ashenfang Orcs seek nothing less than the total domination of the [Skein of Bones](/geography/region/skein-of-bones.md) and the [Mistveil Marshes](/geography/region/mistveil-marshes.md).
 
 Their grand design is simple and horrific:
 
-- **Harvest the Bones:** They intend to strip the Skein of Bones of its last sacred relics—the towering ribs, the ancestor remains, the fossilized echoes—grinding them into the raw material for their forges of undeath.
-- **Bind the Souls:** In the Mistveil Marshes, the souls safeguarded by the Ogres of Glutt'thar are the key. The Ashenfang Orcs raid relentlessly, seeking to capture these wandering spirits and force them into bone frames.
-- **Forge the Army:** Bones alone are brittle. Souls alone are fleeting. But together, under the Ashenfang artisans' dark craft, they can forge an unbreakable army: silent, tireless, immortal. An army that will not just conquer the Blooming Skein but spread its dominion far beyond, smothering all new life in a tide of ash and bone.
+- **Harvest the Bones:** They intend to strip the [Skein of Bones](/geography/region/skein-of-bones.md) of its last sacred relics—the towering ribs, the ancestor remains, the fossilized echoes—grinding them into the raw material for their forges of undeath.
+- **Bind the Souls:** In the [Mistveil Marshes](/geography/region/mistveil-marshes.md), the souls safeguarded by the [Ogres of Glutt'thar](/structure/society/ogres-of-glutt-thar.md) are the key. The Ashenfang Orcs raid relentlessly, seeking to capture these wandering spirits and force them into bone frames.
+- **Forge the Army:** Bones alone are brittle. Souls alone are fleeting. But together, under the Ashenfang artisans' dark craft, they can forge an unbreakable army: silent, tireless, immortal. An army that will not just conquer the [Blooming Skein](/geography/region/blooming-skein.md) but spread its dominion far beyond, smothering all new life in a tide of ash and bone.
 
 Their leaders, black-hearted chieftains and spirit-binders, call this vision "The Unbroken Host"—a force that will turn the cycle of life and death into a stagnant, endless dominion of undeath.
 
@@ -51,14 +51,14 @@ The Ashenfang Orcs do not fight like living armies. Their assaults are relentles
 ## Relations
 
 - **Bonebreakers:** Seen as weak, nostalgic fools clinging to dead honor.
-- **Verdant Claws:** Hated with a cold fury—the Blooming Skein’s rampant growth threatens the Ashenfang's dominion over death.
-- **Ogres of Glutt'thar:** Obstacles. Once respected as fellow keepers of death, now viewed as hoarders of power meant to be seized.
+- **Verdant Claws:** Hated with a cold fury—the [Blooming Skein](/geography/region/blooming-skein.md)’s rampant growth threatens the Ashenfang's dominion over death.
+- **[Ogres of Glutt'thar](/structure/society/ogres-of-glutt-thar.md):** Obstacles. Once respected as fellow keepers of death, now viewed as hoarders of power meant to be seized.
 
 ## Current Conflict
 
-The Blooming Skein's unchecked expansion has begun to choke the Skein of Bones, burying relics beneath living roots. If the Ashenfang Orcs cannot harvest the bones soon, they risk losing their supply of raw materials forever.
+The [Blooming Skein](/geography/region/blooming-skein.md)'s unchecked expansion has begun to choke the [Skein of Bones](/geography/region/skein-of-bones.md), burying relics beneath living roots. If the Ashenfang Orcs cannot harvest the bones soon, they risk losing their supply of raw materials forever.
 
-At the same time, the Mistveil Marshes' souls grow restless. Raiding parties, carrying cursed bone-lanterns, have already begun skirmishing with the Ogres' soulwardens. Each spirit captured is a small victory; each delay threatens the timetable for raising the Unbroken Host.
+At the same time, the [Mistveil Marshes](/geography/region/mistveil-marshes.md)' souls grow restless. Raiding parties, carrying cursed bone-lanterns, have already begun skirmishing with the Ogres' soulwardens. Each spirit captured is a small victory; each delay threatens the timetable for raising the Unbroken Host.
 
 The Ashenfang Orcs are on the brink. Triumph would see them unleash an unstoppable plague of bone across the land. Failure would see their embers extinguished forever beneath vines and sun.
 

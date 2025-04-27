@@ -78,7 +78,7 @@ Crafted from the purest Emberglass, these mirrors reveal more than just reflecti
 
 ### **Emberglass Orbs**  
 *"Voices of the past, never silenced."*  
-Each emberglass orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
+Each [emberglass orb](/structure/society/profession/emberglass-artisan/emberglass-orb.md) is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
 
 ![emberglass-orb.webp](/world/profession/emberglass-shaper/emberglass-orb.webp =150x)
 

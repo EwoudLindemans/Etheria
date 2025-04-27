@@ -10,7 +10,7 @@ dateCreated: 2025-04-27T14:07:02.381Z
 
 # The Blooming Skein
 
-In the future, the Skein of Bones transforms into the Blooming Skein—a place of profound, aching beauty. Here, death, memory, and stubborn hope weave together into a vast, living tapestry. Though the bones remain, they no longer speak only of desolation; they are celebrated, honored, and reborn.
+In the future, the [Skein of Bones](/geography/region/skein-of-bones.md) transforms into the Blooming Skein—a place of profound, aching beauty. Here, death, memory, and stubborn hope weave together into a vast, living tapestry. Though the bones remain, they no longer speak only of desolation; they are celebrated, honored, and reborn.
 
 ![the_blooming_skein.png](/world/the_blooming_skein.png =500x)
 
@@ -19,7 +19,7 @@ In the future, the Skein of Bones transforms into the Blooming Skein—a place o
 The landscape is a dream stitched by nature and spirit alike:
 
 - Ribs of colossal leviathans rise from the soil like ancient archways, their curves entwined with blood-red trumpet blooms, pale violet creepers, and bioluminescent moss that pulses softly at dusk.
-- Cracked, broken earth has given way to deep, rich loam—soil so black and vibrant it hums with the magic of old marrow. Ancestor-grasses sway like silver waves, and marrow-trees—pale-barked giants with lush canopies—root deep into the bones of the past.
+- Cracked, broken earth has given way to deep, rich loam—soil so black and vibrant it hums with the [magic](/structure/mechanic/magic.md) of old marrow. Ancestor-grasses sway like silver waves, and marrow-trees—pale-barked giants with lush canopies—root deep into the bones of the past.
 - Root-bridges stretch across ravines and gullies, anchored in the curving spine-columns of ancient beasts, forming natural walkways through the thriving landscape.
 - Pools of water, clear and shimmering, gather in the hollows of ribcages. Bone-lilies—flowers with translucent petals etched with faint, ghostly runes—bloom there, casting a soft radiance over the glassy surface.
 - Fierce sunlight, filtered by drifting mists, breaks into brilliant shafts across flowering graveyards where life and bone meet in a stitched embroidery of growth and remembrance.

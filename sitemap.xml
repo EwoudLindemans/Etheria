@@ -531,6 +531,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/region/blooming-skein.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/the_blooming_skein.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/mistveil-marshes.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -539,6 +547,9 @@
     <loc>https://wiki.hq.rockycore.com/geography/region/skein-of-bones.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/the_skein_of_bones.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/verdant-divide.md</loc>
@@ -1084,6 +1095,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/structure/society/ashenfang-orc.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/structure/society/factions.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1166,6 +1182,11 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/structure/society/ogres-of-glutt-thar.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/structure/society/profession.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1207,6 +1228,14 @@
     </image:image>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-fractured-prism.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/emberglass-artisan/emberglass-orb.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-orb.webp</image:loc>
     </image:image>
   </url>
   <url>

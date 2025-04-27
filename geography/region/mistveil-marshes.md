@@ -18,8 +18,8 @@ Beneath the bogs lurk the rare **Soulglass Orbs**, strange translucent relics wh
 
 Travelers who stray too deep into Mistveil tell tales of being led astray by shifting lights and voices that mimic familiar companions. Some vanish into the mist without sound or struggle, their tracks devoured by the greedy mud. The [Mudshapers](/structure/society/profession/mudshaper.md) simply nod when asked, as if this is the natural order of things—because in the Marsh, nothing stands still except those who forget how to listen.
 
-Living here are the Ogres of Glutt’thar
+Living here are the [Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md)
 
 ## Summary
-In the Mistveil Marshes, strength is not measured in blows or bloodshed, but in patience, humility, and hands strong enough to build but gentle enough to heal. The **Ogres of Glutt’thar** embody this wisdom, their lives a slow, enduring testament to the truth that not all giants are monsters—and not all battles must be fought with fists.
+In the Mistveil Marshes, strength is not measured in blows or bloodshed, but in patience, humility, and hands strong enough to build but gentle enough to heal. The **[Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md)** embody this wisdom, their lives a slow, enduring testament to the truth that not all giants are monsters—and not all battles must be fought with fists.
 
