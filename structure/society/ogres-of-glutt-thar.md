@@ -2,7 +2,7 @@
 title: The Ogres of Glutt’thar
 description: 
 published: 1
-date: 2025-04-27T13:39:46.281Z
+date: 2025-04-27T13:55:52.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T13:39:46.281Z
@@ -22,8 +22,8 @@ The ogres revere the slow rhythm of the swamp: patience, endurance, and the quie
 
 Though their great strength could easily make them conquerors, the Glutt'thar shun violence. Outsiders who approach with weapons drawn are met not with battle, but with silence—the deep, heavy silence of the mist closing around them until even the bravest find their courage drowned.
 
-## The Soulglass and the Pact
+## The Emberglass Pact
 
-The Glutt'thar know well the dangers of the hidden **Soulglass Orbs** buried beneath the marshy deeps. It is said among their kind that the Orbs are the Marsh’s broken memories, pieces of things too painful to fully rot away. While scholars from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) would kill for a single Orb, the Glutt’thar see them as sacred sorrows—and only their most trusted **people** are permitted to move them, always with care and ritual, never for personal gain.
+The Glutt'thar know well the dangers of the hidden **Emberglass Orbs** buried beneath the marshy deeps. It is said among their kind that the Orbs are the Marsh’s broken memories, pieces of things too painful to fully rot away. While scholars from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) would kill for a single Orb, the Glutt’thar see them as sacred sorrows—and only their most trusted **people** are permitted to move them, always with care and ritual, never for personal gain.
 
 Each Glutt'thar ogre undergoes the **Soft Pact** upon coming of age: a silent vigil in the mists, carrying a lump of raw marsh clay. If they return with the clay still alive and supple in their hands, the Marsh has accepted them. If not, they are not cast out, but are taught again—the Marsh will accept them when they are ready, not before.
