@@ -296,6 +296,17 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/being/species/sub-species/grunthar-orc.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/grunthar-orc.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/grunthar.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/being/species/uroxi.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1095,9 +1106,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/society/ashenfang-orc.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/clan/ashenfang.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/ashenfang-orc.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/structure/society/factions.md</loc>

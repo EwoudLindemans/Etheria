@@ -10,3 +10,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
 
 # Sub Species
 - [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
+- [Grunthar Orc](/being/species/sub-species/grunthar-orc.md)

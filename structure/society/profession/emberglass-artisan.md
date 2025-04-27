@@ -10,7 +10,7 @@ dateCreated: 2025-03-23T12:04:06.602Z
 
 # Emberglass Artisans – The Keepers of Fire and Memory
 
-| Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
+| Memory Path | Hexfire Path | Graveflame Path | [Ashenfang](/structure/society/clan/ashenfang.md) Path|
 | --- | --- | --- | --- | 
 | ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =300x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =300x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =300x) | ![emberglass-undead.webp](/world/profession/emberglass-shaper/emberglass-undead.webp =300x) |
 
@@ -38,7 +38,7 @@ The darkest of their order, Graveflame Artisans **imprison souls within embergla
 
 ### **4. Emberglass Ashenfang Artisans – Weavers of the Unquiet Dead**  
 *"Fire may cleanse, but embers smolder still."*  
-Where Graveflame Artisans imprison souls, **Ashenfang Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
+Where Graveflame Artisans imprison souls, **[Ashenfang](/structure/society/clan/ashenfang.md) Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
 
 Their most feared works are the **Hollowflame Effigies**, statues of emberglass and ash that, when shattered, release the bound dead in a final burst of spectral wrath.
 
