@@ -1,8 +1,8 @@
 ---
-title: Gorgrath the Brute
+title: mus
 description: Gorgath the Brute, the Orcish Barbarian
 published: 1
-date: 2025-04-27T11:53:59.947Z
+date: 2025-04-27T12:06:04.079Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:08:41.580Z
