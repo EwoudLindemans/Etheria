@@ -2,13 +2,15 @@
 title: Skein of Bones
 description: 
 published: 1
-date: 2025-04-27T12:01:35.988Z
+date: 2025-04-27T14:08:16.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T11:55:22.008Z
 ---
 
 # Skein of Bones
+
+![the_skein_of_bones.png](/world/the_skein_of_bones.png =500x)
 
 Far across the western expanse of [Iridia](/geography/cosmology/iridia.md) sprawls the **Skein of Bones**—a vast, wind-tattered tapestry of fossil and dust, where the earth is woven together from the twisted ribcages of forgotten leviathans. The soil here crumbles into a powder the color of pale red ash, steeped in the bitter memory of ancient marrow. The sun, cruel and glaring, scours the plains with a relentless zeal, as if trying to erase the last evidence of whatever cataclysm once birthed this desolation. It is here that the mighty **[Tuskbreakers](/structure/society/profession/tuskbreakers.md)** ply their sacred trade, hacking and hauling the ossified remains of beasts said to have roamed before even Etheria breathed its first, before the whisper of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) ever wormed into mortal dreams.
 
