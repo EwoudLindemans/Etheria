@@ -2,7 +2,7 @@
 title: Emberglass Artisan
 description: 
 published: 1
-date: 2025-04-14T21:46:27.157Z
+date: 2025-04-27T13:54:07.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
@@ -76,9 +76,9 @@ Crafted from the purest Emberglass, these mirrors reveal more than just reflecti
 
 ![emberglass-mirror.webp](/world/profession/emberglass-shaper/emberglass-mirror.webp =150x)
 
-### **Soulglass Orbs**  
+### **Emberglass Orbs**  
 *"Voices of the past, never silenced."*  
-Each orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
+Each emberglass orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
 
 ![emberglass-orb.webp](/world/profession/emberglass-shaper/emberglass-orb.webp =150x)
 
