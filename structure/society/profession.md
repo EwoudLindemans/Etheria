@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T08:44:37.050Z
   A gnomish art blending alchemy, engineering, and enchanted water.
 - [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md)
 - [Hexbit Mechanics](/structure/society/profession/hexbit-mechanics.md)
-- [Mud Shaper](/structure/society/profession/mud-shaper.md)
+- [Mud Shaper](/structure/society/profession/mudshaper.md)
 - [Scroll Binder](/structure/society/profession/scroll-binder.md)
   Masters of magical agreements, ensuring fairness and lasting pacts.
 - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md)

@@ -531,6 +531,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/region/mistveil-marshes.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/region/skein-of-bones.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/verdant-divide.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1218,7 +1228,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/society/profession/mud-shaper.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/mudshaper.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
