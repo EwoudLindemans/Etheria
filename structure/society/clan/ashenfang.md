@@ -2,7 +2,7 @@
 title: The Ashenfang
 description: 
 published: 1
-date: 2025-04-27T21:44:05.684Z
+date: 2025-04-27T21:48:53.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T14:13:37.579Z
@@ -12,7 +12,7 @@ dateCreated: 2025-04-27T14:13:37.579Z
 
 ![Ashenfang Orc](/world/ashenfang-orc.png =500x)
 
-The Ashenfang are a corrupted splinter of the once-proud Bonebreaker lineage. Where the Bonebreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
+The Ashenfang are a corrupted splinter of the once-proud Tuskbreaker lineage. Where the Tuskbreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
 
 ## Rite and Origin
 
@@ -73,7 +73,7 @@ Many suitors have tried; few return. Those who do often claim the Skein itself w
 
 ## Relations
 
-- **Bonebreakers:** Viewed as weak, nostalgic fools clinging to dead honor.
+- **Tuskbreakers:** Viewed as weak, nostalgic fools clinging to dead honor.
 - **Verdant Claws:** Hated coldly—the [Blooming Skein](/geography/region/blooming-skein.md)'s rampant growth threatens their dominion over death.
 - **[Ogres of Glutt'thar](/structure/society/ogres-of-glutt-thar.md):** Once respected as fellow death-keepers, now seen as hoarders of power to be seized.
 
