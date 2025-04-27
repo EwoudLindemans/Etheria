@@ -2,7 +2,7 @@
 title: Grunthar Orc
 description: 
 published: 1
-date: 2025-04-27T21:19:47.727Z
+date: 2025-04-27T21:22:58.923Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
@@ -21,7 +21,7 @@ A Grunthar Orc’s flesh blooms with moss, bark, and vines, their bones intertwi
 
 Once, Grunthar roamed the living fortress of [Batès Lamina](/geography/settlement/fortress/bates-lamina.md), where trees bleed sap like ichor and the sky is a writhing emerald mist. Here, they guarded sacred glades that hid the fragile [Scales](/geography/landmark/scale.md) of lost magic, and wrestled titanic serpents whose gaze could turn mountains brittle. Their enemies tell tales of Grunthar warriors who did not fall when stabbed, but instead sprouted into thorny bramble-beasts, dragging their foes into moss-choked graves.
 
-In the present age, most Grunthar are seen as wandering relics, treated with wary reverence by the druids of The Blooming Skein and hunted by the techno-alchemists of the [City of Or](/geography/settlement/city/city-of-or.md), who covet the secrets etched in their sap-blood. Yet the Grunthar do not war blindly—they seek to reclaim the fading songs of the earth, gathering fragments of ancient [resonance](/structure/mechanic/resonance.md) before it falls silent forever. 
+In the present age, most Grunthar are seen as wandering relics, treated with a carefull approach the Grunthar do not war blindly—they seek to reclaim the fading green of the earth.
 
 Their society is formed not around simple tribes, but around what they call the **Thorn-Kin Circles**—groups bound by shared dreams and ancestral memories carried on winds that only Grunthar ears can hear. Leadership is not a matter of strength alone but of who can best wrestle the roaring visions of the past into prophecies for the future. Woe to the fool who mistakes a Grunthar Elder's mumbling for madness—for in their riddles might lie the next great salvation... or the roots of unstoppable ruin.
 
