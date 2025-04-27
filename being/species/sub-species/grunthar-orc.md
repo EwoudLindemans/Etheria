@@ -2,7 +2,7 @@
 title: Grunthar Orc
 description: 
 published: 1
-date: 2025-04-27T21:19:15.717Z
+date: 2025-04-27T21:19:47.727Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
@@ -10,7 +10,7 @@ dateCreated: 2025-04-27T21:13:21.693Z
 
 # Grunthar Orc
 
-|Shaman|Warrior|
+|Resonance Wielder|Warrior|
 | -- | -- |
 |![grunthar-orc.webp](/world/grunthar-orc.webp =500x)|![grunthar.webp](/world/grunthar.webp =500x)|
 
