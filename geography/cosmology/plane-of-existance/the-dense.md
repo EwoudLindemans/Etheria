@@ -34,7 +34,7 @@ A canvas of forgotten constellations—breathing. Watching. Waiting.
 ## A Place of Impossible Space
 The Dense defies logic. A single step might span a mile within its borders, yet escape remains elusive as the realm folds inward like a snare. Strange flora thrives in its shadows—twisted plants and fungi, some glowing with faint luminescence, others laced with deadly poison. The wildlife is ravenous, eager to consume anything that stirs, from hulking beasts to hapless travelers. Safe passage is unknown; the Dense is a domain of danger and death, not to be underestimated. Those who enter must tread carefully, for touching or eating the wrong thing could spell doom.
 
-Among its denizens are the [Denslings](/being/species/denslings.md), dangerous creatures adapted to the Dense’s crushing weight and warped distances—some venomous, others simply voracious. The Etherials, spectral entities native to this realm, are most common here, though they appear elsewhere in [Iridia](/geography/cosmology/iridia.md). Their flickering forms haunt the Dense, adding to its eerie peril.
+Among its denizens are the [Denslings](/being/species/denslings.md), dangerous creatures adapted to the Dense’s crushing weight and warped distances—some venomous, others simply voracious. The [Etherials](/being/species/etherial.md), spectral entities native to this realm, are most common here, though they appear elsewhere in [Iridia](/geography/cosmology/iridia.md). Their flickering forms haunt the Dense, adding to its eerie peril.
 
 ## Fragments of the Dense
 The Dense’s influence extends beyond its primary expanse. Certain pockets, like The [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md) in the [City of Or](/geography/settlement/city/city-of-or.md), demonstrate how fragments of this compressed space can be tamed. In such places, reality bends inward, creating havens where space and time stretch unpredictably—though these are exceptions, not the rule.
@@ -54,7 +54,7 @@ To perform their art, Denseshifters undertake a meticulous ritual:
 - Passage: A rift opens—a vortex of shadow and light—and the Denseshifter steps through, emerging instantly if the ritual succeeds.
 
 ### Risks and Rewards
-The Dense is unforgiving. A misstep can hurl a Denseshifter to a random corner of [Iridia](/geography/cosmology/iridia.md)—or trap them within its depths, [Denslings](/being/species/denslings.md) and Etherials lurk as constant threats. Yet the rewards are unparalleled: Denseshifters serve as Iridia’s swiftest couriers, scouts, and seekers of hidden truths, their name spoken with awe and caution.
+The Dense is unforgiving. A misstep can hurl a Denseshifter to a random corner of [Iridia](/geography/cosmology/iridia.md)—or trap them within its depths, [Denslings](/being/species/denslings.md) and [Etherials](/being/species/etherial.md) lurk as constant threats. Yet the rewards are unparalleled: Denseshifters serve as Iridia’s swiftest couriers, scouts, and seekers of hidden truths, their name spoken with awe and caution.
 
 ## Survival in the Dense
 For those without the Denseshifters’ mastery, survival demands vigilance. Move silently, avoid the toxic flora, and evade the wildlife’s hunger. The Dense is a crucible where the careless perish, its crushing weight and predatory shadows testing even the boldest. It is a realm few challenge—and fewer still conquer.

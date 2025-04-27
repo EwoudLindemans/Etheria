@@ -10,7 +10,7 @@ dateCreated: 2022-10-23T19:06:03.398Z
 
 # Batès Lamina
 
-**Batès Lamina** is the smallest of the five major Scales in [Iridia](/geography/cosmology/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/structure/mechanic/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
+**Batès Lamina** is the smallest of the five major [Scales](/geography/landmark/scale.md) in [Iridia](/geography/cosmology/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/structure/mechanic/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
 
 ## Appearance and Structure
 
@@ -20,7 +20,7 @@ The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a 
 
 ## The City and Shrine
 
-The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the Scales.
+The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the [Scales](/geography/landmark/scale.md).
 
 At the city's heart lies a **shrine built directly above the [Scale](/geography/landmark/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/structure/mechanic/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
 

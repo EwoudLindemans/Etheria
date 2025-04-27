@@ -54,7 +54,7 @@ They redraw them—with blood and laughter.
 
 The Ragged Goons live by a creed of chaos over control, survival over tradition. They lack formal structure—leadership falls to the boldest or bloodiest until toppled—and their tools reflect their rough ingenuity.
 
-- **Philosophy**: The scales are resources, not relics. Power belongs to those who seize it.
+- **Philosophy**: The [scales](/geography/landmark/scale.md) are resources, not relics. Power belongs to those who seize it.
 - **Weapons**: 
   - **Splinterguns**: Ramshackle firearms that shoot jagged [scale](/geography/landmark/scale.md) shards, prone to misfiring but deadly when they hit.
   - **Rattlepacks**: Explosive satchels charged with corrupted [magic](/structure/mechanic/magic.md), as dangerous to the user as the target.
@@ -80,7 +80,7 @@ Ruk’s death fractured the Goons, but their spirit persists in scattered crews.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Iridia](/geography/cosmology/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted scales and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The Ragged Goons are [Iridia](/geography/cosmology/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

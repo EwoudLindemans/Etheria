@@ -32,7 +32,7 @@ They build no cities. They inhabit **Chordvaults**—massive crystalline caverns
 
 Ythrylari do not speak as others do. Instead, they project harmonic waves that resonate with the emotion they wish to convey. A greeting might taste like twilight. A threat might make stone weep. Scholars at [the Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md) who’ve survived even brief contact with a Ythrylari report temporary memory loss, emotional flooding, and in one instance, spontaneous bardic inspiration so overwhelming it resulted in twenty-three unfinished operas and a complete inability to lie.
 
-Their names are not names—they are **chords**. And when a Ythrylari dies, that chord is broken, sent as a ripple to the outermost edges of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). Some believe the Iridians can still hear them.
+Their names are not names—they are **chords**. And when a Ythrylari dies, that chord is broken, sent as a ripple to the outermost edges of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). Some believe the [Iridians](/being/species/iridian.md) can still hear them.
 
 ## Magic – The Song That Shapes
 

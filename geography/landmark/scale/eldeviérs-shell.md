@@ -12,7 +12,7 @@ dateCreated: 2025-03-09T14:30:55.811Z
 
 ![Eldeviérs Shell](/world/eldeviers-shell.webp =500x)
 
-Eldeviérs Shell is a massive, otherworldly structure—a colossal, opal-green dome covered in hexagonal scales, glowing with an ethereal luminescence. Jagged spires and towering structures rise from its surface, blending ancient architecture with alien design. A feathery crest of dark, crystalline protrusions adorns the upper ridge, giving it a regal and intimidating presence.
+Eldeviérs Shell is a massive, otherworldly structure—a colossal, opal-green dome covered in hexagonal [scales](/geography/landmark/scale.md), glowing with an ethereal luminescence. Jagged spires and towering structures rise from its surface, blending ancient architecture with alien design. A feathery crest of dark, crystalline protrusions adorns the upper ridge, giving it a regal and intimidating presence.
 
 Suspended in the skies nearby, floating islands and platforms defy gravity, connected by cascading beams of energy. The city of [Mohinders](/geography/settlement/city/mohinders.md) clings to the Shell, built upon its lower ridges and suspended by massive iron rings and chains. Accessible only through arcane portals and airships, Mohinders is a sanctuary of [magic](/structure/mechanic/magic.md) and mystery.
 

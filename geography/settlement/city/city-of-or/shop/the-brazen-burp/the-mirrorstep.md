@@ -25,7 +25,7 @@ Through the breach, no creature passed—only a connection. A presence. The mome
 
 > “Anchor me.”
 
-From the rift fell a single object: a small, prismatic shard that shimmered with unstable potential. They later called it the **Shard of the Fracture Keep**, though they couldn’t have known what it truly was. It radiated with [resonance](/structure/mechanic/resonance.md), its rhythm laced with elements of both their magical signatures. [Nokk](/being/character/nokk.md), sensing the danger of leaving it unbound, tried to steady its power. But he didn’t act alone. [Miss Terry](/being/character/miss-terry.md) joined him—touching the shard as he did—and in that moment, their magics tangled. The shard attuned not to one of them, but to **both**.
+From the rift fell a single object: a small, prismatic shard that shimmered with unstable potential. They later called it the **Shard of the Fracture Keep**, though they couldn’t have known what it truly was. It radiated with [resonance](/structure/mechanic/resonance.md), its rhythm laced with elements of both their magical signatures. [Nokk](/being/character/nokk.md), sensing the danger of leaving it unbound, tried to steady its power. But he didn’t act alone. [Miss Terry](/being/character/miss-terry.md) joined him—touching the shard as he did—and in that moment, their [magics](/structure/mechanic/magic.md) tangled. The shard attuned not to one of them, but to **both**.
 
 ## Echoes Between Selves
 

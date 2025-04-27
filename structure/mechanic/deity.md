@@ -9,7 +9,7 @@ dateCreated: 2025-03-21T08:04:44.894Z
 ---
 
 # The Deities and the Will of Iridia
-Deities in [Iridia](/geography/cosmology/iridia.md) are manifestations of collective belief, embodying the desires, fears, and values of the people. Each [Scale](/geography/landmark/scale.md) supports one deity at a time, but belief is fluid—deities may fade, migrate, or be replaced. However, they leave behind **imprints**, resonances of their past influence, allowing for their potential return if faith realigns. The borders of each Scale shift in response to changing beliefs, ensuring a dynamic divine balance.
+Deities in [Iridia](/geography/cosmology/iridia.md) are [manifestations](/structure/chronological/event/manifestation.md) of collective belief, embodying the desires, fears, and values of the people. Each [Scale](/geography/landmark/scale.md) supports one deity at a time, but belief is fluid—deities may fade, migrate, or be replaced. However, they leave behind **imprints**, [resonances](/structure/mechanic/resonance.md) of their past influence, allowing for their potential return if faith realigns. The borders of each Scale shift in response to changing beliefs, ensuring a dynamic divine balance.
 
 When a deity weakens, it does not vanish entirely but lingers as an imprint. If belief later realigns with its essence, the deity may return without needing to be recreated. For example, a Deity of Protection may fade in times of peace, giving way to a Deity of Prosperity, only to reawaken when war rekindles the need for protection.
 
@@ -28,11 +28,11 @@ Deities in [Iridia](/geography/cosmology/iridia.md) are never truly lost. Howeve
 Certain individuals, known as **Echo-Bearers**, act as [resonance](/structure/mechanic/resonance.md) conduits, extending a deity’s influence beyond its home [scale](/geography/landmark/scale.md). Though they do not wield divine power themselves, they serve as crucial anchors, preserving the deity’s presence across distant lands.
 
 ## Resonance Weave
-In regions where neighboring scales overlap, the domains of deities may merge or influence one another, creating blended divine manifestations. 
+In regions where neighboring [scales](/geography/landmark/scale.md) overlap, the domains of deities may merge or influence one another, creating blended divine [manifestations](/structure/chronological/event/manifestation.md). 
 
 For example, in a contested area where a Deity of War and a Deity of Strategy exert influence, their combined presence might give rise to a unique Deity of Tactics—one that embodies both martial prowess and calculated warfare.
 
 ## Irion’s Will
 At the heart of [Iridia](/geography/cosmology/iridia.md)’s divine order lies [Irion](/being/deity/irion.md)’s Will, the guiding force that governs the pace of divine transitions. No deity is ever truly permanent, nor is any deity ever completely gone. Irion’s Will prevents sudden rises or collapses, ensuring that only deep and widespread faith can bring about lasting change.
 
-However, in times of upheaval—whether caused by war, disaster, or revolution—the balance may shift rapidly. Scales tip, faith surges, and new divine forces emerge to reshape [Iridia](/geography/cosmology/iridia.md), all while maintaining the cosmic equilibrium that defines the world.
+However, in times of upheaval—whether caused by war, disaster, or revolution—the balance may shift rapidly. [Scales](/geography/landmark/scale.md) tip, faith surges, and new divine forces emerge to reshape [Iridia](/geography/cosmology/iridia.md), all while maintaining the cosmic equilibrium that defines the world.

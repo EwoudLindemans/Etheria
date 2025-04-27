@@ -48,7 +48,7 @@ At 3th level, your connection to the forces of [resonance](/structure/mechanic/r
 
 
 ## Level 6: Resonant Adaptation
-By 6th level, you have gained the ability to more easily shift between the resonances that govern your [magic](/structure/mechanic/magic.md). You can change your Resonant in the following ways:
+By 6th level, you have gained the ability to more easily shift between the [resonances](/structure/mechanic/resonance.md) that govern your [magic](/structure/mechanic/magic.md). You can change your Resonant in the following ways:
 
 - **Meditation:** Once per long rest, you can spend 1 minute meditating to shift your active [Resonance](/structure/mechanic/resonance.md) to another one you have already chosen.
 - **Magical Field Awareness:** You can make an *Arcana* check (DC 15) to instantly shift to a new [Resonance](/structure/mechanic/resonance.md) when exposed to strong magical fields, such as ley lines, enchanted artifacts, or Rift events.
@@ -80,7 +80,7 @@ When you take damage from a spell, you can harmonize with the energy and convert
 ## Resonance Sorcerer in Action
 The **Arcane [Resonance](/structure/mechanic/resonance.md)** subclass allows for an incredibly flexible and dynamic playstyle, giving Sorcerers the ability to adapt, disrupt, and augment their magical abilities in ways that no other subclass can. Whether you want to manipulate the flow of your spells, counter your enemies’ [magic](/structure/mechanic/magic.md), or absorb energy to bolster your own abilities, this subclass provides rich and diverse options.
 
-By 14th level, you'll be able to manipulate multiple frequencies, creating a very fluid and responsive form of [magic](/structure/mechanic/magic.md) that scales up with the complexity of gameplay. The flavor and thematics of "[resonance](/structure/mechanic/resonance.md)" are tightly tied to both the mechanics and the roleplay of this subclass.
+By 14th level, you'll be able to manipulate multiple frequencies, creating a very fluid and responsive form of [magic](/structure/mechanic/magic.md) that [scales](/geography/landmark/scale.md) up with the complexity of gameplay. The flavor and thematics of "[resonance](/structure/mechanic/resonance.md)" are tightly tied to both the mechanics and the roleplay of this subclass.
 
 ## Summary of Key Features:
 - **Level 1:** Choose a [Resonance](/structure/mechanic/resonance.md) that enhances your spellcasting in different ways, such as no verbal/somatic components, disrupting enemy spells, or duplicating your [magic](/structure/mechanic/magic.md).

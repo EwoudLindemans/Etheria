@@ -88,7 +88,7 @@ Deryn: "At least it was something—last time I summoned a toad that wouldn’t 
 
 Serenna: "I once summoned a small tornado. It was... productive, but mostly inconvenient."
 
-Thaxton: "I don’t know why you all bother. The scales are just as likely to make you clean their shelves as grant you power."
+Thaxton: "I don’t know why you all bother. The [scales](/geography/landmark/scale.md) are just as likely to make you clean their shelves as grant you power."
 
 Deryn: "Well, at least I’d be getting paid in knowledge and sandwiches... cursed or not."
 

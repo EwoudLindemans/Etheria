@@ -9,7 +9,7 @@ dateCreated: 2025-03-11T23:48:37.199Z
 ---
 
 # Scroll Binder
-In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the scales of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with [magic](/structure/mechanic/magic.md) and certainty—ensuring that deals are fair, precise, and lasting.
+In a world where diplomacy is as volatile as the shifting winds, the Scroll Binder stands as a crucial mediator, balancing the [scales](/geography/landmark/scale.md) of power with both precision and skill. A Scroll Binder is not just a scribe or a wizard, but a master of magical agreements and negotiation rituals. Whether dealing with monarchs, merchants, or wandering adventurers, they have the unique ability to bind the terms of any agreement with [magic](/structure/mechanic/magic.md) and certainty—ensuring that deals are fair, precise, and lasting.
 
 Drawing their power from three sacred elements—Rock, Paper, and Scissors—Scroll Binders use these seemingly simple tools to resolve even the most complicated of diplomatic disputes. Each throw carries weight and meaning, and the stakes are always high. From determining territorial boundaries to forging alliances, the Scroll Binder’s touch turns words into lasting, magical obligations, enforced by ancient rituals and unbreakable pacts.
 
@@ -53,7 +53,7 @@ Here’s how the **three options** from the game are applied to almost any diplo
   _“Lady Greymist rocked it; she secures the river trade, but must raise a **bridge** across by spring, or the deal’s off.”_
 
 **Scroll Effect**:  
-The **scales** thud, locking in a **concrete obligation**. The agreement will be tied to a **building**, **structure**, or **military presence** that must be created to seal the deal. 
+The **[scales](/geography/landmark/scale.md)** thud, locking in a **concrete obligation**. The agreement will be tied to a **building**, **structure**, or **military presence** that must be created to seal the deal. 
 
 **Scroll Binder Influence**:  
 The **Scroll Binder** can **adjust the scope** of the “building task” based on the **context**. For instance, they might allow the winner to choose between different types of structures (military, economic, cultural) to suit the circumstances of the negotiation.
@@ -73,7 +73,7 @@ The **Scroll Binder** can **adjust the scope** of the “building task” based 
   _“Duke Greymane papered the alliance; he gets the **troops**, but both must **defend** each other’s borders—forever.”_
 
 **Scroll Effect**:  
-The **scales** quiver, and the terms are now **tied**. The scroll **locks the parties together**, making it **impossible** to back out without serious consequences.
+The **[scales](/geography/landmark/scale.md)** quiver, and the terms are now **tied**. The scroll **locks the parties together**, making it **impossible** to back out without serious consequences.
 
 **Scroll Binder Influence**:  
 The **Scroll Binder** can adjust the **depth** of the binding pact, allowing some **flexibility** in the obligations. They might allow both sides to negotiate the terms of their **oaths** or set up **escape clauses** if unforeseen circumstances arise.
@@ -93,7 +93,7 @@ The **Scroll Binder** can adjust the **depth** of the binding pact, allowing som
   _“Lord Firestorm scissored the **mines**—he gets **half the jewels**, but every gem will be weighed and counted.”_
 
 **Scroll Effect**:  
-The **scales** snap, and the agreement is now **precisely** defined, leaving no room for dispute. It’s a **clear-cut** division that must be honored.
+The **[scales](/geography/landmark/scale.md)** snap, and the agreement is now **precisely** defined, leaving no room for dispute. It’s a **clear-cut** division that must be honored.
 
 **Scroll Binder Influence**:  
 The **Scroll Binder** has the ability to allow for some **wiggle room** in the division if it feels **unfair** to one side, or perhaps **reorder the items** being divided based on importance to the parties. The **precise** nature of the division can be made **flexible** in some cases.
@@ -104,13 +104,13 @@ The **Scroll Binder** has the ability to allow for some **wiggle room** in the d
 
 In the event of a **tie**, the scroll does not leave the situation unresolved. The **Scroll Binder** must act to resolve the conflict.
 
-**What Happens**: The **Scroll Binder** calls for a **rematch** or creates a **magical clause** to escalate the agreement. This might mean sending both parties on a **quest**, or the losing side might have to give up something **valuable** to tip the scales in favor of the other. Ties are never simple!
+**What Happens**: The **Scroll Binder** calls for a **rematch** or creates a **magical clause** to escalate the agreement. This might mean sending both parties on a **quest**, or the losing side might have to give up something **valuable** to tip the [scales](/geography/landmark/scale.md) in favor of the other. Ties are never simple!
 
 **Example**:  
 _“If the game ends in a tie, the scroll **binds both sides** to find the **Lost Chalice** in the **Cursed Mountain**—a quest neither can avoid, and the stakes are high.”_
 
 **Scroll Effect**:  
-The **scales** tremble, and the scroll **adds a clause**, creating new **obligations** that neither party can easily ignore. It escalates the situation, making the next step even **more important** than the last.
+The **[scales](/geography/landmark/scale.md)** tremble, and the scroll **adds a clause**, creating new **obligations** that neither party can easily ignore. It escalates the situation, making the next step even **more important** than the last.
 
 **Scroll Binder Influence**:  
 The **Scroll Binder** can **alter** the stakes of the tiebreaker. Perhaps instead of a physical quest, the tie results in **personal sacrifices** or an **addition of another party** to the agreement. The **Binder** can create a path that makes it **fairer**, ensuring that the parties leave the agreement feeling like **both sides had a chance**.

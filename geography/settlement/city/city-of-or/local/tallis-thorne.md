@@ -69,7 +69,7 @@ The idea that he’s part fey, part illusion, or even a wandering story given fl
 #### 3. **Dragonspawn**  
 A rumour perpetuated by a failed romance with a sorceress who insisted Tallis had “the fire of wyrms in his eyes” and “the breath of a furnace after poetry.”  
 - *Evidence:* Survived being kissed by a fire drake. His harp never burns, even when set ablaze.  
-- *Tallis’s Response:* “I’m flattered, but my scales are metaphorical.”
+- *Tallis’s Response:* “I’m flattered, but my [scales](/geography/landmark/scale.md) are metaphorical.”
 
 #### 4. **Human (but Dramatic)**  
 The most boring theory, but some scholars insist his “other half” is simply a charismatic human.  

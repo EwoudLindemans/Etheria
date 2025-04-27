@@ -50,7 +50,7 @@ But their minds are blank slates—haunted only by the inexplicable urge to unde
 
 Among the [Ythrylari](/being/species/ythrylari.md), the ones who *choose* to evolve are both revered and feared. Known as **Threnaries**, these pre-[Iridian](/being/species/iridian.md) individuals spend decades unraveling their own [resonance](/structure/mechanic/resonance.md)—writing *songs they know will erase them*. Once a Threnary completes their Shellsong, they vanish from Ythrylari vaults, leaving behind only a vibrational signature that shivers through [the Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md) for centuries.
 
-Among Etherians, few know the truth. Even the most enlightened Scroll Binders assume Iridians are simply... "very fancy spellborn."
+Among Etherians, few know the truth. Even the most enlightened [Scroll Binders](/structure/society/profession/scroll-binder.md) assume [Iridians](/being/species/iridian.md) are simply... "very fancy spellborn."
 
 But somewhere, deep in the spiral-stacked archives of [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md), a theory persists:
 > “The Iridian is a Ythrylari made flesh. And the Ythrylari is a Densling made meaning. What, then, do we become… when we stop pretending we are singular?”

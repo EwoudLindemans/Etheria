@@ -23,5 +23,5 @@ Despite his eccentric nature, Varnwick is no fool. His affinity with the Residue
 
 His only companion is an overly smug fruit bat named Thimble, who may or may not be an agent of The [Cult of Dy](/structure/society/factions/cult-of-dy.md). Varnwick claims Thimble wins dice rolls by cheating reality and once bit a cleric out of spite.
 
-There’s a growing belief among the Followers of [Irion](/being/deity/irion.md) that Varnwick is not entirely gnome anymore—that something ancient is beginning to bloom inside him. Whether he becomes a protector of the Scales or a walking agricultural catastrophe remains to be seen. For now, he’s just the odd root-legged hermit muttering to berries, dragging cartloads of vines, and occasionally shouting, “No! You water *yourself* this time!”
+There’s a growing belief among the Followers of [Irion](/being/deity/irion.md) that Varnwick is not entirely gnome anymore—that something ancient is beginning to bloom inside him. Whether he becomes a protector of the [Scales](/geography/landmark/scale.md) or a walking agricultural catastrophe remains to be seen. For now, he’s just the odd root-legged hermit muttering to berries, dragging cartloads of vines, and occasionally shouting, “No! You water *yourself* this time!”
 

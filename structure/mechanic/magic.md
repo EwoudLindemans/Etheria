@@ -13,7 +13,7 @@ dateCreated: 2025-03-30T00:34:43.575Z
 
 ## Origins of Magic
 
-Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **Scales**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
+Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **[Scales](/geography/landmark/scale.md)**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
 
 ## The Five Known Scales
 
@@ -31,13 +31,13 @@ Each [Scale](/geography/landmark/scale.md) is a titan's shard, with different ma
 ## Types of Magical Manifestation
 
 ### ✦ **Scale Sparks**
-Raw magic leaks from breaches or natural vents in the scales, forming **Sparks**—chaotic bursts of energy. These sparks can be harnessed, refined, or left to dangerously evolve. Stabilizing them is extremely difficult, and forbidden in most places due to historical disasters like **Kin'Darei**.
+Raw magic leaks from breaches or natural vents in the [scales](/geography/landmark/scale.md), forming **Sparks**—chaotic bursts of energy. These sparks can be harnessed, refined, or left to dangerously evolve. Stabilizing them is extremely difficult, and forbidden in most places due to historical disasters like **Kin'Darei**.
 
 ### ✦ **Scale Conduits**
-Arcane infrastructure formed around scales allows cities to draw sustainable magic through engineered [resonance](/structure/mechanic/resonance.md) chambers. This is common in cities like **Or** (through metallurgy) and **[Mohinders](/geography/settlement/city/mohinders.md)** (through floating portals and healing).
+Arcane infrastructure formed around [scales](/geography/landmark/scale.md) allows cities to draw sustainable magic through engineered [resonance](/structure/mechanic/resonance.md) chambers. This is common in cities like **Or** (through metallurgy) and **[Mohinders](/geography/settlement/city/mohinders.md)** (through floating portals and healing).
 
 ### ✦ **Iridian Manifestations**
-When raw magic interacts with organic matter and elemental energy, **Iridians** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby scales, but independent of magical consumption.
+When raw magic interacts with organic matter and elemental energy, **[Iridians](/being/species/iridian.md)** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby [scales](/geography/landmark/scale.md), but independent of magical consumption.
 
 ### ✦ **The Dense**
 The [scale](/geography/landmark/scale.md)-connected dimension known as **[The Dense](/geography/cosmology/plane-of-existance/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Iridia](/geography/cosmology/iridia.md)'s magical saturation.

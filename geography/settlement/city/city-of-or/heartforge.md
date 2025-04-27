@@ -12,7 +12,7 @@ dateCreated: 2025-03-09T21:05:19.664Z
 
 <audio controls="1" controlslist="noplaybackrate" src="/music/heartforge_song_of_or.mp3"></audio>
 
-The Heartforge is a legendary furnace carved deeply underground on top of The [Armour of Or](/geography/landmark/scale/armour-of-or.md), the largest and most deeply excavated of [Iridia](/geography/cosmology/iridia.md)’s magical scales, within the dwarven stronghold of The [City of Or](/geography/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of The [Armour of Or](/geography/landmark/scale/armour-of-or.md), the largest and most deeply excavated of [Iridia](/geography/cosmology/iridia.md)’s magical [scales](/geography/landmark/scale.md), within the dwarven stronghold of The [City of Or](/geography/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC).
 
 ![heartforge_v2.png](/world/heartforge_v2.png =500x)
 
@@ -61,7 +61,7 @@ The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunnel
 ### Construction
 Completed over three years, it required:
 - Dwarven mastery of [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md), led by the Heartsmiths.
-- The Order’s planar expertise, aided by Veiled Iridians who aligned Memory Shards.
+- The Order’s planar expertise, aided by Veiled [Iridians](/being/species/iridian.md) who aligned Memory Shards.
 - Quartz and onyx from [Triz Valley](/geography/settlement/city/triz-valley.md) to anchor the structure.
 
 ### Evolution

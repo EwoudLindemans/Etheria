@@ -23,7 +23,7 @@ The magical essence of the creature is what gives [Iridia](/geography/cosmology/
 ## **Manifestation and Symbols:**  
 - Irion is depicted as a **colossal, half-spectral being**, its form entombed within the world itself.  
 - Its eyes, are said to glow faintly with lingering arcane energy, staring into the void beyond time.  
-- Its body is a fusion of **crystalline scales, fossilized flesh, and veins of liquid [magic](/structure/mechanic/magic.md)**, exuding an aura of both destruction and renewal.  
+- Its body is a fusion of **crystalline [scales](/geography/landmark/scale.md), fossilized flesh, and veins of liquid [magic](/structure/mechanic/magic.md)**, exuding an aura of both destruction and renewal.  
 - Its sigil is **a broken circle with tendrils of energy spilling forth**, symbolizing [the Collapse](/structure/chronological/event/the-collapse.md) and the unchecked flow of [magic](/structure/mechanic/magic.md) that followed.  
 
 ## **Doctrine and Influence:**  

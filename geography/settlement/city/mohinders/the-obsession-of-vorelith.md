@@ -115,7 +115,7 @@ Over time, the [Denslings](/being/species/denslings.md) begin to form a necroman
 ## Notable Locations
 
 ### The Spire
-- **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with scales, where the energy of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is contained.
+- **Description**: The towering structure at the center of Vorelith’s work, shaped like a massive egg with [scales](/geography/landmark/scale.md), where the energy of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is contained.
 - **Features**: Distorted space within the Spire, chaotic arcane phenomena, and growing presence of [Denslings](/being/species/denslings.md). The Spire will gradually shift its shape and function as the [magic](/structure/mechanic/magic.md) grows more unstable.
   
 ### The Dense

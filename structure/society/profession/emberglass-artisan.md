@@ -64,7 +64,7 @@ The **Emberglass Artisans** see themselves as his successors, continuing his wor
 ### Forging the Flameglass
 Creating Emberglass is no simple task. It begins with the gathering of **rare sands**—some from volcanic shores, others from the depths of the desert, and the rarest, from the bones of fallen dragons. These materials are melted with **dragonfire breath**, infused with [magic](/structure/mechanic/magic.md), and shaped through both precision and instinct.
 
-The result is not ordinary glass, but something **alive**—glass that holds light within it, that shimmers like dragon scales, that remembers the touch of those who wield it.
+The result is not ordinary glass, but something **alive**—glass that holds light within it, that shimmers like dragon [scales](/geography/landmark/scale.md), that remembers the touch of those who wield it.
 
 ---
 

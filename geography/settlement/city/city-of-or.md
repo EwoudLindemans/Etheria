@@ -9,7 +9,7 @@ dateCreated: 2022-01-24T11:47:02.222Z
 ---
 
 # The City of Or
-Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the scales what is now called The [Armour of Or](/geography/landmark/scale/armour-of-or.md). The [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
+Not long after [The Collapse](/structure/chronological/event/the-collapse.md), an opportunistic dwarf named [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) gathered a band of miners and started digging and hewing beneath one of the [scales](/geography/landmark/scale.md) what is now called The [Armour of Or](/geography/landmark/scale/armour-of-or.md). The [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md) provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
 
 ![the_city_of_or.png](/world/the_city_of_or_v2.png =500x)
 
@@ -19,7 +19,7 @@ Not long after [The Collapse](/structure/chronological/event/the-collapse.md), a
 The Dwarven City of Or is the heart of this craftsmanship, where the geothermal heat and [resonance](/structure/mechanic/resonance.md) from The [Armour of Or](/geography/landmark/scale/armour-of-or.md) powers vast forges and magical workshops. The heat enhances not only the strength of the materials but also the magical properties of the weapons, armour, and tools produced here. Items created in these forges have the ability to store magical energy, amplify the wearer’s powers, and protect against both physical and magical threats. These items are often considered to be living pieces of [magic](/structure/mechanic/magic.md), intricately tied to the Core Heat that sustains the very forges they are created in.
 
 ## Citizens of Or
-Homes were built into the underground caves of Or where the mines were depleted of precious resources. Many elves and humans with an interest in the magical properties of the white scales of Or have moved into the heart of the City of Or to provide their services to the locals and travelers. Besides jewels, the City of Or is known for its excellent selection of ales, brewed in the depths of the mines to appease the miners and attract visitors to the many taverns of Or. The outside of the city has attracted many farmers, providing the City of Or with a steady flow of food.
+Homes were built into the underground caves of Or where the mines were depleted of precious resources. Many elves and humans with an interest in the magical properties of the white [scales](/geography/landmark/scale.md) of Or have moved into the heart of the City of Or to provide their services to the locals and travelers. Besides jewels, the City of Or is known for its excellent selection of ales, brewed in the depths of the mines to appease the miners and attract visitors to the many taverns of Or. The outside of the city has attracted many farmers, providing the City of Or with a steady flow of food.
 
 | Race         | Population | Percentage |
 |--------------|-----------:|-----------:|
@@ -57,7 +57,7 @@ A steep and chaotic corridor of trade, connecting surface routes and underground
 
 ### Local Food and Brews
 
-The Flatstone Family has invested heavily in the production of fine ales and ciders, brewed in the depths of the mines and enjoyed across the Scales. These drinks are a source of local pride and a favourite topic in any tavern debate. They are brewed from locally harvested fruits, mushrooms, berries, and grains grown in or near the City of Or.
+The Flatstone Family has invested heavily in the production of fine ales and ciders, brewed in the depths of the mines and enjoyed across the [Scales](/geography/landmark/scale.md). These drinks are a source of local pride and a favourite topic in any tavern debate. They are brewed from locally harvested fruits, mushrooms, berries, and grains grown in or near the City of Or.
 
 Some of the most iconic brews include:
 

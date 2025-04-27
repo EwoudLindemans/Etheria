@@ -10,7 +10,7 @@ dateCreated: 2025-04-07T19:25:11.783Z
 
 # Umperas Hull
 
-**Umperas Hull** is one of the five major Scales of [Iridia](/geography/cosmology/iridia.md). It is a vast, curved crystalline structure with its top broken off, giving it the appearance of a long, golden wall. Its unusual formation creates a natural arc that has proven ideal for settlement and defence.
+**Umperas Hull** is one of the five major [Scales](/geography/landmark/scale.md) of [Iridia](/geography/cosmology/iridia.md). It is a vast, curved crystalline structure with its top broken off, giving it the appearance of a long, golden wall. Its unusual formation creates a natural arc that has proven ideal for settlement and defence.
 
 ## Appearance
 
@@ -24,4 +24,4 @@ A city has formed around and within the arc of Umperas Hull, taking advantage of
 
 ## Significance
 
-The structure’s massive size, defensible shape, and warm coloration make it one of the most recognisable landmarks in [Iridia](/geography/cosmology/iridia.md). As one of the five Scales that pierce the world’s surface, Umperas Hull plays a vital role in the geographical and magical balance of the realm.
+The structure’s massive size, defensible shape, and warm coloration make it one of the most recognisable landmarks in [Iridia](/geography/cosmology/iridia.md). As one of the five [Scales](/geography/landmark/scale.md) that pierce the world’s surface, Umperas Hull plays a vital role in the geographical and magical balance of the realm.

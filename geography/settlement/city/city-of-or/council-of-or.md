@@ -27,7 +27,7 @@ The Flatstone family holds an ancestral claim to governance, tracing their roots
 
 Though dwarves are famously stubborn, the Flatstones are rarely united. Their internal disagreements—often loud and public—form a strange kind of balance, ensuring no single vision dominates unchallenged. It is not uncommon for elected councillors to act as tie-breakers between feuding Flatstone factions.
 
-The family’s influence is greatest in matters of mining, resource management, and diplomacy with other major Scales.
+The family’s influence is greatest in matters of mining, resource management, and diplomacy with other major [Scales](/geography/landmark/scale.md).
 
 ### Current Permanent Members
 

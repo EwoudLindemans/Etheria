@@ -12,7 +12,7 @@ dateCreated: 2022-01-24T15:44:24.005Z
 
 In the old days past, a relatively small planet collided with a living magical creature. Rupturing the planet and breaking it down into a million pieces. The impact on both the planet and the creature were surreal. And although the physical body of the creature did not survive this impact. Its magical essence attached itself to the planet. The core of the creature merged with the core of the planet. 
 
-With time the planet healed through this magical residue that the creature left behind. And a new world now known as [Iridia](/geography/cosmology/iridia.md) was created. The remaining scales of the ancient creature pierced through the crust of the planet.
+With time the planet healed through this magical residue that the creature left behind. And a new world now known as [Iridia](/geography/cosmology/iridia.md) was created. The remaining [scales](/geography/landmark/scale.md) of the ancient creature pierced through the crust of the planet.
 
 The magical essence of the creature is what gives [Iridia](/geography/cosmology/iridia.md) its unique properties. It is a world that is alive and constantly changing. The land itself is alive and has a will of its own. The rivers flow with magical energy, and the trees grow to impossible heights. Even the air itself is thick with [magic](/structure/mechanic/magic.md). It is a world that is in constant flux, and it is this magic that makes it so special.
 
