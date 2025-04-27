@@ -208,7 +208,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Resonance](/structure/mechanic/resonance.md)
         The magical current that flows from the scales and shapes Iridia.
     - [Society](/structure/society.md)
-      - Clan
+      - [Clan](/structure/society/clan.md)
         - [The Ashenfang](/structure/society/clan/ashenfang.md)
       - [Factions](/structure/society/factions.md)
         - [Followers of Irion](/structure/society/factions/followers-of-irion.md)
@@ -239,7 +239,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           Masters of magical agreements, ensuring fairness and lasting pacts.
         - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md)
         - [The Concordium Medica](/structure/society/profession/concordium-medica.md)
-        - [Tuskbreakers](/structure/society/profession/tuskbreakers.md)
+        - [Tuskbreakers](/structure/society/profession/tuskbreaker.md)
       - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md)
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.

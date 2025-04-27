@@ -1106,6 +1106,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/structure/society/clan.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/structure/society/clan/ashenfang.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1295,7 +1300,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/structure/society/profession/tuskbreakers.md</loc>
+    <loc>https://wiki.hq.rockycore.com/structure/society/profession/tuskbreaker.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

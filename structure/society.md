@@ -9,6 +9,7 @@ dateCreated: 2022-01-27T08:44:37.050Z
 ---
 
 # Society
+- [Clan](/structure/society/clan.md)
 - [Factions](/structure/society/factions.md)
 - [Group](/structure/society/group.md)
 - [Profession](/structure/society/profession.md)

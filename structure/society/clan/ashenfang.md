@@ -12,7 +12,7 @@ dateCreated: 2025-04-27T14:13:37.579Z
 
 ![Ashenfang Orc](/world/ashenfang-orc.png =500x)
 
-The Ashenfang are a corrupted splinter of the once-proud Tuskbreaker lineage. Where the Tuskbreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
+The Ashenfang are a corrupted splinter of the once-proud [Tuskbreaker](/structure/society/profession/tuskbreaker.md) lineage. Where the Tuskbreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
 
 ## Rite and Origin
 
@@ -63,7 +63,7 @@ The Ashenfang do not fight like living armies. Their assaults are relentless, co
 
 [Skul’Kruk](/being/titan/skul-kruk.md)’s tremors are both curse and covenant. The Ashenfang believe the great dread whispered a fragment of sorrow into their bloodlines.
 
-When the ground hums, they listen—laying their scarred brows to the earth, straining for echoes of the **Threefold Coil** that the [Tuskbreakers](/structure/society/profession/tuskbreakers.md) and mad scholars like Dorn of the Withered Ink seek so greedily.
+When the ground hums, they listen—laying their scarred brows to the earth, straining for echoes of the **Threefold Coil** that the [Tuskbreakers](/structure/society/profession/tuskbreaker.md) and mad scholars like Dorn of the Withered Ink seek so greedily.
 
 ## Culture
 
@@ -73,7 +73,7 @@ Many suitors have tried; few return. Those who do often claim the Skein itself w
 
 ## Relations
 
-- **Tuskbreakers:** Viewed as weak, nostalgic fools clinging to dead honor.
+- **[Tuskbreakers](/structure/society/profession/tuskbreaker.md):** Viewed as weak, nostalgic fools clinging to dead honor.
 - **Verdant Claws:** Hated coldly—the [Blooming Skein](/geography/region/blooming-skein.md)'s rampant growth threatens their dominion over death.
 - **[Ogres of Glutt'thar](/structure/society/ogres-of-glutt-thar.md):** Once respected as fellow death-keepers, now seen as hoarders of power to be seized.
 

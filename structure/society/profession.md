@@ -20,4 +20,4 @@ dateCreated: 2022-01-27T08:44:37.050Z
   Masters of magical agreements, ensuring fairness and lasting pacts.
 - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md)
 - [The Concordium Medica](/structure/society/profession/concordium-medica.md)
-- [Tuskbreakers](/structure/society/profession/tuskbreakers.md)
+- [Tuskbreakers](/structure/society/profession/tuskbreaker.md)
