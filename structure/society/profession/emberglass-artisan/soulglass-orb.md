@@ -1,14 +1,16 @@
 ---
-title: Soulglass Orbs
+title: Emberglass Orbs
 description: 
 published: 1
-date: 2025-04-27T13:50:49.794Z
+date: 2025-04-27T13:53:33.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-27T13:50:49.794Z
 ---
 
-# Soulglass Orbs
+# Emberglass Orbs
+
+![emberglass-orb.webp](/world/profession/emberglass-shaper/emberglass-orb.webp =500x)
 
 Among the countless wonders whispered of in the hallowed halls of [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md), few artifacts stir the imagination—or the nightmares—like the **Soulglass Orbs**. Born from the ancient, layered traditions of the [Emberglass Artisans](/structure/society/profession/emberglass-artisan.md), these spheres are not merely baubles of beauty, but vessels of trapped memories, condensed regrets, and clinging echoes of the dead.
 
