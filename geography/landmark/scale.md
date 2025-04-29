@@ -9,7 +9,7 @@ dateCreated: 2022-01-24T16:16:26.728Z
 ---
 
 # Scale
-In the world of [Iridia](/geography/cosmology/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with Irion’s lingering [resonance](/structure/mechanic/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
+In the world of [Iridia](/geography/cosmology/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with [Irion](/generated/deity/major/irion.md)’s lingering [resonance](/structure/mechanic/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
 
 ## Properties
 - **Immensity**: Most scales stretch hundreds to thousands of feet in diameter, towering like mountains or embedded deep underground.
@@ -45,7 +45,7 @@ To many, the scales are sacred.
 
 While most of [Iridia](/geography/cosmology/iridia.md) respects the power and danger of scales, not all do.
 
-Groups like the [Ragged Goons](/structure/society/factions/ragged-goons.md) actively seek out hidden or unprotected scales, attempting to exploit them for wealth, power, or chaos. These excavations often end in disaster—unleashing bursts of magical radiation, spawning monstrous entities, or warping the land around them.
+Groups like the [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) actively seek out hidden or unprotected scales, attempting to exploit them for wealth, power, or chaos. These excavations often end in disaster—unleashing bursts of magical radiation, spawning monstrous entities, or warping the land around them.
 
 ## Known Scales
 

@@ -12,13 +12,13 @@ dateCreated: 2025-04-03T20:45:42.986Z
 
 ## Overview
 
-The **Election Festival of Or** is the [City of Or](/geography/settlement/city/city-of-or.md)’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **[Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
+The **[Election Festival](/generated/arena/events/election-festival.md) of Or** is the [City of Or](/geography/settlement/city/city-of-or.md)’s grand civic celebration—a chaotic, exuberant tradition in which five representatives are chosen to serve on the **[Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)**. Held irregularly between governing cycles, the festival blends democratic ritual with public theatre, philosophical satire, and citywide revelry.
 
 Though the official festival lasts five days, most Orfolk recognise the far longer and wildly unregulated **Pre-Pre Festival**, a lead-up period of informal campaigning, community scheming, and festive chaos.
 
 ## Cultural Significance
 
-The people of Or do not revere politics—they **play with it**, **test it**, and most of all, **participate in it**. The Election Festival is built not only to select leaders, but to forge a bond between citizens and candidates through trial, embarrassment, and spectacle. The more a candidate is seen **failing honestly**, **laughing publicly**, and **enduring absurdity**, the more they are trusted to lead.
+The people of Or do not revere politics—they **play with it**, **test it**, and most of all, **participate in it**. The [Election Festival](/generated/arena/events/election-festival.md) is built not only to select leaders, but to forge a bond between citizens and candidates through trial, embarrassment, and spectacle. The more a candidate is seen **failing honestly**, **laughing publicly**, and **enduring absurdity**, the more they are trusted to lead.
 
 Participation, laughter, and visibility matter more than ideology. Even those with no intention to vote will often attend every debate, every trial, and every tavern performance—because to ignore the festival is to **miss the spirit of the city itself**.
 
@@ -46,7 +46,7 @@ The five new councillors are announced. Celebrations erupt across every district
 
 ## Notable Trials
 
-While not required by law, trials are an essential part of the Election Festival’s culture. They serve to humanise candidates, entertain the city, and symbolise the absurd weight of leadership.
+While not required by law, trials are an essential part of the [Election Festival](/generated/arena/events/election-festival.md)’s culture. They serve to humanise candidates, entertain the city, and symbolise the absurd weight of leadership.
 
 ### Comedic Trials
 - **Ale Recognition** – Blindly identify local brews.
@@ -81,7 +81,7 @@ There is **no limit** to the number of candidates. The festival’s trials and c
 
 ### Council Candidacy Regulations of the City of Or (Festival Provisions)
 
-In accordance with the Civic Representation Edict (as amended), the following criteria and obligations apply to all individuals seeking candidacy for Council appointment during the authorised Election Festival period:
+In accordance with the Civic Representation Edict (as amended), the following criteria and obligations apply to all individuals seeking candidacy for Council appointment during the authorised [Election Festival](/generated/arena/events/election-festival.md) period:
 
 1. **Residency & Civic Investment**  
    All candidates must demonstrate continuous and verifiable residency within the [City of Or](/geography/settlement/city/city-of-or.md) and its lawful districts for a period deemed sufficient by the Council Registrar’s Office. Candidates must further provide proof of active civic contribution, to be reviewed and certified by the Electoral Clerk.
@@ -98,7 +98,7 @@ In accordance with the Civic Representation Edict (as amended), the following cr
 5. **Anti-Corruption Safeguards and Enforced Penalties**  
    Any candidate found to engage in bribery, magical manipulation (including charm, compulsion, foresight distortion, or [resonance](/structure/mechanic/resonance.md) tampering), or acts of coercion—directly or through agents—shall be disqualified immediately and referred for civic sanction under the Ethical Violations Charter. Punishments may include public resonance censure, stripping of assets, memory annulment procedures, or symbolic public dunking, at the discretion of the Arbiter of Civic Fairness.
 
-All candidates are advised to maintain compliance throughout the Pre-Pre Festival period, the Election Festival proper, and the Council’s transitional term.
+All candidates are advised to maintain compliance throughout the Pre-Pre Festival period, the [Election Festival](/generated/arena/events/election-festival.md) proper, and the Council’s transitional term.
 
 ## Legacy & Expression
 
@@ -109,7 +109,7 @@ Throughout the festival, Orfolk express their views through:
 - **Parody songs and drunken chants**
 - **The ceremonial roasting of effigies and past promises**
 
-[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
+[Tallis Thorne](/generated/hero/character/tallis-thorne.md) once described the festival as “**a duet between mockery and hope**.” Others simply call it “**Or being Or.**”
 
 Popular sayings include:
 - “You’re drunk enough to run for Council.”
@@ -122,7 +122,7 @@ Popular sayings include:
 **[Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)**, the chaotic hobgoblin brewer behind **[The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)**, accidentally created a potion that caused a council hopeful to **sweat turnip juice** and collapse mid-debate. The nearest available replacement was an actual **turnip**, placed on the podium for comedic effect.
 
 The crowd voted for the vegetable.  
-**[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)** declared it a civic miracle.  
+**[Tallis Thorne](/generated/hero/character/tallis-thorne.md)** declared it a civic miracle.  
 **Debating the Turnip** is now a wildcard tradition.
 
 A wooden bust of the turnip—**Tharnibus**—sits proudly at [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)’s stall.
@@ -156,7 +156,7 @@ Adventurers caught trespassing during the festival began chanting “Long Live [
 
 ## Cultural Legacy
 
-The Election Festival is not just about governance—it’s **a mirror, a melody, and a mischief**. It allows the people of Or to challenge power, celebrate absurdity, and select leaders through empathy, not perfection.
+The [Election Festival](/generated/arena/events/election-festival.md) is not just about governance—it’s **a mirror, a melody, and a mischief**. It allows the people of Or to challenge power, celebrate absurdity, and select leaders through empathy, not perfection.
 
 At the heart of it all is a city that believes:
 

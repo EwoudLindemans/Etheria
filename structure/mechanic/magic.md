@@ -13,7 +13,7 @@ dateCreated: 2025-03-30T00:34:43.575Z
 
 ## Origins of Magic
 
-Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **[Scales](/geography/landmark/scale.md)**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
+Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **[Scales](/geography/landmark/scale.md)**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of [Irion](/generated/deity/major/irion.md)'s being, diffused into the world like breath into glass.
 
 ## The Five Known Scales
 

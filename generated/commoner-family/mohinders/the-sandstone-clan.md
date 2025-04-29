@@ -1,0 +1,21 @@
+# The Sandstone Clan
+
+The Sandstone Clan is a family of commoners residing in [Mohinders](/geography/settlement/city/mohinders.md), known for their resilience, quiet strength, and surprising involvement in the city's intricate system of sand-based trade.  They aren't wealthy, nor particularly influential in the arcane circles that dominate Mohinders’ social landscape, but they hold a deep, almost ancestral connection to the desert’s shifting sands and the subtle economy that thrives within them.
+
+## History and Lineage
+
+The Clan’s origins are shrouded in local legend.  Some whisper that their ancestors were early prospectors who stumbled upon unusually pure sandstone deposits in the desert before [Mohinders](/geography/settlement/city/mohinders.md)’ founding, gaining a small fortune that has trickled down through generations.  Others claim a more mystical connection, believing the first Sandstone, named Kaelen, was touched by the desert itself, blessed (or cursed, depending on the teller) with an innate understanding of how the sands moved and shifted, revealing hidden paths and resources.
+
+Whatever their true beginnings, the Sandstone Clan has consistently maintained a modest but persistent presence in [Mohinders](/geography/settlement/city/mohinders.md). They typically engage in various roles – from maintaining the sand filters that are vital for water purification (a surprisingly complex and important task given Mohinders’ limited natural water sources) to subtly participating in the trading networks that move specialized sands – vital ingredients for alchemical processes and even some low-level arcane rituals - throughout the region. The desert near Mohinders has deposits that possess strange qualities, often sought by certain alchemists.
+
+## Notable Members
+
+*   **Elder Bryn Sandstone:** The current patriarch of the Clan. A man of few words, Bryn is known for his uncanny ability to predict sandstorms and his unwavering commitment to upholding the Clan's traditional ways. Bryn maintains an encyclopedic knowledge of the local desert terrain, passed down through generations. 
+*   **Lysa Sandstone:** Bryn’s granddaughter and the Clan's primary trader. Though initially dismissed by many as just another commoner, Lysa possesses an exceptionally keen eye for quality and a subtle talent for negotiation.  She has recently started dealing in rare, iridescent sands used in illusion [magic](/structure/mechanic/magic.md), attracting unwanted attention from some of [Mohinders](/geography/settlement/city/mohinders.md)’ more powerful mages.
+*   **Torin Sandstone:** A quiet young man, Torin is responsible for maintaining the Clan’s complex system of sand filters. He secretly harbors ambitions to study at the Arcane Academy, a dream complicated by his family’s traditional focus and the Academy's general disdain for commoners. He has, however, discovered a peculiar [resonance](/structure/mechanic/resonance.md) between the desert sands and the fluctuating arcane energies within [Mohinders](/geography/settlement/city/mohinders.md), believing there is a hidden connection the Academy is missing.
+
+## Current Situation & Relationships
+
+The Sandstone Clan is facing increasing challenges. Competition for control of the sand trade has intensified, and Lysa’s dealings in rare sands have brought the Clan into contact with some unsavory characters, potentially connected to the [Ragged Goons](structure/society/factions/ragged-goons). Additionally, the discovery of a hidden fissure within The Desert of the Rendishing Night, and the unsettling behaviour of The [Invisible Stalker](geography/landmark/the-well) have raised concerns that the balance of the desert is shifting.
+
+While they maintain a polite, if distant, relationship with the arcane elite of [Mohinders](/geography/settlement/city/mohinders.md), the Sandstone Clan's true value lies in their intimate knowledge of the desert and their ability to navigate its hidden pathways. Their quiet resilience and subtle influence make them a vital – and largely overlooked – component of Mohinders’ intricate social and economic ecosystem. The constant threat of desert creatures and bandits also presents a common challenge, requiring the clan to be vigilant and resourceful.

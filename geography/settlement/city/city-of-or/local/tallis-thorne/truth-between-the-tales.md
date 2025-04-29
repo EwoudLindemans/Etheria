@@ -13,21 +13,21 @@ dateCreated: 2025-04-04T13:19:13.463Z
 
 ## A Mask of Legend
 
-Though the name [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) resounds through every festival, footnote, and flamboyant songbook, the *true* story behind the bard is far more guarded—and infinitely more fragile. Tallis presents himself as a creature of glory, self-fashioned myth, and poetic thunder, but beneath that persona lies the quieter life of a man once named simply **Tallis**.
+Though the name [Tallis Thorne](/generated/hero/character/tallis-thorne.md) resounds through every festival, footnote, and flamboyant songbook, the *true* story behind the bard is far more guarded—and infinitely more fragile. Tallis presents himself as a creature of glory, self-fashioned myth, and poetic thunder, but beneath that persona lies the quieter life of a man once named simply **Tallis**.
 
 Those few who knew him *before* remember a selfless, bright, and quietly loyal soul—one who routinely downplayed his own achievements in favour of his companions. His legendary persona is not a lie, but a **deliberate deflection**. A mask of mirth built to endure the unbearable weight of injustice, loss, and helpless love for a world that often breaks the good before it honours them.
 
 ## On Cowardice and Courage
 
-Contrary to the loud confidence, **[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) has never been a coward.**  
+Contrary to the loud confidence, **[Tallis Thorne](/generated/hero/character/tallis-thorne.md) has never been a coward.**  
 His fear is real, his avoidance of certain topics sincere—but his bravery lies in the quiet decisions. The lies told to protect others. The spotlight avoided when it would shine too harshly on a painful truth. He fights with wit, endures with elegance, and hides his wounds behind stage lights and applause.
 
 ## The Split: Tallis vs. Tallis Thorne
 
-The shift from *Tallis* to *[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)* was not a single event, but a slow metamorphosis born of necessity. Somewhere between loss, survival, and legend-building, he divided himself in two:
+The shift from *Tallis* to *[Tallis Thorne](/generated/hero/character/tallis-thorne.md)* was not a single event, but a slow metamorphosis born of necessity. Somewhere between loss, survival, and legend-building, he divided himself in two:
 
 - **Tallis**, the man—earnest, vulnerable, and haunted by things he won't name.  
-- **[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)**, the bard—brilliant, boundless, untouchable.
+- **[Tallis Thorne](/generated/hero/character/tallis-thorne.md)**, the bard—brilliant, boundless, untouchable.
 
 The space between them is filled with stories, songs, and spectacular distractions. To him, that library of invention is a safe distance.
 
@@ -74,7 +74,7 @@ Should anyone attempt to read it early, they will instead awaken the enchanted f
 
 ## Final Thought
 
-[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md), for all his exaggeration, is not a liar.
+[Tallis Thorne](/generated/hero/character/tallis-thorne.md), for all his exaggeration, is not a liar.
 
 He simply chose a version of himself the world could handle.
 

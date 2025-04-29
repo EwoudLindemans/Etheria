@@ -12,7 +12,7 @@ dateCreated: 2025-03-11T20:16:23.594Z
 
 ![the-ragged-goons.webp](/world/the-ragged-goons.webp =500x)
 
-The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/geography/landmark/scale.md)-exploiters who thrive on the chaos of [Iridia](/geography/cosmology/iridia.md)’s fringes. Born in the wake of a catastrophic scale experiment in **Arc 131**, they reject the sanctity of [Irion](/being/deity/irion.md)’s relics, viewing the scales as tools to be stripped and wielded. Their history is one of reckless raids, bloody rivalries, and a stubborn refusal to bow to the world’s order—a legacy that endures even as their numbers dwindle in the **Arc of Corruption**.
+The **[Ragged Goons](/generated/political-faction/faction/ragged-goons.md)** are a rogue faction of outcasts, scavengers, and [scale](/geography/landmark/scale.md)-exploiters who thrive on the chaos of [Iridia](/geography/cosmology/iridia.md)’s fringes. Born in the wake of a catastrophic scale experiment in **Arc 131**, they reject the sanctity of [Irion](/being/deity/irion.md)’s relics, viewing the scales as tools to be stripped and wielded. Their history is one of reckless raids, bloody rivalries, and a stubborn refusal to bow to the world’s order—a legacy that endures even as their numbers dwindle in the **Arc of Corruption**.
 
 ## Origins: The Spark of Defiance (Arc 131)
 
@@ -20,7 +20,7 @@ The Goons trace their roots to a disaster in **[Triz Valley](/geography/settleme
 
 ## The Ink-sane Six – Leaders of the Ragged Goons
 
-In the warped depths of the [Verdant Divide](/geography/region/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
+In the warped depths of the [Verdant Divide](/geography/region/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **[Ragged Goons](/generated/political-faction/faction/ragged-goons.md)** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
 
 They dwell within *The Cartocrater*—a [resonance](/structure/mechanic/resonance.md)-scarred chasm carved from a fractured [scale](/geography/landmark/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
 
@@ -43,7 +43,7 @@ A woman of exposed ribs, morbid wit, and elegant violence. Her curved blade is t
 The team’s winged warcry. Not a pet. Not a mascot. A prophetic, screeching avian horror with a beak full of threats and feathered spite. Speaks in cryptic map-borne riddles like “Turn thrice at the echo’s echo” or “Follow the toothless sun.” Believed to be older than several religions. Eats ink. Judges decisions. Bites ankles.
 
 
-Together, the **Ink-sane Six** don’t lead the Ragged Goons by virtue of rank—they lead by being the only ones mad enough to map madness and survive it. Where they go, plans unravel, coordinates combust, and the world *reconfigures itself out of sheer nervousness*.
+Together, the **Ink-sane Six** don’t lead the [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) by virtue of rank—they lead by being the only ones mad enough to map madness and survive it. Where they go, plans unravel, coordinates combust, and the world *reconfigures itself out of sheer nervousness*.
 
 They don’t follow the lines.
 
@@ -52,7 +52,7 @@ They redraw them—with blood and laughter.
 
 ## Creed and Culture
 
-The Ragged Goons live by a creed of chaos over control, survival over tradition. They lack formal structure—leadership falls to the boldest or bloodiest until toppled—and their tools reflect their rough ingenuity.
+The [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) live by a creed of chaos over control, survival over tradition. They lack formal structure—leadership falls to the boldest or bloodiest until toppled—and their tools reflect their rough ingenuity.
 
 - **Philosophy**: The [scales](/geography/landmark/scale.md) are resources, not relics. Power belongs to those who seize it.
 - **Weapons**: 
@@ -80,7 +80,7 @@ Ruk’s death fractured the Goons, but their spirit persists in scattered crews.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Iridia](/geography/cosmology/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) are [Iridia](/geography/cosmology/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

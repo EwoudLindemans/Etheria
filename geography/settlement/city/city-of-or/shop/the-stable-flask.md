@@ -54,5 +54,5 @@ While the storefront is professional and clean, rumour has it that Professor Kri
 - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
 - [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
 - [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
-- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) (where her potions are often in demand)
+- [Election Festival](/generated/arena/events/election-festival.md) (where her potions are often in demand)
 - [Professor Marwa Krindlenut]

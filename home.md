@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
 # Wiki Index
-  - [Being](/being.md)
-    - [Ancient](/being/ancient.md)
+  - Being
+    - Ancient
       - [Demeriún](/being/ancient/demeriun.md)
       - [Zeloréi](/being/ancient/zelorei.md)
-    - [Animal](/being/animal.md)
+    - Animal
       - [Snail](/being/animal/snail.md)
-    - [Character](/being/character.md)
+    - Character
       - [Cirxa](/being/character/cirxa.md)
       - [Jarvey](/being/character/jarvey.md)
       - [Matt & Bubbles](/being/character/matt.md)
@@ -30,7 +30,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Covenant of Thalgrin and Ilmater](/being/character/sylieth/covenant-of-thalgrin-and-ilmater.md)
         - [The Binding Thread](/being/character/sylieth/the-binding-thread.md)
       - [Varnwick Twistroot](/being/character/varnwick.md)
-    - [Deity](/being/deity.md)
+    - Deity
       - [Aelfar](/being/deity/aelfar.md)
       - [Aelyria](/being/deity/aelyria.md)
       - [Aurelthys](/being/deity/aurelthys.md)
@@ -42,15 +42,15 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Uldur](/being/deity/uldur.md)
       - [Vexyrra](/being/deity/vexyrra.md)
       - [Xal Zyra](/being/deity/xal-zyra.md)
-    - [Monster](/being/monster.md)
+    - Monster
       - [Invisible Stalker](/being/monster/invisible-stalker.md)
-    - [Species](/being/species.md)
+    - Species
       - [Denslings](/being/species/denslings.md)
       - [Etherials](/being/species/etherial.md)
       - [Iridian](/being/species/iridian.md)
       - [Kavrethul](/being/species/kavrethul.md)
       - [Merinari](/being/species/merinari.md)
-      - [Sub Species](/being/species/sub-species.md)
+      - Sub Species
         - [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md)
         - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md)
       - [The Graith](/being/species/graith.md)
@@ -58,7 +58,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [The Zynkri](/being/species/zynkri.md)
       - [Velkrin](/being/species/velkrin.md)
       - [Ythrylari](/being/species/ythrylari.md)
-    - [Titan](/being/titan.md)
+    - Titan
       - [Anemostrus](/being/titan/anemostrus.md)
       - [Gor’Thuun](/being/titan/gor-thuun.md)
       - [Obelion](/being/titan/obelion.md)
@@ -67,15 +67,577 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Skul’Kruk](/being/titan/skul-kruk.md)
       - [Vorr’Gul](/being/titan/vorr-gul.md)
       - [Zephiryx](/being/titan/zephiryx.md)
-  - [Geography](/geography.md)
-    - [Cosmology](/geography/cosmology.md)
+  - Generated
+    - Academy
+      - Crafts
+        - [Graveflame Artistry](/generated/academy/crafts/graveflame_artistry.md)
+      - Scholars
+        - [Dolores Stoneheart](/generated/academy/scholars/dolores-stoneheart.md)
+    - Adventurer
+      - Character
+        - [Sister Elia](/generated/adventurer/character/sister-elia.md)
+    - Airship Armada
+      - Fleets
+        - [Aeravanti Fleet](/generated/airship-armada/fleets/aeravanti-fleet.md)
+        - [Storm Talon Convoy](/generated/airship-armada/fleets/storm-talon-convoy.md)
+        - [The Crimson Skalds](/generated/airship-armada/fleets/the-crimson-skalds.md)
+      - Military
+        - [Sky Serpent Class Dreadnought](/generated/airship-armada/military/sky-serpent-class-dreadnought.md)
+    - Alchemical Substance
+      - Elixir
+        - [Shadowsilk Elixir](/generated/alchemical-substance/elixir/shadowsilk-elixir.md)
+      - Potions
+        - [Veilweave Essence](/generated/alchemical-substance/potions/veilweave-essence.md)
+    - Angel
+      - Champion
+        - [Aeraviel The Resonance Warden](/generated/angel/champion/aeraviel-the-resonance-warden.md)
+      - Guardian
+        - [Heartforge Angel](/generated/angel/guardian/heartforge-angel.md)
+    - Animal
+      - Aquatic
+        - [Lumiflora Eel](/generated/animal/aquatic/lumiflora-eel.md)
+      - Beast
+        - [Glowback Beetle](/generated/animal/beast/glowback_beetle.md)
+        - [Resonanthowler](/generated/animal/beast/resonanthowler.md)
+      - Fauna
+        - [Skittering Shadows](/generated/animal/fauna/skittering-shadows.md)
+      - Reptile
+        - [Sunstone Wyrm](/generated/animal/reptile/sunstone-wyrm.md)
+      - Resonant
+        - [Resonating Wyrmlet](/generated/animal/resonant/resonating-wyrmlet.md)
+    - Arena
+      - Events
+        - [Election Festival](/generated/arena/events/election-festival.md)
+      - Trials
+        - [Hornturn](/generated/arena/trials/hornturn.md)
+    - Artifact
+      - Instrument
+        - [Lyra Of Shifting Refrain](/generated/artifact/instrument/lyra-of-shifting-refrain.md)
+      - Manipulation
+        - [The Echoing Locket](/generated/artifact/manipulation/the-echoing-locket.md)
+    - Astral Plane
+      - Echoes
+        - [Resonance Wells](/generated/astral-plane/echoes/resonance-wells.md)
+      - Regions
+        - [The Chromatic Rift](/generated/astral-plane/regions/the-chromatic-rift.md)
+    - Bandit Group
+      - Organized
+        - [The Ironclad Reavers](/generated/bandit-group/organized/the-ironclad-reavers.md)
+        - [The Red Stitch Syndicate](/generated/bandit-group/organized/the-red-stitch-syndicate.md)
+      - Root Bound
+        - [The Thornbinders](/generated/bandit-group/root-bound/the-thornbinders.md)
+    - Bard
+      - Monsters
+        - [Graith Encounter](/generated/bard/monsters/graith_encounter.md)
+    - Battleground
+      - Conflict
+        - [Asara Plate Dispute](/generated/battleground/conflict/asara-plate-dispute.md)
+      - Planar
+        - [Fractured Echo Arena](/generated/battleground/planar/fractured-echo-arena.md)
+    - Castle
+      - Defense
+        - [Shifting Gates](/generated/castle/defense/shifting_gates.md)
+      - Fortified
+        - [Castle Blackwind](/generated/castle/fortified/castle-blackwind.md)
+    - Cave System
+      - Geography
+        - [Heartroot Garden](/generated/cave-system/geography/heartroot-garden.md)
+      - Ruins
+        - [The Whispering Grottos](/generated/cave-system/ruins/the-whispering-grottos.md)
+    - City
+      - Major
+        - [Redhaven](/generated/city/major/redhaven.md)
+      - Riverports
+        - [Veridia](/generated/city/riverports/veridia.md)
+    - Clan
+      - Nomadic
+        - [Sand Skimmers](/generated/clan/nomadic/sand-skimmers.md)
+      - Seeker
+        - [Sylieth Clan](/generated/clan/seeker/sylieth-clan.md)
+    - Commoner Family
+      - Aquamancers
+        - [The Ripple Kin](/generated/commoner-family/aquamancers/the-ripple-kin.md)
+      - Farming
+        - [The Barrowfields](/generated/commoner-family/farming/the-barrowfields.md)
+      - Mohinders
+        - [The Sandstone Clan](/generated/commoner-family/mohinders/the-sandstone-clan.md)
+    - Continent
+      - Geography
+        - [The Shattered Continent](/generated/continent/geography/the-shattered-continent.md)
+      - Veridian
+        - [The Sunken Coast](/generated/continent/veridian/the-sunken-coast.md)
+    - Crypt
+      - Artifacts
+        - [Concordium Scalpel](/generated/crypt/artifacts/concordium_scalpel.md)
+      - Being
+        - Deity
+          - [The Unborn](/generated/crypt/being/deity/the-unborn.md)
+      - Factions
+        - [The Domain Hoarders](/generated/crypt/factions/the-domain-hoarders.md)
+      - Lore
+        - [Spiral Accord Fragments](/generated/crypt/lore/spiral-accord-fragments.md)
+      - Races
+        - [Iridescent Shimmerscales](/generated/crypt/races/iridescent-shimmerscales.md)
+    - Cult
+      - Ascension
+        - [Children Of Ilmater](/generated/cult/ascension/children_of_ilmater.md)
+      - Election
+        - [The Cult Of Tharnibus](/generated/cult/election/the-cult-of-tharnibus.md)
+      - Order
+        - [Heartforgers](/generated/cult/order/heartforgers.md)
+    - Curse
+      - Artifacts
+        - [Evershard Maul](/generated/curse/artifacts/evershard-maul.md)
+      - Corruption
+        - [The Ink Curse](/generated/curse/corruption/the-ink-curse.md)
+        - [The Rust Of Aethelgard](/generated/curse/corruption/the-rust-of-aethelgard.md)
+      - Races
+        - [Uruk Musicians](/generated/curse/races/uruk-musicians.md)
+    - Deity
+      - Major
+        - [Irion](/generated/deity/major/irion.md)
+    - Demigod
+      - Forging
+        - [Durngar Coalmantle](/generated/demigod/forging/durngar-coalmantle.md)
+      - Lost And Found
+        - [The Weaver Of Threads](/generated/demigod/lost_and_found/the-weaver-of-threads.md)
+    - Demon
+      - Demonlord
+        - [Sylvaris The Inkbinder](/generated/demon/demonlord/sylvaris_the_inkbinder.md)
+      - Major
+        - [The Iron Devourer](/generated/demon/major/the-iron-devourer.md)
+      - Manifestation
+        - [The Bone Marshal Manifestation](/generated/demon/manifestation/the-bone-marshal-manifestation.md)
+    - Desert
+      - Fauna
+        - [Sandstrider](/generated/desert/fauna/sandstrider.md)
+    - Disease
+      - Fungal
+        - [Whisperrot](/generated/disease/fungal/whisperrot.md)
+      - Magical
+        - [Resonance Blight](/generated/disease/magical/resonance_blight.md)
+    - Dungeon
+      - Exploration
+        - [The Whispering Cleft](/generated/dungeon/exploration/the-whispering-cleft.md)
+      - Ruins
+        - [The Echoing Grotto](/generated/dungeon/ruins/the-echoing-grotto.md)
+    - Explorer
+      - Locations
+        - [Shadowgate Nexus](/generated/explorer/locations/shadowgate_nexus.md)
+    - Farmstead
+      - Agriculture
+        - [Lyra Vineyards](/generated/farmstead/agriculture/lyra-vineyards.md)
+      - Farmlife
+        - [Election Festival Harvest Rite](/generated/farmstead/farmlife/election-festival-harvest-rite.md)
+      - Orchards
+        - [Sunstone Orchard](/generated/farmstead/orchards/sunstone-orchard.md)
+      - Resource
+        - [Thistlewick Farm](/generated/farmstead/resource/thistlewick-farm.md)
+      - Rural Economy
+        - [Whisperwind Farms](/generated/farmstead/rural_economy/whisperwind_farms.md)
+      - Special
+        - [Gluttthar Mudfarm](/generated/farmstead/special/gluttthar-mudfarm.md)
+    - Festival
+      - Cultural
+        - [Festival Of Resonances](/generated/festival/cultural/festival-of-resonances.md)
+      - Seasonal
+        - [Festivalofforgottenvows](/generated/festival/seasonal/festivalofforgottenvows.md)
+        - [Stormrider's Zenith](/generated/festival/seasonal/stormrider's-zenith.md)
+        - [The Veil Weaving Festival](/generated/festival/seasonal/the-veil-weaving-festival.md)
+    - Forest
+      - Ecology
+        - [Ancient Grove](/generated/forest/ecology/ancient-grove.md)
+        - [Whispering Wood](/generated/forest/ecology/whispering-wood.md)
+    - Forge
+      - Lore
+        - [Glimmer Drift And Scale Corruption](/generated/forge/lore/glimmer-drift-and-scale-corruption.md)
+      - Organization
+        - [The Concord](/generated/forge/organization/the-concord.md)
+    - Fortress
+      - Military
+        - [Tuskbreaker Legion](/generated/fortress/military/tuskbreaker-legion.md)
+      - Ruin
+        - [The Sunken Citadel Of Azmar](/generated/fortress/ruin/the-sunken-citadel-of-azmar.md)
+    - Fungus
+      - Bioluminescent
+        - [Glowcap Networks](/generated/fungus/bioluminescent/glowcap_networks.md)
+      - Ecology
+        - [Lumina Fungi](/generated/fungus/ecology/lumina_fungi.md)
+      - Symbiosis
+        - [Emberglass Mycelia](/generated/fungus/symbiosis/emberglass-mycelia.md)
+    - Gemstone
+      - Artifact
+        - [Tusked Relic Of Gruknar](/generated/gemstone/artifact/tusked-relic-of-gruknar.md)
+      - Character
+        - [The Crowstrider](/generated/gemstone/character/the-crowstrider.md)
+      - Culture
+        - [Velian Artistry](/generated/gemstone/culture/velian-artistry.md)
+    - Government
+      - Guilds
+        - [Alchemists Guild](/generated/government/guilds/alchemists-guild.md)
+        - [The Heartforge Guild](/generated/government/guilds/the-heartforge-guild.md)
+      - Structure
+        - [The Verdant Council](/generated/government/structure/the-verdant-council.md)
+    - Guild
+      - Academic
+        - [Rune Scholars Guild](/generated/guild/academic/rune-scholars-guild.md)
+      - Craft
+        - [Tuskbreaker Guild](/generated/guild/craft/tuskbreaker-guild.md)
+      - Scholars
+        - [Chronomasters](/generated/guild/scholars/chronomasters.md)
+    - Hero
+      - Artisan
+        - [Lyra Stonehand](/generated/hero/artisan/lyra-stonehand.md)
+      - Character
+        - [Tallis Thorne](/generated/hero/character/tallis-thorne.md)
+      - Defender
+        - [Thorngrim The Unyielding](/generated/hero/defender/thorngrim-the-unyielding.md)
+      - Npc
+        - [Voryn Shadowwalker](/generated/hero/npc/voryn-shadowwalker.md)
+    - Inn
+      - Town
+        - [The Stone Haven](/generated/inn/town/the-stone-haven.md)
+      - Traveler
+        - [The Stone Song](/generated/inn/traveler/the-stone-song.md)
+    - Inventor
+      - Artificer
+        - [Alora Stonehand](/generated/inventor/artificer/alora-stonehand.md)
+      - Magical
+        - [Arcane Automaton Crafter](/generated/inventor/magical/arcane-automaton-crafter.md)
+    - Kingdom
+      - External
+        - [The Sunstone Confederacy](/generated/kingdom/external/the-sunstone-confederacy.md)
+      - Or
+        - [The Shardlands](/generated/kingdom/or/the-shardlands.md)
+      - Powerful Beings
+        - [Obed The Silent Guardian](/generated/kingdom/powerful_beings/obed-the-silent-guardian.md)
+      - Rivals
+        - [Aeravanth](/generated/kingdom/rivals/aeravanth.md)
+    - Knightly House
+      - Fallen
+        - [House Blackthorn](/generated/knightly-house/fallen/house-blackthorn.md)
+    - Mage Circle
+      - Circles Of Healing
+        - [Circle Of Ilmater](/generated/mage-circle/circles-of-healing/circle-of-ilmater.md)
+      - Institutions
+        - [The Mountaintop Order](/generated/mage-circle/institutions/the-mountaintop-order.md)
+      - Lore
+        - [The Dimmabrow Resonance](/generated/mage-circle/lore/the-dimmabrow-resonance.md)
+      - Organizations
+        - [The Circle Of Shifting Realms](/generated/mage-circle/organizations/the-circle-of-shifting-realms.md)
+    - Manor
+      - Architecture
+        - [Demeriun Manor](/generated/manor/architecture/demeriun_manor.md)
+        - [Scale Bound Structures](/generated/manor/architecture/scale-bound-structures.md)
+      - Estate
+        - [Wyvernwood Manor](/generated/manor/estate/wyvernwood-manor.md)
+    - Map
+      - Locations
+        - [The Ink District](/generated/map/locations/the-ink-district.md)
+    - Market
+      - Artifacts
+        - [Skulruk Fragments](/generated/market/artifacts/skulruk-fragments.md)
+      - Goods
+        - [Resonance Crystals](/generated/market/goods/resonance_crystals.md)
+        - [Spice Exchange Of Aerilon](/generated/market/goods/spice-exchange-of-aerilon.md)
+      - Unusual
+        - [Whispermarket](/generated/market/unusual/whispermarket.md)
+    - Mercenary Company
+      - Arcane
+        - [The Echo Guard](/generated/mercenary-company/arcane/the-echo-guard.md)
+      - Specialized
+        - [The Ossified Hand](/generated/mercenary-company/specialized/the-ossified-hand.md)
+    - Merchant
+      - Artifacts
+        - [Resonating Stones](/generated/merchant/artifacts/resonating-stones.md)
+      - Artisan
+        - [Gloriana Lyre Strings](/generated/merchant/artisan/gloriana-lyre-strings.md)
+        - [Lyra Brightstone](/generated/merchant/artisan/lyra-brightstone.md)
+      - General
+        - [Elara Stonesong](/generated/merchant/general/elara-stonesong.md)
+      - Instruments
+        - [Resonators Of Coalwalk](/generated/merchant/instruments/resonators_of_coalwalk.md)
+      - Tinker
+        - [Krugs Cogsmith And Curios](/generated/merchant/tinker/krugs-cogsmith-and-curios.md)
+      - Trade Goods
+        - [Soul Silk](/generated/merchant/trade-goods/soul-silk.md)
+    - Merchant Caravan
+      - Faction
+        - [The Crimson Reach Trading Company](/generated/merchant-caravan/faction/the-crimson-reach-trading-company.md)
+      - Organization
+        - [Ironclad Transports](/generated/merchant-caravan/organization/ironclad-transports.md)
+    - Military Force
+      - Order
+        - [The Shardguard](/generated/military-force/order/the-shardguard.md)
+    - Mineral
+      - Resonance
+        - [Resonite](/generated/mineral/resonance/resonite.md)
+    - Monastery
+      - Scholar
+        - [The Siphon Of Resonance](/generated/monastery/scholar/the-siphon-of-resonance.md)
+    - Monster
+      - Aberration
+        - [Kavrethul Echo](/generated/monster/aberration/kavrethul_echo.md)
+      - Construct
+        - [Resonance Shard](/generated/monster/construct/resonance-shard.md)
+    - Monument
+      - Culture
+        - [The Obscure Art Of Concordance](/generated/monument/culture/the-obscure-art-of-concordance.md)
+      - History
+        - [The Mawtree Accord](/generated/monument/history/the-mawtree-accord.md)
+    - Mountain Range
+      - Geography
+        - [The Serpent's Crest](/generated/mountain-range/geography/the-serpent's-crest.md)
+        - [The Whispering Peaks](/generated/mountain-range/geography/the-whispering-peaks.md)
+    - Mythical Creature
+      - Aberration
+        - [Chronoshifter](/generated/mythical-creature/aberration/chronoshifter.md)
+        - [Resonating Shriek](/generated/mythical-creature/aberration/resonating-shriek.md)
+        - [Veinwhisperer](/generated/mythical-creature/aberration/veinwhisperer.md)
+      - Beast
+        - [Bone Wyrm](/generated/mythical-creature/beast/bone-wyrm.md)
+      - Beasts
+        - [Stone Gargoyle Sentinels](/generated/mythical-creature/beasts/stone-gargoyle-sentinels.md)
+      - Elemental
+        - [Chaos Resonant Guardian](/generated/mythical-creature/elemental/chaos-resonant-guardian.md)
+      - Resonants
+        - [Goras Echo](/generated/mythical-creature/resonants/goras-echo.md)
+    - Mythical Realm
+      - Geography
+        - Settlement
+          - City
+            - Mohinders
+              - [The Portal Divide](/generated/mythical-realm/geography/settlement/city/mohinders/the-portal-divide.md)
+      - Professions
+        - [Harthrun Metallurgy](/generated/mythical-realm/professions/harthrun-metallurgy.md)
+    - Naval Fleet
+      - Faction
+        - [Ashenfang Bonefleet](/generated/naval-fleet/faction/ashenfang-bonefleet.md)
+      - Vessels
+        - [Dwarven Ironclad](/generated/naval-fleet/vessels/dwarven-ironclad.md)
+        - [Fleet Of The Gluttthar Ogres](/generated/naval-fleet/vessels/fleet-of-the-gluttthar-ogres.md)
+    - Noble Family
+      - Artificer
+        - [Valerius](/generated/noble-family/artificer/valerius.md)
+      - Lost Heritage
+        - [Veridian Dynasty](/generated/noble-family/lost-heritage/veridian-dynasty.md)
+    - Observatory
+      - Astronomy
+        - [Celestial Charts](/generated/observatory/astronomy/celestial-charts.md)
+      - Cosmology
+        - [Ornite Ring Observation Protocols](/generated/observatory/cosmology/ornite_ring_observation_protocols.md)
+    - Plant
+      - Flora
+        - [Blightscale Bloom](/generated/plant/flora/blightscale-bloom.md)
+        - [Fossilbloom](/generated/plant/flora/fossilbloom.md)
+      - Fungi
+        - [Gloomcap](/generated/plant/fungi/gloomcap.md)
+        - [Lumina Cap](/generated/plant/fungi/lumina_cap.md)
+      - Magical
+        - [Whisperweed](/generated/plant/magical/whisperweed.md)
+      - Medicinal
+        - [Iridium Bloom](/generated/plant/medicinal/iridium-bloom.md)
+    - Pocket Dimension
+      - Locations
+        - [Scale Conduit Grove](/generated/pocket-dimension/locations/scale-conduit-grove.md)
+      - Realm
+        - [Sweetmoss Veil](/generated/pocket-dimension/realm/sweetmoss-veil.md)
+    - Political Faction
+      - Cults
+        - [The Order Of Woven Bones](/generated/political-faction/cults/the-order-of-woven-bones.md)
+      - Faction
+        - [Ragged Goons](/generated/political-faction/faction/ragged-goons.md)
+      - Guild
+        - [Bone Reclaimers](/generated/political-faction/guild/bone-reclaimers.md)
+      - Guilds
+        - [The Resonance Cartographers](/generated/political-faction/guilds/the-resonance-cartographers.md)
+    - Potion
+      - Healing
+        - [Elixir Of Moonlit Dreams](/generated/potion/healing/elixir_of_moonlit_dreams.md)
+    - Precious Metal
+      - Alloy
+        - [Lumiforge Steel](/generated/precious-metal/alloy/lumiforge-steel.md)
+      - Currency
+        - [Aurum Shard](/generated/precious-metal/currency/aurum-shard.md)
+    - Prison
+      - Detention
+        - [The Karmic Forge](/generated/prison/detention/the-karmic-forge.md)
+      - Scale Prisons
+        - [The Iridescent Root Penitentiary](/generated/prison/scale-prisons/the-iridescent-root-penitentiary.md)
+      - Special
+        - [The Inkwell](/generated/prison/special/the_inkwell.md)
+      - Temporal Anomalies
+        - [The Chronarium](/generated/prison/temporal-anomalies/the-chronarium.md)
+    - Prophecy
+      - Luminary
+        - [The Veil Of Shifting Echoes](/generated/prophecy/luminary/the-veil-of-shifting-echoes.md)
+      - Shadows
+        - [The Echoing Veil](/generated/prophecy/shadows/the-echoing-veil.md)
+    - Rebellion
+      - Factions
+        - [The Bone Breakers](/generated/rebellion/factions/the-bone-breakers.md)
+        - [The Bone Wardens](/generated/rebellion/factions/the-bone-wardens.md)
+    - Region
+      - Settlements
+        - [Stormwatch Citadel](/generated/region/settlements/stormwatch-citadel.md)
+      - Underdark
+        - [The Resonating Void](/generated/region/underdark/the-resonating-void.md)
+    - Relic
+      - Data Storage
+        - [Tallis Thorne Fragment](/generated/relic/data-storage/tallis-thorne-fragment.md)
+    - Religion
+      - Ancestor
+        - [Whispers Of Stone](/generated/religion/ancestor/whispers-of-stone.md)
+      - Divination
+        - [Stone Memory](/generated/religion/divination/stone-memory.md)
+      - Divinity
+        - [The Weaving Faith](/generated/religion/divinity/the-weaving-faith.md)
+    - River
+      - Geography
+        - [Whisperwind](/generated/river/geography/whisperwind.md)
+      - Music
+        - [The Shellsong Bard](/generated/river/music/the-shellsong-bard.md)
+    - Ruins
+      - Ancient Cities
+        - [The Sunken City Of Auroria](/generated/ruins/ancient_cities/the-sunken-city-of-auroria.md)
+      - Ancient Structures
+        - [The Shattered Spire](/generated/ruins/ancient_structures/the_shattered_spire.md)
+      - Ancient Structures
+        - [The Whispering Bone Sanctum](/generated/ruins/ancient-structures/the-whispering-bone-sanctum.md)
+      - Arcane
+        - [The Chronarium Shards](/generated/ruins/arcane/the-chronarium-shards.md)
+      - Lost Cities
+        - [Echoing Spire](/generated/ruins/lost-cities/echoing-spire.md)
+    - Scholar
+      - History
+        - [Resonance Echoes](/generated/scholar/history/resonance_echoes.md)
+      - Lore
+        - [Dolmen Song](/generated/scholar/lore/dolmen_song.md)
+    - Sect
+      - Cults
+        - [The Whisper Of Or](/generated/sect/cults/the-whisper-of-or.md)
+      - Faction
+        - [Gurdalks Gang](/generated/sect/faction/gurdalks_gang.md)
+      - Fauna
+        - [Lumina Moth](/generated/sect/fauna/lumina-moth.md)
+      - Religious
+        - [Veilborn](/generated/sect/religious/veilborn.md)
+    - Shrine
+      - Artifact
+        - [The Chronarium](/generated/shrine/artifact/the-chronarium.md)
+      - Divine
+        - [Ilmater](/generated/shrine/divine/ilmater.md)
+        - [The Everflowing Fountain](/generated/shrine/divine/the-everflowing-fountain.md)
+      - Faith
+        - [The Forge Shrine](/generated/shrine/faith/the-forge-shrine.md)
+      - Resonance
+        - [Echoing Stone](/generated/shrine/resonance/echoing-stone.md)
+    - Spell
+      - Divination
+        - [Vision Of The Brazen](/generated/spell/divination/vision-of-the-brazen.md)
+      - Evocation
+        - [Bone Rending Blast](/generated/spell/evocation/bone-rending-blast.md)
+    - Spirit
+      - Ancient
+        - [Zelorei](/generated/spirit/ancient/zelorei.md)
+      - Avatar
+        - [Scale Bound](/generated/spirit/avatar/scale-bound.md)
+      - Entity
+        - [Resonating Echo](/generated/spirit/entity/resonating-echo.md)
+      - Guardian
+        - [Demeriun](/generated/spirit/guardian/demeriun.md)
+        - [Resonant Chorus](/generated/spirit/guardian/resonant-chorus.md)
+      - Minor
+        - [Echo Bearer](/generated/spirit/minor/echo-bearer.md)
+    - Statue
+      - Historical
+        - [The Bronze Guardian Of Ashbarrow](/generated/statue/historical/the-bronze-guardian-of-ashbarrow.md)
+      - Iridian
+        - [The Titan's Remnant](/generated/statue/iridian/the-titan's-remnant.md)
+    - Swamp
+      - Ecology
+        - [The Weeping Fen](/generated/swamp/ecology/the-weeping-fen.md)
+    - Tavern
+      - Common
+        - [The Whispering Root](/generated/tavern/common/the-whispering-root.md)
+      - Establishment
+        - [The Stone Echo](/generated/tavern/establishment/the-stone-echo.md)
+      - Local Haunts
+        - [The Resonating Reed](/generated/tavern/local_haunts/the_resonating_reed.md)
+      - Refined
+        - [The Opal Flask](/generated/tavern/refined/the-opal-flask.md)
+      - Unique
+        - [The Shimmering Chord](/generated/tavern/unique/the-shimmering-chord.md)
+    - Temple
+      - Deities
+        - [Vorr](/generated/temple/deities/vorr.md)
+      - Worship
+        - [Temple Of The Everstorm](/generated/temple/worship/temple-of-the-everstorm.md)
+    - Theater
+      - Performance
+        - [The Soulglass Chronicle](/generated/theater/performance/the-soulglass-chronicle.md)
+      - Training
+        - [Unstable Grounds Assessment](/generated/theater/training/unstable-grounds-assessment.md)
+    - Thieves Guild
+      - Operations
+        - [The Shadow Syndicate](/generated/thieves-guild/operations/the-shadow-syndicate.md)
+      - Organization
+        - [The Shadows Of Or](/generated/thieves-guild/organization/the-shadows-of-or.md)
+    - Town
+      - Coastal
+        - [Aethelgard](/generated/town/coastal/aethelgard.md)
+      - Frontier
+        - [Dustcrown](/generated/town/frontier/dustcrown.md)
+      - Trade
+        - [Whisperwind](/generated/town/trade/whisperwind.md)
+    - Tradition
+      - Ritual
+        - [Resonance Binding](/generated/tradition/ritual/resonance-binding.md)
+      - Sorcery
+        - [Arcane Resonance Tradition](/generated/tradition/sorcery/arcane-resonance-tradition.md)
+      - Spiritual
+        - [Resonance Rites](/generated/tradition/spiritual/resonance_rites.md)
+    - Tribe
+      - Soulbinders
+        - [The Echo Keepers](/generated/tribe/soulbinders/the-echo-keepers.md)
+    - Underworld
+      - Factions
+        - [The Echo Keepers](/generated/underworld/factions/the-echo-keepers.md)
+    - Village
+      - Frontier
+        - [Dustfall](/generated/village/frontier/dustfall.md)
+      - Mining
+        - [Glimmerstone Hold](/generated/village/mining/glimmerstone-hold.md)
+      - Settlements
+        - [Silvanwood](/generated/village/settlements/silvanwood.md)
+    - Villain
+      - Cultists
+        - [Shriekbeak Cultist](/generated/villain/cultists/shriekbeak-cultist.md)
+    - Volcano
+      - Geography
+        - [The Iron Maw](/generated/volcano/geography/the-iron-maw.md)
+        - [Volcanic Caldera](/generated/volcano/geography/volcanic-caldera.md)
+      - Geology
+        - [Magma Composition](/generated/volcano/geology/magma-composition.md)
+    - Warrior Order
+      - Shadows
+        - [The Ink Stained Guardians](/generated/warrior-order/shadows/the-ink-stained-guardians.md)
+    - Workshop
+      - Campaigns
+        - [Thedenseincursion](/generated/workshop/campaigns/thedenseincursion.md)
+      - Factions
+        - [The Shardwardens](/generated/workshop/factions/the-shardwardens.md)
+      - Monsters
+        - [Abyssal Leviathan](/generated/workshop/monsters/abyssal_leviathan.md)
+  - Geography
+    - Cosmology
       - [Iridia](/geography/cosmology/iridia.md)
         A world created from a collision with a magical creature.
-      - [Plane Of Existance](/geography/cosmology/plane-of-existance.md)
+      - Plane Of Existance
         - [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
           - [The Threefold Bloom](/geography/cosmology/plane-of-existance/the-dense/threefold-bloom.md)
         - [The Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md)
-    - [Landmark](/geography/landmark.md)
+    - Landmark
       - [Mountains of Triz](/geography/landmark/mountains-of-triz.md)
         A mountainous area near the city of Triz Valley.
         - [Gurdalk's Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
@@ -87,13 +649,13 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [The Ornite Ring](/geography/landmark/scale/ornite-ring.md)
         - [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
       - [The Well](/geography/landmark/the-well.md)
-    - [Region](/geography/region.md)
+    - Region
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md)
       - [Skein of Bones](/geography/region/skein-of-bones.md)
       - [The Blooming Skein](/geography/region/blooming-skein.md)
       - [Verdant Divide](/geography/region/verdant-divide.md)
-    - [Settlement](/geography/settlement.md)
-      - [City](/geography/settlement/city.md)
+    - Settlement
+      - City
         - [Arkona](/geography/settlement/city/arkona.md)
         - [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md)
           - [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md)
@@ -107,10 +669,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [The City of Or](/geography/settlement/city/city-of-or.md)
           The largest city of Iridia, built beneath The Armour of Or.
           - [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
-          - [Consumable](/geography/settlement/city/city-of-or/consumable.md)
+          - Consumable
             - [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
             - [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
-          - [District](/geography/settlement/city/city-of-or/district.md)
+          - District
             - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
               Loud, proud, working-class heart of Or
             - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
@@ -121,7 +683,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
               Or’s chaotic, ever-moving trade chute
           - [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)
             - [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
-          - [Local](/geography/settlement/city/city-of-or/local.md)
+          - Local
             - [🪦 Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md)
             - [🪦 Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
               The founder and first leader of the City of Or.
@@ -142,7 +704,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
                 Wondrous Item (unique), legendary, soulbound
           - [Mines of Or](/geography/settlement/city/city-of-or/mines-of-or.md)
             The legendary mines that fuel the City of Or's prosperity.
-          - [Shop](/geography/settlement/city/city-of-or/shop.md)
+          - Shop
             - [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)
               The City of Or Grand Archive and Library
               - [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md)
@@ -173,8 +735,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Triz Valley](/geography/settlement/city/triz-valley.md)
           Small town near the Mountains of Triz, popular amongst travelers.
         - [Umberdeep](/geography/settlement/city/umberdeep.md)
-      - [Enclave](/geography/settlement/enclave.md)
-        - [Scholars Rift](/geography/settlement/enclave/scholars-rift.md)
+      - Enclave
+        - Scholars Rift
           - [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md)
           - [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md)
           - [The Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md)
@@ -183,21 +745,21 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md)
             A tavern in Scholar’s Rift where magic is strongly discouraged.
           - [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md)
-  - [Structure](/structure.md)
-    - [Chronological](/structure/chronological.md)
+  - Structure
+    - Chronological
       - [Calendar](/structure/chronological/calendar.md)
-      - [Event](/structure/chronological/event.md)
+      - Event
         - [Manifistation](/structure/chronological/event/manifestation.md)
         - [The Collapse](/structure/chronological/event/the-collapse.md)
-    - [Mechanic](/structure/mechanic.md)
-      - [Class](/structure/mechanic/class.md)
-        - [Sorcerer](/structure/mechanic/class/sorcerer.md)
-          - [Subclass](/structure/mechanic/class/sorcerer/subclass.md)
+    - Mechanic
+      - Class
+        - Sorcerer
+          - Subclass
             - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md)
-      - [Condition](/structure/mechanic/condition.md)
+      - Condition
         - [Karmic Slap](/structure/mechanic/condition/karmic-slap.md)
       - [Deity](/structure/mechanic/deity.md)
-      - [Dice](/structure/mechanic/dice.md)
+      - Dice
         - [Carefull Roll](/structure/mechanic/dice/carefull.md)
         - [Epic Roll](/structure/mechanic/dice/epic.md)
         - [Paradoxical Roll](/structure/mechanic/dice/paradoxal-recoil.md)
@@ -207,10 +769,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Magic](/structure/mechanic/magic.md)
       - [Resonance](/structure/mechanic/resonance.md)
         The magical current that flows from the scales and shapes Iridia.
-    - [Society](/structure/society.md)
-      - [Clan](/structure/society/clan.md)
+    - Society
+      - Clan
         - [The Ashenfang](/structure/society/clan/ashenfang.md)
-      - [Factions](/structure/society/factions.md)
+      - Factions
         - [Followers of Irion](/structure/society/factions/followers-of-irion.md)
         - [The Arcane Fangs](/structure/society/factions/arcane-fangs.md)
         - [The Cult of Dy](/structure/society/factions/cult-of-dy.md)
@@ -224,9 +786,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md)
           - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md)
           - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md)
-      - [Group](/structure/society/group.md)
+      - Group
         - [The Scalebound Strays](/structure/society/group/scalebound-strays.md)
-      - [Profession](/structure/society/profession.md)
+      - Profession
         - [Dreamweaving](/structure/society/profession/dreamweaving.md)
         - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md)
           - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md)

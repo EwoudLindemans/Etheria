@@ -51,7 +51,7 @@ The current Flatstone councillors are:
 Each of these councillors wields significant authority over specific aspects of the city's governance. Although united by name, their opinions diverge so sharply that even minor policy debates can last weeks—unless someone brings ale.
 
 ## Elected Seats – The People’s Voice
-Every **three years**, a city-wide celebration and trial event known as the **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md)** is held, wherein any eligible citizen may compete for one of the five elected seats.
+Every **three years**, a city-wide celebration and trial event known as the **[Election Festival](/generated/arena/events/election-festival.md)** is held, wherein any eligible citizen may compete for one of the five elected seats.
 
 These trials, while partly farcical and often soaked in local ale, ultimately result in the selection of candidates who have won both **public favour and practical trials**. Elected councillors are expected to suspend all business interests during their term and serve as full-time civil representatives.
 
@@ -68,7 +68,7 @@ Sitting councillors are **strictly prohibited** from engaging in business or lob
 ## Council Debates and Decision-Making
 Council meetings are open to registered observers and recorded by a trio of official scribes, each from a different district to ensure neutrality. Meetings are held weekly, with emergency sessions called at the discretion of any three councillors.
 
-Debates are known for their passion, poetic insults, and occasional musical interludes—particularly if **[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)** has recently visited the chamber.
+Debates are known for their passion, poetic insults, and occasional musical interludes—particularly if **[Tallis Thorne](/generated/hero/character/tallis-thorne.md)** has recently visited the chamber.
 
 Disagreements are not only tolerated but encouraged, and it is a point of pride that council members rarely speak with one voice unless absolutely necessary.
 
@@ -78,7 +78,7 @@ To outsiders, the Council of Or may appear autocratic or overly dominated by a s
 Most Orfolk agree that while the Flatstones are powerful, their grip is not absolute—and the **Election Trials** give every citizen a voice, or at least a very entertaining chance to try.
 
 ## See Also
-- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
+- [Election Festival](/generated/arena/events/election-festival.md)
 - [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
 - The Flatstone Family
 - Stonehollow

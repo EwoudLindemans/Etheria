@@ -33,6 +33,6 @@ In regions where neighboring [scales](/geography/landmark/scale.md) overlap, the
 For example, in a contested area where a Deity of War and a Deity of Strategy exert influence, their combined presence might give rise to a unique Deity of Tactics—one that embodies both martial prowess and calculated warfare.
 
 ## Irion’s Will
-At the heart of [Iridia](/geography/cosmology/iridia.md)’s divine order lies [Irion](/being/deity/irion.md)’s Will, the guiding force that governs the pace of divine transitions. No deity is ever truly permanent, nor is any deity ever completely gone. Irion’s Will prevents sudden rises or collapses, ensuring that only deep and widespread faith can bring about lasting change.
+At the heart of [Iridia](/geography/cosmology/iridia.md)’s divine order lies [Irion](/being/deity/irion.md)’s Will, the guiding force that governs the pace of divine transitions. No deity is ever truly permanent, nor is any deity ever completely gone. [Irion](/generated/deity/major/irion.md)’s Will prevents sudden rises or collapses, ensuring that only deep and widespread faith can bring about lasting change.
 
 However, in times of upheaval—whether caused by war, disaster, or revolution—the balance may shift rapidly. [Scales](/geography/landmark/scale.md) tip, faith surges, and new divine forces emerge to reshape [Iridia](/geography/cosmology/iridia.md), all while maintaining the cosmic equilibrium that defines the world.
