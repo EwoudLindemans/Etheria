@@ -3,7 +3,7 @@ title: Thalgrin
 description: 
 published: 1
 date: 2025-04-14T21:44:15.048Z
-tags: 
+tags: deity, craftsmanship, endurance, forging
 editor: markdown
 dateCreated: 2025-03-20T21:13:14.382Z
 ---

@@ -3,7 +3,7 @@ title: Aurelthys
 description: 
 published: 1
 date: 2025-04-14T21:44:11.991Z
-tags: 
+tags: deity, ambition, hierarchy, greed
 editor: markdown
 dateCreated: 2025-03-20T21:00:49.370Z
 ---

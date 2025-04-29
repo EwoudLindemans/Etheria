@@ -3,7 +3,7 @@ title: Grunthar Orc
 description: 
 published: 1
 date: 2025-04-27T21:22:58.923Z
-tags: 
+tags: species
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
 ---

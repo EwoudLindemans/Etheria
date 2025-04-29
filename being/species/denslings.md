@@ -3,7 +3,7 @@ title: Denslings
 description: 
 published: 1
 date: 2025-04-24T19:29:54.089Z
-tags: 
+tags: creature, ooze, the dense
 editor: markdown
 dateCreated: 2025-04-24T19:25:27.530Z
 ---

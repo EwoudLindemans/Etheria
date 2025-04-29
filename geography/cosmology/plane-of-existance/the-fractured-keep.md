@@ -3,7 +3,7 @@ title: The Fractured Keep
 description: 
 published: 1
 date: 2025-04-15T20:35:52.884Z
-tags: 
+tags: the fractured keep, deity, plane of existence
 editor: markdown
 dateCreated: 2025-04-07T21:52:26.471Z
 ---

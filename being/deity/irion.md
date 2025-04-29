@@ -3,13 +3,13 @@ title: Irion
 description: 
 published: 1
 date: 2025-04-29T10:23:45.334Z
-tags: creator, deity, event
+tags: creator, deity, event, transformation, cataclysm, resonance
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
 ---
 
 # Irion, The Fallen Titan
-*[Deity](/structure/mechanic/deity.md) of Cataclysm, Transformation, and Arcane Genesis*  
+*[Deity](/structure/mechanic/deity.md) of Cataclysm, Transformation, and [Resonance](/structure/mechanic/resonance.md)*  
 ![irion.png](/world/irion.png)
 
 The creature that collapsed with the world [Iridia](/geography/cosmology/iridia.md) is called [Irion](/generated/deity/major/irion.md). The origin of Irion is unknown, but there are many theories about what it may be. Some say that it is a dragon that was petrified by powerful [magic](/structure/mechanic/magic.md), while others say that it is a giant creature created by the gods. Whatever the truth may be, Irion remains a mystery and its impact on the world is still felt today.

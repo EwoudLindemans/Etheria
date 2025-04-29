@@ -3,7 +3,7 @@ title: Matt & Bubbles
 description: 
 published: 1
 date: 2025-04-14T21:31:13.687Z
-tags: 
+tags: pirate, rogue
 editor: markdown
 dateCreated: 2025-03-18T19:21:37.345Z
 ---

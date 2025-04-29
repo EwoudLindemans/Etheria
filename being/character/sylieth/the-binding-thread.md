@@ -3,7 +3,7 @@ title: The Binding Thread
 description: 
 published: 1
 date: 2025-04-14T21:44:05.869Z
-tags: 
+tags: item, relic
 editor: markdown
 dateCreated: 2025-04-06T19:53:18.071Z
 ---

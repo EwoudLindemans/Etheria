@@ -3,7 +3,7 @@ title: Sylieth
 description: 
 published: 1
 date: 2025-04-14T21:44:02.831Z
-tags: 
+tags: character, tiefling, cleric
 editor: markdown
 dateCreated: 2025-04-06T19:52:09.659Z
 ---

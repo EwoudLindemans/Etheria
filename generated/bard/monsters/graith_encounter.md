@@ -6,7 +6,7 @@ Encountering [Graith](/being/species/graith.md) is rarely a matter of choice. Th
 
 ## Encounter Setup
 
-**Location:** A flooded ruin, a shipwreck resting on the seabed, or a particularly turbulent area of the ocean floor exhibiting strange currents.  Consider locations near Folded Current, Xaratius or Morakai for a stronger thematic connection to the [Graith](/being/species/graith.md) origin.
+**Location:** A flooded ruin, a shipwreck resting on the seabed, or a particularly turbulent area of the ocean floor exhibiting strange currents.  Consider locations near Folded Current, [Xaratius](/geography/continent/xaratius.md) or [Morakai](/geography/continent/morakai.md) for a stronger thematic connection to the [Graith](/being/species/graith.md) origin.
 
 **Trigger:** The party unwittingly stumbles upon a [Graith](/being/species/graith.md) ritual, disturbs a sunken vessel they are investigating, or the spirits of recently deceased individuals call out for help, attracting the Graith’s attention.
 

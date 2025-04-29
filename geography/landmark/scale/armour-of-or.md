@@ -3,7 +3,7 @@ title: Armour of Or
 description: 
 published: 1
 date: 2025-04-14T21:50:41.119Z
-tags: or
+tags: scale
 editor: markdown
 dateCreated: 2025-04-14T21:50:39.619Z
 ---

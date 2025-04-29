@@ -450,6 +450,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/animal/predator/crystal-venom-wyrm.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/animal/reptile/sunstone-wyrm.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -559,6 +564,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/city/veridian-reach.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/clan/nomadic/sand-skimmers.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -590,7 +600,17 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/continent/aethelgard.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/continent/geography/the-shattered-continent.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/generated/continent/sylvantia.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1024,6 +1044,11 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/memory/history/the-shifting-foundations.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/mercenary-company/arcane/the-echo-guard.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1181,6 +1206,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/naval-fleet/faction/ashenfang-bonefleet.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/naval-fleet/vessels/dwarven-ironclad.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1333,6 +1363,11 @@
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/generated/region/settlements/stormwatch-citadel.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/generated/region/the-obsidian-scar.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1554,6 +1589,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/the-dense/cosmology/the-whispering-void.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/theater/performance/the-soulglass-chronicle.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1587,7 +1627,17 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/town/sunstone-haven.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/town/trade/whisperwind.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/generated/town/whisperwind-hold.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1622,12 +1672,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/generated/village/mining/glimmerstone.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/generated/village/mining/glimmerstone-hold.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/generated/village/settlements/silvanwood.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/generated/village/silverstream.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1668,6 +1728,21 @@
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/generated/workshop/monsters/abyssal_leviathan.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/continent/meskjor.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/continent/morakai.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/continent/xaratius.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

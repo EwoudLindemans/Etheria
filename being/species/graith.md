@@ -3,7 +3,7 @@ title: The Graith
 description: 
 published: 1
 date: 2025-04-14T21:44:21.113Z
-tags: 
+tags: species
 editor: markdown
 dateCreated: 2025-04-12T20:36:08.726Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2025-04-12T20:36:08.726Z
 
 ![graith.webp](/characters/graith.webp =500x)
 
-To the untrained eye, the **Graith** could be mistaken for tritons—those noble sea-dwellers sung of in bardic tales. But to assume that would be like confusing driftwood for a sea-worn shrine. The Graith are not born of coral courts or oceanic treaties. They come from **the Lost Wake**, a subaquatic trench rumored to lie beneath the Folded Current between Xaratius and Morakai—a region of ocean where time hiccups, ships vanish, and **waves flow in reverse** during moonless nights.
+To the untrained eye, the **Graith** could be mistaken for tritons—those noble sea-dwellers sung of in bardic tales. But to assume that would be like confusing driftwood for a sea-worn shrine. The Graith are not born of coral courts or oceanic treaties. They come from **the Lost Wake**, a subaquatic trench rumored to lie beneath the Folded Current between [Xaratius](/geography/continent/xaratius.md) and [Morakai](/geography/continent/morakai.md)—a region of ocean where time hiccups, ships vanish, and **waves flow in reverse** during moonless nights.
 
 Graith physiology is adapted not to rule the sea, but to **endure it**. Their skin is a brackish, scaled leather with hues ranging from dull teal to tarnished bronze. Bioluminescent specks ripple along their spines and webbed fingers, glowing faintly like barnacles lit from within. Their eyes are stark—milky orbs rimmed with faint blue halos, adapted for the sunless deep. Instead of fins, they bear flexible spined crests that run along the sides of their heads and down their necks, used both for sound [resonance](/structure/mechanic/resonance.md) and thermoregulation.
 

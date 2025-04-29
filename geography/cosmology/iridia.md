@@ -66,10 +66,10 @@ Surrounding Iridia is the **[Ornite Ring](/geography/landmark/scale/ornite-ring.
 - The Sisterhood of Assassination
 
 ## Lay of the land
-The Continents of Eldeviér are
-- Morakai
-- Xaratius
-- Meskjor
+The Continents of Iridia are
+- [Morakai](/geography/continent/morakai.md)
+- [Xaratius](/geography/continent/xaratius.md)
+- [Meskjor](/geography/continent/meskjor.md)
 
 Crack's are formed between continents they lead into a place called [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
 

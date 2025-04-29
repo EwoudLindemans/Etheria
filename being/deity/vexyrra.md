@@ -3,7 +3,7 @@ title: Vexyrra
 description: 
 published: 1
 date: 2025-04-14T21:44:18.044Z
-tags: 
+tags: deity, resonance, creation, song
 editor: markdown
 dateCreated: 2025-04-03T21:16:02.528Z
 ---

@@ -3,7 +3,7 @@ title: The City of Or
 description: The largest city of Iridia, built beneath The Armour of Or.
 published: 1
 date: 2025-04-14T21:50:56.384Z
-tags: or
+tags: city
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
 ---

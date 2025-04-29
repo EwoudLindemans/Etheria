@@ -3,7 +3,7 @@ title: Gor’Thuun
 description: 
 published: 1
 date: 2025-04-14T21:31:02.690Z
-tags: 
+tags: titan
 editor: markdown
 dateCreated: 2025-03-12T23:40:12.438Z
 ---

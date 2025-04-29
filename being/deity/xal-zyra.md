@@ -3,7 +3,7 @@ title: Xal Zyra
 description: 
 published: 1
 date: 2025-04-14T21:44:19.587Z
-tags: 
+tags: deity, the dense, shadow, passage
 editor: markdown
 dateCreated: 2025-03-27T21:34:30.611Z
 ---

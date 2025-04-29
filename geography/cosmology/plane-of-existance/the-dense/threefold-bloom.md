@@ -3,7 +3,7 @@ title: The Threefold Bloom
 description: 
 published: 1
 date: 2025-04-24T19:19:06.321Z
-tags: 
+tags: the dense
 editor: markdown
 dateCreated: 2025-04-24T19:19:06.321Z
 ---

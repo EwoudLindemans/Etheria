@@ -3,7 +3,7 @@ title: The Guard of the City of Or
 description: A civic force layered like the city it serves
 published: 1
 date: 2025-04-23T20:24:23.366Z
-tags: city of or, guard
+tags: profession
 editor: markdown
 dateCreated: 2025-04-09T13:39:53.121Z
 ---

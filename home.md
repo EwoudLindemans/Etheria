@@ -21,7 +21,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Miss Terry](/being/character/miss-terry.md)
         The embodiment of charm, wit, and endless tales, shrouded in mystery.
       - [Nokk the Scale’s Chosen](/being/character/nokk.md)
-        Nokk is a chaos resonance sorcerer and the embodyment of chaos, a disaster waiting to happen.
+        Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
       - [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
         Poppy Handyleaf – The Tinkering Star of OR
       - [Sylieth](/being/character/sylieth.md)
@@ -101,6 +101,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Resonanthowler](/generated/animal/beast/resonanthowler.md)
       - Fauna
         - [Skittering Shadows](/generated/animal/fauna/skittering-shadows.md)
+      - Predator
+        - [Crystal Venom Wyrm](/generated/animal/predator/crystal-venom-wyrm.md)
       - Reptile
         - [Sunstone Wyrm](/generated/animal/reptile/sunstone-wyrm.md)
       - Resonant
@@ -149,6 +151,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Redhaven](/generated/city/major/redhaven.md)
       - Riverports
         - [Veridia](/generated/city/riverports/veridia.md)
+      - [Veridian Reach](/generated/city/veridian-reach.md)
     - Clan
       - Nomadic
         - [Sand Skimmers](/generated/clan/nomadic/sand-skimmers.md)
@@ -162,8 +165,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - Mohinders
         - [The Sandstone Clan](/generated/commoner-family/mohinders/the-sandstone-clan.md)
     - Continent
+      - [Aethelgard](/generated/continent/aethelgard.md)
       - Geography
         - [The Shattered Continent](/generated/continent/geography/the-shattered-continent.md)
+      - [Sylvantia](/generated/continent/sylvantia.md)
       - Veridian
         - [The Sunken Coast](/generated/continent/veridian/the-sunken-coast.md)
     - Crypt
@@ -342,6 +347,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Spice Exchange Of Aerilon](/generated/market/goods/spice-exchange-of-aerilon.md)
       - Unusual
         - [Whispermarket](/generated/market/unusual/whispermarket.md)
+    - Memory
+      - History
+        - [The Shifting Foundations](/generated/memory/history/the-shifting-foundations.md)
     - Mercenary Company
       - Arcane
         - [The Echo Guard](/generated/mercenary-company/arcane/the-echo-guard.md)
@@ -480,6 +488,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
     - Region
       - Settlements
         - [Stormwatch Citadel](/generated/region/settlements/stormwatch-citadel.md)
+      - [The Obsidian Scar](/generated/region/the-obsidian-scar.md)
       - Underdark
         - [The Resonating Void](/generated/region/underdark/the-resonating-void.md)
     - Relic
@@ -573,6 +582,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Vorr](/generated/temple/deities/vorr.md)
       - Worship
         - [Temple Of The Everstorm](/generated/temple/worship/temple-of-the-everstorm.md)
+    - The Dense
+      - Cosmology
+        - [The Whispering Void](/generated/the-dense/cosmology/the-whispering-void.md)
     - Theater
       - Performance
         - [The Soulglass Chronicle](/generated/theater/performance/the-soulglass-chronicle.md)
@@ -588,8 +600,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Aethelgard](/generated/town/coastal/aethelgard.md)
       - Frontier
         - [Dustcrown](/generated/town/frontier/dustcrown.md)
+      - [Sunstone Haven](/generated/town/sunstone-haven.md)
       - Trade
         - [Whisperwind](/generated/town/trade/whisperwind.md)
+      - [Whisperwind Hold](/generated/town/whisperwind-hold.md)
     - Tradition
       - Ritual
         - [Resonance Binding](/generated/tradition/ritual/resonance-binding.md)
@@ -607,9 +621,11 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - Frontier
         - [Dustfall](/generated/village/frontier/dustfall.md)
       - Mining
+        - [Glimmerstone](/generated/village/mining/glimmerstone.md)
         - [Glimmerstone Hold](/generated/village/mining/glimmerstone-hold.md)
       - Settlements
         - [Silvanwood](/generated/village/settlements/silvanwood.md)
+      - [Silverstream](/generated/village/silverstream.md)
     - Villain
       - Cultists
         - [Shriekbeak Cultist](/generated/villain/cultists/shriekbeak-cultist.md)
@@ -630,6 +646,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - Monsters
         - [Abyssal Leviathan](/generated/workshop/monsters/abyssal_leviathan.md)
   - Geography
+    - Continent
+      - [Meskjor](/geography/continent/meskjor.md)
+      - [Morakai](/geography/continent/morakai.md)
+      - [Xaratius](/geography/continent/xaratius.md)
     - Cosmology
       - [Iridia](/geography/cosmology/iridia.md)
         A world created from a collision with a magical creature.

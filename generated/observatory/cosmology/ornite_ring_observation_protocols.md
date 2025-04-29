@@ -6,7 +6,7 @@ The [Ornite Ring](/geography/landmark/scale/ornite-ring.md) is a phenomenon unli
 
 ## Observation Stations & Equipment
 
-* **Designated Observatories:**  Observation must occur from designated locations. These are: [Arkona](/geography/settlement/city/arkona.md), [Triz Valley](/geography/settlement/city/triz-valley.md), and a newly established remote station on the Peaks of Morakai.
+* **Designated Observatories:**  Observation must occur from designated locations. These are: [Arkona](/geography/settlement/city/arkona.md), [Triz Valley](/geography/settlement/city/triz-valley.md), and a newly established remote station on the Peaks of [Morakai](/geography/continent/morakai.md).
 * **Equipment:**
     * **Chromatic Scanners (Mk. III):**  Essential for analyzing the Ring's spectral composition. Regularly calibrated using standardized spectra.  Record all readings with detailed notes on environmental conditions (atmospheric pressure, temperature, humidity).
     * **Temporal Displacement Probes (TDP-7):** For short-range temporal scans within the Ring's aura.  *Use with extreme caution!* Prolonged exposure to the TDP-7’s readings can result in disorientation and memory fragmentation.

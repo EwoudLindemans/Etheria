@@ -3,7 +3,7 @@ title: Cirxa
 description: 
 published: 1
 date: 2025-04-14T21:50:25.049Z
-tags: 
+tags: character, tiefling, broker
 editor: markdown
 dateCreated: 2025-04-06T19:51:10.288Z
 ---
@@ -26,7 +26,7 @@ Her appearance is a paradox of elegance and dread: ash-gray skin, hair like unra
 
 Cirxa is not a warrior, nor a mage in the traditional sense. Her [magic](/structure/mechanic/magic.md) deals with contracts—unseen threads spun from whispered promises, oaths, and secrets no one dares write down. She can conjure illusions made from memories, summon invisible truths to whisper in your ears, or bind a liar’s tongue with a single word.
 
-It is also said she once bartered a storm from a Sky-Monarch in the mountains of Morakai, in exchange for a song that hadn’t been sung in three centuries. She keeps the storm in a glass vial. The song? Well, she claims she hums it when she's bored.
+It is also said she once bartered a storm from a Sky-Monarch in the mountains of [Morakai](/geography/continent/morakai.md), in exchange for a song that hadn’t been sung in three centuries. She keeps the storm in a glass vial. The song? Well, she claims she hums it when she's bored.
 
 Her most infamous deal involved selling a silence so deep it consumed a city’s entire library for one night. What did the buyer get in return? No one knows. The books returned at dawn, slightly rearranged… and slightly sarcastic.
 
