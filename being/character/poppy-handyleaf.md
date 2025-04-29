@@ -2,8 +2,8 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-04-29T10:26:57.267Z
-tags: character
+date: 2025-04-29T10:29:05.128Z
+tags: character, gnome, crafter
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
 ---
