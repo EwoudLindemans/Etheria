@@ -2,8 +2,8 @@
 title: Irion
 description: 
 published: 1
-date: 2025-04-29T10:17:58.880Z
-tags: deity, collapse, iridia
+date: 2025-04-29T10:23:23.159Z
+tags: deity, creator
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
 ---
