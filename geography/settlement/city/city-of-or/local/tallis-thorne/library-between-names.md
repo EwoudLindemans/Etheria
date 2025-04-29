@@ -13,15 +13,15 @@ dateCreated: 2025-04-04T13:04:12.697Z
 
 This unassuming leather-bound tome appears to most as a blank journal, worn but well-maintained, with no title upon its cover. The spine bears only a single embossed symbol: a quill crossed over a half-mask. 
 
-To any reader save its true author or chosen heir, the pages remain utterly empty—resisting ink, [magic](/structure/mechanic/magic.md), or scrying. The enchantment binding the book is woven from layered illusions, subtle soul-threading, and a deep [resonance](/structure/mechanic/resonance.md) with the identity of the one known as *[Tallis Thorne](/generated/hero/character/tallis-thorne.md)*—and, more crucially, the one *he was before*.
+To any reader save its true author or chosen heir, the pages remain utterly empty—resisting ink, [magic](/structure/mechanic/magic.md), or scrying. The enchantment binding the book is woven from layered illusions, subtle soul-threading, and a deep [resonance](/structure/mechanic/resonance.md) with the identity of the one known as *[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*—and, more crucially, the one *he was before*.
 
 ### **Properties:**
 
 - **Soulbound Sincerity**  
-  Only [Tallis Thorne](/generated/hero/character/tallis-thorne.md) can view, write, or alter its true contents. Others see only blank parchment.
+  Only [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) can view, write, or alter its true contents. Others see only blank parchment.
 
 - **Conditional Revelation**  
-  Upon the confirmed death of [Tallis Thorne](/generated/hero/character/tallis-thorne.md), the book may reveal its contents *once*—but only to the individual he has designated as his *Narrative Heir*. This person must present one of the following:  
+  Upon the confirmed death of [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md), the book may reveal its contents *once*—but only to the individual he has designated as his *Narrative Heir*. This person must present one of the following:  
   - A signed page containing Tallis’s true name  
   - A keepsake of shared importance bound in his essence (such as a harp string from [Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) or a journal fragment)  
   - Or the answer to a riddle only Tallis and the heir would know (e.g., *“What name did I give the owl who wasn’t mine?”*)

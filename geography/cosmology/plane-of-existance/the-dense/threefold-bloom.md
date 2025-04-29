@@ -35,7 +35,7 @@ Some scholars call it **a sonic detonation**, others a **resonant rebirth**. To 
 
 ## The Iridian Reborn
 
-The new [Iridian](/being/species/iridian.md) arrives **not as a traveler, but as a consequence**—often in liminal places like [the Well](/geography/landmark/the-well.md), under the moons during the [Election Festival](/generated/arena/events/election-festival.md), or at the moment a bard sings a note they were never taught. 
+The new [Iridian](/being/species/iridian.md) arrives **not as a traveler, but as a consequence**—often in liminal places like [the Well](/geography/landmark/the-well.md), under the moons during the [Election Festival](/geography/settlement/city/city-of-or/election-festival.md), or at the moment a bard sings a note they were never taught. 
 
 They bear faint echoes of their [Ythrylari](/being/species/ythrylari.md) ancestry:
 - Their skin shimmers with crystalline flecks.

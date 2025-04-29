@@ -40,7 +40,7 @@ The first recorded cycle began the moment [Irion](/being/deity/irion.md)'s body 
 
 ## Divine Dependence
 
-No [deity](/structure/mechanic/deity.md) can exist apart from resonance. Their presence, power, and very identity depend upon the attunement of resonance within a [scale](/geography/landmark/scale.md) to their domain. Without such alignment, divine [manifestations](/structure/chronological/event/manifestation.md) flicker and fail—gods cannot speak, act, or even *be* unless the resonance allows it. Followers of [Irion](/being/deity/irion.md), for example, center their worship around Batès Lamina, the smallest scale, which emits a calming pulse said to align perfectly with [Irion](/generated/deity/major/irion.md)’s lingering will.
+No [deity](/structure/mechanic/deity.md) can exist apart from resonance. Their presence, power, and very identity depend upon the attunement of resonance within a [scale](/geography/landmark/scale.md) to their domain. Without such alignment, divine [manifestations](/structure/chronological/event/manifestation.md) flicker and fail—gods cannot speak, act, or even *be* unless the resonance allows it. Followers of [Irion](/being/deity/irion.md), for example, center their worship around Batès Lamina, the smallest scale, which emits a calming pulse said to align perfectly with Irion’s lingering will.
 
 A [scale](/geography/landmark/scale.md) can only house deific presence if the resonance within it has reached a state of attunement. This attunement is not imposed by the gods—it is shaped by those who dwell around the scale. Only through enduring presence, ritual, and harmony between belief and scale can divine power settle into the land.
 

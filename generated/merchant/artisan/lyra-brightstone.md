@@ -1,1 +1,0 @@
-# Lyra Brightstone: Emberglass & Shadowsilk

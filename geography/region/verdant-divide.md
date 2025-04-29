@@ -25,7 +25,7 @@ At dawn and dusk, the valley pulses with **kaleidoscopic light**, refracted thro
 Few live permanently in the Verdant Divide, but it is heavily traveled by:
 - **Nomadic botanists and [resonance](/structure/mechanic/resonance.md) scholars** studying living terrain.
 - **Smugglers and traders** using its curved roads to bypass guardposts near [Umperas Hull](/geography/landmark/scale/umperas-hull.md).
-- **Followers of [Irion](/being/deity/irion.md)**, who believe this place is a “weeping wound” in the world’s body, still raw from [Irion](/generated/deity/major/irion.md)’s fall.
+- **Followers of [Irion](/being/deity/irion.md)**, who believe this place is a “weeping wound” in the world’s body, still raw from Irion’s fall.
 
 ## Hazards
 

@@ -20,7 +20,7 @@ The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a 
 
 ## The City and Shrine
 
-The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **[Irion](/generated/deity/major/irion.md)** communicates through the [Scales](/geography/landmark/scale.md).
+The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the [Scales](/geography/landmark/scale.md).
 
 At the city's heart lies a **shrine built directly above the [Scale](/geography/landmark/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/structure/mechanic/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
 

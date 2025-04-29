@@ -34,7 +34,7 @@ Her most infamous deal involved selling a silence so deep it consumed a city’s
 
 Cirxa acts as a neutral agent between factions like **The [Arcane Fangs](/structure/society/factions/arcane-fangs.md)** and the **Council of Elders**. She sells information, occasionally artifacts, and sometimes entire destinies. She has dealings in [Triz Valley](/geography/settlement/city/triz-valley.md), where she is persona non grata after a rather inconvenient prophecy-fulfilling incident involving an aggressive potato cult and a misunderstood tomato festival.
 
-Even the [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) have approached her for [scale](/geography/landmark/scale.md) fragments, only to be rebuffed with a smile and the words: "You couldn't afford the truth even if you sold your future twice."
+Even the [Ragged Goons](/structure/society/factions/ragged-goons.md) have approached her for [scale](/geography/landmark/scale.md) fragments, only to be rebuffed with a smile and the words: "You couldn't afford the truth even if you sold your future twice."
 
 ## Personality
 

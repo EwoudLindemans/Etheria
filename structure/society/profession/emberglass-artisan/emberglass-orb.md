@@ -43,7 +43,7 @@ During the final forging, the Artisan weaves their own emotions into the Embergl
 ## Instability and Legends
 Despite their beauty, Soulglass Orbs are tragically unstable. Over centuries, their bindings fray. Memory Orbs tend to lose coherence first, creating "emotional storms"—brief, vivid replays of ancient sorrow or joy. Graveflame Orbs crack and bleed spiritual energy, sometimes summoning fragmentary shades. Hexfire Orbs... well, let's just say if you ever see a landscape suddenly growing medieval castles or screaming sunflowers, you’re already too late.
 
-Rumors abound that the [Ragged Goons](/generated/political-faction/faction/ragged-goons.md) once found a Soulglass Orb so corrupted by Hexfire that it began *creating* new folk songs about events that never happened—causing a riot when a ballad accused three minor nobles of being secret were-goats.
+Rumors abound that the [Ragged Goons](/structure/society/factions/ragged-goons.md) once found a Soulglass Orb so corrupted by Hexfire that it began *creating* new folk songs about events that never happened—causing a riot when a ballad accused three minor nobles of being secret were-goats.
 
 ## Final Notes
 Today, few dare to forge true Soulglass Orbs. The Memory path is mostly lost to time, the Graveflame tradition is banned in seven major settlements, and Hexfire creations are executable offenses nearly everywhere except in the laughing chaos of certain smuggler dens.
