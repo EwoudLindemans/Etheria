@@ -2,8 +2,8 @@
 title: Poppy Handyleaf
 description: Poppy Handyleaf – The Tinkering Star of OR
 published: 1
-date: 2025-04-14T21:44:01.283Z
-tags: 
+date: 2025-04-29T10:26:57.267Z
+tags: character
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
 ---
@@ -41,7 +41,7 @@ OR is her home, but the world is her workshop. And as long as there are mysterie
 
 > # Poppy Handyleaf
 > ---
-> - Small humanoid (Aasimar), Chaotic Neutral
+> - Small humanoid (gnome), Chaotic Neutral
 > - Armor Class 16 (Enhanced Leather Armor)
 > - Hit Points 72 (11d8+22)
 > - Speed 30 ft.
