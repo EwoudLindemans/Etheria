@@ -143,11 +143,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/being/deity/the-unborn.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wiki.hq.rockycore.com/being/deity/tophix.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -372,26 +367,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/generated/continent/aeloria.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/generated/continent/aerthos.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/generated/continent/aethelgard.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/generated/continent/valoria.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wiki.hq.rockycore.com/geography/continent/meskjor.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -502,7 +477,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/the-well.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/landmark/the-shinging-well.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

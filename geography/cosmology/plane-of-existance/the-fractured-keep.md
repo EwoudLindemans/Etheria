@@ -47,7 +47,7 @@ Therefore, **transitions of divinity** must follow domain adjacency:
 - If a war god dies and the [scale](/geography/landmark/scale.md) is to be taken over, **only a [deity](/structure/mechanic/deity.md) whose domains border War’s lands** in the Tread can inherit it.
 - Otherwise, they must cross through other deities’ territory—an **act of divine diplomacy, invasion, or miracle**.
 
-This system has led to divine alliances and betrayals over border rearrangements, and some deities (like [The Unborn](/being/deity/the-unborn.md)) have **floating or unstable domains**, accessible only by rare configurations.
+This system has led to divine alliances and betrayals over border rearrangements, and some deities (like The Unborn) have **floating or unstable domains**, accessible only by rare configurations.
 
 ### Known Domain-Spaces
 

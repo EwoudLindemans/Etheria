@@ -84,7 +84,7 @@ Momentus Outpost
 The Desert of the Rendishing Night
 
 ### To be determined
-[The Unborn](/being/deity/the-unborn.md) -> Benúron
+The Unborn -> Benúron
 
 **NPC’s**
 [Nokk](/being/character/nokk.md)

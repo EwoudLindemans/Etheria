@@ -3,7 +3,7 @@ title: Home
 description: 
 published: 1
 date: 2025-04-04T21:58:01.715Z
-tags: random
+tags: 
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
@@ -37,7 +37,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Dithrir](/being/deity/dithrir.md)
       - [Irion](/being/deity/irion.md)
       - [Thalgrin](/being/deity/thalgrin.md)
-      - [The Unborn](/being/deity/the-unborn.md)
       - [Tophix](/being/deity/tophix.md)
       - [Uldur](/being/deity/uldur.md)
       - [Vexyrra](/being/deity/vexyrra.md)
@@ -90,7 +89,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)
         - [The Ornite Ring](/geography/landmark/scale/ornite-ring.md)
         - [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
-      - [The Well](/geography/landmark/the-well.md)
+      - [The Shinging Well](/geography/landmark/the-shinging-well.md)
     - Region
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md)
       - [Skein of Bones](/geography/region/skein-of-bones.md)

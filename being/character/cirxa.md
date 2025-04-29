@@ -20,7 +20,7 @@ In the mist-drenched corridors of [Arkona](/geography/settlement/city/arkona.md)
 
 Cirxa claims to hail from a forgotten settlement called **Ossinreach**, which, naturally, no one can seem to find on any map. Scholars from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) argue that it might be a temporal echo—a village that exists only at midnight under a waxing moon. Others suggest she simply made it up to mess with historians, and frankly, that seems likely.
 
-Her appearance is a paradox of elegance and dread: ash-gray skin, hair like unraveling silk, and eyes replaced with two flickering, sentient candleflames. The flames never burn out, and those who stare into them too long often walk away muttering things they never knew they knew. It’s said these flames were a gift from [the Unborn](/being/deity/the-unborn.md)—a [deity](/structure/mechanic/deity.md) who carved her destiny using wax instead of fate.
+Her appearance is a paradox of elegance and dread: ash-gray skin, hair like unraveling silk, and eyes replaced with two flickering, sentient candleflames. The flames never burn out, and those who stare into them too long often walk away muttering things they never knew they knew. It’s said these flames were a gift from the Unborn—a [deity](/structure/mechanic/deity.md) who carved her destiny using wax instead of fate.
 
 ## Traits & Talents
 
