@@ -3,7 +3,7 @@ title: Invisible Stalker
 description: 
 published: 1
 date: 2025-04-14T21:30:03.362Z
-tags: 
+tags: monster
 editor: markdown
 dateCreated: 2022-10-01T16:15:17.858Z
 ---

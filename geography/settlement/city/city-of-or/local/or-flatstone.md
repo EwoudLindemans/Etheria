@@ -3,7 +3,7 @@ title: 🪦 Or Flatstone
 description: The founder and first leader of the City of Or.
 published: 1
 date: 2025-04-24T20:33:42.981Z
-tags: 
+tags: politician, dwarf
 editor: markdown
 dateCreated: 2022-01-24T13:05:11.061Z
 ---

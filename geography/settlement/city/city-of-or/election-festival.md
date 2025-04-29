@@ -3,7 +3,7 @@ title: The Election Festival of Or
 description: 
 published: 1
 date: 2025-04-14T21:45:02.539Z
-tags: 
+tags: election, festival, tradition
 editor: markdown
 dateCreated: 2025-04-03T20:45:42.986Z
 ---

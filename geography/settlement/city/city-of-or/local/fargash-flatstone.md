@@ -3,7 +3,7 @@ title: 🪦 Fargash Flatstone
 description: 
 published: 1
 date: 2025-04-24T20:33:13.022Z
-tags: 
+tags: politician
 editor: markdown
 dateCreated: 2025-04-24T20:31:32.591Z
 ---

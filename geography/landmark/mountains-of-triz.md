@@ -3,7 +3,7 @@ title: Mountains of Triz
 description: A mountainous area near the city of Triz Valley.
 published: 1
 date: 2025-04-14T21:50:37.365Z
-tags: 
+tags: mountain
 editor: markdown
 dateCreated: 2022-01-25T19:16:27.603Z
 ---

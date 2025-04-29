@@ -3,7 +3,7 @@ title: Karath Flatstone
 description: The current leader of the City of Or.
 published: 1
 date: 2025-04-14T21:45:17.847Z
-tags: 
+tags: politician, dwarf
 editor: markdown
 dateCreated: 2022-02-01T21:33:04.470Z
 ---

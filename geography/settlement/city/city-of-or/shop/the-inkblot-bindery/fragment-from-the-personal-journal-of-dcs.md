@@ -3,7 +3,7 @@ title: Fragment from the Personal Journal of D.C.S.
 description: 
 published: 1
 date: 2025-04-14T21:32:07.719Z
-tags: 
+tags: journal
 editor: markdown
 dateCreated: 2025-04-02T20:29:33.827Z
 ---

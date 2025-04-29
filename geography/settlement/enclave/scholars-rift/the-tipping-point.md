@@ -3,7 +3,7 @@ title: The Tipping Point
 description: A tavern in Scholar’s Rift where magic is strongly discouraged.
 published: 1
 date: 2025-04-14T21:46:02.704Z
-tags: 
+tags: tavern
 editor: markdown
 dateCreated: 2025-03-05T00:12:14.041Z
 ---

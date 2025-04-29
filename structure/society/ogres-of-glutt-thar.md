@@ -3,7 +3,7 @@ title: The Ogres of Glutt’thar
 description: 
 published: 1
 date: 2025-04-27T13:55:52.962Z
-tags: 
+tags: ogre, mudshaper
 editor: markdown
 dateCreated: 2025-04-27T13:39:46.281Z
 ---

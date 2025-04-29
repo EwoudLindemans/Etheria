@@ -3,7 +3,7 @@ title: Asara Plate
 description: 
 published: 1
 date: 2025-04-14T21:50:43.909Z
-tags: 
+tags: scale
 editor: markdown
 dateCreated: 2022-01-24T23:54:54.478Z
 ---

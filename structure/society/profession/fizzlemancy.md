@@ -3,7 +3,7 @@ title: Fizzlemancy
 description: A gnomish art blending alchemy, engineering, and enchanted water.
 published: 1
 date: 2025-04-14T21:46:29.316Z
-tags: 
+tags: profession
 editor: markdown
 dateCreated: 2025-03-12T19:46:30.395Z
 ---

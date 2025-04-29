@@ -3,7 +3,7 @@ title: Tankard Trekkers
 description: 
 published: 1
 date: 2025-04-14T21:51:29.061Z
-tags: 
+tags: profession
 editor: markdown
 dateCreated: 2025-03-29T22:59:43.792Z
 ---

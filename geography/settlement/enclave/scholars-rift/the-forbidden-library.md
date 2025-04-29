@@ -3,7 +3,7 @@ title: The Forbidden Library
 description: 
 published: 1
 date: 2025-04-14T21:45:59.631Z
-tags: 
+tags: library
 editor: markdown
 dateCreated: 2025-03-05T00:09:33.986Z
 ---

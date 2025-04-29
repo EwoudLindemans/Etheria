@@ -3,7 +3,7 @@ title: Emberglass Orbs
 description: 
 published: 1
 date: 2025-04-27T13:53:33.378Z
-tags: 
+tags: item
 editor: markdown
 dateCreated: 2025-04-27T13:50:49.794Z
 ---

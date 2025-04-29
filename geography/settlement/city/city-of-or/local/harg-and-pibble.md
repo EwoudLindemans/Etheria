@@ -3,7 +3,7 @@ title: Harg & Pibble
 description: 
 published: 1
 date: 2025-04-14T21:51:04.144Z
-tags: 
+tags: philosopher, fool, human
 editor: markdown
 dateCreated: 2025-03-29T23:54:35.079Z
 ---

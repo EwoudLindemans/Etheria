@@ -3,7 +3,7 @@ title: Drink: Sweetmoss Sip
 description: 
 published: 1
 date: 2025-04-24T23:08:12.683Z
-tags: 
+tags: beverage
 editor: markdown
 dateCreated: 2025-04-07T19:42:32.314Z
 ---

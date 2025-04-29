@@ -3,7 +3,7 @@ title: Arcane Resonance
 description: 
 published: 1
 date: 2025-04-14T21:46:09.754Z
-tags: 
+tags: subclass
 editor: markdown
 dateCreated: 2025-03-05T23:07:01.895Z
 ---

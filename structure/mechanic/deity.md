@@ -3,7 +3,7 @@ title: Deity
 description: 
 published: 1
 date: 2025-04-14T21:51:18.231Z
-tags: 
+tags: deity
 editor: markdown
 dateCreated: 2025-03-21T08:04:44.894Z
 ---

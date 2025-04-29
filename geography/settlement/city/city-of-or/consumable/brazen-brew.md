@@ -3,7 +3,7 @@ title: Drink: The Brazen Brew
 description: 
 published: 1
 date: 2025-04-24T23:07:59.822Z
-tags: 
+tags: beverage
 editor: markdown
 dateCreated: 2025-04-07T19:49:09.164Z
 ---

@@ -3,7 +3,7 @@ title: Stonfin Dustbinder
 description: Keeper of Runehollow Hall
 published: 1
 date: 2025-04-14T21:45:28.686Z
-tags: 
+tags: halfling, librarian, scholar
 editor: markdown
 dateCreated: 2025-04-08T08:26:45.660Z
 ---

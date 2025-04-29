@@ -3,7 +3,7 @@ title: The Codex of the Heartflame
 description: 
 published: 1
 date: 2025-04-14T21:45:10.285Z
-tags: 
+tags: guide, scroll
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
 ---
@@ -16,7 +16,7 @@ By Durngar Coalmantle, Grand Heartsmith of Or
 
 ## Foreword
 
-If ye hold this tome in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) itself. [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic.md) and metal, the weaving of rune and rhythm, the shaping of [Iridia](/geography/cosmology/iridia.md)’s breath into form.
+If ye hold this scroll in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) itself. [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic.md) and metal, the weaving of rune and rhythm, the shaping of [Iridia](/geography/cosmology/iridia.md)’s breath into form.
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 

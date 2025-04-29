@@ -3,7 +3,7 @@ title: The Rift Gate
 description: 
 published: 1
 date: 2025-04-14T21:46:01.193Z
-tags: 
+tags: passage
 editor: markdown
 dateCreated: 2025-03-05T00:21:54.523Z
 ---

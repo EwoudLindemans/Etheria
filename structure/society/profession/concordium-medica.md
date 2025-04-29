@@ -3,7 +3,7 @@ title: The Concordium Medica
 description: 
 published: 1
 date: 2025-04-14T21:51:27.526Z
-tags: 
+tags: profession, healer
 editor: markdown
 dateCreated: 2025-03-23T21:31:51.678Z
 ---

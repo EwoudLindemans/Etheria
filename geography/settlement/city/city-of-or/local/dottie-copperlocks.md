@@ -3,7 +3,7 @@ title: Dottie Copperlocks
 description: 
 published: 1
 date: 2025-04-14T21:45:13.369Z
-tags: 
+tags: local, vendor, scribe
 editor: markdown
 dateCreated: 2025-04-02T20:43:52.646Z
 ---

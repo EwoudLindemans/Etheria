@@ -3,7 +3,7 @@ title: Scroll Binder
 description: Masters of magical agreements, ensuring fairness and lasting pacts.
 published: 1
 date: 2025-04-14T21:46:38.149Z
-tags: 
+tags: profession
 editor: markdown
 dateCreated: 2025-03-11T23:48:37.199Z
 ---

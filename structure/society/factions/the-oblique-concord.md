@@ -3,7 +3,7 @@ title: The Oblique Concord
 description: A secretive faction born from a single act of defiance.
 published: 1
 date: 2025-04-14T21:31:24.423Z
-tags: 
+tags: organization, secret, rumor
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
 ---
