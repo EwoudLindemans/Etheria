@@ -1,9 +1,9 @@
 ---
 title: Nokk the Scale’s Chosen
-description: Nokk is a chaos resonance sorcerer and the embodyment of chaos, a disaster waiting to happen.
+description: Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
 published: 1
-date: 2025-04-14T21:43:59.733Z
-tags: character, sorcerer, iridian
+date: 2025-04-27T21:57:34.235Z
+tags: character, iridian, sorcerer
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
 ---

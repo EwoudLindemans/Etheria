@@ -2,8 +2,8 @@
 title: Emberglass Artisan
 description: 
 published: 1
-date: 2025-04-27T13:54:07.008Z
-tags: 
+date: 2025-04-29T10:08:41.277Z
+tags: emberglass, memory, curse, soul, profession
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
 ---

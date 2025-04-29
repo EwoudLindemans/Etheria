@@ -2,8 +2,8 @@
 title: The Ashenfang
 description: 
 published: 1
-date: 2025-04-27T21:48:53.798Z
-tags: 
+date: 2025-04-29T10:15:18.797Z
+tags: soul, tuskbreaker
 editor: markdown
 dateCreated: 2025-04-27T14:13:37.579Z
 ---

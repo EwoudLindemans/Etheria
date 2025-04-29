@@ -2,8 +2,8 @@
 title: Iridia
 description: A world created from a collision with a magical creature.
 published: 1
-date: 2025-04-14T21:50:34.282Z
-tags: 
+date: 2025-04-29T10:19:19.849Z
+tags: world
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
 ---
