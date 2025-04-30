@@ -6,6 +6,7 @@ date: 2025-04-14T21:50:48.228Z
 tags: scale
 editor: markdown
 dateCreated: 2025-03-09T14:30:55.811Z
+parent: iridia
 ---
 
 # Eldeviérs Shell

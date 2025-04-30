@@ -10,7 +10,7 @@ dateCreated: 2022-01-25T19:16:27.603Z
 
 # The Mountains of Triz
 
-The **Mountains of Triz** rise like broken blades between the great [Scales](/geography/landmark/scale.md) of **The [Armour of Or](/geography/landmark/scale/armour-of-or.md)** and **The [Asara Plate](/geography/landmark/scale/asara-plate.md)**, a jagged wall of stone and shadow visible from leagues away. Their sharp silhouettes mark the edge of comfort for most travellers, standing as both barrier and guardian—an untamed spine of the world, ancient and unresolved.
+The **Mountains of Triz** rise like broken blades between the great [Scales](/geography/landmark/scale.md) of **The [Armour of Or](/geography/scale/armour-of-or.md)** and **The [Asara Plate](/geography/scale/asara-plate.md)**, a jagged wall of stone and shadow visible from leagues away. Their sharp silhouettes mark the edge of comfort for most travellers, standing as both barrier and guardian—an untamed spine of the world, ancient and unresolved.
 
 They are beautiful in the way storms are beautiful: too large, too loud, and uncaring if you’re ready.
 

@@ -57,7 +57,7 @@ Tallis’s elven blood is undeniable—evident in his unaging features, sylvan g
 Despite Tallis’s partial elven heritage being obvious, the **other half of his lineage remains a source of great mystery—and greater storytelling.** Here are just a few of the most popular (and often contradictory) theories:
 
 #### 1. **Celestial Entity**  
-Some claim his other half descends from a fallen star, an astral muse who whispered melodies into the fabric of [Iridia](/geography/cosmology/iridia.md) itself.  
+Some claim his other half descends from a fallen star, an astral muse who whispered melodies into the fabric of [Iridia](/geography/world/iridia.md) itself.  
 - *Evidence:* He sparkles in moonlight. Has literally glowed while performing.  
 - *Tallis’s Response:* “I don’t like to brag about being cosmic. That would make me… distant.”
 

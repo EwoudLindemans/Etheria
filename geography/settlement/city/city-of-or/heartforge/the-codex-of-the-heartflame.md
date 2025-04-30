@@ -16,7 +16,7 @@ By Durngar Coalmantle, Grand Heartsmith of Or
 
 ## Foreword
 
-If ye hold this scroll in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) itself. [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic.md) and metal, the weaving of rune and rhythm, the shaping of [Iridia](/geography/cosmology/iridia.md)’s breath into form.
+If ye hold this scroll in yer hands, it means ye stand upon the threshold of true mastery. No longer a mere apprentice, ye are now entrusted with the ancient wisdom of the Rite of the Heartflame, a craft forged in the rhythm of the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) itself. [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) is no simple hammer and steel—nay, it is the binding of [magic](/structure/mechanic/magic.md) and metal, the weaving of rune and rhythm, the shaping of [Iridia](/geography/world/iridia.md)’s breath into form.
 
 Let it be known: mastery of this craft demands patience, precision, and an ear tuned to the pulse of the Heart. To wield this knowledge without respect is to invite ruin, for an errant strike can shatter not just steel, but the very fabric of our forge’s power.
 
@@ -54,13 +54,13 @@ Only when the rhythm aligns does the final hammerstroke fall, a single, decisive
 
 The final step is not of steel, but of spirit. No artifact forged within the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) may leave until it has passed through the The Bonding. The Heartsmith and the intended wielder must stand before the forge for a full forging [resonance](/structure/mechanic/resonance.md) cycle, hands upon the artifact, allowing their essence to attune to the runes inscribed within it.
 
-If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into [Iridia](/geography/cosmology/iridia.md) as a true relic of [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md).
+If the runes remain steady and true, the artifact is accepted, bound to its wielder for as long as the Heart wills. But if the runes dim or shift unpredictably, it is rejected, unworthy of the bond. Whether the flaw lies in the forging or the wielder themselves, none can say, but the Heart does not err. Should a creation pass the Vigil, it is granted a name, recorded in the Library, and sent forth into [Iridia](/geography/world/iridia.md) as a true relic of [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md).
 
 ## Closing Words
 
 Know this—each strike ye make, each rune ye carve, is a whisper of the forge’s eternal fire. To wield the Heartflame is not a right, but a responsibility.
 
-Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer legend into the heart of [Iridia](/geography/cosmology/iridia.md) itself.
+Fail, and the forge will bury yer name in forgotten dust. Succeed, and ye shall carve yer legend into the heart of [Iridia](/geography/world/iridia.md) itself.
 
 May the Heart guide yer hammer, and may the Deep never take ye.
 

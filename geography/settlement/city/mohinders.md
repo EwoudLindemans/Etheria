@@ -6,13 +6,14 @@ date: 2025-04-14T21:51:10.349Z
 tags: city
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
+parent: scale=eldeviérs shell
 ---
 
 # Mohinders Spire: A City of Arcane Supremacy
 
 ![eldeviers-shell.webp](/world/eldeviers-shell.webp =500x)
 
-Mohinders Spire with its Veilsteel Tail is a city unlike any other, suspended upon the immense, opalescent form of **[Eldeviér’s Shell](/geography/landmark/scale/eldeviérs-shell.md)**. Its foundations are bound to the colossal structure by the **Veilsteel Tail**—an awe-inspiring, dragon-like framework of dark, iridescent metal, forged to honor the mythical being, **[Irion](/being/deity/irion.md)**. This immense construct coils around the lower ridges of the Shell like the tail of a slumbering beast, its razor-edged plates etched with glowing sigils that hum with arcane energy. Massive iron rings and enchanted chains secure the city in place, preventing it from drifting into the unpredictable forces that swirl around the Shell’s glowing surface.
+Mohinders Spire with its Veilsteel Tail is a city unlike any other, suspended upon the immense, opalescent form of **[Eldeviér’s Shell](/geography/scale/eldeviérs-shell.md)**. Its foundations are bound to the colossal structure by the **Veilsteel Tail**—an awe-inspiring, dragon-like framework of dark, iridescent metal, forged to honor the mythical being, **[Irion](/being/deity/irion.md)**. This immense construct coils around the lower ridges of the Shell like the tail of a slumbering beast, its razor-edged plates etched with glowing sigils that hum with arcane energy. Massive iron rings and enchanted chains secure the city in place, preventing it from drifting into the unpredictable forces that swirl around the Shell’s glowing surface.
 
 The city itself is a breathtaking fusion of ancient reverence and arcane ingenuity. Spires of dark stone and Veilsteel rise from the Tail’s structure, their forms reminiscent of [Irion](/being/deity/irion.md)’s [scales](/geography/landmark/scale.md). Suspended walkways and platforms extend outward, anchored by energy fields, while floating districts hover in the skies beyond, shifting in slow, deliberate patterns. The Shell’s eerie green light bathes everything in an ethereal glow, casting shifting shadows over the winding streets and towering structures.
 
@@ -23,7 +24,7 @@ Meanwhile, the Shell’s glow, once revered for its restorative power, has taken
 Airships hover cautiously beyond the city's edges, their pilots wary of the gravitational distortions that occasionally ripple through the sky. The portals flicker, unstable, as though the world itself is holding its breath. Mohinders remains, bound by chains and faith, clinging to the Shell’s enigmatic radiance.
 
 ## Arcane: The City’s Lifeblood
-[Magic](/structure/mechanic/magic.md) is not just a tool in Mohinders—it is the foundation of its society. The city is built upon the immense form of [Eldeviér’s Shell](/geography/landmark/scale/eldeviérs-shell.md), an entity radiating arcane energy, and its very infrastructure is dependent on magical constructs. The portals that connect its districts, the floating spires of its upper elite, and even the defenses keeping the city secure all stem from carefully controlled magical forces.
+[Magic](/structure/mechanic/magic.md) is not just a tool in Mohinders—it is the foundation of its society. The city is built upon the immense form of [Eldeviér’s Shell](/geography/scale/eldeviérs-shell.md), an entity radiating arcane energy, and its very infrastructure is dependent on magical constructs. The portals that connect its districts, the floating spires of its upper elite, and even the defenses keeping the city secure all stem from carefully controlled magical forces.
 
 The control of [magic](/structure/mechanic/magic.md) is synonymous with power. Only those who can command, manipulate, or regulate arcane energy are considered true citizens of Mohinders. The Council of Controlled Magical Appliance oversees the flow of magic, ensuring that access is tightly restricted and monitored.
 
@@ -46,7 +47,7 @@ Black markets thrive beneath the city’s towering structures, dealing in illici
 Beneath the grandeur of the Spire, the poor fight for scraps—not of food, but of knowledge. A single whispered incantation, if stolen or sold, could elevate someone from servitude to influence… or result in their immediate erasure.
 
 ## Forbidden Knowledge: The Veiled Truths of Mohinders
-Not all knowledge is meant to be known—or so the ruling class insists. There are truths about [Eldeviér’s Shell](/geography/landmark/scale/eldeviérs-shell.md), the portals, and the origins of Mohinders itself that remain carefully concealed. The **Archives Obscura**, a hidden vault beneath the Council chambers, is said to contain tomes so dangerous that even reading their titles could alter reality.
+Not all knowledge is meant to be known—or so the ruling class insists. There are truths about [Eldeviér’s Shell](/geography/scale/eldeviérs-shell.md), the portals, and the origins of Mohinders itself that remain carefully concealed. The **Archives Obscura**, a hidden vault beneath the Council chambers, is said to contain tomes so dangerous that even reading their titles could alter reality.
 
 Rumors persist that the Shell is not simply an arcane wellspring, but something more—a prison, a slumbering entity, or a boundary between dimensions. The Council dismisses such claims as heretical nonsense, yet the most ambitious seekers of knowledge continue to dig, risking their lives and minds to uncover what lies beneath the city’s surface.
 

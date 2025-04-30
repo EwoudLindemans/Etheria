@@ -15,7 +15,7 @@ dateCreated: 2025-04-09T13:39:53.121Z
 
 The Guard of the [City of Or](/geography/settlement/city/city-of-or.md) is the official civic force tasked with upholding the peace, ensuring safety, and maintaining the deep trust between Orfolk and their mountain. Though often simply called “the Guard,” their presence is as layered as the city they serve—ring by ring, gate by gate, voice by voice.
 
-Unlike many militarised patrols in [Iridia](/geography/cosmology/iridia.md), Or’s Guard is woven directly into the fabric of community life. Known for its humane enforcement, empathetic response, and layered ranks, the Guard is as much a cultural institution as a force of order.
+Unlike many militarised patrols in [Iridia](/geography/world/iridia.md), Or’s Guard is woven directly into the fabric of community life. Known for its humane enforcement, empathetic response, and layered ranks, the Guard is as much a cultural institution as a force of order.
 
 ## Structure and Division
 

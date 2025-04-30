@@ -367,30 +367,22 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/continent/meskjor.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/landmark/mountains-of-triz.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/continent/morakai.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/continent/xaratius.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/landmark/the-shinging-well.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/cosmology/iridia.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/etheria_v2.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/cosmology/plane-of-existance/the-dense.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/realm/the-dense.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -413,73 +405,17 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/cosmology/plane-of-existance/the-dense/threefold-bloom.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/realm/the-dense/threefold-bloom.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/cosmology/plane-of-existance/the-fractured-keep.md</loc>
+    <loc>https://wiki.hq.rockycore.com/geography/realm/the-fractured-keep.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/the-concordant-thread.webp</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/mountains-of-triz.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/mountains-of-triz/gurdalks-gang.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/armour-of-or.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/armour-of-or-v2.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/asara-plate.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/bates-lamina.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/eldeviérs-shell.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/eldeviers-shell.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/ornite-ring.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/scale/umperas-hull.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/the-shinging-well.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/blooming-skein.md</loc>
@@ -508,6 +444,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/armour-of-or.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/armour-of-or-v2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/asara-plate.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/bates-lamina.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/eldeviérs-shell.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/eldeviers-shell.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/ornite-ring.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/scale/umperas-hull.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/geography/settlement/city/arkona.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -530,6 +502,11 @@
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/consumable/brazen-brew.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/consumable/skyfire-brew.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -879,6 +856,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/world/iridia.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/etheria_v2.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/structure/chronological/calendar.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1136,5 +1121,10 @@
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/professions/tuskbreaker.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/structure/society/tribe/gurdalks-gang.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

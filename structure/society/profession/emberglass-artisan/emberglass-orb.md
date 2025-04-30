@@ -34,7 +34,7 @@ By contrast, the Graveflame Artisans forged Orbs that howled with restless souls
 The Hexfire Artisans went even further, crafting unstable Orbs that served as cursed bombs. When these orbs rupture, they do not just release memory—they rewrite the surroundings, embedding hallucinated histories into the fabric of reality. Entire quarters of [Triz Valley](/geography/settlement/city/triz-valley.md) bear the scars of one such "historical overwrite."
 
 ## The Craft of Binding
-Forging a Soulglass Orb is an act of peril and precision. The Artisan must first extract **Veilroot Sand**, bathed under the ephemeral [resonance](/structure/mechanic/resonance.md) currents that pulse strongest near [The Dense](/geography/cosmology/plane-of-existance/the-dense.md). This sand is then fired using ritual dragonflame, which itself must be calibrated according to the lunar and resonant tides.
+Forging a Soulglass Orb is an act of peril and precision. The Artisan must first extract **Veilroot Sand**, bathed under the ephemeral [resonance](/structure/mechanic/resonance.md) currents that pulse strongest near [The Dense](/geography/realm/the-dense.md). This sand is then fired using ritual dragonflame, which itself must be calibrated according to the lunar and resonant tides.
 
 During the final forging, the Artisan weaves their own emotions into the Emberglass, binding either the chosen memory or soul to the material. Mistakes are costly: should the Artisan's will falter, a piece of themselves may become trapped forever—a fate that is quietly honored among their peers but never spoken of.
 

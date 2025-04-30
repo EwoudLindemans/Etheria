@@ -29,7 +29,7 @@ Once the metal has been properly imbued with the Heartflame's energy, it is shap
 
 ## The Heartforge and Its Mystical Power
 
-The [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) is the sacred site where all Harthrûn Metallurgy takes place. It is not merely a physical forge, but a mystical nexus of energy, where the very essence of the world’s magical forces converges. This forge is deeply attuned to the natural rhythms of [Iridia](/geography/cosmology/iridia.md), and it is said that only those with the blood of the ancient dwarven lineages can truly master the Heartforge’s power.
+The [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) is the sacred site where all Harthrûn Metallurgy takes place. It is not merely a physical forge, but a mystical nexus of energy, where the very essence of the world’s magical forces converges. This forge is deeply attuned to the natural rhythms of [Iridia](/geography/world/iridia.md), and it is said that only those with the blood of the ancient dwarven lineages can truly master the Heartforge’s power.
 
 A [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) is often built into the heart of a mountain or deep beneath the earth, where the ambient magical energies of the world are most concentrated. The forge’s fire—known as the Heart’s Flame—burns with the power of the forge’s [resonance](/structure/mechanic/resonance.md), a constantly shifting energy that must be carefully monitored and attuned by the Heartsmith. The forge is a living entity in itself, and those who use it must work in harmony with its pulse or risk destruction.
 

@@ -19,7 +19,7 @@ dateCreated: 2025-04-06T20:24:45.097Z
 
 I wasn’t born into anything soft.
 
-No name, no crib, no gentle cooing or lullabies—just breath, cold stone, and the press of the city’s underbelly above me. Some say the [Armour of Or](/geography/landmark/scale/armour-of-or.md) hums, like the [scale](/geography/landmark/scale.md) it rests on remembers [the Collapse](/structure/chronological/event/the-collapse.md). Maybe that was the lullaby I got. A rumble, a warning, a promise: *You’ll have to earn every moment.*
+No name, no crib, no gentle cooing or lullabies—just breath, cold stone, and the press of the city’s underbelly above me. Some say the [Armour of Or](/geography/scale/armour-of-or.md) hums, like the [scale](/geography/landmark/scale.md) it rests on remembers [the Collapse](/structure/chronological/event/the-collapse.md). Maybe that was the lullaby I got. A rumble, a warning, a promise: *You’ll have to earn every moment.*
 
 I don’t know who left me, or why. I tell myself they had no choice, but some nights I wonder if they just couldn’t stand to look at me. The horns, the tail, the skin—people always assume the worst of a Tiefling. You learn quickly how to look smaller than you are. How to vanish. How to hide your hunger and your hope in the same place, so no one can steal either.
 
@@ -44,7 +44,7 @@ A scrap of red cord, torn from a bandage I’d used to bind a boy’s hand. It s
 
 Someone was.
 
-Not from this world. Not from [Iridia](/geography/cosmology/iridia.md). But he listened. And I listened back. His name was **Ilmater**—not from here, not known by the monks, but known to *me.* Through pain, through mercy, through stillness. I don’t know how he found me. I only know I feel him when I take someone’s pain into my hands, when I shoulder their grief and leave nothing behind. That red thread tightens around my wrist like a pulse. And I know I'm not alone.
+Not from this world. Not from [Iridia](/geography/world/iridia.md). But he listened. And I listened back. His name was **Ilmater**—not from here, not known by the monks, but known to *me.* Through pain, through mercy, through stillness. I don’t know how he found me. I only know I feel him when I take someone’s pain into my hands, when I shoulder their grief and leave nothing behind. That red thread tightens around my wrist like a pulse. And I know I'm not alone.
 
 So now… I heal.
 

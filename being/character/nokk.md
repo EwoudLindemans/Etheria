@@ -14,7 +14,7 @@ dateCreated: 2025-03-18T13:31:39.616Z
 ![nokk.webp](/characters/nokk.webp =500x)
 
 ## Origins & Legend  
-Legends speak of a sorcerer whose [resonance](/structure/mechanic/resonance.md) bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with resonance—it was thrust upon him in a moment of chaotic fate when he swallowed a fish infused with the power of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). 
+Legends speak of a sorcerer whose [resonance](/structure/mechanic/resonance.md) bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with resonance—it was thrust upon him in a moment of chaotic fate when he swallowed a fish infused with the power of [the Dense](/geography/realm/the-dense.md). 
 
 From that moment, the world around him twisted with surges of chaos energy. Some say he is a conduit for forces beyond mortal understanding, a storm given flesh. Others whisper that something in the chaos watches him, waiting for the moment to reclaim what he stole.
 

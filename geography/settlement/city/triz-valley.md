@@ -6,6 +6,7 @@ date: 2025-04-14T21:51:13.430Z
 tags: town
 editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
+parent: scale:armour of or
 ---
 
 # Triz Valley
@@ -22,7 +23,7 @@ Nowadays, Triz is a stewpot of cultures and ambitions. You’ll hear a dozen dia
 
 ## Where Every Stone Is for Sale
 
-Trade is the lifeblood of Triz Valley, pulsing day and night through muddy lanes and market stalls. Miners drag cartloads of ore up from the belly of the mountain, farmers haul sacks of golden grain down from the angled fields of the [Asara Plate](/geography/landmark/scale/asara-plate.md), and somewhere between the two, goblin guides haggle for coin, bragging of “safer than average” routes through the mountains.
+Trade is the lifeblood of Triz Valley, pulsing day and night through muddy lanes and market stalls. Miners drag cartloads of ore up from the belly of the mountain, farmers haul sacks of golden grain down from the angled fields of the [Asara Plate](/geography/scale/asara-plate.md), and somewhere between the two, goblin guides haggle for coin, bragging of “safer than average” routes through the mountains.
 
 The area has many quarries. Marble, limestone, onyx, andesite and granite all important export product for Triz Valley, used as building materials and by many artists throughout the continent.
 

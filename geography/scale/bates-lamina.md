@@ -6,17 +6,18 @@ date: 2025-04-14T21:50:46.068Z
 tags: scale
 editor: markdown
 dateCreated: 2022-10-23T19:06:03.398Z
+parent: iridia
 ---
 
 # Batès Lamina
 
-**Batès Lamina** is the smallest of the five major [Scales](/geography/landmark/scale.md) in [Iridia](/geography/cosmology/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/structure/mechanic/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
+**Batès Lamina** is the smallest of the five major [Scales](/geography/landmark/scale.md) in [Iridia](/geography/world/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/structure/mechanic/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
 
 ## Appearance and Structure
 
 Batès Lamina is a **bright red [Scale](/geography/landmark/scale.md)**, polished and smooth in texture, and unmistakable in appearance. Despite its modest size, it radiates a low-frequency hum that can be **felt rather than heard**. This hum has a **calming effect** and is a central part of the spiritual practice of those who live around it.
 
-The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a **city built along the water’s edge**. The terrain is mostly **open fields**, and the settlement has **barely any defensive structures**. Despite this vulnerability, the city has never been under serious threat, in large part due to the respect it commands throughout [Iridia](/geography/cosmology/iridia.md).
+The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a **city built along the water’s edge**. The terrain is mostly **open fields**, and the settlement has **barely any defensive structures**. Despite this vulnerability, the city has never been under serious threat, in large part due to the respect it commands throughout [Iridia](/geography/world/iridia.md).
 
 ## The City and Shrine
 
@@ -28,7 +29,7 @@ The shrine is considered **the most important place in the world** by the Follow
 
 ## Pilgrimage and Tradition
 
-People from all over [Iridia](/geography/cosmology/iridia.md) journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with [Irion](/being/deity/irion.md) and to help align the soul with the great resonant forces of the world.
+People from all over [Iridia](/geography/world/iridia.md) journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with [Irion](/being/deity/irion.md) and to help align the soul with the great resonant forces of the world.
 
 The ambient hum of the [Scale](/geography/landmark/scale.md) is also used in meditative practices, allowing seekers to sit in silence for hours or days, absorbing the rhythmic pulse of the Scale and seeking inner stillness.
 

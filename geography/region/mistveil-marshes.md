@@ -6,11 +6,12 @@ date: 2025-04-27T13:37:10.438Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-27T12:08:52.657Z
+parent: iridia
 ---
 
 # Mistveil Marshes
 
-South of the crossroads-laden **[Triz Valley](/geography/settlement/city/triz-valley.md)**, the land surrenders into the **Mistveil Marshes**—a sprawling morass of grey water, stubborn reeds, and slow, sucking earth. The mist hangs heavy like a second sky, folding itself around the knees of the ancient trees, veiling everything in a shifting, uncertain gloom. Beneath this blanket of damp, the ground thrums faintly with the buried threads of [resonance](/structure/mechanic/resonance.md), leaking into the world from wounds cut by [the Dense](/geography/cosmology/plane-of-existance/the-dense.md).
+South of the crossroads-laden **[Triz Valley](/geography/settlement/city/triz-valley.md)**, the land surrenders into the **Mistveil Marshes**—a sprawling morass of grey water, stubborn reeds, and slow, sucking earth. The mist hangs heavy like a second sky, folding itself around the knees of the ancient trees, veiling everything in a shifting, uncertain gloom. Beneath this blanket of damp, the ground thrums faintly with the buried threads of [resonance](/structure/mechanic/resonance.md), leaking into the world from wounds cut by [the Dense](/geography/realm/the-dense.md).
 
 The **[Mudshapers](/structure/society/profession/mudshaper.md)** dwell here, their art born not of high sorcery but of hard-won patience and bone-deep understanding of the marsh’s moods. They coax the heavy, mineral-rich clay into living structures—huts that rise squat and strong against the creeping damp, bridges that sway but never fall, pillars that groan under their own weight but never yield. Their craft is an alliance between will and material, a labor of hands and heart, whispered lessons passed mouth to ear over uncounted generations.
 

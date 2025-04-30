@@ -6,6 +6,7 @@ date: 2025-04-14T21:50:41.119Z
 tags: scale
 editor: markdown
 dateCreated: 2025-04-14T21:50:39.619Z
+parent: iridia
 ---
 
 ## History

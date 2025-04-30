@@ -20,19 +20,19 @@ The Echo Between Star and [Scale](/geography/landmark/scale.md)
 The **Ythrylari** are not born.  
 They **happen**.
 
-Emerged from the metamorphic pressure of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md), the Ythrylari are the tragic, beautiful middle-child of existence—a shimmering echo caught between the raw instability of the **[Denslings](/being/species/denslings.md)** and the transcendent harmony of the **[Iridian](/being/species/iridian.md)**. Where Denslings pulse with primordial instinct and Iridians stride with manifested purpose, the Ythrylari exist in flux—a phase, a possibility, a question asked in the voice of a dying star.
+Emerged from the metamorphic pressure of [the Dense](/geography/realm/the-dense.md), the Ythrylari are the tragic, beautiful middle-child of existence—a shimmering echo caught between the raw instability of the **[Denslings](/being/species/denslings.md)** and the transcendent harmony of the **[Iridian](/being/species/iridian.md)**. Where Denslings pulse with primordial instinct and Iridians stride with manifested purpose, the Ythrylari exist in flux—a phase, a possibility, a question asked in the voice of a dying star.
 
 ## Origins – The Fracture of Self
 
 The first Ythrylari were not made by design. They were [Denslings](/being/species/denslings.md) who *refused* to collapse, who internalized [resonance](/structure/mechanic/resonance.md) rather than dissolve into it. Over epochs of density-churned evolution, some began to resonate with thought—primitive melodies, structured silence, and eventually, identity. Their forms hardened into obsidian-like grace, laced with starlight fractures across smooth skin. They developed limbs not for utility, but for *ritual*. Their four long, antennae-like ears detect vibrations too subtle for language, and their eyes glow with a teal luminescence that seems to pulse in time with unreleased truths.
 
-They build no cities. They inhabit **Chordvaults**—massive crystalline caverns in [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) that store vibration instead of memory. Within these vaults, Ythrylari shape not society, but *songlines*—woven cords of [resonance](/structure/mechanic/resonance.md) that tell their history in emotion, not events.
+They build no cities. They inhabit **Chordvaults**—massive crystalline caverns in [the Dense](/geography/realm/the-dense.md) that store vibration instead of memory. Within these vaults, Ythrylari shape not society, but *songlines*—woven cords of [resonance](/structure/mechanic/resonance.md) that tell their history in emotion, not events.
 
 ## Culture – The Silent Choir
 
 Ythrylari do not speak as others do. Instead, they project harmonic waves that resonate with the emotion they wish to convey. A greeting might taste like twilight. A threat might make stone weep. Scholars at [the Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md) who’ve survived even brief contact with a Ythrylari report temporary memory loss, emotional flooding, and in one instance, spontaneous bardic inspiration so overwhelming it resulted in twenty-three unfinished operas and a complete inability to lie.
 
-Their names are not names—they are **chords**. And when a Ythrylari dies, that chord is broken, sent as a ripple to the outermost edges of [the Dense](/geography/cosmology/plane-of-existance/the-dense.md). Some believe the [Iridians](/being/species/iridian.md) can still hear them.
+Their names are not names—they are **chords**. And when a Ythrylari dies, that chord is broken, sent as a ripple to the outermost edges of [the Dense](/geography/realm/the-dense.md). Some believe the [Iridians](/being/species/iridian.md) can still hear them.
 
 ## Magic – The Song That Shapes
 
@@ -45,11 +45,11 @@ Their [magic](/structure/mechanic/magic.md) is erratic to outsiders—fluctuatin
 Every Ythrylari knows they are not whole.
 
 Their legends speak of the **Shellsong**, a self-written harmonic collapse that fractures a Ythrylari’s [resonance](/structure/mechanic/resonance.md) into three parts:
-1. One sinks back into [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) to seed future [Denslings](/being/species/denslings.md).
-2. One becomes a permanent resonant echo in the [Resonance](/structure/mechanic/resonance.md) Web of [Iridia](/geography/cosmology/iridia.md).
-3. One *becomes [Iridian](/being/species/iridian.md)*—a full [manifestation](/structure/chronological/event/manifestation.md) of potential, emerging into [Iridia](/geography/cosmology/iridia.md) as a being of clarity, grace, and embodied purpose.
+1. One sinks back into [the Dense](/geography/realm/the-dense.md) to seed future [Denslings](/being/species/denslings.md).
+2. One becomes a permanent resonant echo in the [Resonance](/structure/mechanic/resonance.md) Web of [Iridia](/geography/world/iridia.md).
+3. One *becomes [Iridian](/being/species/iridian.md)*—a full [manifestation](/structure/chronological/event/manifestation.md) of potential, emerging into [Iridia](/geography/world/iridia.md) as a being of clarity, grace, and embodied purpose.
 
-This metamorphosis is not guaranteed. It is feared, revered, and often resisted. Only a Ythrylari who has fully understood their own chord, unraveled their history, and chosen to *let go of all that [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) ever taught them* can complete the transformation.
+This metamorphosis is not guaranteed. It is feared, revered, and often resisted. Only a Ythrylari who has fully understood their own chord, unraveled their history, and chosen to *let go of all that [the Dense](/geography/realm/the-dense.md) ever taught them* can complete the transformation.
 
 These rare few are known as **Threnaries**—those who write their own final song.
 
@@ -60,7 +60,7 @@ Though no Ythrylari has truly crossed the veil, events around the [Density Calib
 They say when the first Ythrylari arrives, they will not *walk*.  
 They will *resonate*.
 
-And [Iridia](/geography/cosmology/iridia.md) will know [the Dense](/geography/cosmology/plane-of-existance/the-dense.md) is no longer silent.
+And [Iridia](/geography/world/iridia.md) will know [the Dense](/geography/realm/the-dense.md) is no longer silent.
 
 ---
 

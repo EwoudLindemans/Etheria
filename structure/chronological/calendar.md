@@ -10,7 +10,7 @@ dateCreated: 2023-08-14T20:53:05.278Z
 
 # Aurorhythmic Resonance Cycle (ARC)
 
-In the realm of [Iridia](/geography/cosmology/iridia.md), time is measured not merely by the passage of days and nights, but by the ebb and flow of the magical energies that suffuse the world. This measurement is known as the "ARC," and it has its roots in the very essence that binds the world together.
+In the realm of [Iridia](/geography/world/iridia.md), time is measured not merely by the passage of days and nights, but by the ebb and flow of the magical energies that suffuse the world. This measurement is known as the "ARC," and it has its roots in the very essence that binds the world together.
 
 - Alignment with [The Collapse](/structure/chronological/event/the-collapse.md):  
 The date is counted in cycles that correspond to significant magical [resonances](/structure/mechanic/resonance.md) leftover from [The Collapse](/structure/chronological/event/the-collapse.md). Each cycle, known as a "ARC" represents a unit of time that resonates with the magical frequency of the event. The moment of The Collapse itself is designated as "0 ARC" marking the starting point of this unique time measurement.
@@ -25,7 +25,7 @@ In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.m
 Just as the world's landscape and creatures respond to magical energies, the seasons themselves are influenced by the ARCs. Different spans might be associated with unique weather patterns, growth cycles, or even occurrences of magical phenomena. This adds an element of unpredictability to the passage of time.
 
 - Ritualistic Observance:  
-The inhabitants of [Iridia](/geography/cosmology/iridia.md) celebrate the transition of ARC's with elaborate rituals and ceremonies. These observances serve not only as a way to mark time but also as a means to connect with the world's living [magic](/structure/mechanic/magic.md). Rituals might involve offerings to the land, the use of enchanted artifacts, or the chanting of ancient incantations.
+The inhabitants of [Iridia](/geography/world/iridia.md) celebrate the transition of ARC's with elaborate rituals and ceremonies. These observances serve not only as a way to mark time but also as a means to connect with the world's living [magic](/structure/mechanic/magic.md). Rituals might involve offerings to the land, the use of enchanted artifacts, or the chanting of ancient incantations.
 
 - Nexus of [Magic](/structure/mechanic/magic.md):  
 Every seventeenth Cycle is considered a Nexus, a particularly potent period where the magical energies peak. During a Nexus, the world's [magic](/structure/mechanic/magic.md) is more accessible, enabling greater feats of spellcasting, communication with magical creatures, and the unlocking of hidden powers.
@@ -33,14 +33,14 @@ Every seventeenth Cycle is considered a Nexus, a particularly potent period wher
 - [Magic](/structure/mechanic/magic.md)-Infused Calendars:  
 To keep track of Cycle's, communities use magical calendars that resonate with the world's energy. These calendars might be enchanted stones that change color, intricate sculptures that emit harmonious tones, or even sentient creatures that emit pulses in sync with the ARCs.
 
-- Relation to the [Ornite Ring](/geography/landmark/scale/ornite-ring.md):  
-Details are still unknown but the arcs seem to have a relation to the [Ornite Ring](/geography/landmark/scale/ornite-ring.md).
+- Relation to the [Ornite Ring](/geography/scale/ornite-ring.md):  
+Details are still unknown but the arcs seem to have a relation to the [Ornite Ring](/geography/scale/ornite-ring.md).
 
 ## Events
 
 ### Arc 0 - 16 - Nexus of Recreation
-- [The Collapse](/structure/chronological/event/the-collapse.md) and The Birth of [Iridia](/geography/cosmology/iridia.md) (Arc 0):  
-The cataclysmic collision between the world and the mystical creature [Irion](/being/deity/irion.md) resulted in the shattering of the planet into countless fragments. This event, known as [The Collapse](/structure/chronological/event/the-collapse.md), marked the birth of the world of [Iridia](/geography/cosmology/iridia.md). The land broke apart, and [magic](/structure/mechanic/magic.md) infused the fragments with life.
+- [The Collapse](/structure/chronological/event/the-collapse.md) and The Birth of [Iridia](/geography/world/iridia.md) (Arc 0):  
+The cataclysmic collision between the world and the mystical creature [Irion](/being/deity/irion.md) resulted in the shattering of the planet into countless fragments. This event, known as [The Collapse](/structure/chronological/event/the-collapse.md), marked the birth of the world of [Iridia](/geography/world/iridia.md). The land broke apart, and [magic](/structure/mechanic/magic.md) infused the fragments with life.
 
 ### Arc 17 - 33 - Nexus of Recovery
 - The Rising of [Resonance](/structure/mechanic/resonance.md) (ARC 0 - 57):  
@@ -59,11 +59,11 @@ This ARC was triggered by the digging of [Or Flatstone](/geography/settlement/ci
 
 ### Arc 68 - 84 - Nexus of Arcane Infusion
 - The Technological Renaissance (ARC 74):  
-The survivors' connection with magical [scales](/geography/landmark/scale.md) evolved. They learned to harness latent [magic](/structure/mechanic/magic.md) within the scales to power devices. Scale Conduits emerged, infusing tools, lighting systems, and communication devices. This led to a technological renaissance, where "scale-driven" technologies facilitated [Iridia](/geography/cosmology/iridia.md)'s resurgence.
+The survivors' connection with magical [scales](/geography/landmark/scale.md) evolved. They learned to harness latent [magic](/structure/mechanic/magic.md) within the scales to power devices. Scale Conduits emerged, infusing tools, lighting systems, and communication devices. This led to a technological renaissance, where "scale-driven" technologies facilitated [Iridia](/geography/world/iridia.md)'s resurgence.
 
 ### Arc 85 - 101 - Nexus of Reformation
 - The Council of Elders (ARC 86):  
-The scattered races of [Iridia](/geography/cosmology/iridia.md) established an overarching peace, with each race controlling its territory. The Council of Elders emerged as wise mediators, maintaining harmony through their collective wisdom. They settled disputes, fostering unity throughout the ever-changing world.
+The scattered races of [Iridia](/geography/world/iridia.md) established an overarching peace, with each race controlling its territory. The Council of Elders emerged as wise mediators, maintaining harmony through their collective wisdom. They settled disputes, fostering unity throughout the ever-changing world.
 
 ### Arc 102 - 118 - Nexus of Discovery
 - Forbidden Sparks and Hidden Wonders (ARC 103):  
@@ -74,7 +74,7 @@ The magical essence of the [scales](/geography/landmark/scale.md) remained a pot
 A group of individuals discovered a way to harness [magic](/structure/mechanic/magic.md) directly from the [scales](/geography/landmark/scale.md) using special tools called scalespeakers. These devices resonated with the scale's magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences. Yet, their usage proved perilous, resulting in dire consequences. As corruption crept into the scales, the once-pure conduits began to distort the magic, turning it into dangerous and twisted energy.
 
 - The [Ragged Goons](/structure/society/factions/ragged-goons.md)' Pursuit (ARC 131):  
-The emergence of a dangerous group, The [Ragged Goons](/structure/society/factions/ragged-goons.md), threatened [Iridia](/geography/cosmology/iridia.md)'s delicate balance. Their sole purpose became the search for unprotected [scales](/geography/landmark/scale.md), exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's equilibrium. With each scale they desecrated, they accelerated the corruption, twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
+The emergence of a dangerous group, The [Ragged Goons](/structure/society/factions/ragged-goons.md), threatened [Iridia](/geography/world/iridia.md)'s delicate balance. Their sole purpose became the search for unprotected [scales](/geography/landmark/scale.md), exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's equilibrium. With each scale they desecrated, they accelerated the corruption, twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
 
 ### Arc 136 - 152 - Nexus of Corruption
 #### The Arc of Corruption is the defining moment in Iridia's timeline, where the once-bountiful scales and the lands around them become centers of corruption, consuming everything they touch.

@@ -20,7 +20,7 @@ Their skin gleams like polished dark jade, dappled with freckles of gold that sh
 
 ## Origins: Born of Thorn and Song
 
-Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of [the Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md) had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
+Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of [the Fractured Keep](/geography/realm/the-fractured-keep.md) had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
 
 Thus were the Zynkri seeded: not of womb or egg, but of sprouted defiance and grinning chaos.
 

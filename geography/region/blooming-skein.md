@@ -6,6 +6,7 @@ date: 2025-04-27T14:07:02.381Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-27T14:07:02.381Z
+parent: iridia
 ---
 
 # The Blooming Skein

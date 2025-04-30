@@ -6,6 +6,7 @@ date: 2025-04-14T21:50:50.433Z
 tags: scale
 editor: markdown
 dateCreated: 2023-03-05T22:24:53.247Z
+parent: iridia
 ---
 
 # The Ornite Ring

@@ -45,7 +45,7 @@ A half-mask of silver veils, pierced by seven stars in a spiral. Often etched on
 - Aelyria once turned an entire army’s armor into flower petals during a siege—not to protect the besieged, but because *“the moon disapproved of
 - She once gifted a warlock a smile so radiant that an entire army surrendered rather than risk wrinkling it.
 - In [Mohinders](/geography/settlement/city/mohinders.md), an Aelyrian prophet once asked [the Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md) a riddle so beautiful it blushed—and opened *sideways*. The prophet is still walking through new answers.
-- On the longest night ever recorded in [The Dense](/geography/cosmology/plane-of-existance/the-dense.md), it is said Aelyria whispered stories to every child, every lost soul, and every sleeping tree. The trees are now bards. The children? Even worse.
+- On the longest night ever recorded in [The Dense](/geography/realm/the-dense.md), it is said Aelyria whispered stories to every child, every lost soul, and every sleeping tree. The trees are now bards. The children? Even worse.
 
 ## **Doctrine**
 

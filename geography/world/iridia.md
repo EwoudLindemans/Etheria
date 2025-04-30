@@ -6,7 +6,8 @@ date: 2025-04-29T10:19:19.849Z
 tags: world
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
-parent: realm=the anchored, creator=irion
+parent: realm=the anchored
+connections: creator=irion
 ---
 
 # Iridia
@@ -44,18 +45,18 @@ It is believed that some of the most advanced research into this [magic](/struct
 Up until now there are Five [Scales](/geography/landmark/scale.md) that penetrate the surface. But it is believed that there could be many more hidden deeply underground. A dangerous group called The [Ragged Goons](/structure/society/factions/ragged-goons.md) made it their sole purpose to find and exploit new (unprotected) scales.
 
 ### The Armour of Or (slightly red with white, largest, lowest)
-While it is the largest [scale](/geography/landmark/scale.md) with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath a mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. In addition to being the largest scale, the [Armour of Or](/geography/landmark/scale/armour-of-or.md) has unique crystalline formations that grow on its surface, which are highly prized by alchemists for their magical properties. The [City of Or](/geography/settlement/city/city-of-or.md), built by dwarves beneath the scale, is known for its impressive forges and metallurgy.
+While it is the largest [scale](/geography/landmark/scale.md) with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath a mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there. In addition to being the largest scale, the [Armour of Or](/geography/scale/armour-of-or.md) has unique crystalline formations that grow on its surface, which are highly prized by alchemists for their magical properties. The [City of Or](/geography/settlement/city/city-of-or.md), built by dwarves beneath the scale, is known for its impressive forges and metallurgy.
 ### Batès Lamina
 The smallest of all [scales](/geography/landmark/scale.md), Its a bright red colored scale. it became a precious place to the Followers of [Irion](/being/deity/irion.md). Its sits in the middle of a lake with a city build around it, in open fields this city has barely enough defenses to protect itself. Batès Lamina has a highly unusual property in that it emits a low-frequency hum that can be felt throughout the city built around it. The hum is said to have a calming effect on the inhabitants and is even used as a form of meditation by the [Followers of Irion](/structure/society/factions/followers-of-irion.md).
 ### Eldeviérs Shell
-The Shell is colored in a bright opal green. On this [scale](/geography/landmark/scale.md) that mostly represents a tall looking spire the city [Mohinders](/geography/settlement/city/mohinders.md) is build hanging suspeded in the air.  It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground. The opal green color of the [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md) is not just for show - the scale actually emits a soft green light that illuminates the city of Mohinders suspended above it. The light is also said to have healing properties, making Mohinders a popular destination for those seeking to heal from ailments.
+The Shell is colored in a bright opal green. On this [scale](/geography/landmark/scale.md) that mostly represents a tall looking spire the city [Mohinders](/geography/settlement/city/mohinders.md) is build hanging suspeded in the air.  It is attached with several large iron rings that were build around the spire to give the city stability and attached at the top with iron chains. The city hangs at a height of 2000 feet and can only be reached trough magical manners. The peak of the shell has device that collects energy from the scale powering several portals to the ground. The opal green color of the [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md) is not just for show - the scale actually emits a soft green light that illuminates the city of Mohinders suspended above it. The light is also said to have healing properties, making Mohinders a popular destination for those seeking to heal from ailments.
 ### Umperas Hull (yellow)
 A large curved [scale](/geography/landmark/scale.md) with the top broken off, it pretty much resembles a long running wall, that curves away making for a great city surrounded by the hull, its color is a beatifull yellow with slight hints of orange.
 ### The Asara Plate
-The [Asara Plate](/geography/landmark/scale/asara-plate.md) sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique [scale](/geography/landmark/scale.md) is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
+The [Asara Plate](/geography/scale/asara-plate.md) sits at a 30° angle and is broken in half, with a route running underneath the overhang and a side road between the two halves. This unique [scale](/geography/landmark/scale.md) is a sight to behold, with its stunning blue color caused by the reflective crystal formations that cover its surface. The reflection of the sun's rays creates a dazzling light show that can be seen for miles around, which has become a major attraction for the merchants and travelers who use the roads below. Many of them time their journeys to pass beneath the plate during sunset to witness the spectacle, adding to the allure of the scale.
 
 ### The Ornite Ring
-Surrounding Iridia is the **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Iridia from the unknown beyond.  
+Surrounding Iridia is the **[Ornite Ring](/geography/scale/ornite-ring.md)**, an immense black ring with a glowing red inner lining that orbits the world and is always visible in the sky. This celestial structure is the subject of countless myths and religious beliefs, with many considering it a remnant of [Irion](/being/deity/irion.md)’s immense power or a divine boundary separating Iridia from the unknown beyond.  
 
 ## Religions
 - **Followers of [Irion](/being/deity/irion.md)**, a religious organisation that communes with the remaining spirit of the magical creature Irion that still resides in the magical [scales](/geography/landmark/scale.md). They use Batès Lamina as shrine's and will protect it whatever the cost.
@@ -66,13 +67,7 @@ Surrounding Iridia is the **[Ornite Ring](/geography/landmark/scale/ornite-ring.
 - Gorgraths Wrath, a secret organzation bent on brining down the Flatstone dynasty in the [City of Or](/geography/settlement/city/city-of-or.md)
 - The Sisterhood of Assassination
 
-## Lay of the land
-The Continents of Iridia are
-- [Morakai](/geography/continent/morakai.md)
-- [Xaratius](/geography/continent/xaratius.md)
-- [Meskjor](/geography/continent/meskjor.md)
-
-Crack's are formed between continents they lead into a place called [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
+Crack's are formed between continents they lead into a place called [The Dense](/geography/realm/the-dense.md)
 
 ## Notable Places
 ### Cities

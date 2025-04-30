@@ -12,7 +12,7 @@ dateCreated: 2025-04-12T20:53:29.444Z
 
 ![scalebound-strays.webp](/world/scalebound-strays.webp =500x)
 
-Once laughed off as a “walking hazard of magical misfits,” the **[Scale](/geography/landmark/scale.md)-Bound Strays** have become a household name among Etherian traders, treasure-seekers, and even low-ranking members of the Sisterhood of Assassination—mostly because they’ve survived more arcane catastrophes than most seasoned warbands. Each member is unmistakable, unforgettable, and—depending on whom you ask—either a savior or a walking diplomatic incident. Spotted most recently near the whispering ruins of Kin’Darei, the Strays continue their chaotic trek across [Iridia](/geography/cosmology/iridia.md)’s most unstable regions.
+Once laughed off as a “walking hazard of magical misfits,” the **[Scale](/geography/landmark/scale.md)-Bound Strays** have become a household name among Etherian traders, treasure-seekers, and even low-ranking members of the Sisterhood of Assassination—mostly because they’ve survived more arcane catastrophes than most seasoned warbands. Each member is unmistakable, unforgettable, and—depending on whom you ask—either a savior or a walking diplomatic incident. Spotted most recently near the whispering ruins of Kin’Darei, the Strays continue their chaotic trek across [Iridia](/geography/world/iridia.md)’s most unstable regions.
 
 > **Seen from left to right in the infamous Verdant Divide sketch by Mira Inkspittle, charcoal on unstable parchment.**  
 
@@ -20,7 +20,7 @@ Once laughed off as a “walking hazard of magical misfits,” the **[Scale](/ge
 
 ### 🔥 **Durla Flatknuckle** — *Lantern of Old Grudges*
 
-Grizzled and built like a barrel wrapped in callouses, Durla hails from the deep veins beneath the [Armour of Or](/geography/landmark/scale/armour-of-or.md), where dwarves learned to shout louder than cavequakes. Once a militant torchbearer of the Scaleport Miners' Union, Durla now serves as the Strays’ scout and security. Her enchanted lantern, *Whispermelt*, glows brighter near hidden [resonance](/structure/mechanic/resonance.md), but also occasionally screams poetry in ancient Dwarfish when provoked (or slightly jostled). She considers all [scale](/geography/landmark/scale.md)-worship "sentimental nonsense" and collects cursed teeth from bandits she's bested. No one's dared ask why.
+Grizzled and built like a barrel wrapped in callouses, Durla hails from the deep veins beneath the [Armour of Or](/geography/scale/armour-of-or.md), where dwarves learned to shout louder than cavequakes. Once a militant torchbearer of the Scaleport Miners' Union, Durla now serves as the Strays’ scout and security. Her enchanted lantern, *Whispermelt*, glows brighter near hidden [resonance](/structure/mechanic/resonance.md), but also occasionally screams poetry in ancient Dwarfish when provoked (or slightly jostled). She considers all [scale](/geography/landmark/scale.md)-worship "sentimental nonsense" and collects cursed teeth from bandits she's bested. No one's dared ask why.
 
 ---
 

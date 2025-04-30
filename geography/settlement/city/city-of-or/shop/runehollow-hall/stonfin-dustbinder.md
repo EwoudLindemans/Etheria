@@ -42,7 +42,7 @@ Some say he knows *exactly* where every volume is shelved—even the ones that w
 
 ## Known Facts (and Unknowns)
 
-- **Backstory:** Stonfin's past remains unspoken—either by choice or design. Some believe he once travelled the [Scales](/geography/landmark/scale.md) of [Iridia](/geography/cosmology/iridia.md); others think he was always meant to live among the shelves of Runehollow.
+- **Backstory:** Stonfin's past remains unspoken—either by choice or design. Some believe he once travelled the [Scales](/geography/landmark/scale.md) of [Iridia](/geography/world/iridia.md); others think he was always meant to live among the shelves of Runehollow.
 - **Rumours:** It is said that he once deciphered a cursed book simply by smelling its spine—and politely returned it to its shelf before sealing the aisle.
 - **Favourites:** Known to favour candied ginger, quiet afternoons, and annotated margins.
 

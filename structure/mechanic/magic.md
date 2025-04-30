@@ -13,7 +13,7 @@ dateCreated: 2025-03-30T00:34:43.575Z
 
 ## Origins of Magic
 
-Magic in [Iridia](/geography/cosmology/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **[Scales](/geography/landmark/scale.md)**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
+Magic in [Iridia](/geography/world/iridia.md) is not a system—it is a consequence. When the ancient, near-divine creature **[Irion](/being/deity/irion.md)** collided with the world during **[The Collapse](/structure/chronological/event/the-collapse.md)**, it ruptured the land and embedded fragments of itself throughout the continents. These fragments, known as **[Scales](/geography/landmark/scale.md)**, are nearly indestructible and pulse with raw, chaotic essence. Magic in Iridia is the residual pulse of Irion's being, diffused into the world like breath into glass.
 
 ## The Five Known Scales
 
@@ -21,12 +21,12 @@ Each [Scale](/geography/landmark/scale.md) is a titan's shard, with different ma
 
 | [Scale](/geography/landmark/scale.md) Name        | Description                                          | Magical Character |
 |-------------------|------------------------------------------------------|-------------------|
-| **[Armour of Or](/geography/landmark/scale/armour-of-or.md)**  | Largest, crystalline red-white beneath tundra       | Heat, pressure, metallurgy |
+| **[Armour of Or](/geography/scale/armour-of-or.md)**  | Largest, crystalline red-white beneath tundra       | Heat, pressure, metallurgy |
 | **Batès Lamina**  | Smallest, radiant red, in a sacred lake              | Calm, spiritual [resonance](/structure/mechanic/resonance.md) |
-| **[Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)** | Opal spire holding [Mohinders](/geography/settlement/city/mohinders.md) in the air            | Healing, levitation, light |
-| **[Umperas Hull](/geography/landmark/scale/umperas-hull.md)**  | Wall-like yellow, broken top                         | Defense, warding |
-| **The [Asara Plate](/geography/landmark/scale/asara-plate.md)** | Broken blue [scale](/geography/landmark/scale.md) with crystalline reflections    | Illusion, perception manipulation |
-| **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
+| **[Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)** | Opal spire holding [Mohinders](/geography/settlement/city/mohinders.md) in the air            | Healing, levitation, light |
+| **[Umperas Hull](/geography/scale/umperas-hull.md)**  | Wall-like yellow, broken top                         | Defense, warding |
+| **The [Asara Plate](/geography/scale/asara-plate.md)** | Broken blue [scale](/geography/landmark/scale.md) with crystalline reflections    | Illusion, perception manipulation |
+| **[Ornite Ring](/geography/scale/ornite-ring.md)**  | Orbiting black ring with glowing red lining         | Unknown, celestial influence |
 
 ## Types of Magical Manifestation
 
@@ -40,12 +40,12 @@ Arcane infrastructure formed around [scales](/geography/landmark/scale.md) allow
 When raw magic interacts with organic matter and elemental energy, **[Iridians](/being/species/iridian.md)** are born. These beings are living proof of magic’s transformative, adaptive nature—resonating with nearby [scales](/geography/landmark/scale.md), but independent of magical consumption.
 
 ### ✦ **The Dense**
-The [scale](/geography/landmark/scale.md)-connected dimension known as **[The Dense](/geography/cosmology/plane-of-existance/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Iridia](/geography/cosmology/iridia.md)'s magical saturation.
+The [scale](/geography/landmark/scale.md)-connected dimension known as **[The Dense](/geography/realm/the-dense.md)** is a warped layer of compressed space. Magic here is unbound by natural law and interacts with thought, emotion, and intention. It is believed to be both a byproduct and a reflection of [Iridia](/geography/world/iridia.md)'s magical saturation.
 
 ## Rules & Risks
 
 - **No New Breaches:** Creating new openings in a [scale](/geography/landmark/scale.md) is taboo and often punishable by death. The reasons are not just cultural—uncontrolled scale breaches have resulted in entire cities becoming cursed, warped, or erased.
-- **Magical Corruption:** Overuse or exploitation of [scale](/geography/landmark/scale.md) magic gradually corrupts both land and soul. The timeline of [Iridia](/geography/cosmology/iridia.md) is divided by **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
+- **Magical Corruption:** Overuse or exploitation of [scale](/geography/landmark/scale.md) magic gradually corrupts both land and soul. The timeline of [Iridia](/geography/world/iridia.md) is divided by **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycles (ARC)**, with the current era—**Nexus of Corruption**—marked by increasing magical instability.
 - **[Scale](/geography/landmark/scale.md) Exposure Effects:** Long-term exposure to raw scale magic can result in:
   - Elemental mutations
   - Temporal disjunctions
@@ -58,7 +58,7 @@ The [scale](/geography/landmark/scale.md)-connected dimension known as **[The De
 A metaphysically concealed research enclave accessible only by [arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) compatibility. It stabilizes [scale](/geography/landmark/scale.md) studies under extreme restrictions. Some claim the Rift chooses its scholars, not the other way around.
 
 ### ☼ **The City of Or**
-Dwarves master **[Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**, fusing ore with [scale](/geography/landmark/scale.md)-essence through **Core Heat** derived from the [Armour of Or](/geography/landmark/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
+Dwarves master **[Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**, fusing ore with [scale](/geography/landmark/scale.md)-essence through **Core Heat** derived from the [Armour of Or](/geography/scale/armour-of-or.md). This refined practice is seen as controlled and sacred, blending magic and technology without breaching laws.
 
 ### ☼ **Followers of Irion**
 Religious protectors of **Batès Lamina**. They believe [scale](/geography/landmark/scale.md) magic is the remaining soul of [Irion](/being/deity/irion.md) and practice harmony through spiritual [resonance](/structure/mechanic/resonance.md) and sound-based rituals.
@@ -71,4 +71,4 @@ Religious protectors of **Batès Lamina**. They believe [scale](/geography/landm
 
 ## Final Notes
 
-Magic in [Iridia](/geography/cosmology/iridia.md) is **not a skill**. It is **a force**, a **remnant of divinity**, a **constant gamble**. Every interaction, every enchantment, and every discovery is a risk taken in the shadow of [Irion](/being/deity/irion.md)’s broken majesty.
+Magic in [Iridia](/geography/world/iridia.md) is **not a skill**. It is **a force**, a **remnant of divinity**, a **constant gamble**. Every interaction, every enchantment, and every discovery is a risk taken in the shadow of [Irion](/being/deity/irion.md)’s broken majesty.

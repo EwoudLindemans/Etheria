@@ -9,12 +9,12 @@ dateCreated: 2022-01-24T16:16:26.728Z
 ---
 
 # Scale
-In the world of [Iridia](/geography/cosmology/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with Irion’s lingering [resonance](/structure/mechanic/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
+In the world of [Iridia](/geography/world/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with Irion’s lingering [resonance](/structure/mechanic/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
 
 ## Properties
 - **Immensity**: Most scales stretch hundreds to thousands of feet in diameter, towering like mountains or embedded deep underground.
 - **Indestructibility**: The material of a scale is almost impervious to most known tools or [magic](/structure/mechanic/magic.md). Only small gaps or cavities exist—likely created shortly after [the Collapse](/structure/chronological/event/the-collapse.md)—through which raw magical energy sometimes leaks.
-- **Magical Pulse**: Scales are not static. They resonate with the magical fabric of the world, producing fluctuations known as the **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC)**. These pulses define the flow of time and [magic](/structure/mechanic/magic.md) throughout [Iridia](/geography/cosmology/iridia.md).
+- **Magical Pulse**: Scales are not static. They resonate with the magical fabric of the world, producing fluctuations known as the **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC)**. These pulses define the flow of time and [magic](/structure/mechanic/magic.md) throughout [Iridia](/geography/world/iridia.md).
 - **Environmental Influence**: Proximity to a scale alters the world around it—rivers may run uphill, forests may breathe, and light may twist in impossible ways.
 
 ## Cultural & Civilizational Impact
@@ -43,7 +43,7 @@ To many, the scales are sacred.
 
 ## Conflict & Exploitation
 
-While most of [Iridia](/geography/cosmology/iridia.md) respects the power and danger of scales, not all do.
+While most of [Iridia](/geography/world/iridia.md) respects the power and danger of scales, not all do.
 
 Groups like the [Ragged Goons](/structure/society/factions/ragged-goons.md) actively seek out hidden or unprotected scales, attempting to exploit them for wealth, power, or chaos. These excavations often end in disaster—unleashing bursts of magical radiation, spawning monstrous entities, or warping the land around them.
 
@@ -51,12 +51,12 @@ Groups like the [Ragged Goons](/structure/society/factions/ragged-goons.md) acti
 
 There are **five known surface-penetrating scales**, each distinct in form and function:
 
-- **[Armour of Or](/geography/landmark/scale/armour-of-or.md)**: The largest known scale, resting beneath a mountain. White with red crystalline spikes. Powers the forges of the [City of Or](/geography/settlement/city/city-of-or.md).
+- **[Armour of Or](/geography/scale/armour-of-or.md)**: The largest known scale, resting beneath a mountain. White with red crystalline spikes. Powers the forges of the [City of Or](/geography/settlement/city/city-of-or.md).
 - **Batès Lamina**: Bright red and smallest in size, sits in a lake. Revered by the Followers of [Irion](/being/deity/irion.md).
-- **[Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)**: A tall, opal-green spire with healing light. Suspends the city of [Mohinders](/geography/settlement/city/mohinders.md).
-- **[Umperas Hull](/geography/landmark/scale/umperas-hull.md)**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
-- **[Asara Plate](/geography/landmark/scale/asara-plate.md)**: A broken blue scale angled into a scenic overhang, known for its dazzling light shows.
-- **[Ornite Ring](/geography/landmark/scale/ornite-ring.md)**: The only known celestial scale, orbiting [Iridia](/geography/cosmology/iridia.md) in the sky—black with a glowing red lining.
+- **[Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)**: A tall, opal-green spire with healing light. Suspends the city of [Mohinders](/geography/settlement/city/mohinders.md).
+- **[Umperas Hull](/geography/scale/umperas-hull.md)**: A curved yellow wall-like structure, broken at the top. Serves as a defensive perimeter.
+- **[Asara Plate](/geography/scale/asara-plate.md)**: A broken blue scale angled into a scenic overhang, known for its dazzling light shows.
+- **[Ornite Ring](/geography/scale/ornite-ring.md)**: The only known celestial scale, orbiting [Iridia](/geography/world/iridia.md) in the sky—black with a glowing red lining.
 
 ## Mysteries of the Scales
 
@@ -65,7 +65,7 @@ There are **five known surface-penetrating scales**, each distinct in form and f
 - Could the scales ever be awakened?
 - What happens if two scales are brought into [resonance](/structure/mechanic/resonance.md) with one another?
 
-The answers remain unclear. The scales are not just remnants—they are [Iridia](/geography/cosmology/iridia.md)'s bones, its memory, and perhaps its future.
+The answers remain unclear. The scales are not just remnants—they are [Iridia](/geography/world/iridia.md)'s bones, its memory, and perhaps its future.
 
 ---
 

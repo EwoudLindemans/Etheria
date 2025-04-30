@@ -53,6 +53,6 @@ Though [Vexyrra](/being/deity/vexyrra.md) remained behind, something of it linge
 
 ## A Song Yet Unfinished
 
-Across [Iridia](/geography/cosmology/iridia.md), others began to feel something similar. A [resonance](/structure/mechanic/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
+Across [Iridia](/geography/world/iridia.md), others began to feel something similar. A [resonance](/structure/mechanic/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
 
 And it remembers where it came from.

@@ -22,13 +22,13 @@ While harmless to most, Glimmer Drift is known to alter perception. Travelers ca
 
 ## Known Locations
 
-The most studied Glimmer Drift occurs at the fringes of the [Asara Plate](/geography/landmark/scale/asara-plate.md) during moonrise, where travelers have reported time feeling "looped sideways" and entire caravans reappearing hours before they departed.
+The most studied Glimmer Drift occurs at the fringes of the [Asara Plate](/geography/scale/asara-plate.md) during moonrise, where travelers have reported time feeling "looped sideways" and entire caravans reappearing hours before they departed.
 
 ## Theories
 
-The Rift Scholars argue that Glimmer Drift is a natural byproduct of unstable [resonance](/structure/mechanic/resonance.md) frequencies syncing with high emotional imprint zones—essentially, [magic](/structure/mechanic/magic.md) remembering itself. Others claim it's the dream residue of [Irion](/being/deity/irion.md), still seeping into [Iridia](/geography/cosmology/iridia.md) through cracks left by [The Collapse](/structure/chronological/event/the-collapse.md).
+The Rift Scholars argue that Glimmer Drift is a natural byproduct of unstable [resonance](/structure/mechanic/resonance.md) frequencies syncing with high emotional imprint zones—essentially, [magic](/structure/mechanic/magic.md) remembering itself. Others claim it's the dream residue of [Irion](/being/deity/irion.md), still seeping into [Iridia](/geography/world/iridia.md) through cracks left by [The Collapse](/structure/chronological/event/the-collapse.md).
 
-A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/geography/cosmology/plane-of-existance/the-dense.md), testing whether we are ready to be remembered.
+A more radical theory by a masked cult known only as the **Bleached Sigh** posits that Glimmer Drift is not weather, but **breath**—the soft exhale of something deep within [the Dense](/geography/realm/the-dense.md), testing whether we are ready to be remembered.
 
 ## Use in Spellcraft
 

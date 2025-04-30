@@ -23,7 +23,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Nokk the Scale’s Chosen](/being/character/nokk.md)
         Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
       - [Poppy Handyleaf](/being/character/poppy-handyleaf.md)
-        Poppy Handyleaf – The Tinkering Star of OR
+        The Tinkering Star of OR
       - [Sylieth](/being/character/sylieth.md)
         - [Backstory: “Threadbare”](/being/character/sylieth/threadbare.md)
           Fragment from Sylieth’s personal journal
@@ -67,34 +67,27 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Vorr’Gul](/being/titan/vorr-gul.md)
       - [Zephiryx](/being/titan/zephiryx.md)
   - Geography
-    - Continent
-      - [Meskjor](/geography/continent/meskjor.md)
-      - [Morakai](/geography/continent/morakai.md)
-      - [Xaratius](/geography/continent/xaratius.md)
-    - Cosmology
-      - [Iridia](/geography/cosmology/iridia.md)
-        A world created from a collision with a magical creature.
-      - Plane Of Existance
-        - [The Dense](/geography/cosmology/plane-of-existance/the-dense.md)
-          - [The Threefold Bloom](/geography/cosmology/plane-of-existance/the-dense/threefold-bloom.md)
-        - [The Fractured Keep](/geography/cosmology/plane-of-existance/the-fractured-keep.md)
     - Landmark
       - [Mountains of Triz](/geography/landmark/mountains-of-triz.md)
         A mountainous area near the city of Triz Valley.
-        - [Gurdalk's Gang](/geography/landmark/mountains-of-triz/gurdalks-gang.md)
       - [The Scales](/geography/landmark/scale.md)
-        - [Armour of Or](/geography/landmark/scale/armour-of-or.md)
-        - [Asara Plate](/geography/landmark/scale/asara-plate.md)
-        - [Batès Lamina](/geography/landmark/scale/bates-lamina.md)
-        - [Eldeviérs Shell](/geography/landmark/scale/eldeviérs-shell.md)
-        - [The Ornite Ring](/geography/landmark/scale/ornite-ring.md)
-        - [Umperas Hull](/geography/landmark/scale/umperas-hull.md)
       - [The Shinging Well](/geography/landmark/the-shinging-well.md)
+    - Realm
+      - [The Dense](/geography/realm/the-dense.md)
+        - [The Threefold Bloom](/geography/realm/the-dense/threefold-bloom.md)
+      - [The Fractured Keep](/geography/realm/the-fractured-keep.md)
     - Region
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md)
       - [Skein of Bones](/geography/region/skein-of-bones.md)
       - [The Blooming Skein](/geography/region/blooming-skein.md)
       - [Verdant Divide](/geography/region/verdant-divide.md)
+    - Scale
+      - [Armour of Or](/geography/scale/armour-of-or.md)
+      - [Asara Plate](/geography/scale/asara-plate.md)
+      - [Batès Lamina](/geography/scale/bates-lamina.md)
+      - [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md)
+      - [The Ornite Ring](/geography/scale/ornite-ring.md)
+      - [Umperas Hull](/geography/scale/umperas-hull.md)
     - Settlement
       - City
         - [Arkona](/geography/settlement/city/arkona.md)
@@ -113,6 +106,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - Consumable
             - [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
             - [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
+            - [Skyfire Brew](/geography/settlement/city/city-of-or/consumable/skyfire-brew.md)
           - District
             - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
               Loud, proud, working-class heart of Or
@@ -186,6 +180,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Tipping Point](/geography/settlement/enclave/scholars-rift/the-tipping-point.md)
             A tavern in Scholar’s Rift where magic is strongly discouraged.
           - [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md)
+    - World
+      - [Iridia](/geography/world/iridia.md)
+        A world created from a collision with a magical creature.
   - Structure
     - Chronological
       - [Calendar](/structure/chronological/calendar.md)
@@ -244,6 +241,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [The Concordium Medica](/structure/society/profession/concordium-medica.md)
         - [Tuskbreakers](/structure/society/profession/tuskbreaker.md)
       - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md)
+      - Tribe
+        - [Gurdalk's Gang](/structure/society/tribe/gurdalks-gang.md)
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 

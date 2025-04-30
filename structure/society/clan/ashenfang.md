@@ -48,7 +48,7 @@ Raid the [Mistveil Marshes](/geography/region/mistveil-marshes.md), capturing wa
 
 ### Forge the Army
 
-Bones alone are brittle. Souls alone are fleeting. But together, they forge an unbreakable army: silent, tireless, immortal. This host will not merely conquer the Skein—it will smother [Iridia](/geography/cosmology/iridia.md) under a tide of ash, bone, and ghostfire.
+Bones alone are brittle. Souls alone are fleeting. But together, they forge an unbreakable army: silent, tireless, immortal. This host will not merely conquer the Skein—it will smother [Iridia](/geography/world/iridia.md) under a tide of ash, bone, and ghostfire.
 
 ## Tactics and Methods
 

@@ -13,7 +13,7 @@ dateCreated: 2025-04-04T22:17:36.610Z
 
 ![varnwick.png](/characters/varnwick.png =x500)
 
-There are those who wander the Cracks near [The Dense](/geography/cosmology/plane-of-existance/the-dense.md) for power. Others seek ancient truths, forbidden knowledge, or shiny things. Varnwick Marnel did not set out for any of those. He was looking for berries. Not just any berries—he was on a lifelong, deeply irrational quest to find and catalog every variety of fruit ending in "-ility." That he somehow survived this fruit-fueled folly is either a miracle, a cosmic prank, or a grim indicator of how little the universe cares for sensible outcomes.
+There are those who wander the Cracks near [The Dense](/geography/realm/the-dense.md) for power. Others seek ancient truths, forbidden knowledge, or shiny things. Varnwick Marnel did not set out for any of those. He was looking for berries. Not just any berries—he was on a lifelong, deeply irrational quest to find and catalog every variety of fruit ending in "-ility." That he somehow survived this fruit-fueled folly is either a miracle, a cosmic prank, or a grim indicator of how little the universe cares for sensible outcomes.
 
 Varnwick is a root-footed gnome—or as he calls himself, a *Verdant Grovetwister*. His legs have long since been replaced by braided vines and moss-cloaked branches. A gift (or curse) from the time he tripped headfirst into an unstable patch of [Irion](/being/deity/irion.md)'s Residue and merged with the local flora. He now walks on living roots that adjust to terrain, mood, and sometimes just to mess with people. His laugh is like creaking bark, and his beard grows leaves in the spring.
 
