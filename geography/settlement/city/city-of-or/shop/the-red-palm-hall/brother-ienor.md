@@ -1,4 +1,5 @@
 ---
+guid: d554202b-f302-420e-943f-95e6cd301d5f
 title: Brother Ienor
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:41.065Z
 tag: healer, elf
 editor: markdown
 dateCreated: 2025-04-06T20:52:21.213Z
+parent: infirmary=e112e23a-8f38-4808-9e2f-fecc89dae088
 ---
 
 # Brother Ienor

@@ -1,4 +1,5 @@
 ---
+guid: 9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 title: The Blooming Skein
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-27T14:07:02.381Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-27T14:07:02.381Z
-parent: iridia
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Blooming Skein

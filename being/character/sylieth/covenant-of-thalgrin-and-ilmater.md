@@ -1,4 +1,5 @@
 ---
+guid: 122fa2cd-2930-4a1b-949f-6fdb3bcca3e2
 title: Covenant of Thalgrin and Ilmater
 description: 
 published: 1

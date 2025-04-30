@@ -1,4 +1,5 @@
 ---
+guid: b08e2e93-93e4-49e1-a8f8-92b5d4f76cea
 title: Glimmer Drift
 description: A subtle magical weather phenomenon born of scale resonance.
 published: 1

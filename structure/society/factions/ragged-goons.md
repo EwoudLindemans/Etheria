@@ -1,4 +1,5 @@
 ---
+guid: d338254f-45c3-4a7e-8a10-770154f2074a
 title: The Ragged Goons
 description: Take what works, consequences be damned
 published: 1

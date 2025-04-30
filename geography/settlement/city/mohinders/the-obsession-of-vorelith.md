@@ -1,4 +1,5 @@
 ---
+guid: 8d522642-c55b-49ac-b859-0cee9714edd9
 title: The Obsession of Vorelith
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:55.017Z
 tags: campaign
 editor: markdown
 dateCreated: 2025-03-26T21:57:06.673Z
+parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # Story: *The Obsession of Vorelith*

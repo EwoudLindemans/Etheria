@@ -1,4 +1,5 @@
 ---
+guid: 3d9bead3-dd37-4b5a-ae9c-c87b6d46a664
 title: Gorgrath the Brute
 description: Gorgath the Brute, the Orcish Barbarian
 published: 1

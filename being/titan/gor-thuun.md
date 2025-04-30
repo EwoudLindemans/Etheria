@@ -1,4 +1,5 @@
 ---
+guid: 07aef3a4-a9b5-41a6-99a0-397d0021fdc8
 title: Gor’Thuun
 description: 
 published: 1

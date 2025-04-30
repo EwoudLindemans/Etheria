@@ -1,4 +1,5 @@
 ---
+guid: 48227406-1773-4f52-8bcd-9e4df1878fce
 title: The Threefold Bloom
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-24T19:19:06.321Z
 tags: the dense
 editor: markdown
 dateCreated: 2025-04-24T19:19:06.321Z
+parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ---
 
 # The Threefold Bloom of the Dense

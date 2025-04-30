@@ -1,4 +1,5 @@
 ---
+guid: df19f5ac-1b4e-4236-8d40-ca0c5239f89a
 title: Rusty Pluckers
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:31.811Z
 tags: band
 editor: markdown
 dateCreated: 2025-03-29T21:07:05.769Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # The Rusty Pluckers

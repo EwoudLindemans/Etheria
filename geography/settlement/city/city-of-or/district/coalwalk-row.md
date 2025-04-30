@@ -1,4 +1,5 @@
 ---
+guid: f8061dd3-8bf0-449e-8b2d-b67d857f2660
 title: Coalwalk Row
 description: Loud, proud, working-class heart of Or
 published: 1

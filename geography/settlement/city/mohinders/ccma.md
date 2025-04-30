@@ -1,4 +1,5 @@
 ---
+guid: c884a2e3-3e3f-44d8-b546-222e546010c4
 title: Councel of Controlled Magical Appliance
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:51:11.897Z
 tags: government
 editor: markdown
 dateCreated: 2025-03-18T20:29:22.056Z
+parent: 23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # **Council of Controlled Magical Appliance (CCMA)**

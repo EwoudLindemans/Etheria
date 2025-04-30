@@ -1,4 +1,5 @@
 ---
+guid: 5d18ef20-9f7d-4916-a0b8-d56d0c347411
 title: Gurdalk's Gang
 description: 
 published: 1

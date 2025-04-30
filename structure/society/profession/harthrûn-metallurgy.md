@@ -1,4 +1,5 @@
 ---
+guid: 1ff2563e-9cb3-40a1-aacd-4baceca7d2f3
 title: Harthrûn Metallurgy
 description: 
 published: 1

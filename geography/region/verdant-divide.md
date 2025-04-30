@@ -1,4 +1,5 @@
 ---
+guid: cc75b9d4-df85-47f8-a8bf-3dfae66751a6
 title: Verdant Divide
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:50:54.128Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-09T19:13:41.132Z
-parent: iridia
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Verdant Divide

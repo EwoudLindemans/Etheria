@@ -1,4 +1,5 @@
 ---
+guid: 3cd5386b-cb8e-4efa-b3d8-b91b68bd6f15
 title: Karath Flatstone
 description: The current leader of the City of Or.
 published: 1

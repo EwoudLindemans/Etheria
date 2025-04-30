@@ -73,6 +73,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [The Scales](/geography/landmark/scale.md)
       - [The Shinging Well](/geography/landmark/the-shinging-well.md)
     - Realm
+      - [The Anchored](/geography/realm/the-anchored.md)
       - [The Dense](/geography/realm/the-dense.md)
         - [The Threefold Bloom](/geography/realm/the-dense/threefold-bloom.md)
       - [The Fractured Keep](/geography/realm/the-fractured-keep.md)
@@ -224,8 +225,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md)
           - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md)
           - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md)
-      - Group
-        - [The Scalebound Strays](/structure/society/group/scalebound-strays.md)
+      - Fellowship
+        - [The Scalebound Strays](/structure/society/fellowship/scalebound-strays.md)
       - Profession
         - [Dreamweaving](/structure/society/profession/dreamweaving.md)
         - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md)

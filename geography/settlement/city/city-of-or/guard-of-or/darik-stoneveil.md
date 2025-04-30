@@ -1,4 +1,5 @@
 ---
+guid: 12ebce88-c3ce-430e-9c4a-6f49c3de22b0
 title: Darik Stoneveil
 description: A quiet step among the runes, with thoughts that echo deeper than orders
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:07.175Z
 tags: dwarf, guard
 editor: markdown
 dateCreated: 2025-04-09T13:57:31.718Z
+parent: profession=1c6b422f-7b2a-4cd0-87d3-0fde182b689a
 ---
 
 # Darik Stoneveil  

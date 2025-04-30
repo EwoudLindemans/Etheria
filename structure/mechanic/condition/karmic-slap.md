@@ -1,4 +1,5 @@
 ---
+guid: dad8cf75-c18d-4982-81b3-15bad4e44ace
 title: Karmic Slap
 description: 
 published: 1

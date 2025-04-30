@@ -1,4 +1,5 @@
 ---
+guid: 75aa0a3a-118f-4c36-9f4b-b9853b0ab913
 title: Arkona
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:44:47.207Z
 tags: city
 editor: markdown
 dateCreated: 2022-10-22T21:41:25.116Z
-parent: scale:bates lamina
+parent: scale=4d381a3f-3262-4c58-b0bb-dc163f84d7ae
 ---
 
 # Arkona

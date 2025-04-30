@@ -1,4 +1,5 @@
 ---
+guid: ac5a0a5d-07c7-4595-8da3-993424687d70
 title: Backstory: “Threadbare”
 description: Fragment from Sylieth’s personal journal
 published: 1

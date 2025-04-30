@@ -1,4 +1,5 @@
 ---
+guid: f1a4fb50-5e2c-4659-994d-ffaaa4514c55
 title: Drip
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:36.439Z
 tags: hobgoblin, alchemist, potion, merchant
 editor: markdown
 dateCreated: 2025-04-03T20:10:03.821Z
+parent: shop=98a60763-1f62-4d0b-aa00-40fa1fb81362
 ---
 
 # Drip

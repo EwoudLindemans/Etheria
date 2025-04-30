@@ -1,4 +1,5 @@
 ---
+guid: c0653893-135f-4704-b45f-fe7edd42fb8f
 title: 🪦 Or Flatstone
 description: The founder and first leader of the City of Or.
 published: 1

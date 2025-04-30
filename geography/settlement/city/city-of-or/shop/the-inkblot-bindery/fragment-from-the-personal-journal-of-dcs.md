@@ -1,4 +1,5 @@
 ---
+guid: cd3e009e-aa22-4c0c-aaf1-5095348719b9
 title: Fragment from the Personal Journal of D.C.S.
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:32:07.719Z
 tags: journal
 editor: markdown
 dateCreated: 2025-04-02T20:29:33.827Z
+parent: shop=ae3131f5-9604-4f30-a9f8-00d80d14f324
 ---
 
 Fragment from the Personal Journal of D.C.S.  

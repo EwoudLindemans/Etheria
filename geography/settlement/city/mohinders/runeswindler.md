@@ -1,4 +1,5 @@
 ---
+guid: 1ca393fe-b50e-4ee1-a6de-772f85bf048d
 title: Runeswindler
 description: A Kavrethul who controls the portals of Mohinders with an iron grip.
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:45:53.418Z
 tags: character, spy
 editor: markdown
 dateCreated: 2025-03-18T20:54:14.829Z
+parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # **Runeswindler, Collector of Passage**  

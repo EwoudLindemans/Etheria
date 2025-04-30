@@ -1,4 +1,5 @@
 ---
+guid: 31f3a52d-8a67-4b03-8f66-61b5ad7ec112
 title: Heartforge
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:51:01.035Z
 tags: forge
 editor: markdown
 dateCreated: 2025-03-09T21:05:19.664Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Heartforge

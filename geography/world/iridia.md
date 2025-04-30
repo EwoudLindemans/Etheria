@@ -1,4 +1,5 @@
 ---
+guid: 7960bb3a-a9f9-47fa-8126-556041ba1c55
 title: Iridia
 description: A world created from a collision with a magical creature.
 published: 1
@@ -6,8 +7,8 @@ date: 2025-04-29T10:19:19.849Z
 tags: world
 editor: markdown
 dateCreated: 2022-01-24T15:39:06.265Z
-parent: realm=the anchored
-connections: creator=irion
+parent: realm=5cad1505-6363-4e30-b6b2-6b4076f8b8c0
+connections: creator=581961b4-1a14-4822-89f4-574c6bec3f7d
 ---
 
 # Iridia

@@ -1,4 +1,5 @@
 ---
+guid: 38b0e138-e795-4f90-a8bf-f8d22052e7b9
 title: Asara Plate
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:50:43.909Z
 tags: scale
 editor: markdown
 dateCreated: 2022-01-24T23:54:54.478Z
-parent: iridia
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Asara Plate

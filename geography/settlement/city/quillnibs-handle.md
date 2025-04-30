@@ -1,4 +1,5 @@
 ---
+guid: 4c494a48-d453-4cc2-a6e6-38e3fd303424
 title: Quillnib’s Handle
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:31:27.525Z
 tags: city
 editor: markdown
 dateCreated: 2025-03-23T20:35:32.856Z
-parent: realm:the dense
+parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ---
 
 # Quillnib’s Handle

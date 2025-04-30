@@ -1,4 +1,5 @@
 ---
+guid: ae3131f5-9604-4f30-a9f8-00d80d14f324
 title: The Inkblot Bindery
 description: 
 published: 1

@@ -1,4 +1,5 @@
 ---
+guid: acadb407-04e5-48db-8f3a-e55a0a3afe20
 title: The Oblique Concord
 description: A secretive faction born from a single act of defiance.
 published: 1

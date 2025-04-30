@@ -1,4 +1,5 @@
 ---
+guid: a18e1465-b98e-4eb3-9548-81fc704cf0c0
 title: The Stable Flask
 description: A Reputable Laboratory
 published: 1

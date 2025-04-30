@@ -1,4 +1,5 @@
 ---
+guid: d25a858b-4404-4eef-abf8-295f3be32172
 title: Triz Valley
 description: Small town near the Mountains of Triz, popular amongst travelers.
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:51:13.430Z
 tags: town
 editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
-parent: scale:armour of or
+parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
 ---
 
 # Triz Valley

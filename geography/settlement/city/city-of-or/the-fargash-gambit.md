@@ -1,4 +1,5 @@
 ---
+guid: 49f89a53-d82e-4247-aba9-996694f0e0b6
 title: The Fargash Gambit
 description: 
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:51:07.225Z
 tags: event
 editor: markdown
 dateCreated: 2025-03-31T20:54:14.479Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # The Fargash Gambit

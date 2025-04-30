@@ -1,4 +1,5 @@
 ---
+guid: da38496a-bfec-4b6f-ac3b-27606eb58c61
 title: Fizzlemancy
 description: A gnomish art blending alchemy, engineering, and enchanted water.
 published: 1

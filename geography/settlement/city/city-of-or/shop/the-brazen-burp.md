@@ -1,4 +1,5 @@
 ---
+guid: efd16b68-e53b-480a-8bf0-b8efd129b310
 title: The Brazen Burp
 description: A Legendary Tavern in The City of Or
 published: 1

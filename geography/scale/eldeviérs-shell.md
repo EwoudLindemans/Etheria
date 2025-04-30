@@ -1,4 +1,5 @@
 ---
+guid: e89ff377-4d79-4d02-9a91-ec4acf626c24
 title: Eldeviérs Shell
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:50:48.228Z
 tags: scale
 editor: markdown
 dateCreated: 2025-03-09T14:30:55.811Z
-parent: iridia
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Eldeviérs Shell

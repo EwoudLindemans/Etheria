@@ -1,4 +1,5 @@
 ---
+guid: 0c471005-49b2-443c-9f17-467ce032111a
 title: The Tipping Point
 description: A tavern in Scholar’s Rift where magic is strongly discouraged.
 published: 1

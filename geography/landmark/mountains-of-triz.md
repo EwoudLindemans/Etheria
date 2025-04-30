@@ -1,4 +1,5 @@
 ---
+guid: c7737feb-0889-4e79-9b4d-f899fad4a5b3
 title: Mountains of Triz
 description: A mountainous area near the city of Triz Valley.
 published: 1

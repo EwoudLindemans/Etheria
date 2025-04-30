@@ -1,4 +1,5 @@
 ---
+guid: 43233b74-a64f-434e-8d70-0e9bf64b286e
 title: Armour of Or
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:50:41.119Z
 tags: scale
 editor: markdown
 dateCreated: 2025-04-14T21:50:39.619Z
-parent: iridia
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 ## History

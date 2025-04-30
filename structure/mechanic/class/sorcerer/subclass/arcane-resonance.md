@@ -1,4 +1,5 @@
 ---
+guid: 120f2cfc-eefd-4f16-87e2-4dca79361201
 title: Arcane Resonance
 description: 
 published: 1

@@ -1,4 +1,5 @@
 ---
+guid: e64676c5-0dac-4cc8-b87a-8b5581f86f32
 title: Mines of Or
 description: The legendary mines that fuel the City of Or's prosperity.
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:29:52.740Z
 tags: mine, labyrinth
 editor: markdown
 dateCreated: 2022-01-24T17:09:27.578Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # The Mines of Or

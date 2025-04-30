@@ -1,4 +1,5 @@
 ---
+guid: e112e23a-8f38-4808-9e2f-fecc89dae088
 title: The Red Palm Hall
 description: The primary centre of healing and divine care in The City of Or
 published: 1

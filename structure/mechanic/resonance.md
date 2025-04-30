@@ -1,4 +1,5 @@
 ---
+guid: a5477bc0-72f0-4b2a-aab4-f44c50931ea2
 title: Resonance
 description: The magical current that flows from the scales and shapes Iridia.
 published: 1

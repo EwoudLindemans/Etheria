@@ -1,4 +1,5 @@
 ---
+guid: 627b3d85-ea6e-44b2-b059-03ca394999d1
 title: Glimmering Ashenburrow
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:45:45.670Z
 tags: city
 editor: markdown
 dateCreated: 2025-03-09T17:13:54.304Z
-parent: scale:armour-of-or
+parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
 ---
 
 # The Glimmering Ashenburrow – The City Between Walls  

@@ -1,4 +1,5 @@
 ---
+guid: ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3
 title: Tallis Thorne
 description: Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
 published: 1

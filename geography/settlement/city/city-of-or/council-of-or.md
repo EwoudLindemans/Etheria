@@ -1,4 +1,5 @@
 ---
+guid: 63678415-9470-45aa-8d86-205ee81442a0
 title: The Council of Or
 description: The local government of the City of Or.
 published: 1
@@ -6,6 +7,7 @@ date: 2025-04-14T21:44:54.913Z
 tags: government
 editor: markdown
 dateCreated: 2022-01-24T15:54:21.181Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # The Council of Or

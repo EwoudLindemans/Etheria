@@ -1,4 +1,5 @@
 ---
+guid: f825a1e2-d603-4f5a-8781-89ca648a64d9
 title: The Scalebound Strays
 description: 
 published: 1

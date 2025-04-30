@@ -1,4 +1,5 @@
 ---
+guid: c4460d2b-24e4-4ce5-9347-a8b99c11b4fb
 title: Paradoxical Roll
 description: 
 published: 1

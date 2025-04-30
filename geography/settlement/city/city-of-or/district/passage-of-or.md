@@ -1,4 +1,5 @@
 ---
+guid: 6769e58e-9284-4a47-b196-8e5389664d97
 title: The Passage of Or
 description: An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
 published: 1

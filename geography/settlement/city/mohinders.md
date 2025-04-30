@@ -1,4 +1,5 @@
 ---
+guid: 23673ba2-6e63-4565-ad58-2759f4179c04
 title: Mohinders Spire
 description: 
 published: 1
@@ -6,7 +7,7 @@ date: 2025-04-14T21:51:10.349Z
 tags: city
 editor: markdown
 dateCreated: 2022-01-24T20:13:55.845Z
-parent: scale=eldeviérs shell
+parent: scale=e89ff377-4d79-4d02-9a91-ec4acf626c24
 ---
 
 # Mohinders Spire: A City of Arcane Supremacy

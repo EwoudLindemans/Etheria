@@ -1,4 +1,5 @@
 ---
+guid: 61e06349-1499-4ad8-9a24-21165ef034a1
 title: Scroll Binder
 description: Masters of magical agreements, ensuring fairness and lasting pacts.
 published: 1

@@ -1,4 +1,5 @@
 ---
+guid: 1aae8fdb-3fa6-467b-8bcb-02719ba36500
 title: 🪦 Fargash Flatstone
 description: 
 published: 1

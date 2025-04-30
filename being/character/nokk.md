@@ -1,4 +1,5 @@
 ---
+guid: a02b1b2d-a82c-4328-bea9-c950edad8c66
 title: Nokk the Scale’s Chosen
 description: Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
 published: 1
