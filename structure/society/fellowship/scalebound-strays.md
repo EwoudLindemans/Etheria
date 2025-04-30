@@ -2,8 +2,8 @@
 title: The Scalebound Strays
 description: 
 published: 1
-date: 2025-04-14T21:51:25.969Z
-tags: group
+date: 2025-04-30T20:19:32.381Z
+tags: fellowship
 editor: markdown
 dateCreated: 2025-04-12T20:53:29.444Z
 ---
