@@ -17,7 +17,7 @@ parent: infirmary=e112e23a-8f38-4808-9e2f-fecc89dae088
 **Affiliation:** Order of the Woven Vein  
 **Role:** Lead Healer of [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)  
 **Residence:** Stonehollow District, The [City of Or](/geography/settlement/city/city-of-or.md)  
-**Notable Traits:** Celibate, strikingly handsome, ancient calm, unshakably kind  
+**Notable Traits:** Celibate, strikingly handsome, ancient calm, unshakably kind
 **Nickname(s):** "The Palm of Mercy" (colloquial), "The Saint Who Blushes Not" (poetic)
 
 ## Overview

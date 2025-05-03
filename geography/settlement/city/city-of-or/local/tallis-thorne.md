@@ -7,6 +7,7 @@ date: 2025-04-14T21:45:21.018Z
 tags: bard, musician, half-elf, historian, poet, legend
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Tallis Thorne  

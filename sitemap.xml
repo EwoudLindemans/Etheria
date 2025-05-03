@@ -1,24 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wiki.hq.rockycore.com/being/ancient/demeriun.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/ancient/zelorei.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/animal/snail.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/creatures/aegiscoil_snail.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://wiki.hq.rockycore.com/being/character/cirxa.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -163,14 +145,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/xalzyra.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/monster/invisible-stalker.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://static.wikia.nocookie.net/vsdebating/images/4/4f/Invisible_Stalker.png/revision/latest/scale-to-width-down/400?cb=20180224013634#right</image:loc>
     </image:image>
   </url>
   <url>
@@ -367,11 +341,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://wiki.hq.rockycore.com/geography/landmark/mountains-of-triz.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wiki.hq.rockycore.com/geography/landmark/scale.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -436,12 +405,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/region/mountains-of-triz.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/skein-of-bones.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/the_skein_of_bones.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/geography/region/the-whispering-woods.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/geography/region/verdant-divide.md</loc>

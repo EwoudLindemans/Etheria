@@ -7,6 +7,7 @@ date: 2025-04-24T20:33:42.981Z
 tags: politician, dwarf
 editor: markdown
 dateCreated: 2022-01-24T13:05:11.061Z
+parent: government=63678415-9470-45aa-8d86-205ee81442a0
 ---
 
 # Or Flatstone

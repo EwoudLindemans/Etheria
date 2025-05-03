@@ -68,16 +68,16 @@ Surrounding Iridia is the **[Ornite Ring](/geography/scale/ornite-ring.md)**, an
 - Gorgraths Wrath, a secret organzation bent on brining down the Flatstone dynasty in the [City of Or](/geography/settlement/city/city-of-or.md)
 - The Sisterhood of Assassination
 
-Crack's are formed between continents they lead into a place called [The Dense](/geography/realm/the-dense.md)
+Crack's are formed between continents they lead into a place called [The Dense](/generated/the-dense/the-dense.md)
 
 ## Notable Places
 ### Cities
 [Triz Valley](/geography/settlement/city/triz-valley.md)
 Momentus Outpost
-[Arkona](/geography/settlement/city/arkona.md)
+[Arkona](/generated/city/arkona.md)
 
 ### Places
-[Mountains of Triz](/geography/landmark/mountains-of-triz.md)
+[Mountains of Triz](/geography/region/mountains-of-triz.md)
 The Desert of the Rendishing Night
 
 ### To be determined

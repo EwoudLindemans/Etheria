@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:02.831Z
 tags: character, tiefling, cleric
 editor: markdown
 dateCreated: 2025-04-06T19:52:09.659Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Sylieth

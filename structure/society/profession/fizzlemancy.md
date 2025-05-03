@@ -13,11 +13,11 @@ dateCreated: 2025-03-12T19:46:30.395Z
 
 ![fizzlemancy.webp](/professions/fizzlemancy.webp =500x)
 
-Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Fizzlemancers gather water from magical [resonance](/structure/mechanic/resonance.md) zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
+Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Fizzlemancers gather water from magical [resonance](/generated/resonance/resonance.md) zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
 
 ## The Fizzlemancer’s Process
 1. Harvesting Resonant Water
-Fizzlemancers begin by gathering water from naturally enchanted sources—springs near ley lines, crystalline waterfalls, or hidden glens where the very air shimmers with [magic](/structure/mechanic/magic.md). This water, rich in ambient [resonance](/structure/mechanic/resonance.md), serves as the ideal base for their arcane concoctions.
+Fizzlemancers begin by gathering water from naturally enchanted sources—springs near ley lines, crystalline waterfalls, or hidden glens where the very air shimmers with [magic](/structure/mechanic/magic.md). This water, rich in ambient [resonance](/generated/resonance/resonance.md), serves as the ideal base for their arcane concoctions.
 
 2. Fizzle the Arcane Brew
 Once collected, the resonant water is blended with secret ingredients—Fey’s Dew, gigglewort petals, a dash of stardust, and other arcane additives. The resulting brew is a liquid symphony of raw magical energy, primed to awaken dormant [magic](/structure/mechanic/magic.md) within mechanical constructs.

@@ -7,6 +7,7 @@ date: 2025-04-14T21:45:37.952Z
 tags: shop
 editor: markdown
 dateCreated: 2025-04-02T20:10:24.868Z
+parent: region=50940c56-4e2d-4ce7-a570-3e9c865773ee
 ---
 
 # The Inkblot Bindery

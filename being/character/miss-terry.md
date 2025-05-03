@@ -7,6 +7,7 @@ date: 2025-04-29T10:32:23.316Z
 tags: character, musician, bard, thiefling, singer
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Miss Terry

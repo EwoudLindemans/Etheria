@@ -17,7 +17,7 @@ parent: emberglass=cc4ae0d6-9cfa-44f0-a423-635e7e458df1
 Among the countless wonders whispered of in the hallowed halls of [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md), few artifacts stir the imagination—or the nightmares—like the **Soulglass Orbs**. Born from the ancient, layered traditions of the [Emberglass Artisans](/structure/society/profession/emberglass-artisan.md), these spheres are not merely baubles of beauty, but vessels of trapped memories, condensed regrets, and clinging echoes of the dead.
 
 ## Origins: Fire-Forged Memory
-The creation of Soulglass Orbs is attributed to the legendary [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) **Izzar’Vharr**, who first unlocked the art of weaving thought into matter. In his time, Emberglass was a sacred material, painstakingly created from sands infused with [resonance](/structure/mechanic/resonance.md) and the breath of dragons. It was alive in a way stone could never be—singing faintly of the memories it held even before being shaped.
+The creation of Soulglass Orbs is attributed to the legendary [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) **Izzar’Vharr**, who first unlocked the art of weaving thought into matter. In his time, Emberglass was a sacred material, painstakingly created from sands infused with [resonance](/generated/resonance/resonance.md) and the breath of dragons. It was alive in a way stone could never be—singing faintly of the memories it held even before being shaped.
 
 Notably, not all [Emberglass Artisans](/structure/society/profession/emberglass-artisan.md) followed the same path. In later years, the order splintered into three distinct traditions:
 - **Memory Artisans**, who sought to preserve beauty and knowledge.
@@ -29,14 +29,14 @@ Soulglass Orbs are a product of all three branches, depending on their intended 
 ## Nature and Purpose
 At a glance, a Soulglass Orb appears innocent: a delicate sphere, no larger than a fruit, radiating an inner warmth like a firefly trapped in amber. Yet to hold one is to feel a thousand unseen eyes upon you, to sense laughter, weeping, battle cries, and whispered confessions brushing the edges of your soul.
 
-The Memory Artisans prized the Orbs as living libraries, preserving a sage’s wisdom, a lover’s vow, or the final, desperate plan of a fallen king. In the chill vaults beneath [Arkona](/geography/settlement/city/arkona.md), [Cirxa](/being/character/cirxa.md) herself is said to barter in Memory Orbs, trading whole destinies as though they were coins.
+The Memory Artisans prized the Orbs as living libraries, preserving a sage’s wisdom, a lover’s vow, or the final, desperate plan of a fallen king. In the chill vaults beneath [Arkona](/generated/city/arkona.md), [Cirxa](/being/character/cirxa.md) herself is said to barter in Memory Orbs, trading whole destinies as though they were coins.
 
 By contrast, the Graveflame Artisans forged Orbs that howled with restless souls—used as grim sentries or weapons of psychological warfare. The screams from these Orbs are said to warp the dreams of those who sleep too close, pulling their minds into sorrowful labyrinths.
 
 The Hexfire Artisans went even further, crafting unstable Orbs that served as cursed bombs. When these orbs rupture, they do not just release memory—they rewrite the surroundings, embedding hallucinated histories into the fabric of reality. Entire quarters of [Triz Valley](/geography/settlement/city/triz-valley.md) bear the scars of one such "historical overwrite."
 
 ## The Craft of Binding
-Forging a Soulglass Orb is an act of peril and precision. The Artisan must first extract **Veilroot Sand**, bathed under the ephemeral [resonance](/structure/mechanic/resonance.md) currents that pulse strongest near [The Dense](/geography/realm/the-dense.md). This sand is then fired using ritual dragonflame, which itself must be calibrated according to the lunar and resonant tides.
+Forging a Soulglass Orb is an act of peril and precision. The Artisan must first extract **Veilroot Sand**, bathed under the ephemeral [resonance](/generated/resonance/resonance.md) currents that pulse strongest near [The Dense](/generated/the-dense/the-dense.md). This sand is then fired using ritual dragonflame, which itself must be calibrated according to the lunar and resonant tides.
 
 During the final forging, the Artisan weaves their own emotions into the Emberglass, binding either the chosen memory or soul to the material. Mistakes are costly: should the Artisan's will falter, a piece of themselves may become trapped forever—a fate that is quietly honored among their peers but never spoken of.
 

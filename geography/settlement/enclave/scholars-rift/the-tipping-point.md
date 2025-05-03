@@ -7,6 +7,7 @@ date: 2025-04-14T21:46:02.704Z
 tags: tavern
 editor: markdown
 dateCreated: 2025-03-05T00:12:14.041Z
+parent: acedemy=52f984a8-ef37-4c35-a866-7327d68690e0
 ---
 
 # The Tipping Point (Tavern & Social Hub)

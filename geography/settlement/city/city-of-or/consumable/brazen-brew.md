@@ -7,6 +7,7 @@ date: 2025-04-24T23:07:59.822Z
 tags: beverage
 editor: markdown
 dateCreated: 2025-04-07T19:49:09.164Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Drink: The Brazen Brew
@@ -45,7 +46,7 @@ The drink that survived the brawl became legend.
 Despite its origin, The Brazen Brew is still served (sparingly) at:
 
 - **[The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)**, where the original barrelhead still hangs on the wall  
-- **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md) trials**, unofficially, with great and terrible results  
+- **[Election Festival](/generated/festival/election-festival.md) trials**, unofficially, with great and terrible results  
 - **Heroic commemorations**, often after something has exploded or nearly done so
 
 It is said that only the foolish drink The Brazen Brew alone, and only the bold do it twice.

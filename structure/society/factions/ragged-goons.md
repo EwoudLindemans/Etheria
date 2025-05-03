@@ -17,13 +17,13 @@ The **Ragged Goons** are a rogue faction of outcasts, scavengers, and [scale](/g
 
 ## Origins: The Spark of Defiance (Arc 131)
 
-The Goons trace their roots to a disaster in **[Triz Valley](/geography/settlement/city/triz-valley.md)**, where a botched attempt to harness a **Hidden [Scale](/geography/landmark/scale.md)** conduit unleashed wild [magic](/structure/mechanic/magic.md), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring the scales theirs to claim, Ruk led his band into the **[Mountains of Triz](/geography/landmark/mountains-of-triz.md)**, clashing with **[Gurdalk’s Gang](/structure/society/tribe/gurdalks-gang.md)** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
+The Goons trace their roots to a disaster in **[Triz Valley](/geography/settlement/city/triz-valley.md)**, where a botched attempt to harness a **Hidden [Scale](/geography/landmark/scale.md)** conduit unleashed wild [magic](/structure/mechanic/magic.md), leveling a quarry and displacing dozens. Exiled by the **[Council of Or](/geography/settlement/city/city-of-or/council-of-or.md)**, the survivors rallied under **Ruk “Splinter” Varn**, a tinkerer who lost an arm to the blast and forged a prosthetic from scale shards. Declaring the scales theirs to claim, Ruk led his band into the **[Mountains of Triz](/geography/region/mountains-of-triz.md)**, clashing with **[Gurdalk’s Gang](/structure/society/tribe/gurdalks-gang.md)** and stealing traps to craft their first weapons. This marked the Goons’ ethos: take what works, consequences be damned.
 
 ## The Ink-sane Six – Leaders of the Ragged Goons
 
 In the warped depths of the [Verdant Divide](/geography/region/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
 
-They dwell within *The Cartocrater*—a [resonance](/structure/mechanic/resonance.md)-scarred chasm carved from a fractured [scale](/geography/landmark/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
+They dwell within *The Cartocrater*—a [resonance](/generated/resonance/resonance.md)-scarred chasm carved from a fractured [scale](/geography/landmark/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
 
 ### The Bone Marshal
 A skull-faced strategist with armor stitched from ceremonial shards of a defunct Redemptious Myphos sect. His mane of cobalt fur rises like a war banner in fog. He doesn’t command with shouts—he taps maps with a claw and calamity follows. Said to dream in invasions and wake to predictions. Once blinked, and a fortress surrendered.
@@ -59,7 +59,7 @@ The Ragged Goons live by a creed of chaos over control, survival over tradition.
 - **Weapons**: 
   - **Splinterguns**: Ramshackle firearms that shoot jagged [scale](/geography/landmark/scale.md) shards, prone to misfiring but deadly when they hit.
   - **Rattlepacks**: Explosive satchels charged with corrupted [magic](/structure/mechanic/magic.md), as dangerous to the user as the target.
-- **Mark of the Goon**: Members scar themselves with [scale](/geography/landmark/scale.md) dust, creating glowing, jagged tattoos that flare near a scale’s [resonance](/structure/mechanic/resonance.md)—an alert system and badge of loyalty.
+- **Mark of the Goon**: Members scar themselves with [scale](/geography/landmark/scale.md) dust, creating glowing, jagged tattoos that flare near a scale’s [resonance](/generated/resonance/resonance.md)—an alert system and badge of loyalty.
 
 ## Key Tales
 
@@ -73,15 +73,15 @@ The Goons’ rivalry with the **Scalebreakers** erupted at **Batès Lamina**, wh
 
 ### The Chorus Gambit (Arc 151)
 
-As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/geography/settlement/city/city-of-or.md)**, planting a stolen **[Resonance](/structure/mechanic/resonance.md) Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
+As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/geography/settlement/city/city-of-or.md)**, planting a stolen **[Resonance](/generated/resonance/resonance.md) Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
 
 ## The Goons Today (Arc 152)
 
-Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from [Gurdalk’s Gang](/structure/society/tribe/gurdalks-gang.md), leads a brutal remnant near [Triz Valley](/geography/settlement/city/triz-valley.md), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/geography/settlement/city/mohinders.md)**, cracked **Batès Lamina**, and rattled **The [City of Or](/geography/settlement/city/city-of-or.md)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an [Iridian](/being/species/iridian.md) rebirth, or a hidden essence cache in the **[Mountains of Triz](/geography/landmark/mountains-of-triz.md)**.
+Ruk’s death fractured the Goons, but their spirit persists in scattered crews. **Kez “Rattleskin” Dray**, a goblin deserter from [Gurdalk’s Gang](/structure/society/tribe/gurdalks-gang.md), leads a brutal remnant near [Triz Valley](/geography/settlement/city/triz-valley.md), rigging Chorus-charged traps. Their raids have scarred **[Mohinders](/geography/settlement/city/mohinders.md)**, cracked **Batès Lamina**, and rattled **The [City of Or](/geography/settlement/city/city-of-or.md)**, while the **Merchants Guild** quietly trades for their loot. Rumors swirl of Ruk’s glowing tattoos hinting at an [Iridian](/being/species/iridian.md) rebirth, or a hidden essence cache in the **[Mountains of Triz](/geography/region/mountains-of-triz.md)**.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Iridia](/geography/world/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/structure/mechanic/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The Ragged Goons are [Iridia](/geography/world/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/generated/resonance/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

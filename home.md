@@ -9,11 +9,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
 ---
 # Wiki Index
   - Being
-    - Ancient
-      - [Demeriún](/being/ancient/demeriun.md)
-      - [Zeloréi](/being/ancient/zelorei.md)
-    - Animal
-      - [Snail](/being/animal/snail.md)
     - Character
       - [Cirxa](/being/character/cirxa.md)
       - [Jarvey](/being/character/jarvey.md)
@@ -41,8 +36,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Uldur](/being/deity/uldur.md)
       - [Vexyrra](/being/deity/vexyrra.md)
       - [Xal Zyra](/being/deity/xal-zyra.md)
-    - Monster
-      - [Invisible Stalker](/being/monster/invisible-stalker.md)
     - Species
       - [Denslings](/being/species/denslings.md)
       - [Etherials](/being/species/etherial.md)
@@ -68,8 +61,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Zephiryx](/being/titan/zephiryx.md)
   - Geography
     - Landmark
-      - [Mountains of Triz](/geography/landmark/mountains-of-triz.md)
-        A mountainous area near the city of Triz Valley.
       - [The Scales](/geography/landmark/scale.md)
       - [The Shinging Well](/geography/landmark/the-shinging-well.md)
     - Realm
@@ -79,8 +70,11 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [The Fractured Keep](/geography/realm/the-fractured-keep.md)
     - Region
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md)
+      - [Mountains of Triz](/geography/region/mountains-of-triz.md)
+        A mountainous area near the city of Triz Valley.
       - [Skein of Bones](/geography/region/skein-of-bones.md)
       - [The Blooming Skein](/geography/region/blooming-skein.md)
+      - [The Whispering Woods](/geography/region/the-whispering-woods.md)
       - [Verdant Divide](/geography/region/verdant-divide.md)
     - Scale
       - [Armour of Or](/geography/scale/armour-of-or.md)
@@ -105,9 +99,9 @@ dateCreated: 2022-01-24T15:40:43.899Z
           The largest city of Iridia, built beneath The Armour of Or.
           - [Asarazul](/geography/settlement/city/city-of-or/asarazul.md)
           - Consumable
+            - [Drink: Skyfire Brew](/geography/settlement/city/city-of-or/consumable/skyfire-brew.md)
             - [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md)
             - [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md)
-            - [Skyfire Brew](/geography/settlement/city/city-of-or/consumable/skyfire-brew.md)
           - District
             - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)
               Loud, proud, working-class heart of Or

@@ -10,12 +10,12 @@ dateCreated: 2022-01-24T16:16:26.728Z
 ---
 
 # Scale
-In the world of [Iridia](/geography/world/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with Irion’s lingering [resonance](/structure/mechanic/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
+In the world of [Iridia](/geography/world/iridia.md), a **scale** is not merely a remnant of a creature—it is a foundation of reality itself. These vast, nearly indestructible structures are the shattered fragments of [Irion](/being/deity/irion.md), a magical entity whose collision with the world during [The Collapse](/structure/chronological/event/the-collapse.md) fractured both the planet and the being into a thousand immense, interlocking pieces. These fragments—called **scales**—now tower over the landscape, each one infused with Irion’s lingering [resonance](/generated/resonance/resonance.md) [magic](/structure/mechanic/magic.md). Their presence reshaped existence: altering terrain, warping weather, and anchoring civilization in a world reborn through chaos. The land healed around them, growing anew in the shadow of their arcane permanence.
 
 ## Properties
 - **Immensity**: Most scales stretch hundreds to thousands of feet in diameter, towering like mountains or embedded deep underground.
 - **Indestructibility**: The material of a scale is almost impervious to most known tools or [magic](/structure/mechanic/magic.md). Only small gaps or cavities exist—likely created shortly after [the Collapse](/structure/chronological/event/the-collapse.md)—through which raw magical energy sometimes leaks.
-- **Magical Pulse**: Scales are not static. They resonate with the magical fabric of the world, producing fluctuations known as the **Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC)**. These pulses define the flow of time and [magic](/structure/mechanic/magic.md) throughout [Iridia](/geography/world/iridia.md).
+- **Magical Pulse**: Scales are not static. They resonate with the magical fabric of the world, producing fluctuations known as the **Aurorhythmic [Resonance](/generated/resonance/resonance.md) Cycle (ARC)**. These pulses define the flow of time and [magic](/structure/mechanic/magic.md) throughout [Iridia](/geography/world/iridia.md).
 - **Environmental Influence**: Proximity to a scale alters the world around it—rivers may run uphill, forests may breathe, and light may twist in impossible ways.
 
 ## Cultural & Civilizational Impact
@@ -32,7 +32,7 @@ The physical size of the scales made them ideal natural fortifications. Cities l
 
 Over time, scholars and artisans learned to **channel the latent [magic](/structure/mechanic/magic.md)** of scales through conduits—devices or rituals designed to extract energy without harming the scale. This practice led to a form of **scale-tech**, a magical-industrial revolution that powers lighting, transportation, communication, and even warfare in some regions.
 
-However, the creation of new scale cavities is strictly forbidden. Any attempt to bore into the surface of a scale risks unleashing wild, unstable [magic](/structure/mechanic/magic.md), or worse—awakening some forgotten [resonance](/structure/mechanic/resonance.md) deep within.
+However, the creation of new scale cavities is strictly forbidden. Any attempt to bore into the surface of a scale risks unleashing wild, unstable [magic](/structure/mechanic/magic.md), or worse—awakening some forgotten [resonance](/generated/resonance/resonance.md) deep within.
 
 ## Religious Significance
 
@@ -40,7 +40,7 @@ To many, the scales are sacred.
 
 - **Followers of [Irion](/being/deity/irion.md)** treat them as the resting body of their god, especially revering sites like Batès Lamina.
 - Others believe the scales are sentient or dreaming, and that tampering with them risks invoking a second Collapse.
-- Some, like the [Cult of Dy](/structure/society/factions/cult-of-dy.md), attribute randomness and divine will to the patterns of [resonance](/structure/mechanic/resonance.md) the scales emit.
+- Some, like the [Cult of Dy](/structure/society/factions/cult-of-dy.md), attribute randomness and divine will to the patterns of [resonance](/generated/resonance/resonance.md) the scales emit.
 
 ## Conflict & Exploitation
 
@@ -64,7 +64,7 @@ There are **five known surface-penetrating scales**, each distinct in form and f
 - Are there more hidden underground?
 - Are the scales aware of those who live around them?
 - Could the scales ever be awakened?
-- What happens if two scales are brought into [resonance](/structure/mechanic/resonance.md) with one another?
+- What happens if two scales are brought into [resonance](/generated/resonance/resonance.md) with one another?
 
 The answers remain unclear. The scales are not just remnants—they are [Iridia](/geography/world/iridia.md)'s bones, its memory, and perhaps its future.
 

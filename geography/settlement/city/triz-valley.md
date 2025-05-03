@@ -7,12 +7,12 @@ date: 2025-04-14T21:51:13.430Z
 tags: town
 editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
-parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
+parent: mountain=c7737feb-0889-4e79-9b4d-f899fad4a5b3
 ---
 
 # Triz Valley
 
-A small town at the foot of the [Mountains of Triz](/geography/landmark/mountains-of-triz.md), limited in its growth by the encircling mountains. Triz Valley is very popular amonst travelers to and from the Mountains of Triz. Adventurers often find their way to one of the many taverns and inns of Triz Valley.
+A small town at the foot of the [Mountains of Triz](/geography/region/mountains-of-triz.md), limited in its growth by the encircling mountains. Triz Valley is very popular amonst travelers to and from the Mountains of Triz. Adventurers often find their way to one of the many taverns and inns of Triz Valley.
 
 At the entrance to the valley of Triz is a wide path leading through an area of thick plates of stone. This path leads on to the peak of a mountain and then it turns and moves over to mountain of an almost impossible height. In its lower part is a short tunnel which leads out of the valley. It is only about 10 meters long. It is said that the mountain coveres a [Scale](/geography/landmark/scale.md)
 
@@ -42,7 +42,7 @@ Above it all looms the **Triz Watchtower**, built on the slope of a hill, leanin
 
 But not everything in Triz is laughter and ledgers. Beneath the valley stretch ancient tunnels—some carved by dwarves, others by things less easily named. There are whispers of **strange echoes** in the deep, of glowing ore that sings when touched, and of miners who return changed, or not at all.
 
-Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/structure/mechanic/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
+Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/generated/resonance/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
 
 The **officials of Or** dismiss such tales, of course. But Or maintains a quiet diplomatic presence in Triz all the same—just a few envoys and accountants. Just in case.
 
@@ -59,7 +59,7 @@ As the locals like to say:
 The thick plates that look like stone are actually part of a [Scale](/geography/landmark/scale.md) thats hidden in plain sight.
 
 ## Taverns and inns
-Triz Valley has many taverns and inns where adventurers meet each other and make daring (and often deathly) plans to enter the [Mountains of Triz](/geography/landmark/mountains-of-triz.md).
+Triz Valley has many taverns and inns where adventurers meet each other and make daring (and often deathly) plans to enter the [Mountains of Triz](/geography/region/mountains-of-triz.md).
 
 ## Guilds
 The Merchants Guild in Triz Valley is well respected. They are a community of collectors, miners and other craftsmen who’ve made a lot of progress in the field of technology.

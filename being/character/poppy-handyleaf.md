@@ -7,6 +7,7 @@ date: 2025-04-30T20:09:44.836Z
 tags: character, crafter, gnome
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Poppy Handyleaf – The Tinkering Star of OR  
@@ -25,7 +26,7 @@ Yet, for all her talent and brilliance, there was always something offbeat about
 In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave [magic](/structure/mechanic/magic.md) into metal, breathe life into gears, and create things that should not have existed.
 
 ### The Density Calibrator
-At the heart of the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md), the [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of [The Dense](/geography/realm/the-dense.md), the compressed, unstable realm that exists within Or.
+At the heart of the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md), the [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of [The Dense](/generated/the-dense/the-dense.md), the compressed, unstable realm that exists within Or.
 
 ### Vexley (Homunculus)
 Her prized companion Vexley, a homunculus construct, was forged from a large, ancient tooth she had found deep in the markets of Or. Some said it belonged to a dragon, others to something even older, but Poppy simply saw potential. She shaped it, coaxed it into being, and now it follows her, a tiny, chittering presence ever at her side.

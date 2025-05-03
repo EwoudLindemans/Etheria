@@ -46,7 +46,7 @@ He’s known to **write reflections in the margins of his own Guard manual**, an
 
 ### Favourite Reading Subjects:
 - Historical council debates  
-- Poetic commentary on stone [resonance](/structure/mechanic/resonance.md)  
+- Poetic commentary on stone [resonance](/generated/resonance/resonance.md)  
 - Guard ethics across district lines  
 - Quiet heroism in low-footnote entries  
 - Anything once banned, later reinstated

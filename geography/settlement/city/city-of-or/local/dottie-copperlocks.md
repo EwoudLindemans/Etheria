@@ -7,6 +7,7 @@ date: 2025-04-14T21:45:13.369Z
 tags: local, merchant, scribe
 editor: markdown
 dateCreated: 2025-04-02T20:43:52.646Z
+parent: shop=ae3131f5-9604-4f30-a9f8-00d80d14f324
 ---
 
 # Dottie Copperlocks  

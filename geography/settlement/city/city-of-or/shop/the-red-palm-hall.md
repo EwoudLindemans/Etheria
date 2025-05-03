@@ -39,7 +39,7 @@ The hall does not charge for healing, though donations are encouraged. On feast 
 
 ## Notable Treatments
 - **The Rebinding Touch** – A ritual healing that closes wounds while knitting the soul around the scar.
-- **The Breath of Ironroot** – An herbal poultice infused with divine [resonance](/structure/mechanic/resonance.md), used to stabilise miners with lung damage.
+- **The Breath of Ironroot** – An herbal poultice infused with divine [resonance](/generated/resonance/resonance.md), used to stabilise miners with lung damage.
 - **Veinwhispering** – A quiet ritual for those haunted by trauma, wherein a cleric listens without speaking and channels memory into a redstone bowl, then offers the patient the choice to keep or release it.
 
 ## See Also

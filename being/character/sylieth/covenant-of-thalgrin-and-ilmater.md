@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:04.336Z
 tags: scroll
 editor: markdown
 dateCreated: 2025-04-06T20:05:34.047Z
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Covenant of Thalgrin and Ilmater

@@ -1,0 +1,21 @@
+# Captain Silas Stormblade - The Azure Corsair
+
+## A Shadow Among the Scales
+
+Captain Silas Stormblade is a notorious figure amongst the freebooters and coastal communities of [Iridia](/geography/world/iridia.md), known far and wide as the 'Azure Corsair'. His reputation isn't built solely on brute force or plunder, but on a peculiar obsession with the magical [scales](/geography/landmark/scale.md) – specifically, extracting and utilizing their residual energy in increasingly unconventional ways. While the [Arcane Fangs](/structure/society/factions/arcane-fangs.md) are widely condemned for their reckless harvesting, Stormblade operates with a meticulous, almost scholarly approach, leading many to believe he’s more than just a greedy pirate; he's an alchemist of sorts, experimenting with scale-derived power.
+
+Stormblade’s ship, *The Serpent’s Kiss*, is a heavily modified brigantine, visibly adorned with crystalline structures harvested from the [Asara Plate](/geography/scale/asara-plate.md). These crystals aren’t merely for aesthetics; they form a complex network along the hull and masts, subtly altering the ship's performance. Rumor has it *The Serpent’s Kiss* can navigate through seemingly impassable storms and achieve bursts of startling speed - feats attributed to the carefully channeled energy from the [scales](/geography/landmark/scale.md). This unusual advantage allows him to outmaneuver larger, more conventional vessels and raid coastal settlements with surprising ease.
+
+## Connection to Existing Lore
+
+Stormblade’s actions directly intersect with the conflicts surrounding the magical [scales](/geography/landmark/scale.md). He’s a thorn in the side of the Followers of [Irion](/being/deity/irion.md), who vehemently oppose any manipulation of the scales, deeming it sacrilege. Their patrols are frequent in the waters surrounding the [Ornite Ring](/geography/scale/ornite-ring.md), attempting to prevent Stormblade from further exploiting the [Asara Plate](/geography/scale/asara-plate.md) and potentially disrupting the Ring’s peculiar gravitational influence, causing unstable tide patterns along the coasts of Morakai.
+
+The [Arcane Fangs](/structure/society/factions/arcane-fangs.md) view Stormblade with a mixture of fascination and disdain. They acknowledge his skill in harnessing [scale](/geography/landmark/scale.md) energy but criticize his methodical approach, believing he's wasting potential and not maximizing the power available. A shadowy figure within the Fangs, known only as ‘The Refiner,’ has reportedly offered Stormblade a partnership – a chance to share his techniques and resources, in exchange for a share of his discoveries and a pledge to expand the scope of his experiments. Whether Stormblade will accept remains to be seen, but it represents a potentially dangerous escalation of his activities.
+
+Furthermore, Stormblade’s unique interest in [scale](/geography/landmark/scale.md) energy has caught the attention of Gorgraths Wrath. The secret organization sees his expertise as valuable in destabilizing the Flatstone dynasty – rumors circulate that he’s been commissioned to develop a weapon utilizing refined scale energy that could specifically target the ancient runic fortifications protecting the Flatstone's ancestral holdings in the [City of Or](/geography/settlement/city/city-of-or.md).
+
+## Tactics and Personality
+
+Stormblade is known for his unorthodox battle tactics. Rather than direct confrontation, he favors ambushes and intricate maneuvers, utilizing *The Serpent’s Kiss*'s unique capabilities to disrupt enemy formations and exploit weaknesses. He’s a cunning strategist, often using illusions and deceptive signals to confuse his opponents. Witnesses describe him as a man of chilling calmness even amidst the chaos of battle. 
+
+He's also a patron of knowledge and surprisingly eloquent, often quoting ancient texts and philosophical treatises during tense negotiations or when questioning captured scholars. This juxtaposition of brutality and erudition makes him a truly unsettling figure – a pirate who seems to possess a mind far beyond the common swashbuckler. Some whisper he is searching for a lost key to power contained within the [scales](/geography/landmark/scale.md), a power even [Irion](/being/deity/irion.md) himself struggled to contain.

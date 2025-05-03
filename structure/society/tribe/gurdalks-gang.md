@@ -11,7 +11,7 @@ dateCreated: 2025-04-02T21:33:46.916Z
 
 # Gurdalk’s Gang
 
-Deep within the winding canyons and claustrophobic tunnels of the **[Mountains of Triz](/geography/landmark/mountains-of-triz.md)**, there lurks a name spoken with hushed awe and wary respect: **Gurdalk’s Gang**.
+Deep within the winding canyons and claustrophobic tunnels of the **[Mountains of Triz](/geography/region/mountains-of-triz.md)**, there lurks a name spoken with hushed awe and wary respect: **Gurdalk’s Gang**.
 
 More than a nomadic goblin tribe, they are a legend etched in blood, brass, and clever cruelty. Feared by merchants, whispered about by guides, and studied (fruitlessly) by tactical scholars, Gurdalk’s Gang are **masters of guerrilla warfare and theatrical engineering**, turning the treacherous mountain range into a living trap.
 

@@ -7,6 +7,7 @@ date: 2025-04-14T21:45:42.597Z
 tags: shop
 editor: markdown
 dateCreated: 2025-04-04T14:06:53.152Z
+parent: region:50940c56-4e2d-4ce7-a570-3e9c865773ee
 ---
 
 # The Stable Flask
@@ -36,7 +37,7 @@ The Stable Flask specialises in:
 - **Healing Draughts** (certified non-addictive)
 - **Focus Elixirs** for mages and scholars
 - **Endurance Tonics** for miners and travellers
-- **Minor [Resonance](/structure/mechanic/resonance.md) Boosters** approved for use near sensitive magical equipment
+- **Minor [Resonance](/generated/resonance/resonance.md) Boosters** approved for use near sensitive magical equipment
 
 Each potion comes with a full label, including usage instructions, known interactions, expiration dates, and brewing signatures.
 
@@ -55,5 +56,5 @@ While the storefront is professional and clean, rumour has it that Professor Kri
 - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
 - [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
 - [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
-- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) (where her potions are often in demand)
+- [Election Festival](/generated/festival/election-festival.md) (where her potions are often in demand)
 - [Professor Marwa Krindlenut]

@@ -7,6 +7,7 @@ date: 2025-04-14T21:51:04.144Z
 tags: philosopher, fool, human
 editor: markdown
 dateCreated: 2025-03-29T23:54:35.079Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 | Before Philosotankard | Existential Dread |

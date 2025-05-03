@@ -7,7 +7,7 @@ date: 2025-04-14T21:51:11.897Z
 tags: government
 editor: markdown
 dateCreated: 2025-03-18T20:29:22.056Z
-parent: 23673ba2-6e63-4565-ad58-2759f4179c04
+parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # **Council of Controlled Magical Appliance (CCMA)**

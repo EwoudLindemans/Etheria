@@ -7,6 +7,7 @@ date: 2025-04-24T23:08:12.683Z
 tags: beverage
 editor: markdown
 dateCreated: 2025-04-07T19:42:32.314Z
+parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Drink: Sweetmoss Sip
@@ -34,7 +35,7 @@ Sweetmoss Sip is more than a beverage—it is a quiet **celebration of collabora
 
 It is now a staple in:
 - Hearthring taverns
-- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) stalls
+- [Election Festival](/generated/festival/election-festival.md) stalls
 - Orinite homes of every shape and size
 
 Many taverns serve it with a side of bread and a story. No two versions of the story match.

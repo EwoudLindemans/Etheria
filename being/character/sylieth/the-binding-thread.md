@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:05.869Z
 tags: item, relic
 editor: markdown
 dateCreated: 2025-04-06T19:53:18.071Z
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Item: The Binding Thread

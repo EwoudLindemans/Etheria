@@ -7,6 +7,7 @@ date: 2025-04-14T21:45:17.847Z
 tags: politician, dwarf
 editor: markdown
 dateCreated: 2022-02-01T21:33:04.470Z
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Karath Flatstone

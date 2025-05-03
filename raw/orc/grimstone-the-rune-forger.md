@@ -1,0 +1,21 @@
+# Grimstone the Rune-Forger
+
+Grimstone is an unusually quiet and contemplative Orc, a stark contrast to the typical boisterousness associated with his kind. Standing tall and broad-shouldered, he carries himself with a weary dignity, his dark green skin weathered by years spent toiling over scorching forges. A network of intricate rune-carvings adorns his arms and torso, glowing faintly with residual magical energy. He’s renowned, even feared, amongst the scattered Orcish clans for his unparalleled skill in crafting runic implements – from enchanted weapons to powerful talismans.
+
+## A Shadow of the Ancestors
+
+Grimstone hails from the fractured remnants of the Stonefang Clan, once a respected lineage of rune-smiths known for their connection to the earth and their ability to weave raw [magic](/structure/mechanic/magic.md) into tangible objects.  However, during the turbulent period following *[The Collapse](/structure/chronological/event/the-collapse.md)*, the Stonefangs were decimated by warring factions vying for control of rare mineral deposits crucial to runic crafting. Grimstone witnessed firsthand the downfall of his clan and the loss of generations worth of accumulated knowledge, an experience that left him deeply scarred and fiercely protective of the remaining secrets he inherited.
+
+## The Reclamation Project
+
+Grimstone’s existence is defined by a singular, consuming goal: to reclaim and rebuild the lost legacy of the Stonefangs. He operates from a secluded forge nestled within the jagged peaks of the *Serpent's Spine Mountains*, a location chosen for its proximity to rich veins of raw ore and a degree of isolation from the petty squabbles that plague the lowland Orcish communities.  He spends his days tirelessly hammering, carving, and enchanting, striving to recreate the ancient techniques of his ancestors. Whispers suggest that he's been collecting fragmented records and artifacts from fallen ruins, hoping to piece together a complete understanding of the Stonefang’s lost power.  Some say he speaks to the spirits of deceased clan members, seeking guidance and unlocking forgotten formulas.
+
+## A Reluctant Power Broker
+
+Despite his reclusive nature, Grimstone's reputation precedes him. Orcish warbands, dwarven prospectors, and even human mages sometimes seek his services, desperate for his expertise in enchanting weapons or creating protective wards.  He rarely accepts these requests, preferring to focus on his own endeavors. When he does relent, he demands exorbitant prices and often inflicts strange, sometimes perilous, trials upon his patrons, testing their worthiness to wield his creations.  His neutrality has made him a valuable, albeit unpredictable, asset in the ongoing power struggles within the region. He is known to occasionally provide aid, or withhold aid, based on cryptic prophecies or personal whims, making him a difficult entity to read or predict.
+
+## Connections to Existing Lore
+
+*   **The Stonefang Clan:** Grimstone is a direct descendant of this once-proud lineage, and his efforts to restore the clan's legacy directly tie into the broader historical narrative of *[The Collapse](/structure/chronological/event/the-collapse.md)* and its aftermath.  His existence provides a potential avenue for rediscovering lost Stonefang techniques and artifacts.
+*   **[Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md):**  While they have never directly interacted, Grimstone is keenly aware of Gorgrath's efforts to avenge the rebellion at the quarry. He views Gorgrath’s actions as a waste of Orcish strength and a distraction from the true path of knowledge and power – the rediscovery of the ancients.  He openly expresses disdain for those who focus on brute force over intellectual pursuits.
+*   **Dwarven Craftsmanship:**  Grimstone acknowledges the dwarves’ expertise in mining and metallurgy but maintains that their understanding of runic [magic](/structure/mechanic/magic.md) pales in comparison to the Stonefang’s. However, he occasionally engages in discreet trading of rare minerals with dwarven settlements, recognizing the value of their resources.  These exchanges are always conducted with extreme caution, as Grimstone is wary of revealing too much about his own endeavors.
