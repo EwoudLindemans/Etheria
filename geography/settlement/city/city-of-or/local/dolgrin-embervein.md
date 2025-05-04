@@ -12,7 +12,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 # Dolgrin Embervein – The Heretic Sculptor
 
-Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/generated/forge/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with [arcane resonance](/generated/arcane/arcane-resonance.md).
+Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with [arcane resonance](/raw/20250501/arcane/arcane-resonance.md).
 
 But Dolgrin's heart never beat for the hammer's strike alone. He heard music in stone—silence in shape. His art was not in weaponry, but in form. Though trained in runes, he spent his days carving scraps into faces—dwarves, orcs, even elves. He claimed stone had memory, and his fingers listened.
 
@@ -75,7 +75,7 @@ He is known to argue with the **Concord Ring**, not to challenge their rulings�
 
 ## Personality
 
-- **Too Open for a Dwarf:** Dolgrin treats all culture as sculpture. To him, differences are texture, not threat. Some dwarves call him “cracked-brain.” In Innerhold, they call him “Professor Pebble.”
+- **Too Open for a Dwarf:** Dolgrin treats all [culture](/raw/20250501/dwarf/culture.md) as sculpture. To him, differences are texture, not threat. Some dwarves call him “cracked-brain.” In Innerhold, they call him “Professor Pebble.”
 - **Quietly Defiant:** He holds no bitterness for Or—only sorrow. He says he “loved it enough to be exiled from it.”
 - **Memory-Carver:** He often interviews newcomers and carves abstract “memory tiles” that hang on their doors—never full faces, just echo-shapes: a cloak’s ripple, a laugh line, a lopsided bootprint.
 

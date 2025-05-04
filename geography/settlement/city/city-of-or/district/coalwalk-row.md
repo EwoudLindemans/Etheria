@@ -19,7 +19,7 @@ It borders both [Gutterbrew Alley](/geography/settlement/city/city-of-or/distric
 
 ## Character
 - **Vibe:** Loud, lived-in, and hard-working  
-- **Residents:** Dwarves, humans, half-orcs, halflings, dragonborn—anyone who’s more practical than posh  
+- **Residents:** Dwarves, [humans](/raw/20250501/human/humans.md), half-orcs, [halflings](/raw/20250501/halfling/halflings.md), dragonborn—anyone who’s more practical than posh  
 - **Economy:** Mostly residential, but home to a variety of independent smiths, scrappers, tutors, and tavern runners
 
 ## Architecture

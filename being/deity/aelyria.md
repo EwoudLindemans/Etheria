@@ -22,15 +22,15 @@ Her followers describe her presence not as light or sound, but as a feeling: tha
 
 ## **Domains of Influence**
 
-- **Beauty:** To Aelyria, beauty is not superficial, but transformative. Her worshippers do not preserve beauty—they *become* it. Her miracles are often aesthetic in nature: a warrior's battle cry that echoes as a choir, a burned city regrowing as crystal bloom.
+- **Beauty:** To Aelyria, beauty is not superficial, but transformative. Her worshippers do not preserve beauty—they *become* it. Her miracles are often aesthetic in nature: a warrior's battle cry that [echoes](/raw/20250501/soul/echoes.md) as a choir, a burned city regrowing as crystal bloom.
 - **Night:** She walks in moonlight not to hide, but to *reveal*. Aelyria’s night is not a veil of fear, but of intimacy. Dreams, illusions, secrets, and constellations all fall under her dominion. It is said every shadow cast by starlight carries one of her sighs.
-- **Arcane:** [Magic](/structure/mechanic/magic.md) is her heartbeat. She does not grant it—she *is* it. Her spells are not rigid constructs but living creatures of [resonance](/generated/resonance/resonance.md) and whim. When Aelyria is near, enchantments forget their original purpose and instead ask, “But what if I was art?”
+- **Arcane:** [Magic](/structure/mechanic/magic.md) is her heartbeat. She does not grant it—she *is* it. Her spells are not rigid constructs but living creatures of [resonance](/raw/20250501/resonance/resonance.md) and whim. When Aelyria is near, enchantments forget their original purpose and instead ask, “But what if I was art?”
 
 ## **Temples and Worship**
 
 Her sanctuaries are called **Twilight Mirrors**—shimmering domes made of glass, moonstone, and still water. They reflect not just light, but memory, potential, and your best self on a really good hair day.  
 
-The most famous temple, the **Choral Pool of Veyri**, is said to hum when someone lies within its presence. In [Arkona](/generated/city/arkona.md), her devotees build shrines entirely out of music—structures made from sustained notes and echoed whispers.
+The most famous temple, the **Choral Pool of Veyri**, is said to hum when someone lies within its presence. In [Arkona](/geography/settlement/city/arkona.md), her devotees build shrines entirely out of music—structures made from sustained notes and echoed whispers.
 
 Worship involves:
 - Painting with moonlight on water’s surface.
@@ -46,7 +46,7 @@ A half-mask of silver veils, pierced by seven stars in a spiral. Often etched on
 - Aelyria once turned an entire army’s armor into flower petals during a siege—not to protect the besieged, but because *“the moon disapproved of
 - She once gifted a warlock a smile so radiant that an entire army surrendered rather than risk wrinkling it.
 - In [Mohinders](/geography/settlement/city/mohinders.md), an Aelyrian prophet once asked [the Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md) a riddle so beautiful it blushed—and opened *sideways*. The prophet is still walking through new answers.
-- On the longest night ever recorded in [The Dense](/generated/the-dense/the-dense.md), it is said Aelyria whispered stories to every child, every lost soul, and every sleeping tree. The trees are now bards. The children? Even worse.
+- On the longest night ever recorded in [The Dense](/geography/realm/the-dense.md), it is said Aelyria whispered stories to every child, every lost [soul](/raw/20250501/soul/soul.md), and every sleeping tree. The trees are now bards. The children? Even worse.
 
 ## **Doctrine**
 

@@ -12,7 +12,7 @@ parent: acedemy=52f984a8-ef37-4c35-a866-7327d68690e0
 
 # The Forbidden Library of The Scholar's Rift
 
-The **Forbidden Library** is one of the most well-known—and often feared—locations within The [Scholar's Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md). Unlike your standard, orderly library, this one thrives in *chaos*, uncertainty, and the constant hum of [magic](/structure/mechanic/magic.md) teetering on the edge of destruction. Its shelves, packed with dusty tomes, magical scrolls, and enchanted manuscripts, hold knowledge that could change the very fabric of reality… or burn down the entire building with a single misplaced incantation.
+The **Forbidden Library** is one of the most well-known—and often feared—locations within The [Scholar's Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md). Unlike your standard, orderly library, this one thrives in *chaos*, uncertainty, and the constant hum of [magic](/structure/mechanic/magic.md) teetering on the edge of destruction. Its shelves, packed with dusty tomes, magical [scrolls](/raw/20250501/scroll/scrolls.md), and enchanted manuscripts, hold knowledge that could change the very fabric of reality… or burn down the entire building with a single misplaced incantation.
 
 #### **Key Features:**
 

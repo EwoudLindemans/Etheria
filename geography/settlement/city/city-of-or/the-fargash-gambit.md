@@ -20,7 +20,7 @@ The Fargash Gambit refers to a daring, unconventional peacekeeping manoeuvre exe
 The conflict in question, known in later records as the *Clash at Ironwake Hold*, was a bloody, years-long engagement fought far from the [Armour of Or](/geography/scale/armour-of-or.md), but close enough to draw attention:
 
 - An alliance of **Orcs, Goblins, and Men**, driven by resource pressure and territorial expansion.
-- A coalition of **Elves, Halflings, and Men**, aiming to protect sacred ancestral grounds near latent [scale](/geography/landmark/scale.md) formations.
+- A coalition of **Elves, [Halflings](/raw/20250501/halfling/halflings.md), and Men**, aiming to protect sacred ancestral grounds near latent [scale](/geography/landmark/scale.md) formations.
 
 Though distant from the war's frontlines, **Or's neutrality** and its political weight—thanks a growing multicultural populace—made it a logical place for parley. Yet, every diplomatic attempt failed until the gambit.
 

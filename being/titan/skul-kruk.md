@@ -13,7 +13,7 @@ dateCreated: 2025-03-12T22:35:50.681Z
 *"Bones of the past, weapons of the future. The earth does not forget, and neither does he."*  
 
 ## **Origins & Legend**  
-Skul’Kruk is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen titans in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage (not so) eternal.  
+Skul’Kruk is the last of his kind, a colossal entity born from the remains of ancient behemoths and infused with the essence of war itself. Crafted in an age long past by orcish shamans and warlords, he was meant to be the ultimate weapon—a walking monument to destruction, carrying the strength of fallen [titans](/raw/20250501/titan/titans.md) in every bone and muscle. But when the wars ended and his creators were lost to time, Skul’Kruk remained, his purpose uncertain, his rage (not so) eternal.  
 
 Over the centuries, the fire that once fueled Skul’Kruk has waned. Though still a formidable force, the relentless fury that once drove him to endless war has dulled, tempered by time and solitude. No longer the mindless engine of destruction he once was, he now roams not in search of battle, but out of habit, his towering form a fading echo of an age of war long past. Some believe he lingers, waiting for a cause to reignite his fury. Others claim that even war itself may no longer be enough to stir the beast he once was.
 
@@ -29,7 +29,7 @@ Over the centuries, the fire that once fueled Skul’Kruk has waned. Though stil
 Skul’Kruk can tear through fortifications and crush creatures beneath his fossilized fists with ease.  
 
 ### **Unbreakable Fossil Form**  
-His body is nearly impervious to conventional weapons, as every inch of him is reinforced with the petrified remains of ancient titans.  
+His body is nearly impervious to conventional weapons, as every inch of him is reinforced with the petrified remains of ancient [titans](/raw/20250501/titan/titans.md).  
 
 ### **Earthshaker Stride**  
 With each step, the ground trembles. His very presence destabilizes structures and sends enemies sprawling.  
@@ -47,7 +47,7 @@ Skul’Kruk slams his warhammer into the ground, sending a shockwave in a 100-fo
 Skul’Kruk is not mindless, but his intelligence is ancient and alien. He understands war, battle, and destruction—yet he is not inherently cruel. He moves with slow, deliberate purpose, always searching for something long forgotten. Those who challenge him will be met with unstoppable force, but those who understand his purpose may uncover the secrets locked within his fossilized frame.  
 
 ## **The Mystery of Skul’Kruk**  
-Some believe that deep within his marrow lies the last memories of the fallen titans, fragments of an age before gods and mortals. Others say he is the key to an ancient power, waiting for the right warlord to awaken his full might. Whatever the truth, one thing is certain—Skul’Kruk does not rest, and the battlefield will always call him back.  
+Some believe that deep within his marrow lies the last memories of the fallen [titans](/raw/20250501/titan/titans.md), fragments of an age before gods and mortals. Others say he is the key to an ancient power, waiting for the right warlord to awaken his full might. Whatever the truth, one thing is certain—Skul’Kruk does not rest, and the battlefield will always call him back.  
 
 > ![skulkruk.webp](/characters/skulkruk.webp)
 ># Skul’Kruk  

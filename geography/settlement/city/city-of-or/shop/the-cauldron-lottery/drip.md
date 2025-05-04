@@ -29,9 +29,9 @@ To Drip, chaos is a kind of honesty. He believes potions should surprise you. **
 He’s lean, twitchy, and always smiling. His robes are patched with burn marks and potion stains, and he often hums tunes no one else recognises while stirring something that changes colour depending on your mood. His brass goggles are usually upside down. His pockets usually contain several small vials, one spoon, and a polite note that reads *“I’m sorry for what this does.”*
 
 ## The Turnip Incident
-Drip’s fame exploded (almost literally) during one particularly unhinged **[Election Festival](/generated/festival/election-festival.md)**, when one of his potions caused a council candidate to sweat turnip juice and lose a debate to an actual vegetable. [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md), who of course witnessed the entire event (and also insists he *coached the turnip*), declared the incident a civic miracle.
+Drip’s fame exploded (almost literally) during one particularly unhinged **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md)**, when one of his potions caused a council candidate to sweat turnip juice and lose a debate to an actual vegetable. [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md), who of course witnessed the entire event (and also insists he *coached the turnip*), declared the incident a civic miracle.
 
-Since then, “**Debating the Turnip**” has become a tongue-in-cheek tradition, and Drip’s brews are unofficially invited to every [Election Festival](/generated/festival/election-festival.md)’s wildcard round.
+Since then, “**Debating the Turnip**” has become a tongue-in-cheek tradition, and Drip’s brews are unofficially invited to every [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)’s wildcard round.
 
 A **wooden bust of the turnip**, now affectionately known as *Tharnibus*, sits beside Drip’s stall to this day.
 

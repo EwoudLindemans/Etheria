@@ -27,7 +27,7 @@ Inside, the shelves are meticulously labelled, the floors gleam, and the smell o
 ## Proprietor: Professor Marwa Krindlenut
 The lab is owned and operated by **Professor Marwa Krindlenut**, a middle-aged gnome with a sharp bob of grey-streaked hair, a piercing gaze, and a memory for potion orders dating back decades.
 
-Marwa is renowned for her insistence on **precision, quality, and predictable results**. She often tutors apprentices in the finer points of magical infusion and maintains a running feud (albeit an affectionate one) with [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md), the infamous hobgoblin behind *[The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)*.
+Marwa is renowned for her insistence on **precision, quality, and predictable results**. She often tutors [apprentices](/raw/20250501/scholar/apprentices.md) in the finer points of magical infusion and maintains a running feud (albeit an affectionate one) with [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md), the infamous hobgoblin behind *[The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)*.
 
 > “If it fizzes unexpectedly, it didn’t come from my shelf.” — *Professor Krindlenut*
 
@@ -35,9 +35,9 @@ Marwa is renowned for her insistence on **precision, quality, and predictable re
 The Stable Flask specialises in:
 
 - **Healing Draughts** (certified non-addictive)
-- **Focus Elixirs** for mages and scholars
+- **Focus Elixirs** for [mages](/raw/20250504/mage/mages.md) and scholars
 - **Endurance Tonics** for miners and travellers
-- **Minor [Resonance](/generated/resonance/resonance.md) Boosters** approved for use near sensitive magical equipment
+- **Minor [Resonance](/raw/20250501/resonance/resonance.md) Boosters** approved for use near sensitive magical equipment
 
 Each potion comes with a full label, including usage instructions, known interactions, expiration dates, and brewing signatures.
 
@@ -56,5 +56,5 @@ While the storefront is professional and clean, rumour has it that Professor Kri
 - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)
 - [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md)
 - [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)
-- [Election Festival](/generated/festival/election-festival.md) (where her potions are often in demand)
+- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) (where her potions are often in demand)
 - [Professor Marwa Krindlenut]

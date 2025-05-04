@@ -25,7 +25,7 @@ To call Harg a drunk would be to miss the point entirely—he is a philosopher o
 
 He believes deeply in the importance of “gut-thinkin’,” and treats each sip of ale as a ritualistic uncovering of truth. Sometimes those truths are brilliant. Sometimes they are SPLORP. And always, Harg insists the opposite of a thing is rarely what you think it is.
 
-Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a [scale](/geography/landmark/scale.md)’s very soul… or just got lucky mid-ramble.
+Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a [scale](/geography/landmark/scale.md)’s very [soul](/raw/20250501/soul/soul.md)… or just got lucky mid-ramble.
 
 He is beloved in the tavern for his grand, sweeping gestures, his ability to toast to anything (“To socks!”), and his maddening yet magnetic monologues. Some say he once drank a thimbleful of condensed [scale](/geography/landmark/scale.md) essence, mistaking it for syrup. He says that’s nonsense—and if it were true, “I’d probably be even *more* brilliant.”
 
@@ -52,7 +52,7 @@ Despite his jittery demeanor, Pibble carries a kind of innocent intensity. He on
 - **Unpredictable Muse** – Inspires art, laughter, and dread in equal measure.
 - **Booze-Oraclist** – Can only prophesy under heavy inebriation.
 
-Together, Harg and Pibble are more than a pair of fools. They are a phenomenon. They are drunken gravity wells, drawing in thoughts, truths, and unfortunate listeners into their spiraling descent toward metaphysical absurdity. And yet… when the tavern is quiet, and the fire is low, and the last clink of tankards has faded—they remain, two souls unmoored, finding sense in nonsense.
+Together, Harg and Pibble are more than a pair of fools. They are a phenomenon. They are drunken gravity wells, drawing in thoughts, truths, and unfortunate listeners into their spiraling descent toward metaphysical absurdity. And yet… when the tavern is quiet, and the fire is low, and the last clink of tankards has faded—they remain, two [souls](/raw/20250501/soul/soul.md) unmoored, finding sense in nonsense.
 
 Their debates have stopped fights, started romances, inspired poetry, and, on one memorable night, resulted in the spontaneous naming of a child (“Welcome, lil’ Splorpina.”)
 

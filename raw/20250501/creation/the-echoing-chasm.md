@@ -1,0 +1,21 @@
+# The Echoing Chasm
+
+## Location and Description
+
+The Echoing Chasm is a colossal, geographically anomalous fissure located deep within the Morakai continent, roughly equidistant between [Triz Valley](/geography/settlement/city/triz-valley.md) and the [Mountains of Triz](/geography/region/mountains-of-triz.md). Unlike the cracks connecting continents that lead into [The Dense](/geography/realm/the-dense.md), this chasm is oriented vertically, plunging downwards for an unknown distance into the planet's mantle. Its most striking feature is a constant, low-frequency resonant hum that permeates the surrounding area – the 'echo' from which it derives its name. The walls of the chasm are composed of an unfamiliar crystalline rock, faintly luminescent with a pulsating, internal light. The closer one gets, the stronger [the resonance](/raw/20250501/cataclysm/the-resonance.md) becomes, and unsettling visions or auditory hallucinations become increasingly common.
+
+## Geological Anomaly
+
+The Chasm's existence defies conventional geological understanding. It's too deep to have formed through typical tectonic processes, and its crystalline composition is unlike any known mineral on [Iridia](/geography/world/iridia.md). Initial investigations by scholars from [Triz Valley](/geography/settlement/city/triz-valley.md) suggest the crystals possess properties remarkably similar to those found within the magical [scales](/geography/landmark/scale.md) – particularly in their ability to resonate with and store magical energy. However, the source of this energy, and the precise mechanism by which it is stored and amplified, remains a complete mystery. Some theories posit that the Chasm is a direct consequence of [Irion](/being/deity/irion.md)'s residual power, a wound upon the planet left by the creature’s fading presence. Others believe it to be a nascent gateway to another plane of existence, potentially connected to [The Dense](/geography/realm/the-dense.md) or even a yet-undiscovered realm.
+
+## The Resonators
+
+Within the Chasm's depths, explorers have discovered unusual formations referred to as 'Resonators.' These are massive, perfectly spherical crystals suspended within pockets of still air. Each Resonator pulses with the same low-frequency hum as the Chasm itself, and emitting a complex array of energy signatures. The [Arcane Fangs](/structure/society/factions/arcane-fangs.md) are particularly interested in the Resonators, attempting to harness their power for their own nefarious purposes. However, any attempts to directly extract or manipulate the energy have proven catastrophically dangerous, often resulting in violent energy discharges or even complete mental disintegration. It is rumoured that certain Arcane Fangs have managed to create specialized resonators that allow them to channel limited amounts of the energy.
+
+## Lore and Religious Significance
+
+The existence of the Echoing Chasm is largely unacknowledged by mainstream religions. The Followers of [Irion](/being/deity/irion.md) see it as a potential sign of Irion’s continued influence – a testament to the creature’s lingering power. They're hesitant to explore it, believing it to be a sacred and dangerous place, best left undisturbed. The [Cult of Dy](/structure/society/factions/cult-of-dy.md), however, views the Chasm as a chaotic amplifier of random chance, a physical [manifestation](/structure/chronological/event/manifestation.md) of Dy’s dice rolls. They consider it a testing ground for their faith, subjecting initiates to trials within its depths, believing that surviving exposure to the Chasm’s energies will prove their devotion and garner favor from the deities. The [Arcane Fangs](/structure/society/factions/arcane-fangs.md), meanwhile, only see an opportunity for power.
+
+## Recent Discoveries
+
+A recent expedition funded by Gorgraths Wrath stumbled upon a previously unknown section of the Chasm, containing intricate carvings depicting a humanoid figure locked in eternal struggle against a serpentine creature. The style of the carvings is alien to any known [Iridian](/being/species/iridian.md) civilization, hinting at a possible history predating the emergence of humanoid life on [Iridia](/geography/world/iridia.md). Further study of these carvings might reveal a clue as to the Chasm’s true origins.

@@ -23,7 +23,7 @@ She left the law behind and vanished into [Gutterbrew Alley](/geography/settleme
 
 ## Present Persona: Mad Dottie of the Inkblot
 
-Now called **Mad Dottie** by locals (sometimes lovingly, sometimes not), she exists as the soul of [the Inkblot Bindery](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery.md). She mutters about the alphabet’s betrayal, argues with books about their own endings, and brews tea that somehow smells like warnings.
+Now called **Mad Dottie** by locals (sometimes lovingly, sometimes not), she exists as the [soul](/raw/20250501/soul/soul.md) of [the Inkblot Bindery](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery.md). She mutters about the alphabet’s betrayal, argues with books about their own endings, and brews tea that somehow smells like warnings.
 
 She wears multiple cloaks at once, usually with notes sewn into the linings. Her glasses are perpetually cracked. Her cane doubles as both pointer and defence mechanism.
 

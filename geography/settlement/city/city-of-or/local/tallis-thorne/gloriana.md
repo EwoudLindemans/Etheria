@@ -11,9 +11,9 @@ parent: bard=ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3
 ---
 
 ## **Gloriana**  
-*Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*
+*Wondrous Item (instrument, unique), legendary, [soul](/raw/20250501/soul/soul.md)-bound, attuned only to [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*
 
-Gloriana is a radiant twelve-string lyre-harp of rare craftsmanship, her frame forged from golden wood that hums faintly when no one listens. Her strings glisten with a soft light that shifts in colour and intensity based on the emotional truth behind the music. When Tallis sings praises of himself, she glows in theatrical delight; when he performs in grief or sincerity, her tone deepens, revealing echoes far older than the bard himself.
+Gloriana is a radiant twelve-string lyre-harp of rare [craftsmanship](/raw/20250501/craftsmanship/craftsmanship.md), her frame forged from golden wood that hums faintly when no one listens. Her strings glisten with a soft light that shifts in colour and intensity based on the emotional truth behind the music. When Tallis sings praises of himself, she glows in theatrical delight; when he performs in grief or sincerity, her tone deepens, revealing [echoes](/raw/20250501/soul/echoes.md) far older than the bard himself.
 
 Though most see her as a finely enchanted instrument, **Gloriana is much more**.
 

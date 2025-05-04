@@ -21,15 +21,15 @@ The Goons trace their roots to a disaster in **[Triz Valley](/geography/settleme
 
 ## The Ink-sane Six – Leaders of the Ragged Goons
 
-In the warped depths of the [Verdant Divide](/geography/region/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy scrolls as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
+In the warped depths of the [Verdant Divide](/geography/region/verdant-divide.md), where even light thinks twice about staying, the true nerve center of the **Ragged Goons** festers and flourishes. Known across campfires, bounty ledgers, and half-burnt prophecy [scrolls](/raw/20250501/scroll/scrolls.md) as **The Ink-sane Six**, this squad leads with brilliance twisted through madness, and madness scribbled in stolen ink. Their banner is torn parchment. Their anthem is whispered coordinates and explosive laughter. Their maps? Usually cursed. Occasionally edible.
 
-They dwell within *The Cartocrater*—a [resonance](/generated/resonance/resonance.md)-scarred chasm carved from a fractured [scale](/geography/landmark/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
+They dwell within *The Cartocrater*—a [resonance](/raw/20250501/resonance/resonance.md)-scarred chasm carved from a fractured [scale](/geography/landmark/scale.md) conduit, where geography goes to weep. From here, they chart campaigns, raid temples, and invent new ways to defile cartography. Cities tremble when the Six are spotted—if you’re lucky, you’ll see their maps before your walls collapse.
 
 ### The Bone Marshal
 A skull-faced strategist with armor stitched from ceremonial shards of a defunct Redemptious Myphos sect. His mane of cobalt fur rises like a war banner in fog. He doesn’t command with shouts—he taps maps with a claw and calamity follows. Said to dream in invasions and wake to predictions. Once blinked, and a fortress surrendered.
 
 ### The Pale Scholar  
-Wrapped in scrolls and sagging sanity, this ex-Veiled Canticle scribe recites events that haven’t happened yet. His beard carries inkstains older than some cities. Famous for the phrase: “This isn’t a plan—it’s a prophecy with poor handwriting.” Claims compasses scream when he's near. No one’s disagreed twice.
+Wrapped in [scrolls](/raw/20250501/scroll/scrolls.md) and sagging sanity, this ex-Veiled Canticle scribe recites events that haven’t happened yet. His beard carries inkstains older than some cities. Famous for the phrase: “This isn’t a plan—it’s a prophecy with poor handwriting.” Claims compasses scream when he's near. No one’s disagreed twice.
 
 ### The Rusted Thaumaturge  
 Molten sigils burn along his damp bandages. His coat—a salvaged relic from a ghost-ship’s apothecary—smells faintly of regret and formaldehyde. Exiled from [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) for “weaponizing bad ideas.” His spells often work, just not as intended. Built a candle once that screams in four languages. Still carries it.
@@ -59,7 +59,7 @@ The Ragged Goons live by a creed of chaos over control, survival over tradition.
 - **Weapons**: 
   - **Splinterguns**: Ramshackle firearms that shoot jagged [scale](/geography/landmark/scale.md) shards, prone to misfiring but deadly when they hit.
   - **Rattlepacks**: Explosive satchels charged with corrupted [magic](/structure/mechanic/magic.md), as dangerous to the user as the target.
-- **Mark of the Goon**: Members scar themselves with [scale](/geography/landmark/scale.md) dust, creating glowing, jagged tattoos that flare near a scale’s [resonance](/generated/resonance/resonance.md)—an alert system and badge of loyalty.
+- **Mark of the Goon**: Members scar themselves with [scale](/geography/landmark/scale.md) dust, creating glowing, jagged tattoos that flare near a scale’s [resonance](/raw/20250501/resonance/resonance.md)—an alert system and badge of loyalty.
 
 ## Key Tales
 
@@ -73,7 +73,7 @@ The Goons’ rivalry with the **Scalebreakers** erupted at **Batès Lamina**, wh
 
 ### The Chorus Gambit (Arc 151)
 
-As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/geography/settlement/city/city-of-or.md)**, planting a stolen **[Resonance](/generated/resonance/resonance.md) Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
+As the **Shattered Chorus** wailed in **Arc 137**, the Goons exploited the chaos, raiding weakened settlements. In **Arc 151**, Ruk targeted **The [City of Or](/geography/settlement/city/city-of-or.md)**, planting a stolen **[Resonance](/raw/20250501/resonance/resonance.md) Anchor** from the **Veiled Canticle** to amplify the Chorus and disrupt the dwarves’ forges. The plan backfired—the surge awoke a monstrous [Iridian](/being/species/iridian.md) that crushed Ruk and scattered his band, ending his reign.
 
 ## The Goons Today (Arc 152)
 
@@ -81,7 +81,7 @@ Ruk’s death fractured the Goons, but their spirit persists in scattered crews.
 
 ## Legacy and Impact
 
-The Ragged Goons are [Iridia](/geography/world/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/generated/resonance/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
+The Ragged Goons are [Iridia](/geography/world/iridia.md)’s untamed edge—a foil to the reverence of the **Followers of [Irion](/being/deity/irion.md)**, the zeal of the **Scalebreakers**, and the order of the **Veiled Canticle**. Neither heroes nor villains, they’re survivors scrapping by in a world of corrupted [scales](/geography/landmark/scale.md) and fading [resonance](/raw/20250501/resonance/resonance.md). Their tales of grit and ruin echo across Iridia, a testament to the cost of defying its [magic](/structure/mechanic/magic.md).
 
 ---
 

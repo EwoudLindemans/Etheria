@@ -38,7 +38,7 @@ Those who do find what they need rarely realise it in the moment. But weeks or y
 
 The shop is a facade—*not a lie, but a layer*.
 
-Beneath the warped floorboards and coded shelving lies a hidden archive. Not a library. An *interrogation of history*. Strings connect maps, clippings, forged scrolls, dream diaries, and eyewitness sketches. Red ink flows freely.
+Beneath the warped floorboards and coded shelving lies a hidden archive. Not a library. An *interrogation of history*. Strings connect maps, clippings, forged [scrolls](/raw/20250501/scroll/scrolls.md), dream diaries, and eyewitness sketches. Red ink flows freely.
 
 This is no accident. This is a war room. A confession chamber for the **truths that weren’t allowed to be born**.
 

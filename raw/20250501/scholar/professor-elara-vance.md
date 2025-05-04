@@ -1,0 +1,21 @@
+# Professor Elara Vance: Scholar of the Asara Plate and Anomalous Reflections
+
+## Background and Early Life
+
+Professor Elara Vance is a renowned (though somewhat eccentric) scholar of geomancy and celestial reflections, currently based in [Arkona](/geography/settlement/city/arkona.md), a bustling trade city situated beneath the imposing overhang of the [Asara Plate](/geography/scale/asara-plate.md). Born in [Triz Valley](/geography/settlement/city/triz-valley.md), a region known for its rugged terrain and close proximity to the [Mountains of Triz](/geography/region/mountains-of-triz.md), Elara displayed an unusual fascination with light and shadow from a young age. While other children played, she would spend hours observing how sunlight interacted with the mountainous landscape, meticulously charting the patterns and predicting their shifts. This early passion led her to pursue formal study at the esteemed Academy of Celestial Studies in [Arkona](/raw/20250501/city/arkona.md), quickly establishing herself as a prodigious talent.
+
+## Academic Focus and Discoveries
+
+Elara’s primary area of expertise lies in the study of the [Asara Plate](/geography/scale/asara-plate.md), specifically focusing on the phenomenon of “Anomalous Reflections.” Unlike typical light refraction caused by crystal formations, these reflections often exhibit properties defying established geomantic principles – showing fleeting images of distant locations, exhibiting colors not found in the plate’s natural composition, or even momentarily displaying glimpses of… something else. Many scholars dismiss these anomalies as optical illusions or random imperfections, but Elara believes they represent a window into a more complex understanding of the connection between [Iridia](/geography/world/iridia.md) and the [Dense](https://example.com/geography/cosmology/plane-of-existance/the-dense.md). She theorizes that the Plate, rather than simply reflecting light, actively interacts with and [echoes](/raw/20250501/soul/echoes.md) events happening elsewhere, perhaps even across planes of existence.
+
+Her most notable publication, *'Chromatic [Echoes](/raw/20250501/soul/echoes.md): A Study of Anomalous Reflections on the [Asara Plate](/geography/scale/asara-plate.md),'* presented compelling evidence supporting her theories, though it has been met with both acclaim and skepticism within the academic community. The work meticulously documents numerous instances of anomalous reflections, meticulously categorizing their spectral properties and attempting to correlate them with external factors, such as the movement of the [Ornite Ring](https://example.com/geography/landmark/scale/ornite-ring.md) and the cycles of [Iridia](/geography/world/iridia.md)'s celestial bodies.
+
+## Current Research and Controversies
+
+Currently, Professor Vance is undertaking a daring new project: attempting to induce and manipulate anomalous reflections. Employing a complex array of prisms, lenses, and focusing crystals, she hopes to create conditions that will trigger controlled reflections, allowing her to study them in a laboratory setting. This research is particularly controversial, as some scholars fear that tampering with such phenomena could have unforeseen consequences, potentially destabilizing the Plate or opening pathways to unknown entities.
+
+The [Cult of Dy](/structure/society/factions/cult-of-dy.md) has publicly condemned Elara’s research, fearing that her pursuit of anomalous reflections will disturb the random nature of the rolls of the deities. Rumours are abound that agents from the Cult have infiltrated [Arkona](/geography/settlement/city/arkona.md), with the intent of sabotaging Elara’s experiments.  
+
+## Personality and Reputation
+
+Professor Vance is known for her brilliant mind and unwavering dedication to her research, but also for her somewhat eccentric personality. She often forgets to eat or sleep while engrossed in her work and is notorious for rambling on about complex theories, leaving her audience bewildered. Despite her social awkwardness, she is fiercely independent and willing to defend her ideas with unwavering conviction. Many see her as a visionary, pushing the boundaries of conventional understanding, while others view her as a dangerous eccentric on the verge of madness.

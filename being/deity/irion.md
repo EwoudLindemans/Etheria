@@ -10,7 +10,7 @@ dateCreated: 2022-10-23T21:54:48.390Z
 ---
 
 # Irion, The Fallen Titan
-*[Deity](/structure/mechanic/deity.md) of Cataclysm, Transformation, and [Resonance](/generated/resonance/resonance.md)*  
+*[Deity](/structure/mechanic/deity.md) of Cataclysm, Transformation, and [Resonance](/raw/20250501/resonance/resonance.md)*  
 ![irion.png](/world/irion.png)
 
 The creature that collapsed with the world [Iridia](/geography/world/iridia.md) is called Irion. The origin of Irion is unknown, but there are many theories about what it may be. Some say that it is a dragon that was petrified by powerful [magic](/structure/mechanic/magic.md), while others say that it is a giant creature created by the gods. Whatever the truth may be, Irion remains a mystery and its impact on the world is still felt today.
@@ -38,7 +38,7 @@ The magical essence of the creature is what gives [Iridia](/geography/world/irid
 
 In some places, Irion’s petrified remains still protrude from the earth, vast and unmoving, worshipped by those who see divinity in its form. Temples and research sanctums alike are built upon these sites, seeking to understand or exploit the lingering essence. Some whisper that Irion is not truly dead—that it dreams beneath the surface, its consciousness scattered through the Residue, waiting for the day it might rise again.  
 
-Whatever the truth may be, [Iridia](/geography/world/iridia.md) will never be free of Irion’s influence. Its fall marked the beginning of a new era—one where [magic](/structure/mechanic/magic.md) and matter are forever entwined, and where the echoes of a titan’s descent still shape the fate of all who walk its surface.  
+Whatever the truth may be, [Iridia](/geography/world/iridia.md) will never be free of Irion’s influence. Its fall marked the beginning of a new era—one where [magic](/structure/mechanic/magic.md) and matter are forever entwined, and where the [echoes](/raw/20250501/soul/echoes.md) of a [titan’s](/raw/20250501/titan/titans.md) descent still shape the fate of all who walk its surface.  
 
 ## Events
 - [The Collapse](/structure/chronological/event/the-collapse.md) is the event where Irion collapsed with a planet, now named [Iridia](/geography/world/iridia.md)

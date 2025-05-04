@@ -67,14 +67,14 @@ Those bound by this contract wear **gloves sewn shut at the fingers**, a mark th
 
 For those whose very existence **disrupts the Balance**, whose **power is too great, whose fate is too volatile**, a **greater cost must be paid**.  
 
-The patient must surrender something **irreplaceable**—a piece of themselves, a thread of their destiny, an artifact of their soul.  
+The patient must surrender something **irreplaceable**—a piece of themselves, a thread of their destiny, an artifact of their [soul](/raw/20250501/soul/soul.md).  
 
 - A **memory** of love, lost forever.  
 - A **magical talent**, burned away.  
 - A **future triumph**, never to come to pass.  
 - A **precious heirloom**, consumed in infernal fire.  
 
-Those who pay this price often feel a **hollow space in their soul**, a lingering sense of **something missing**—though **they may never remember what it was.**  
+Those who pay this price often feel a **hollow space in their [soul](/raw/20250501/soul/soul.md)**, a lingering sense of **something missing**—though **they may never remember what it was.**  
 
 The only mark left behind is a **phantom pain**—a whisper of what was sacrificed.  
 

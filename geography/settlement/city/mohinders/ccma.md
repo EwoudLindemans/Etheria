@@ -25,7 +25,7 @@ The CCMA is composed of scholars, artificers, enchanters, and arcane engineers, 
 
 ### **The Keepers of Balance** *(Field Operatives & Researchers)*
 - **The [Runeswindler](/geography/settlement/city/mohinders/runeswindler.md)** – A meticulous Arcanaloth entrusted with maintaining the intricate runes that siphon, control, and stabilize magical currents within the Tail. She personally oversees repairs to failing enchantments, venturing deep into the structure’s core, where only the most skilled dare to tread. Known for an obsessive attention to detail and an unwavering loyalty to the Council, Vaelzith ensures that no sigil falters—and that no unauthorized hands tamper with the flow of [magic](/structure/mechanic/magic.md).
-- **The Aetherian Monitors** – Mages who track and analyze fluctuations in magical energy, predicting potential surges before they occur.  
+- **The Aetherian Monitors** – [Mages](/raw/20250504/mage/mages.md) who track and analyze fluctuations in magical energy, predicting potential surges before they occur.  
 - **The Wardens of the Shell** – A secretive division investigating the Shell’s true origins and any signs that it might be changing—or awakening.  
 
 ### **The Arcane Enforcement Division (AED)** *(Security & Disaster Response)*

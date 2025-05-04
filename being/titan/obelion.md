@@ -33,7 +33,7 @@ No one knows who created Obelion or why it exists. Some say it was forged by an 
 Obelion does not act with malice or purpose—it simply exists. It does not communicate, nor does it acknowledge worship or defiance. Some believe it is following an ancient directive, one that no living being can comprehend. Others speculate that it is searching for something, though what that might be remains a mystery.
 
 ## The Mystery of Obelion  
-Scholars and mages alike have attempted to decipher the sigils that dance across Obelion’s body, but no known language matches their form. Some claim it is a record of an era before recorded history, while others fear that unlocking its secrets may awaken something even more dangerous than the titan itself.
+Scholars and [mages](/raw/20250504/mage/mages.md) alike have attempted to decipher the sigils that dance across Obelion’s body, but no known language matches their form. Some claim it is a record of an era before recorded history, while others fear that unlocking its secrets may awaken something even more dangerous than the titan itself.
 
 > ![obelion.webp](/characters/obelion.webp)
 ># Obelion  

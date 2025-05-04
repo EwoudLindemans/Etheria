@@ -59,7 +59,7 @@ A rare and advanced Hexbit that creates **temporary etheric projections** of an 
 
 ### **7. The Whisper Codex**
 *"A message that only one may read."*  
-A personal encryption device that encodes spoken or written messages into **[arcane resonance](/generated/arcane/arcane-resonance.md) patterns**, which can only be deciphered by a designated recipient.  
+A personal encryption device that encodes spoken or written messages into **[arcane resonance](/raw/20250501/arcane/arcane-resonance.md) patterns**, which can only be deciphered by a designated recipient.  
 
 ### **8. The Fractal Compass**
 *"Follow the unseen path."*  

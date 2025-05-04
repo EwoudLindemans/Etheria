@@ -20,7 +20,7 @@ The Squallborn Sludge
 
 Before tone, before form, before even the **Shellsong** dreamed of becoming, there were **Denslings**.
 
-Spawned from the **worst pressures of [the Dense](/generated/the-dense/the-dense.md)**—that paradox-ridden pocket of reality that crushes time, sound, and thought into meaningless goo—Denslings are not truly alive. Nor are they truly dead. They are **pressure echoes**, formed of semi-organic [resonance](/generated/resonance/resonance.md) mud, occasionally coalescing into shape by accident more than intent.
+Spawned from the **worst pressures of [the Dense](/geography/realm/the-dense.md)**—that paradox-ridden pocket of reality that crushes time, sound, and thought into meaningless goo—Denslings are not truly alive. Nor are they truly dead. They are **pressure [echoes](/raw/20250501/soul/echoes.md)**, formed of semi-organic [resonance](/raw/20250501/resonance/resonance.md) mud, occasionally coalescing into shape by accident more than intent.
 
 ## Form and Function (Sort of)
 
@@ -39,21 +39,21 @@ Denslings are drawn to:
 - Failed spell experiments.
 - Guttural emotion.
 
-It’s theorized they were never meant to be. That they’re **accidental memory foam** created by [the Dense](/generated/the-dense/the-dense.md) in response to the trauma of ancient resonant collapse.
+It’s theorized they were never meant to be. That they’re **accidental memory foam** created by [the Dense](/geography/realm/the-dense.md) in response to the trauma of ancient resonant collapse.
 
-However, on rare occasions—after absorbing sufficient [resonance](/generated/resonance/resonance.md) from a magical ecosystem—a Densling begins to… *form ideas*. These nascent thoughts, painful and alien, mark the beginning of a possible metamorphosis.
+However, on rare occasions—after absorbing sufficient [resonance](/raw/20250501/resonance/resonance.md) from a magical ecosystem—a Densling begins to… *form ideas*. These nascent thoughts, painful and alien, mark the beginning of a possible metamorphosis.
 
 This is how a **[Ythrylari](/being/species/ythrylari.md)** is born.
 
 ## Ecology of Thought
 
-Denslings don't eat. They **soak**. They absorb stray emotions, broken dreams, arcane static, and vibrations from things long buried in [the Dense](/generated/the-dense/the-dense.md). This absorption makes them *worse*. As they grow, their shape becomes more distinct… and more tragic.
+Denslings don't eat. They **soak**. They absorb stray emotions, broken dreams, arcane static, and vibrations from things long buried in [the Dense](/geography/realm/the-dense.md). This absorption makes them *worse*. As they grow, their shape becomes more distinct… and more tragic.
 
 Many Denslings lose themselves in failed transformations. Only a few manage to stabilize. These become the **first chords** of identity—a condition the Denslings neither understand nor resist. It simply happens, like erosion or awkward poetry.
 
 ## Encounters
 
-If encountered in or near [the Dense](/generated/the-dense/the-dense.md), a Densling will react to:
+If encountered in or near [the Dense](/geography/realm/the-dense.md), a Densling will react to:
 - Spellcasting: By rippling and mimicking residual [magic](/structure/mechanic/magic.md) as glowing veils.
 - Speech: By leaking tone from its pores.
 - Violence: By splitting in two or vibrating violently, often causing [Paradoxal Recoil](/structure/mechanic/dice/paradoxal-recoil.md) events.

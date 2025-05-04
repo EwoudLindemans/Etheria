@@ -30,19 +30,19 @@ Unlike many magically created beings, they do not require [magic](/structure/mec
 
 ## Biology & Physiology
 
-Iridian resemble humanoid beings but possess a unique ability to resonate with the [Scale](/geography/landmark/scale.md) they are closest to. Rather than merely adapting, their bodies and souls vibrate in harmony with the essence of their surroundings. Their skin, eyes, and even internal composition subtly shift in response to these energies, making them a living reflection of the [magic](/structure/mechanic/magic.md) around them.
+Iridian resemble humanoid beings but possess a unique ability to resonate with the [Scale](/geography/landmark/scale.md) they are closest to. Rather than merely adapting, their bodies and [souls](/raw/20250501/soul/soul.md) vibrate in harmony with the essence of their surroundings. Their skin, eyes, and even internal composition subtly shift in response to these energies, making them a living reflection of the [magic](/structure/mechanic/magic.md) around them.
 
 ###  **Shifting Veil**
-This [resonance](/generated/resonance/resonance.md) is not a simple physical transformation but a deep, intrinsic attunement—an echo of the [Scale](/geography/landmark/scale.md)’s frequency within their very being. As they move through different Scales, the Iridian experience gradual shifts, their form and abilities evolving in response to the dominant magical currents that surround them.
+This [resonance](/raw/20250501/resonance/resonance.md) is not a simple physical transformation but a deep, intrinsic attunement—an echo of the [Scale](/geography/landmark/scale.md)’s frequency within their very being. As they move through different Scales, the Iridian experience gradual shifts, their form and abilities evolving in response to the dominant magical currents that surround them.
 
 #### **Attunement & Shifting**
-- Iridian attune to the **[resonance](/generated/resonance/resonance.md)** of a [Scale](/geography/landmark/scale.md), adapting their traits to match.  
+- Iridian attune to the **[resonance](/raw/20250501/resonance/resonance.md)** of a [Scale](/geography/landmark/scale.md), adapting their traits to match.  
 - They can **meditate** for one hour to shift attunement to any [Scale](/geography/landmark/scale.md) they have previously experienced.  
 - However, the shift takes **24 hours** to fully settle before they can change again.  
 
 #### **Proximity Override**
 - If an Iridian gets close to a [Scale](/geography/landmark/scale.md), their body **automatically begins adjusting**.  
-- After **one hour**, this new [resonance](/generated/resonance/resonance.md) **overrides** their current attunement.  
+- After **one hour**, this new [resonance](/raw/20250501/resonance/resonance.md) **overrides** their current attunement.  
 
 #### **Shifting Adaptation**
 - While attuned to a [Scale](/geography/landmark/scale.md), Iridian gain a feat tied to that Scale’s nature.  
@@ -50,7 +50,7 @@ This [resonance](/generated/resonance/resonance.md) is not a simple physical tra
 ### Coloration & Form
 No two Iridian are exactly alike. Each carries a unique appearance, shaped by the [Scale](/geography/landmark/scale.md) they resonate with. Their coloration, texture, and even the subtle glow of their veins shift based on the magical essence they have attuned to.
 
-An Iridian who has spent time near Batès Lamina may develop a faint crimson sheen in their skin, while one who resonated with [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md) might shimmer with opalescent hues. Some retain the form they were created with, remaining unchanged throughout their lives, while others gradually shift, their bodies reflecting the lingering echoes of past attunements.
+An Iridian who has spent time near Batès Lamina may develop a faint crimson sheen in their skin, while one who resonated with [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md) might shimmer with opalescent hues. Some retain the form they were created with, remaining unchanged throughout their lives, while others gradually shift, their bodies reflecting the lingering [echoes](/raw/20250501/soul/echoes.md) of past attunements.
 
 ### Senses & Perception
 
