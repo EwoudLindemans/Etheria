@@ -38,7 +38,7 @@ Despite his quiet demeanour, he is far from timid. He has stood his ground befor
 
 ## Role in the City of Or
 
-Though not a native dwarf, Stonfin is deeply woven into the intellectual life of the [City of Or](/geography/settlement/city/city-of-or.md). His stewardship of [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md) ensures the preservation of city charters, ancestral records, magical ledgers, and engineering manuscripts. He is often sought for guidance by [apprentices](/raw/20250501/scholar/apprentices.md), researchers, and curious council aides alike.
+Though not a native dwarf, Stonfin is deeply woven into the intellectual life of the [City of Or](/geography/settlement/city/city-of-or.md). His stewardship of [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md) ensures the preservation of city charters, ancestral records, magical ledgers, and engineering manuscripts. He is often sought for guidance by apprentices, researchers, and curious council aides alike.
 
 Some say he knows *exactly* where every volume is shelved—even the ones that were never officially recorded. Whether this is a halfling gift, a personal system, or enchantment is unknown, and Stonfin isn't telling.
 

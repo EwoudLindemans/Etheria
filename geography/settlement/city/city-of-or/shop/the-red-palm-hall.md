@@ -28,7 +28,7 @@ The clerics who staff the hall follow no single [deity](/structure/mechanic/deit
 Most clerics wear simple robes embroidered with vein-like stitching in red and gold. Each is trained in both divine [magic](/structure/mechanic/magic.md) and herbcraft, and several are known to hold rare blessings specific to Or’s resonant environment.
 
 ## Leadership
-The hall is led by **[Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**, an ageing [half-elf](/raw/20250501/half-elf/half-elf.md) with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
+The hall is led by **[Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)**, an ageing half-elf with a quiet voice, bright eyes, and a strong belief in second chances. Though many consider him gentle, those who’ve seen him banish curses or argue policy with Flatstone councillors know better.
 
 > “We are not here to judge how you were hurt. We are here so that hurt no longer defines you.” — *Brother Ilenor*
 
@@ -38,8 +38,8 @@ The Red Palm Hall is respected across all districts and social classes. Miners a
 The hall does not charge for healing, though donations are encouraged. On feast days, they host communal meals for the injured and lonely.
 
 ## Notable Treatments
-- **The Rebinding Touch** – A ritual healing that closes wounds while knitting the [soul](/raw/20250501/soul/soul.md) around the scar.
-- **The Breath of Ironroot** – An herbal poultice infused with divine [resonance](/raw/20250501/resonance/resonance.md), used to stabilise miners with lung damage.
+- **The Rebinding Touch** – A ritual healing that closes wounds while knitting the soul around the scar.
+- **The Breath of Ironroot** – An herbal poultice infused with divine [resonance](/generated/20250501/resonance/resonance.md), used to stabilise miners with lung damage.
 - **Veinwhispering** – A quiet ritual for those haunted by trauma, wherein a cleric listens without speaking and channels memory into a redstone bowl, then offers the patient the choice to keep or release it.
 
 ## See Also

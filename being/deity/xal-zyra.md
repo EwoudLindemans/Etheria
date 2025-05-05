@@ -11,13 +11,13 @@ parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ---
 
 # Xal'Zyra, the Veil Between  
-**[Deity](/structure/mechanic/deity.md) of [the Dense](/geography/realm/the-dense.md), Shadows, and Passage**  
+**[Deity](/structure/mechanic/deity.md) of [the Dense](/generated/20250501/the-dense/the-dense.md), Shadows, and Passage**  
 
 ![xalzyra.webp](/world/xalzyra.webp =500x)
 
-Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **[the Dense](/geography/realm/the-dense.md)**, Xal'Zyra teaches that all things move between states—**from light to dark, from one place to another, from ignorance to understanding**. It is neither a god of absolute knowledge nor of chaos, but of **navigation and adaptation**, helping those who step into the unknown.  
+Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **[the Dense](/generated/20250501/the-dense/the-dense.md)**, Xal'Zyra teaches that all things move between states—**from light to dark, from one place to another, from ignorance to understanding**. It is neither a god of absolute knowledge nor of chaos, but of **navigation and adaptation**, helping those who step into the unknown.  
 
-Travelers, wanderers, and seekers of hidden truths revere Xal'Zyra, believing that its unseen hand grants safe passage **through the twisting corridors of reality**. For those who understand its ways, **[the Dense](/geography/realm/the-dense.md) is not a prison, but a gateway.**  
+Travelers, wanderers, and seekers of hidden truths revere Xal'Zyra, believing that its unseen hand grants safe passage **through the twisting corridors of reality**. For those who understand its ways, **[the Dense](/generated/20250501/the-dense/the-dense.md) is not a prison, but a gateway.**  
 
 ## **Domains:**
 - **The Hidden Paths:** Space is not fixed; it folds, twists, and compresses. Xal'Zyra governs the **liminal corridors of existence**, where the world’s structure bends and those with wisdom can step through unseen doors.  
@@ -42,9 +42,9 @@ Travelers, wanderers, and seekers of hidden truths revere Xal'Zyra, believing th
   - Those who embark on uncertain journeys—whether through physical space, knowledge, or self-discovery—**are never without guidance, so long as they listen.**  
 
 ## **Influence on the Dense and its People:**
-- **The Denseshifters:** Xal'Zyra is a **silent patron of those who move through [the Dense](/geography/realm/the-dense.md)**, helping them sense its hidden currents and avoid its dangers.  
-- **The Veilborn:** A sect of mystics who meditate at [the Dense](/geography/realm/the-dense.md)’s edges, **learning to "read" its distortions** and guiding travelers with cryptic wisdom.  
-- **Wayfarers and Lost [Souls](/raw/20250501/soul/soul.md):** **Those who wander, those who flee, and those who seek something beyond the known world** find comfort in Xal'Zyra’s teachings, believing that it watches over all who step into uncertainty.  
+- **The Denseshifters:** Xal'Zyra is a **silent patron of those who move through [the Dense](/generated/20250501/the-dense/the-dense.md)**, helping them sense its hidden currents and avoid its dangers.  
+- **The Veilborn:** A sect of mystics who meditate at [the Dense](/generated/20250501/the-dense/the-dense.md)’s edges, **learning to "read" its distortions** and guiding travelers with cryptic wisdom.  
+- **Wayfarers and Lost Souls:** **Those who wander, those who flee, and those who seek something beyond the known world** find comfort in Xal'Zyra’s teachings, believing that it watches over all who step into uncertainty.  
 
 ## **Rituals and Ceremonies:**
 - **The Silent Walk:** A sacred ritual where **followers walk blindfolded through labyrinthine paths**, trusting their instincts and the guidance of the Veil.  

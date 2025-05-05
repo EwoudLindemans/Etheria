@@ -31,12 +31,12 @@ A young gnomish brewer—name now lost to boast and rumour—was taught the fund
 The gnome, interpreting the recipe **"creatively,"** introduced moss-filtering, herbal sweetness, and a fermentation adjustment that horrified traditionalists and delighted everyone else. The resulting green ale was served at a small street gathering, and from there, its fame spread district by district, mug by mug.
 
 ## Cultural Significance
-Sweetmoss Sip is more than a beverage—it is a quiet **celebration of collaboration** between two [cultures](/raw/20250501/dwarf/culture.md) often seen as opposites: the pragmatic orcs and the eccentric [gnomes](/raw/20250501/gnome/gnomes.md).
+Sweetmoss Sip is more than a beverage—it is a quiet **celebration of collaboration** between two cultures often seen as opposites: the pragmatic orcs and the eccentric gnomes.
 
 It is now a staple in:
 - Hearthring taverns
-- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) stalls
-- [Orinite](/raw/20250501/deity/orinite.md) homes of every shape and size
+- [Election Festival](/generated/20250501/festival/election-festival.md) stalls
+- Orinite homes of every shape and size
 
 Many taverns serve it with a side of bread and a story. No two versions of the story match.
 

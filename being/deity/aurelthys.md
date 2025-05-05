@@ -35,4 +35,4 @@ Aurelthys is the silent heart of the city, its will woven into the very fabric o
 
 The elite of [Mohinders](/geography/settlement/city/mohinders.md) Spire see themselves as its chosen stewards, bearing the weight of knowledge and governance with a mixture of reverence and duty. To question Aurelthys is to question the city's foundation itself, for it is through this divine order that Mohinders flourishes.  
 
-And yet, within its grand halls and shadowed corridors, whispers persist—voices asking if knowledge should truly be caged, if power should forever rest in the hands of the few. But whether these murmurs are signs of an inevitable shift or merely the [echoes](/raw/20250501/soul/echoes.md) of those too weak to bear the burden of wisdom… only time will tell.
+And yet, within its grand halls and shadowed corridors, whispers persist—voices asking if knowledge should truly be caged, if power should forever rest in the hands of the few. But whether these murmurs are signs of an inevitable shift or merely the echoes of those too weak to bear the burden of wisdom… only time will tell.

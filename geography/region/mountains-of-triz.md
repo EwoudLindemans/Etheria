@@ -26,7 +26,7 @@ The peaks themselves stretch high enough to touch clouds spun with [Scale](/geog
 
 ## Creatures of the Stone
 
-The mountains are home to things that don’t care for politics or coin. **Trolls**, **cave [ogres](/raw/20250501/ogre/ogres.md)**, and **stonehide serpents** dwell in the shadows, claiming old tunnels as their own. Packs of **dire mountain wolves** are known to hunt along the ridgelines, their howls reverberating through the valleys like the sound of war drums.
+The mountains are home to things that don’t care for politics or coin. **Trolls**, **cave ogres**, and **stonehide serpents** dwell in the shadows, claiming old tunnels as their own. Packs of **dire mountain wolves** are known to hunt along the ridgelines, their howls reverberating through the valleys like the sound of war drums.
 
 Then there are stranger sightings—winged beasts that glide in total silence, **glimmer-eyed spiders** that spin runes into their webs, and once, supposedly, a **singing golem** that spoke in languages no one had heard in centuries. Most chalk these up to mountain madness. Most.
 
@@ -58,7 +58,7 @@ In [Triz Valley](/geography/settlement/city/triz-valley.md), every missing carav
 
 The dwarves claim that the Mountains of Triz were once the broken bones of a sleeping titan who tried to climb from the underworld and failed. Others say it was where [Irion](/being/deity/irion.md)’s claw first touched the world during [the Collapse](/structure/chronological/event/the-collapse.md), fracturing the surface and leaving [magic](/structure/mechanic/magic.md) tangled in its depths.
 
-Whatever their origin, the mountains feel alive—aware, even. Miners speak of stones that hum like heartbeats. [Echoes](/raw/20250501/soul/echoes.md) that answer back. Caverns that feel like they’re listening.
+Whatever their origin, the mountains feel alive—aware, even. Miners speak of stones that hum like heartbeats. Echoes that answer back. Caverns that feel like they’re listening.
 
 ## Between Two Worlds
 

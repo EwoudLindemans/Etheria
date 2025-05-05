@@ -27,7 +27,7 @@ Through the breach, no creature passed—only a connection. A presence. The mome
 
 > “Anchor me.”
 
-From the rift fell a single object: a small, prismatic shard that shimmered with unstable potential. They later called it the **Shard of the Fracture Keep**, though they couldn’t have known what it truly was. It radiated with [resonance](/raw/20250501/resonance/resonance.md), its rhythm laced with elements of both their magical signatures. [Nokk](/being/character/nokk.md), sensing the danger of leaving it unbound, tried to steady its power. But he didn’t act alone. [Miss Terry](/being/character/miss-terry.md) joined him—touching the shard as he did—and in that moment, their [magics](/structure/mechanic/magic.md) tangled. The shard attuned not to one of them, but to **both**.
+From the rift fell a single object: a small, prismatic shard that shimmered with unstable potential. They later called it the **Shard of the Fracture Keep**, though they couldn’t have known what it truly was. It radiated with [resonance](/generated/20250501/resonance/resonance.md), its rhythm laced with elements of both their magical signatures. [Nokk](/being/character/nokk.md), sensing the danger of leaving it unbound, tried to steady its power. But he didn’t act alone. [Miss Terry](/being/character/miss-terry.md) joined him—touching the shard as he did—and in that moment, their [magics](/structure/mechanic/magic.md) tangled. The shard attuned not to one of them, but to **both**.
 
 ## Echoes Between Selves
 
@@ -39,11 +39,11 @@ At first, they thought they were losing themselves. But the visions weren’t fr
 
 ## Their alternate selves
 
-Eventually, they returned to the rift—this time prepared. Together, they stepped through, seeking the source. Inside, time folded and thought bent. The alter-ego's they had seen: Tyrra and Vexandem—weren’t just possibilities, they were real! [Echoes](/raw/20250501/soul/echoes.md) of choices never made, versions shaped by [resonance](/raw/20250501/resonance/resonance.md) rather than fate.
+Eventually, they returned to the rift—this time prepared. Together, they stepped through, seeking the source. Inside, time folded and thought bent. The alter-ego's they had seen: Tyrra and Vexandem—weren’t just possibilities, they were real! Echoes of choices never made, versions shaped by [resonance](/generated/20250501/resonance/resonance.md) rather than fate.
 
 ## The Birth of the Between
 
-In that fractured space, their reflections aligned. And in that moment, something entirely new emerged—not a fusion, not a hybrid, but a being born between them. Its form was melody and storm, built from voice and volatility. It did not wear their faces, but it carried their signatures. A new self stepped into existence, forged not by accident, but by [resonance](/raw/20250501/resonance/resonance.md). They would call it **[Vexyrra](/being/deity/vexyrra.md)**.
+In that fractured space, their reflections aligned. And in that moment, something entirely new emerged—not a fusion, not a hybrid, but a being born between them. Its form was melody and storm, built from voice and volatility. It did not wear their faces, but it carried their signatures. A new self stepped into existence, forged not by accident, but by [resonance](/generated/20250501/resonance/resonance.md). They would call it **[Vexyrra](/being/deity/vexyrra.md)**.
 
 Tyrra and Vexandem faded, their purpose fulfilled. The rift snapped closed.
 
@@ -51,10 +51,10 @@ Tyrra and Vexandem faded, their purpose fulfilled. The rift snapped closed.
 
 [Nokk](/being/character/nokk.md) awoke back in the cellar, his heart racing. [Miss Terry](/being/character/miss-terry.md) collapsed into his arms, the shard embedded in her chest now softly humming, no longer wild but still deeply alive. They had returned, but neither of them was the same.
 
-Though [Vexyrra](/being/deity/vexyrra.md) remained behind, something of it lingered in both of them. [Nokk](/being/character/nokk.md)’s dreams took on fractured rhythms, filled with [echoes](/raw/20250501/soul/echoes.md) he couldn’t explain. Terry’s songs rang with chords that didn’t belong to this world. A connection still tied them to what they’d made—a tether not easily broken.
+Though [Vexyrra](/being/deity/vexyrra.md) remained behind, something of it lingered in both of them. [Nokk](/being/character/nokk.md)’s dreams took on fractured rhythms, filled with echoes he couldn’t explain. Terry’s songs rang with chords that didn’t belong to this world. A connection still tied them to what they’d made—a tether not easily broken.
 
 ## A Song Yet Unfinished
 
-Across [Iridia](/geography/world/iridia.md), others began to feel something similar. A [resonance](/raw/20250501/resonance/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
+Across [Iridia](/geography/world/iridia.md), others began to feel something similar. A [resonance](/generated/20250501/resonance/resonance.md) stirring in their [magic](/structure/mechanic/magic.md). A hum beneath the surface of dreams. The world had shifted. Something had been born in the Mirrorstep.
 
 And it remembers where it came from.

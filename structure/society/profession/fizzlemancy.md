@@ -13,11 +13,11 @@ dateCreated: 2025-03-12T19:46:30.395Z
 
 ![fizzlemancy.webp](/professions/fizzlemancy.webp =500x)
 
-Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Fizzlemancers gather water from magical [resonance](/raw/20250501/resonance/resonance.md) zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
+Fizzlemancy is a uniquely gnomish art that fuses alchemy, quirky engineering, and a deep connection to enchanted water sources. Fizzlemancers gather water from magical [resonance](/generated/20250501/resonance/resonance.md) zones—where every droplet pulses with arcane energy—and transform it into a potent brew. When poured over their meticulously crafted mechanical contraptions, the brew infuses the devices with a willed, dynamic effect, setting their gears in perpetual, magical motion.
 
 ## The Fizzlemancer’s Process
 1. Harvesting Resonant Water
-Fizzlemancers begin by gathering water from naturally enchanted sources—springs near ley lines, crystalline waterfalls, or hidden glens where the very air shimmers with [magic](/structure/mechanic/magic.md). This water, rich in ambient [resonance](/raw/20250501/resonance/resonance.md), serves as the ideal base for their arcane concoctions.
+Fizzlemancers begin by gathering water from naturally enchanted sources—springs near ley lines, crystalline waterfalls, or hidden glens where the very air shimmers with [magic](/structure/mechanic/magic.md). This water, rich in ambient [resonance](/generated/20250501/resonance/resonance.md), serves as the ideal base for their arcane concoctions.
 
 2. Fizzle the Arcane Brew
 Once collected, the resonant water is blended with secret ingredients—Fey’s Dew, gigglewort petals, a dash of stardust, and other arcane additives. The resulting brew is a liquid symphony of raw magical energy, primed to awaken dormant [magic](/structure/mechanic/magic.md) within mechanical constructs.
@@ -26,7 +26,7 @@ Once collected, the resonant water is blended with secret ingredients—Fey’s 
 Gnomish Fizzlemancers channel their inner alchemist-engineers by designing intricate mechanical devices—ranging from delicate gear-driven contraptions to miniature steam-powered engines. Pouring the enchanted brew over these devices triggers a reaction that infuses them with a "willed effect," causing the machinery to operate with dynamic, self-sustaining [magic](/structure/mechanic/magic.md).
 
 ## Signature Creations
-Fizzlemancy yields inventive artifacts that capture the playful ingenuity of gnome [culture](/raw/20250501/dwarf/culture.md):
+Fizzlemancy yields inventive artifacts that capture the playful ingenuity of gnome culture:
 
 ### Flux Capsules:
 Compact mechanical modules that, upon receiving the enchanted brew, trigger a controlled burst of arcane power. These capsules can be calibrated to deliver a precise surge of energy—granting a temporary boost in agility, creative inspiration, or vital resilience. Their effects are both adaptive and fleeting, perfectly embodying the unpredictable yet calculated nature of gnomish [magic](/structure/mechanic/magic.md).

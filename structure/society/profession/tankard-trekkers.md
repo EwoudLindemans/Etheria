@@ -15,14 +15,14 @@ dateCreated: 2025-03-29T22:59:43.792Z
 ![tankard-tracker.png](/professions/tankard-tracker.png =500x)
 
 ## Overview  
-Tankard Trekkers are **licensed adventurers**, most commonly [halflings](/raw/20250501/halfling/halflings.md), who journey across [Iridia](/geography/world/iridia.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/geography/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
+Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across [Iridia](/geography/world/iridia.md) in search of **legendary drinks and legendary taverns**. Originating in the [City of Or](/geography/settlement/city/city-of-or.md), these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.
 
 Their authority is recognized in Or and respected (or feared) elsewhere. They wield the sacred **Right of the Last Pour**, can bless taverns with long life, and—on rare, somber occasions—**revoke licenses**, condemning a pub to silence.
 
 ## Origins  
-The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three [halflings](/raw/20250501/halfling/halflings.md) from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
+The Tankard Trekkers began in **ARC 117**, born from the Great Ale Disputes in Or. Three halflings from rival breweries resolved the feuding with nothing but a shared brew and a single song. The [Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) took notice and granted them an official role to "drink in peace, preserve in memory, and settle with song."
 
-Since then, [halflings](/raw/20250501/halfling/halflings.md) have traditionally passed the title from elder to apprentice, though [humans](/raw/20250501/human/humans.md), dwarves, and even the occasional orc have earned the right to carry the Tankard.
+Since then, halflings have traditionally passed the title from elder to apprentice, though humans, dwarves, and even the occasional orc have earned the right to carry the Tankard.
 
 ## The Foam Oath  
 Spoken before the first sip in any new tavern:

@@ -15,7 +15,7 @@ parent: bard=ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3
 
 This unassuming leather-bound tome appears to most as a blank journal, worn but well-maintained, with no title upon its cover. The spine bears only a single embossed symbol: a quill crossed over a half-mask. 
 
-To any reader save its true author or chosen heir, the pages remain utterly empty—resisting ink, [magic](/structure/mechanic/magic.md), or scrying. The enchantment binding the book is woven from layered illusions, subtle [soul](/raw/20250501/soul/soul.md)-threading, and a deep [resonance](/raw/20250501/resonance/resonance.md) with the identity of the one known as *[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*—and, more crucially, the one *he was before*.
+To any reader save its true author or chosen heir, the pages remain utterly empty—resisting ink, [magic](/structure/mechanic/magic.md), or scrying. The enchantment binding the book is woven from layered illusions, subtle soul-threading, and a deep [resonance](/generated/20250501/resonance/resonance.md) with the identity of the one known as *[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*—and, more crucially, the one *he was before*.
 
 ### **Properties:**
 

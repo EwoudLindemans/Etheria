@@ -12,9 +12,9 @@ parent: character=d0551441-af4d-43c9-8948-148e42b493df
 
 # Covenant of Thalgrin and Ilmater
 
-In the [City of Or](/geography/settlement/city/city-of-or.md), where the clang of forge-hammers [echoes](/raw/20250501/soul/echoes.md) like prayer, it was **[Thalgrin](/being/deity/thalgrin.md), the Heartbound Smith**, who permitted the red thread of **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** to enter [Iridia](/geography/world/iridia.md) not as a flood of divine foreignness, but as a trickle of healing fire.
+In the [City of Or](/geography/settlement/city/city-of-or.md), where the clang of forge-hammers echoes like prayer, it was **[Thalgrin](/being/deity/thalgrin.md), the Heartbound Smith**, who permitted the red thread of **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** to enter [Iridia](/geography/world/iridia.md) not as a flood of divine foreignness, but as a trickle of healing fire.
 
-[Thalgrin](/being/deity/thalgrin.md), god of craft and endurance, did not allow *all* of Ilmater's power. He is no martyr, no weeper of wounds. But when he saw **[Sylieth](/being/character/sylieth.md)**, a Tiefling whose hands stitched bodies as a smith would steel, he understood. The *healing* they offered—the slow mending of flesh and [soul](/raw/20250501/soul/soul.md)—was not weakness. It was **forging**.
+[Thalgrin](/being/deity/thalgrin.md), god of craft and endurance, did not allow *all* of Ilmater's power. He is no martyr, no weeper of wounds. But when he saw **[Sylieth](/being/character/sylieth.md)**, a Tiefling whose hands stitched bodies as a smith would steel, he understood. The *healing* they offered—the slow mending of flesh and soul—was not weakness. It was **forging**.
 
 **Pain**, [Thalgrin](/being/deity/thalgrin.md) said, is not to be wasted. It is to be **tempered**.
 

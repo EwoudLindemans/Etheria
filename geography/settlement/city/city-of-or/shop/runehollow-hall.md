@@ -11,9 +11,9 @@ dateCreated: 2025-04-08T08:23:40.268Z
 
 # Runehollow Hall
 
-**Runehollow Hall** is the oldest and most revered Grand Archive and Library in the [City of Or](/geography/settlement/city/city-of-or.md). Carved into the stone just beyond the gates of the Undercity and directly across from the entrance into Stonehollow, this great archive was created to preserve the city’s written legacy. Built by dwarves in honour of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) himself, it stands as a monument to knowledge, [craftsmanship](/raw/20250501/craftsmanship/craftsmanship.md), and the enduring power of memory.
+**Runehollow Hall** is the oldest and most revered Grand Archive and Library in the [City of Or](/geography/settlement/city/city-of-or.md). Carved into the stone just beyond the gates of the Undercity and directly across from the entrance into Stonehollow, this great archive was created to preserve the city’s written legacy. Built by dwarves in honour of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) himself, it stands as a monument to knowledge, craftsmanship, and the enduring power of memory.
 
-Unlike the chaotic brilliance of gnomish design or the fluid grace of elven scriptoria, Runehollow is *sturdy*, *structured*, and *sacred*. It contains volumes on mining, engineering, metallurgy, rune-lore, city records, magical theory, religious [scrolls](/raw/20250501/scroll/scrolls.md), and histories predating [The Collapse](/structure/chronological/event/the-collapse.md)—some of which exist nowhere else in [Iridia](/geography/world/iridia.md).
+Unlike the chaotic brilliance of gnomish design or the fluid grace of elven scriptoria, Runehollow is *sturdy*, *structured*, and *sacred*. It contains volumes on mining, engineering, metallurgy, rune-lore, city records, magical theory, religious scrolls, and histories predating [The Collapse](/structure/chronological/event/the-collapse.md)—some of which exist nowhere else in [Iridia](/geography/world/iridia.md).
 
 ## Exterior
 
@@ -25,7 +25,7 @@ The main doors are engraved with an image of [Or Flatstone](/geography/settlemen
 
 ## Interior
 
-Inside, the Hall opens into a vast chamber of silence and reverence. Colossal stone bookshelves rise high into the vaulted ceiling, their surfaces etched with gold-lined runes. The shelves are laden with everything from brittle [scrolls](/raw/20250501/scroll/scrolls.md) and enchanted tablets to leather-bound tomes and stone-inscribed slabs.
+Inside, the Hall opens into a vast chamber of silence and reverence. Colossal stone bookshelves rise high into the vaulted ceiling, their surfaces etched with gold-lined runes. The shelves are laden with everything from brittle scrolls and enchanted tablets to leather-bound tomes and stone-inscribed slabs.
 
 Recessed reading tables—each surrounded by soft, rune-etched sound barriers—are scattered throughout the chamber. Delicate arcane lanterns float above them, casting focused light for scholars and scribes. The air smells of aged parchment, metal ink, and warm stone.
 

@@ -36,7 +36,7 @@ A bustling district where merchants sell magical inks, enchanted quills, and spe
 A forbidden archive deep within the Handle, where books do not contain stories until they are opened. Instead of being read, these books read the reader—inscribing their thoughts, fears, and even glimpses of their future. Only the most daring goblins venture here, hoping to learn their fate… or rewrite it.
 
 #### The Archivist’s Vault
-An underground chamber filled with locked [scrolls](/raw/20250501/scroll/scrolls.md) and chained grimoires, some too dangerous to be read. The vault is guarded by sentient paper constructs and quill-armed automatons, all programmed to protect the city’s most perilous knowledge.
+An underground chamber filled with locked scrolls and chained grimoires, some too dangerous to be read. The vault is guarded by sentient paper constructs and quill-armed automatons, all programmed to protect the city’s most perilous knowledge.
 
 #### The Inkspire Spire
 A towering structure where the city's finest calligraphers and [magic](/structure/mechanic/magic.md)-weavers work to transcribe shifting texts into stable records. Messages between powerful factions and lost knowledge from unstable pages are carefully rewritten here.

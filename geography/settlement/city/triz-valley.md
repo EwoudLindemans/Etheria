@@ -18,9 +18,9 @@ At the entrance to the valley of Triz is a wide path leading through an area of 
 
 ## A Town Built on Deals and Dirt
 
-The people of Triz Valley have learned to build fast, dig deep, and argue louder than their neighbours. Dwarves arrived first, tunnelling out the mountains for gems and iron veins, followed by [humans](/raw/20250501/human/humans.md) fleeing war, looking to forge something better. Then came the goblins—sly, nimble, business-savvy creatures who offered to guide travellers through the treacherous passes… for a price, of course.
+The people of Triz Valley have learned to build fast, dig deep, and argue louder than their neighbours. Dwarves arrived first, tunnelling out the mountains for gems and iron veins, followed by humans fleeing war, looking to forge something better. Then came the goblins—sly, nimble, business-savvy creatures who offered to guide travellers through the treacherous passes… for a price, of course.
 
-Nowadays, Triz is a stewpot of [cultures](/raw/20250501/dwarf/culture.md) and ambitions. You’ll hear a dozen dialects in the market square before breakfast, and twice that number in the taverns by dusk. Deals are struck with a handshake and a glare, contracts are signed in chalk on tavern walls, and more than one trade dispute has been settled with a punch and a drink.
+Nowadays, Triz is a stewpot of cultures and ambitions. You’ll hear a dozen dialects in the market square before breakfast, and twice that number in the taverns by dusk. Deals are struck with a handshake and a glare, contracts are signed in chalk on tavern walls, and more than one trade dispute has been settled with a punch and a drink.
 
 ## Where Every Stone Is for Sale
 
@@ -40,15 +40,15 @@ Above it all looms the **Triz Watchtower**, built on the slope of a hill, leanin
 
 ## Tales from the Tunnels
 
-But not everything in Triz is laughter and ledgers. Beneath the valley stretch ancient tunnels—some carved by dwarves, others by things less easily named. There are whispers of **strange [echoes](/raw/20250501/soul/echoes.md)** in the deep, of glowing ore that sings when touched, and of miners who return changed, or not at all.
+But not everything in Triz is laughter and ledgers. Beneath the valley stretch ancient tunnels—some carved by dwarves, others by things less easily named. There are whispers of **strange echoes** in the deep, of glowing ore that sings when touched, and of miners who return changed, or not at all.
 
-Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/raw/20250501/resonance/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
+Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/generated/20250501/resonance/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
 
 The **officials of Or** dismiss such tales, of course. But Or maintains a quiet diplomatic presence in Triz all the same—just a few envoys and accountants. Just in case.
 
 ## A Place That Chooses Its People
 
-There’s something about Triz Valley that draws a certain kind of [soul](/raw/20250501/soul/soul.md). The risk-takers. The deal-makers. The unlucky and the unafraid. It's the kind of place where fortunes are won or wasted before sundown, where everyone has a scheme and nobody asks too many questions.
+There’s something about Triz Valley that draws a certain kind of soul. The risk-takers. The deal-makers. The unlucky and the unafraid. It's the kind of place where fortunes are won or wasted before sundown, where everyone has a scheme and nobody asks too many questions.
 
 And though the passes remain dangerous, the ale far too strong, and the guides occasionally dishonest, Triz Valley endures—wild, crooked, and alive.
 

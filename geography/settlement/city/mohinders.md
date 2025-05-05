@@ -34,7 +34,7 @@ To be without [magic](/structure/mechanic/magic.md) in Mohinders is to be insign
 ## Superiority: The Divine Right of the Arcane Elite
 The city’s ruling class believes in a strict hierarchy: those who grasp the higher mysteries of [magic](/structure/mechanic/magic.md) are superior by nature. Superiority is not determined by birth, wealth, or bloodline alone—it is judged by one’s arcane prowess, cunning, and ability to navigate the city's political labyrinth.
 
-At the top of the hierarchy sit the **Arcanis Primes**, scholars and enchanters who shape the laws of [magic](/structure/mechanic/magic.md) itself. Below them, the **Luminates** serve as magistrates, adjudicating magical disputes and deciding who is worthy of further enlightenment. At the lowest rung of power are the **Glyphbound**, [apprentices](/raw/20250501/scholar/apprentices.md) and minor arcanists who aspire to ascend the hierarchy but are often kept in their place through the careful manipulation of knowledge.
+At the top of the hierarchy sit the **Arcanis Primes**, scholars and enchanters who shape the laws of [magic](/structure/mechanic/magic.md) itself. Below them, the **Luminates** serve as magistrates, adjudicating magical disputes and deciding who is worthy of further enlightenment. At the lowest rung of power are the **Glyphbound**, apprentices and minor arcanists who aspire to ascend the hierarchy but are often kept in their place through the careful manipulation of knowledge.
 
 Those who seek to rise in society must either prove their magical worth or find ways to manipulate the system to gain favor. The city thrives on exclusivity—only a select few are permitted access to the highest levels of arcane enlightenment.
 
@@ -43,7 +43,7 @@ Those who seek to rise in society must either prove their magical worth or find 
 
 The **Council of Controlled Magical Appliance** enforces a strict **Magisterial Taxation**—citizens must pay in gold, favors, or loyalty to gain access to spells, enchanted items, or even the ability to travel between districts via portals. To study [magic](/structure/mechanic/magic.md) is a privilege, not a right.
 
-Black markets thrive beneath the city’s towering structures, dealing in illicit [scrolls](/raw/20250501/scroll/scrolls.md), stolen grimoires, and experimental [magic](/structure/mechanic/magic.md) forbidden by the Council. The wealthiest citizens do not display their riches in gold or gems but rather in the rare tomes and spells they have obtained—or kept from others.
+Black markets thrive beneath the city’s towering structures, dealing in illicit scrolls, stolen grimoires, and experimental [magic](/structure/mechanic/magic.md) forbidden by the Council. The wealthiest citizens do not display their riches in gold or gems but rather in the rare tomes and spells they have obtained—or kept from others.
 
 Beneath the grandeur of the Spire, the poor fight for scraps—not of food, but of knowledge. A single whispered incantation, if stolen or sold, could elevate someone from servitude to influence… or result in their immediate erasure.
 
@@ -108,7 +108,7 @@ For most citizens, life in Mohinders is one of **segregation without physical wa
 Both factions—**the Council** and **the Veilbreakers**—continue to seek ways to **expand** their control over the city’s portals, striving for the eventual **unification** or **total domination** of the Spiral. The **portal divide** remains at the core of this struggle, and **rumors** persist that **the city’s original design**, which once allowed free movement, might be **restored** by those powerful enough to **break the magical barriers** that divide the streets.
 
 ## The Future of Mohinders
-The city teeters on the brink of change. If the **portal restrictions** are ever broken or bypassed, the physical proximity of the two territories might allow for a sudden **collapse** of the divide, leading to a possible **new conflict** or a shift in the balance of power between the factions. But until then, the city remains in a **fragile [equilibrium](/raw/20250501/balance/equilibrium.md)**, where the streets are close, but the portals are far apart.
+The city teeters on the brink of change. If the **portal restrictions** are ever broken or bypassed, the physical proximity of the two territories might allow for a sudden **collapse** of the divide, leading to a possible **new conflict** or a shift in the balance of power between the factions. But until then, the city remains in a **fragile equilibrium**, where the streets are close, but the portals are far apart.
 
 ## Citizens
 - **Elf** (46%)

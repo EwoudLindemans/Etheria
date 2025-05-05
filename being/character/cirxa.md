@@ -16,7 +16,7 @@ parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 
 ![cirxa.webp](/characters/cirxa.webp =500x)
 
-In the mist-drenched corridors of [Arkona](/geography/settlement/city/arkona.md), where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed [Broker](/raw/20250501/broker/broker.md)**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
+In the mist-drenched corridors of [Arkona](/generated/20250501/city/arkona.md), where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed Broker**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
 
 ## Origins in Unrecorded Ink
 

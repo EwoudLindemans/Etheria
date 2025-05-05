@@ -11,7 +11,7 @@ dateCreated: 2022-10-01T16:40:44.176Z
 
 # The Well
 
-Near the [Momentus Outpost](/raw/20250501/city/momentus-outpost.md) that lies on the outer edge of The Desert of the Rendishing Night , there is a recently build Water Well (The Shinging Well).
+Near the Momentus Outpost that lies on the outer edge of The Desert of the Rendishing Night , there is a recently build Water Well (The Shinging Well).
 
 The well has a weathered look to it. It might be because of the Gale force winds that carries large amount of sand. It is a water source, dug into the ground to offer easy access to fresh drinking water. The area was found because there was a strange wet patch on the ground in the middle of the dunes.
 

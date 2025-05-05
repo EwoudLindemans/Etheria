@@ -13,7 +13,7 @@ dateCreated: 2025-03-12T23:43:48.701Z
 "The skies crackle with fury as its wings rise. The winds obey its call, the storms bow to its might. It does not battle for conquest—it reigns because it was born to rule."
 
 ## Origins & Legend  
-Zephiryx is an ancient and godlike entity, an avian colossus sculpted from the very essence of storms. It is said that when the first tempests raged across the world, their fury coalesced into a single being—Zephiryx, the [Stormwing](/raw/20250501/animal/stormwing.md) Titan. It soars the highest reaches of the sky, unseen but ever-watching, a force of nature that intervenes only when the balance of the elements is disturbed.
+Zephiryx is an ancient and godlike entity, an avian colossus sculpted from the very essence of storms. It is said that when the first tempests raged across the world, their fury coalesced into a single being—Zephiryx, the Stormwing Titan. It soars the highest reaches of the sky, unseen but ever-watching, a force of nature that intervenes only when the balance of the elements is disturbed.
 
 ## Physical Description  
 - **Height:** 40 to 50 feet tall when grounded  
@@ -34,7 +34,7 @@ Zephiryx is an ancient and godlike entity, an avian colossus sculpted from the v
 Zephiryx is neither benevolent nor malevolent—it is the storm itself, fierce and unpredictable. It watches the world from above, rarely interfering unless a force dares to challenge the dominion of the skies. Those who seek to harness the power of the heavens may find themselves facing its wrath.
 
 ## The Mystery of Zephiryx  
-Some claim that Zephiryx is the last of the Celestial Stormborn, [titans](/raw/20250501/titan/titans.md) that once ruled the skies. Others whisper that it is merely a harbinger of something far greater, a vanguard of the endless tempests that will one day reclaim the world. Whatever the truth, none who have seen Zephiryx in its full glory have lived to tell the tale.
+Some claim that Zephiryx is the last of the Celestial Stormborn, titans that once ruled the skies. Others whisper that it is merely a harbinger of something far greater, a vanguard of the endless tempests that will one day reclaim the world. Whatever the truth, none who have seen Zephiryx in its full glory have lived to tell the tale.
 
 > ![zephiryx_(2).webp](/characters/zephiryx_(2).webp)
 ># Zephiryx  

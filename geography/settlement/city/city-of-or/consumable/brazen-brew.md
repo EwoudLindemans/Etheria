@@ -12,7 +12,7 @@ parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 
 # Drink: The Brazen Brew
 
-**The [Brazen Brew](/raw/20250501/beverage/brazenbrew.md)** is the most infamous and unpredictable drink in the [City of Or](/geography/settlement/city/city-of-or.md). A concoction of reckless inspiration, it was accidentally forged during the legendary **Battle of [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)**, when chaos and ale collided—literally. Its creation marked a moment so explosive that it birthed a drink, a song, and a warning, all in one.
+**The Brazen Brew** is the most infamous and unpredictable drink in the [City of Or](/geography/settlement/city/city-of-or.md). A concoction of reckless inspiration, it was accidentally forged during the legendary **Battle of [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)**, when chaos and ale collided—literally. Its creation marked a moment so explosive that it birthed a drink, a song, and a warning, all in one.
 
 No brew in The [City of Or](/geography/settlement/city/city-of-or.md) is as storied, feared, or celebrated. It is served rarely, spoken of often, and never drunk lightly.
 
@@ -25,10 +25,10 @@ The original recipe is as legendary as the event that birthed it. Though many cl
 - **Stout beer** – *For fortitude, questionably*  
 - **Animal blood** – *For reasons lost to history*
 
-All of it came together in a barrel knocked over during a tavern brawl, stirred by a falling chair and ignited (according to some) by a [halfling's](/raw/20250501/halfling/halflings.md) torch.
+All of it came together in a barrel knocked over during a tavern brawl, stirred by a falling chair and ignited (according to some) by a halfling's torch.
 
 ## Effects
-The [Brazen Brew](/raw/20250501/beverage/brazenbrew.md)’s effects vary by dose and constitution, but a loose consensus has been formed over the years:
+The Brazen Brew’s effects vary by dose and constitution, but a loose consensus has been formed over the years:
 
 - **One mug:** Temporary courage and impaired logic  
 - **Two mugs:** Compulsory toasts to imaginary friends  
@@ -43,13 +43,13 @@ At some point during the chaos, Bogrum—then a younger, brasher percussionist�
 The drink that survived the brawl became legend.
 
 ## Modern Usage
-Despite its origin, The [Brazen Brew](/raw/20250501/beverage/brazenbrew.md) is still served (sparingly) at:
+Despite its origin, The Brazen Brew is still served (sparingly) at:
 
 - **[The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)**, where the original barrelhead still hangs on the wall  
-- **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md) trials**, unofficially, with great and terrible results  
+- **[Election Festival](/generated/20250501/festival/election-festival.md) trials**, unofficially, with great and terrible results  
 - **Heroic commemorations**, often after something has exploded or nearly done so
 
-It is said that only the foolish drink The [Brazen Brew](/raw/20250501/beverage/brazenbrew.md) alone, and only the bold do it twice.
+It is said that only the foolish drink The Brazen Brew alone, and only the bold do it twice.
 
 ## Warnings
 - Do not cast spells within one hour of consumption.  

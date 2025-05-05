@@ -76,4 +76,4 @@ Brother Ienor has never confirmed or denied any of these tales. When asked direc
 
 - *“If pain is a wound, kindness is the bandage. If suffering is a river, compassion is the bridge.”*
 - *“Let them laugh, if it eases their burden. Healing begins in many strange places.”*
-- *“I do not serve a god of [Iridia](/geography/world/iridia.md). I serve the ache in every breath, the wound in every [soul](/raw/20250501/soul/soul.md). That is enough.”*
+- *“I do not serve a god of [Iridia](/geography/world/iridia.md). I serve the ache in every breath, the wound in every soul. That is enough.”*

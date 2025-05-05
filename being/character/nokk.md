@@ -10,12 +10,12 @@ dateCreated: 2025-03-18T13:31:39.616Z
 ---
 
 # Nokk, The Scale’s Chosen
-*"[Resonance](/raw/20250501/resonance/resonance.md) should be free, chaotic, and powerful. Just… not in my hands. Seriously, get behind cover."*
+*"[Resonance](/generated/20250501/resonance/resonance.md) should be free, chaotic, and powerful. Just… not in my hands. Seriously, get behind cover."*
 
 ![nokk.webp](/characters/nokk.webp =500x)
 
 ## Origins & Legend  
-Legends speak of a sorcerer whose [resonance](/raw/20250501/resonance/resonance.md) bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with [resonance](/raw/20250504/cataclysm/resonance.md)—it was thrust upon him in a moment of chaotic fate when he swallowed a fish infused with the power of [the Dense](/geography/realm/the-dense.md). 
+Legends speak of a sorcerer whose [resonance](/generated/20250501/resonance/resonance.md) bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with [resonance](/generated/20250504/cataclysm/resonance.md)—it was thrust upon him in a moment of chaotic fate when he swallowed a fish infused with the power of [the Dense](/generated/20250501/the-dense/the-dense.md). 
 
 From that moment, the world around him twisted with surges of chaos energy. Some say he is a conduit for forces beyond mortal understanding, a storm given flesh. Others whisper that something in the chaos watches him, waiting for the moment to reclaim what he stole.
 
@@ -25,30 +25,30 @@ The greatest mystery surrounding Nokk is his inexplicable connection to [the Rif
 ## Physical Description  
 - **Height:** 1.68 meters  
 - **Build:** Medium, slightly wiry but resilient  
-- **Appearance:** A [Iridian](/being/species/iridian.md) with deep blue skin, draped in a ragged cloak that crackles with residual [resonance](/raw/20250501/resonance/resonance.md). His eyes, once ordinary, now shimmer with the light of a storm barely contained.  
-- **Hair:** None—his own [resonance](/raw/20250501/resonance/resonance.md) burned it away, leaving him permanently bald.  
+- **Appearance:** A [Iridian](/being/species/iridian.md) with deep blue skin, draped in a ragged cloak that crackles with residual [resonance](/generated/20250501/resonance/resonance.md). His eyes, once ordinary, now shimmer with the light of a storm barely contained.  
+- **Hair:** None—his own [resonance](/generated/20250501/resonance/resonance.md) burned it away, leaving him permanently bald.  
 - **Distinguishing Features:** Often surrounded by an aura of fluctuating elemental energy, unintentionally altering his environment.  
 
 ## Abilities & Traits  
-- **Elemental Conduit** – Nokk’s [resonance](/raw/20250501/resonance/resonance.md) draws from the raw forces of nature, manifesting as fire, ice, or lightning at random.  
-- **Chaos [Resonance](/raw/20250501/resonance/resonance.md) Burst** – When casting a spell, the weave of [resonance](/raw/20250504/cataclysm/resonance.md) frays around him, occasionally unleashing chaotic and unexpected effects.  
-- **Tides of Chaos** – Can manipulate fate, granting himself an advantage on rolls—but at the cost of triggering more chaos [resonance](/raw/20250501/resonance/resonance.md).  
+- **Elemental Conduit** – Nokk’s [resonance](/generated/20250501/resonance/resonance.md) draws from the raw forces of nature, manifesting as fire, ice, or lightning at random.  
+- **Chaos [Resonance](/generated/20250501/resonance/resonance.md) Burst** – When casting a spell, the weave of [resonance](/generated/20250504/cataclysm/resonance.md) frays around him, occasionally unleashing chaotic and unexpected effects.  
+- **Tides of Chaos** – Can manipulate fate, granting himself an advantage on rolls—but at the cost of triggering more chaos [resonance](/generated/20250501/resonance/resonance.md).  
 - **[Scale](/geography/landmark/scale.md)’s Echo** – Some believe his connection to the scale's is growing stronger, influencing his power in ways even he doesn’t understand.  
 
 ## Temperament & Behavior  
-Nokk is both a scholar and a disaster waiting to happen. He sees [resonance](/raw/20250501/resonance/resonance.md) as an untamed force meant to be free, but his personal experience with it has made him cautious (at least when he remembers to be). His chaotic nature masks a deep fear: what if he truly can’t control his own [resonance](/raw/20250504/cataclysm/resonance.md)? What if one day, he unleashes something he can’t take back?
+Nokk is both a scholar and a disaster waiting to happen. He sees [resonance](/generated/20250501/resonance/resonance.md) as an untamed force meant to be free, but his personal experience with it has made him cautious (at least when he remembers to be). His chaotic nature masks a deep fear: what if he truly can’t control his own [resonance](/generated/20250504/cataclysm/resonance.md)? What if one day, he unleashes something he can’t take back?
 
 Despite this, his determination to master his abilities drives him forward, even as he leaves behind a trail of accidental explosions, bald companions, and waterlogged libraries.
 
 ## The Mystery of Nokk  
-Nokk is more than just an unlucky sorcerer—his power is linked to something far older. The **magical stone**, an artifact of unknown origin, seems to whisper in his dreams, its influence creeping into his [resonance](/raw/20250501/resonance/resonance.md). 
+Nokk is more than just an unlucky sorcerer—his power is linked to something far older. The **magical stone**, an artifact of unknown origin, seems to whisper in his dreams, its influence creeping into his [resonance](/generated/20250501/resonance/resonance.md). 
 
-Is he merely a byproduct of Chaos [Resonance](/raw/20250501/resonance/resonance.md), or is he a vessel for something greater? Only time will tell.
+Is he merely a byproduct of Chaos [Resonance](/generated/20250501/resonance/resonance.md), or is he a vessel for something greater? Only time will tell.
 
 ## Hi, I'm Nokk, a young Iridian.  
 From the city of Valthor in the lands of Moist Crusted Lane.  
 
-Nothing close to a sorcerer though. I'm really bad at it. It’s not that I *can’t* use [resonance](/raw/20250501/resonance/resonance.md) or that I’m not strong. It’s more that I have this one little problem, and it **ALWAYS KEEPS HAPPENING!** Egghhh. I get so mad when it happens. I mean, training for over **ten years** now must have given me enough skill, right?!  
+Nothing close to a sorcerer though. I'm really bad at it. It’s not that I *can’t* use [resonance](/generated/20250501/resonance/resonance.md) or that I’m not strong. It’s more that I have this one little problem, and it **ALWAYS KEEPS HAPPENING!** Egghhh. I get so mad when it happens. I mean, training for over **ten years** now must have given me enough skill, right?!  
 
 Well, I guess you want to know what my problem is, huh? Alright, here we go—  
 

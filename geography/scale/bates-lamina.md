@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Batès Lamina
 
-**Batès Lamina** is the smallest of the five major [Scales](/geography/landmark/scale.md) in [Iridia](/geography/world/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/raw/20250501/resonance/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
+**Batès Lamina** is the smallest of the five major [Scales](/geography/landmark/scale.md) in [Iridia](/geography/world/iridia.md). A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual [resonance](/generated/20250501/resonance/resonance.md) and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
 
 ## Appearance and Structure
 
@@ -24,13 +24,13 @@ The [Scale](/geography/landmark/scale.md) stands at the heart of a lake, with a 
 
 The city surrounding Batès Lamina is a spiritual centre for the **Followers of [Irion](/being/deity/irion.md)**, a peaceful and religious people who believe the magical dragon-like being known as **Irion** communicates through the [Scales](/geography/landmark/scale.md).
 
-At the city's heart lies a **shrine built directly above the [Scale](/geography/landmark/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/raw/20250501/resonance/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
+At the city's heart lies a **shrine built directly above the [Scale](/geography/landmark/scale.md)**, with a **central cavity** said to give direct access to the Scale’s [resonance](/generated/20250501/resonance/resonance.md). The Followers believe that **[Irion](/being/deity/irion.md) speaks through this cavity**, offering insight, clarity, and divine presence to those who are worthy or prepared.
 
 The shrine is considered **the most important place in the world** by the Followers of [Irion](/being/deity/irion.md), and it is treated with reverence by visiting pilgrims.
 
 ## Pilgrimage and Tradition
 
-People from all over [Iridia](/geography/world/iridia.md) journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with [Irion](/being/deity/irion.md) and to help align the [soul](/raw/20250501/soul/soul.md) with the great resonant forces of the world.
+People from all over [Iridia](/geography/world/iridia.md) journey to Batès Lamina to **pray for good fortune** and bring **offerings of wine and fruit** to the shrine. These rituals are believed to strengthen one’s bond with [Irion](/being/deity/irion.md) and to help align the soul with the great resonant forces of the world.
 
 The ambient hum of the [Scale](/geography/landmark/scale.md) is also used in meditative practices, allowing seekers to sit in silence for hours or days, absorbing the rhythmic pulse of the Scale and seeking inner stillness.
 

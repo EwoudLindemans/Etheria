@@ -14,13 +14,13 @@ dateCreated: 2023-08-14T20:53:05.278Z
 In the realm of [Iridia](/geography/world/iridia.md), time is measured not merely by the passage of days and nights, but by the ebb and flow of the magical energies that suffuse the world. This measurement is known as the "ARC," and it has its roots in the very essence that binds the world together.
 
 - Alignment with [The Collapse](/structure/chronological/event/the-collapse.md):  
-The date is counted in cycles that correspond to significant magical [resonances](/raw/20250501/resonance/resonance.md) leftover from [The Collapse](/structure/chronological/event/the-collapse.md). Each cycle, known as a "ARC" represents a unit of time that resonates with the magical frequency of the event. The moment of The Collapse itself is designated as "0 ARC" marking the starting point of this unique time measurement.
+The date is counted in cycles that correspond to significant magical [resonances](/generated/20250501/resonance/resonance.md) leftover from [The Collapse](/structure/chronological/event/the-collapse.md). Each cycle, known as a "ARC" represents a unit of time that resonates with the magical frequency of the event. The moment of The Collapse itself is designated as "0 ARC" marking the starting point of this unique time measurement.
 
 - Magical Pulse Measurement:  
 Cycles are determined by tracking the rhythm of the magical pulses that emanate from The [scales](/geography/landmark/scale.md). These pulses are influenced by the world's living landscape and the way it responds to various events and energies. Each reasonance cycle marks the completion of a single ARC, making it a countable and observable unit.
 
-- Fading [Echoes](/raw/20250501/soul/echoes.md):  
-In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the magical energies were released in a symphony of [resonance](/raw/20250501/resonance/resonance.md). As time passes, the [echoes](/raw/20250501/soul/echoes.md) of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
+- Fading Echoes:  
+In the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), the magical energies were released in a symphony of [resonance](/generated/20250501/resonance/resonance.md). As time passes, the echoes of this symphony gradually fade, causing the duration of each ARC to subtly shift. This creates an ever-changing time measurement that's intricately linked to the world's magical nature.
 
 - Seasonal Variations:  
 Just as the world's landscape and creatures respond to magical energies, the seasons themselves are influenced by the ARCs. Different spans might be associated with unique weather patterns, growth cycles, or even occurrences of magical phenomena. This adds an element of unpredictability to the passage of time.
@@ -44,8 +44,8 @@ Details are still unknown but the arcs seem to have a relation to the [Ornite Ri
 The cataclysmic collision between the world and the mystical creature [Irion](/being/deity/irion.md) resulted in the shattering of the planet into countless fragments. This event, known as [The Collapse](/structure/chronological/event/the-collapse.md), marked the birth of the world of [Iridia](/geography/world/iridia.md). The land broke apart, and [magic](/structure/mechanic/magic.md) infused the fragments with life.
 
 ### Arc 17 - 33 - Nexus of Recovery
-- The Rising of [Resonance](/raw/20250501/resonance/resonance.md) (ARC 0 - 57):  
-The planet began to mend through the magical residue left by [Irion](/being/deity/irion.md). This gradual healing process saw the emergence of pockets of [Resonance](/raw/20250501/resonance/resonance.md), where the land breathed with life. Mountains shifted, valleys undulated, and forests pulsed, as if the world itself were a living entity, resonating with newfound vitality.
+- The Rising of [Resonance](/generated/20250501/resonance/resonance.md) (ARC 0 - 57):  
+The planet began to mend through the magical residue left by [Irion](/being/deity/irion.md). This gradual healing process saw the emergence of pockets of [Resonance](/generated/20250501/resonance/resonance.md), where the land breathed with life. Mountains shifted, valleys undulated, and forests pulsed, as if the world itself were a living entity, resonating with newfound vitality.
 
 ### Arc 34 - 50 - Nexus of Manifestation
 - The first [Iridian](/being/species/iridian.md) [manifestations](/structure/chronological/event/manifestation.md) occurred randomly, deep within uncharted land. A few singular, unknown travelers who were lost manifested, leaving only confusion and questions in its wake.
@@ -75,7 +75,7 @@ The magical essence of the [scales](/geography/landmark/scale.md) remained a pot
 A group of individuals discovered a way to harness [magic](/structure/mechanic/magic.md) directly from the [scales](/geography/landmark/scale.md) using special tools called scalespeakers. These devices resonated with the scale's magic, emitting potent beams of energy. Yet, their usage proved perilous, often resulting in dire consequences. Yet, their usage proved perilous, resulting in dire consequences. As corruption crept into the scales, the once-pure conduits began to distort the magic, turning it into dangerous and twisted energy.
 
 - The [Ragged Goons](/structure/society/factions/ragged-goons.md)' Pursuit (ARC 131):  
-The emergence of a dangerous group, The [Ragged Goons](/structure/society/factions/ragged-goons.md), threatened [Iridia](/geography/world/iridia.md)'s delicate balance. Their sole purpose became the search for unprotected [scales](/geography/landmark/scale.md), exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's [equilibrium](/raw/20250501/balance/equilibrium.md). With each scale they desecrated, they accelerated the corruption, twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
+The emergence of a dangerous group, The [Ragged Goons](/structure/society/factions/ragged-goons.md), threatened [Iridia](/geography/world/iridia.md)'s delicate balance. Their sole purpose became the search for unprotected [scales](/geography/landmark/scale.md), exploiting them for personal gain. As these outlaws delved into forbidden [magic](/structure/mechanic/magic.md), they sowed chaos, testing the world's equilibrium. With each scale they desecrated, they accelerated the corruption, twisting the scales’ magical properties for self-serving purposes, making the surrounding lands unstable and dangerous.
 
 ### Arc 136 - 152 - Nexus of Corruption
 #### The Arc of Corruption is the defining moment in Iridia's timeline, where the once-bountiful scales and the lands around them become centers of corruption, consuming everything they touch.

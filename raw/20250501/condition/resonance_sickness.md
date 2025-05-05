@@ -1,1 +1,0 @@
-# Resonance Sickness: A Condition Linked to the Scales

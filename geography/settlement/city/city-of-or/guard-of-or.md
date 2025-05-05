@@ -49,8 +49,8 @@ Guards are selected not only for strength or skill, but for their ability to nav
 
 - Local law and dwarven custom  
 - De-escalation and negotiation  
-- Arcane field safety and [resonance](/raw/20250501/resonance/resonance.md) anomalies  
-- [Orinite](/raw/20250501/deity/orinite.md) philosophy and practical ethics
+- Arcane field safety and [resonance](/generated/20250501/resonance/resonance.md) anomalies  
+- Orinite philosophy and practical ethics
 
 Many Guard members are born into multi-generational service families, though the city welcomes fresh blood from varied walks of life. Cross-cultural empathy and resilience are prized above bravado.
 

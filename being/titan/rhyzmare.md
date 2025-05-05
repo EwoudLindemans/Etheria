@@ -35,7 +35,7 @@ Legends speak of Rhyzmare as neither living nor dead, but an extension of the oc
 Rhyzmare does not seek war, but it does not shy away from destruction. It moves with the patience of the tides, observing the world through eyes as ancient as the sea itself. When provoked, it retaliates with overwhelming force, unleashing waves that reshape coastlines and drown civilizations.
 
 ## The Mystery of Rhyzmare  
-Some scholars believe Rhyzmare is tied to the ocean’s very [soul](/raw/20250501/soul/soul.md), an entity that awakens when the balance of the seas is disturbed. Others claim it guards something deep beneath the waves—an ancient secret buried in the abyss. What is certain is that no force has ever truly vanquished Rhyzmare; it is not a being to be slain, but a force to be endured.
+Some scholars believe Rhyzmare is tied to the ocean’s very soul, an entity that awakens when the balance of the seas is disturbed. Others claim it guards something deep beneath the waves—an ancient secret buried in the abyss. What is certain is that no force has ever truly vanquished Rhyzmare; it is not a being to be slain, but a force to be endured.
 
 > ![rhyzmare.webp](/characters/rhyzmare.webp)
 ># Rhyzmare

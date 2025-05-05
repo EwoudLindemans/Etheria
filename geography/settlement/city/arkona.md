@@ -11,10 +11,10 @@ parent: scale=4d381a3f-3262-4c58-b0bb-dc163f84d7ae
 ---
 
 # Arkona
-The City of [Arkona](/raw/20250501/city/arkona.md) is one of the most powerful in all of [Iridia](/geography/world/iridia.md). It is ruled by Lady [Arkona](/raw/20250504/city/arkona.md), a ruthless and ambitious woman who will stop at nothing to increase her power. The people of Arkona live in fear of her wrath, but they are also fiercely loyal to their city.
+The City of [Arkona](/generated/20250501/city/arkona.md) is one of the most powerful in all of [Iridia](/geography/world/iridia.md). It is ruled by Lady [Arkona](/generated/20250504/city/arkona.md), a ruthless and ambitious woman who will stop at nothing to increase her power. The people of [Arkona](/generated/20250505/city/arkona.md) live in fear of her wrath, but they are also fiercely loyal to their city.
 
 ## Trade
-[Arkona](/raw/20250501/city/arkona.md) is a bustling metropolis, home to tens of thousands of people. It is a center of trade and commerce, and its streets are always filled with people going about their business. The city is well defended, and its walls have never been breached.
+[Arkona](/generated/20250501/city/arkona.md) is a bustling metropolis, home to tens of thousands of people. It is a center of trade and commerce, and its streets are always filled with people going about their business. The city is well defended, and its walls have never been breached.
 
 ## Iron fist
-Lady [Arkona](/raw/20250501/city/arkona.md) rules over [Arkona](/raw/20250504/city/arkona.md) with an iron fist. She is a cold and calculating woman who cares only for herself and her own power. She tolerates no dissent or disobedience, and those who cross her often meet with a swift and brutal end.
+Lady [Arkona](/generated/20250501/city/arkona.md) rules over [Arkona](/generated/20250504/city/arkona.md) with an iron fist. She is a cold and calculating woman who cares only for herself and her own power. She tolerates no dissent or disobedience, and those who cross her often meet with a swift and brutal end.
