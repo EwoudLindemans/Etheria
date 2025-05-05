@@ -32,7 +32,7 @@ Behind the bubbling counter, shelves groan with glowing flasks, labelled only by
 
 ## Festival Fame
 
-The Cauldron Lottery became a local legend during the **[Election Festival](/generated/20250501/festival/election-festival.md)** of a previous Arc, when one candidate drank an unlabeled brew and began exuding turnip juice. The resulting trial—**“Debate the Turnip”**—led to an actual root vegetable being declared the winner of the round.
+The Cauldron Lottery became a local legend during the **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md)** of a previous Arc, when one candidate drank an unlabeled brew and began exuding turnip juice. The resulting trial—**“Debate the Turnip”**—led to an actual root vegetable being declared the winner of the round.
 
 Since then, [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md)’s concoctions have become an unofficial part of the trials, often used in wildcard events and bardic satire. A **wooden bust of the victorious turnip**, named “Tharnibus” by [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md), remains on display beside the stall.
 
@@ -49,6 +49,6 @@ Found on the very edge of **[Gutterbrew Alley](/geography/settlement/city/city-o
 - **[Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md)**
 - **Stable Flask** (for the opposite experience)
 - **[Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)**
-- **The [Election Festival](/generated/20250501/festival/election-festival.md)**
+- **The [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)**
 - **Tharnibus the Turnip**
 

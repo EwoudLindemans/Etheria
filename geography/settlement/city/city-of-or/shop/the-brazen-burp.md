@@ -15,7 +15,7 @@ parent: district=f8061dd3-8bf0-449e-8b2d-b67d857f2660
 
 ![rusty_pluckers_with_miss_terry.png](/world/rusty_pluckers_with_miss_terry.png =500x)
 
-Nestled along the cobbled edge of **[Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)**, just beyond the [Heartforge](/generated/20250501/forge/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
+Nestled along the cobbled edge of **[Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md)**, just beyond the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md)'s residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
 ## Ambience & Appearance  
 Worn wooden beams cradle a low ceiling stained by time and smoke. The walls are cluttered with faded **Flatstone Family** campaign posters, rusted weapons, and **dubious portraits of former regulars**. A raised stage dominates the center-left, used for performances or last-minute brawls. A second-floor **rickety balcony**, known locally as the “Drunken Loft,” lets the bold drink dangerously close to the edge.

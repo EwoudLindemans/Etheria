@@ -42,7 +42,7 @@ Above it all looms the **Triz Watchtower**, built on the slope of a hill, leanin
 
 But not everything in Triz is laughter and ledgers. Beneath the valley stretch ancient tunnels—some carved by dwarves, others by things less easily named. There are whispers of **strange echoes** in the deep, of glowing ore that sings when touched, and of miners who return changed, or not at all.
 
-Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/generated/20250501/resonance/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
+Some say there’s a **hidden [Scale](/geography/landmark/scale.md) fragment** buried beneath the town, pulsing with dormant [resonance](/structure/mechanic/resonance.md). Others speak of a **ghost guide**—a woman in green, pale as moonlight, who appears only to the lost and never accepts coin.
 
 The **officials of Or** dismiss such tales, of course. But Or maintains a quiet diplomatic presence in Triz all the same—just a few envoys and accountants. Just in case.
 

@@ -12,7 +12,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 # Dolgrin Embervein – The Heretic Sculptor
 
-Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/generated/20250501/forge/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with [arcane resonance](/generated/20250501/arcane/arcane-resonance.md).
+Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with [arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md).
 
 But Dolgrin's heart never beat for the hammer's strike alone. He heard music in stone—silence in shape. His art was not in weaponry, but in form. Though trained in runes, he spent his days carving scraps into faces—dwarves, orcs, even elves. He claimed stone had memory, and his fingers listened.
 

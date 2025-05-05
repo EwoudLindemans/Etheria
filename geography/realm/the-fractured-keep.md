@@ -61,7 +61,7 @@ This system has led to divine alliances and betrayals over border rearrangements
 
 ### Theoretical Implications
 
-Scholars at [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) have argued that the **Tread is not eternal**—only the presence of the [Scales](/geography/landmark/scale.md) and divine [resonance](/generated/20250501/resonance/resonance.md) maintains its existence. Should [Iridia](/geography/world/iridia.md)’s Scales all be broken, the Tread may collapse, throwing the gods into disarray and unmooring their territories into a free-floating war of unstable realms.
+Scholars at [Scholar’s Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) have argued that the **Tread is not eternal**—only the presence of the [Scales](/geography/landmark/scale.md) and divine [resonance](/structure/mechanic/resonance.md) maintains its existence. Should [Iridia](/geography/world/iridia.md)’s Scales all be broken, the Tread may collapse, throwing the gods into disarray and unmooring their territories into a free-floating war of unstable realms.
 
 Others speculate the **[Ragged Goons](/structure/society/factions/ragged-goons.md)** seek to discover Tread-passages to reach domains not yet mapped, attempting to introduce *foreign deities* into the Tread through forbidden domains—like the **Waxed Hollow** or the lost **Stone of Indulgence**.
 

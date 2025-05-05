@@ -33,16 +33,16 @@ Unlike many magically created beings, they do not require [magic](/structure/mec
 Iridian resemble humanoid beings but possess a unique ability to resonate with the [Scale](/geography/landmark/scale.md) they are closest to. Rather than merely adapting, their bodies and souls vibrate in harmony with the essence of their surroundings. Their skin, eyes, and even internal composition subtly shift in response to these energies, making them a living reflection of the [magic](/structure/mechanic/magic.md) around them.
 
 ###  **Shifting Veil**
-This [resonance](/generated/20250501/resonance/resonance.md) is not a simple physical transformation but a deep, intrinsic attunement—an echo of the [Scale](/geography/landmark/scale.md)’s frequency within their very being. As they move through different Scales, the Iridian experience gradual shifts, their form and abilities evolving in response to the dominant magical currents that surround them.
+This [resonance](/structure/mechanic/resonance.md) is not a simple physical transformation but a deep, intrinsic attunement—an echo of the [Scale](/geography/landmark/scale.md)’s frequency within their very being. As they move through different Scales, the Iridian experience gradual shifts, their form and abilities evolving in response to the dominant magical currents that surround them.
 
 #### **Attunement & Shifting**
-- Iridian attune to the **[resonance](/generated/20250501/resonance/resonance.md)** of a [Scale](/geography/landmark/scale.md), adapting their traits to match.  
+- Iridian attune to the **[resonance](/structure/mechanic/resonance.md)** of a [Scale](/geography/landmark/scale.md), adapting their traits to match.  
 - They can **meditate** for one hour to shift attunement to any [Scale](/geography/landmark/scale.md) they have previously experienced.  
 - However, the shift takes **24 hours** to fully settle before they can change again.  
 
 #### **Proximity Override**
 - If an Iridian gets close to a [Scale](/geography/landmark/scale.md), their body **automatically begins adjusting**.  
-- After **one hour**, this new [resonance](/generated/20250501/resonance/resonance.md) **overrides** their current attunement.  
+- After **one hour**, this new [resonance](/structure/mechanic/resonance.md) **overrides** their current attunement.  
 
 #### **Shifting Adaptation**
 - While attuned to a [Scale](/geography/landmark/scale.md), Iridian gain a feat tied to that Scale’s nature.  

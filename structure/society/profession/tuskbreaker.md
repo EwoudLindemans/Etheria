@@ -14,7 +14,7 @@ dateCreated: 2025-03-12T21:31:42.572Z
 
 ![tuskbreaker.webp](/professions/tuskbreaker.webp =500x)
 
-The **Tuskbreakers** are orcish masters of reclaiming power from the dead, inspired by the legendary [Skul’Kruk](/being/titan/skul-kruk.md) – The Fossil Crusher. They unearth the colossal remains of long-extinct behemoths and ancient warriors, carving them into brutal weapons and armor infused with the lingering [resonance](/generated/20250501/resonance/resonance.md) of the magical collapse. Unlike mere blacksmiths or enchanters, Tuskbreakers do not simply shape materials—they force the past to fight for the present, wrenching raw power from fossilized remains through strength, ritual, and brutal craftsmanship.  
+The **Tuskbreakers** are orcish masters of reclaiming power from the dead, inspired by the legendary [Skul’Kruk](/being/titan/skul-kruk.md) – The Fossil Crusher. They unearth the colossal remains of long-extinct behemoths and ancient warriors, carving them into brutal weapons and armor infused with the lingering [resonance](/structure/mechanic/resonance.md) of the magical collapse. Unlike mere blacksmiths or enchanters, Tuskbreakers do not simply shape materials—they force the past to fight for the present, wrenching raw power from fossilized remains through strength, ritual, and brutal craftsmanship.  
 
 ## The Legend of Skul’Kruk  
 
@@ -56,7 +56,7 @@ A warhammer forged from the fossilized skull of a long-dead titan beast. Each st
 Armor infused with layered fossil shards, making the wearer as unyielding as the behemoths of the past. Blades shatter against its surface like waves against stone.  
 
 ### **Fossilfang Blades**  
-Serrated twin daggers carved from the teeth of an ancient predator. Their edges vibrate with [resonance](/generated/20250501/resonance/resonance.md), allowing them to rip through enchanted defenses with ease.  
+Serrated twin daggers carved from the teeth of an ancient predator. Their edges vibrate with [resonance](/structure/mechanic/resonance.md), allowing them to rip through enchanted defenses with ease.  
 
 ### **Tuskbreaker Warstompers**  
 Enormous boots reinforced with dense fossil shards. A warrior wearing these can send seismic ripples through the battlefield, toppling enemies with each step.  

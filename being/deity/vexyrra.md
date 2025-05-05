@@ -10,10 +10,10 @@ dateCreated: 2025-04-03T21:16:02.528Z
 ---
 
 # ⚛️ Vexyrra, The Harmonic Core  
-*[Deity](/structure/mechanic/deity.md) of [the Fractured Keep](/generated/20250501/the-fractured-keep/the-fractured-keep.md), Echoed Songs, and Accidental Creation*
+*[Deity](/structure/mechanic/deity.md) of [the Fractured Keep](/geography/realm/the-fractured-keep.md), Echoed Songs, and Accidental Creation*
 
 ## Domains  
-Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through [resonance](/generated/20250501/resonance/resonance.md), unfinished melodies, and events not meant to happen—but which echo through reality regardless.
+Vexyrra is venerated within the **Fractured Keep**, a sanctuary deep within the Fracture Realm where voices harmonize with broken truths. It governs the divine through [resonance](/structure/mechanic/resonance.md), unfinished melodies, and events not meant to happen—but which echo through reality regardless.
 
 ## Origin of Vexyrra  
 
@@ -38,7 +38,7 @@ Vexyrra is not the sum of these parts, but a byproduct of their convergence.
 
 ## Appearance
 
-- **Form**: Androgynous and radiant. Each movement trails [resonance](/generated/20250501/resonance/resonance.md).
+- **Form**: Androgynous and radiant. Each movement trails [resonance](/structure/mechanic/resonance.md).
 - **Skin**: Vedalken blue with living musical scrollwork, pulsating in harmonic sync with nearby voices.
 - **Eyes**: Crystalline, vibrating—like notes visualized through shattered glass.
 - **Voice**: Dual-toned, fracturing into chords, echoing into thoughts.

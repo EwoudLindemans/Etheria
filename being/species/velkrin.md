@@ -17,7 +17,7 @@ parent: region=664d8b48-0180-46f3-b18b-0a5f0fddc7bc
 | ![veydr.webp](/world/veydr.webp =500x) | ![sylvachor.webp](/world/sylvachor.webp =500x) | ![thyrnari.webp](/world/thyrnari.webp =500x) 
 ## Overview
 
-The **Velkrin** are not many races—they are **one species**, **one people**, whose forms ripple with the dreaming breath of [Iridia](/geography/world/iridia.md) itself. Though their appearances vary wildly—some bearing antlers of crystal, others sprouting velvet wings or lupine ears—these are not subspecies or kinfolk. They are all **Velkrin**, shaped by instinct, memory, and the [resonance](/generated/20250501/resonance/resonance.md) of place.
+The **Velkrin** are not many races—they are **one species**, **one people**, whose forms ripple with the dreaming breath of [Iridia](/geography/world/iridia.md) itself. Though their appearances vary wildly—some bearing antlers of crystal, others sprouting velvet wings or lupine ears—these are not subspecies or kinfolk. They are all **Velkrin**, shaped by instinct, memory, and the [resonance](/structure/mechanic/resonance.md) of place.
 
 They are the **Undivided Wild**: [Iridia](/geography/world/iridia.md)’s will given sapient shape. Where others see beastfolk or spiritkin, the Velkrin see only **the Manyfold Face of Life**.
 
@@ -25,13 +25,13 @@ They are the **Undivided Wild**: [Iridia](/geography/world/iridia.md)’s will g
 
 Velkrin are **humanoid in base structure**: bipedal, symmetrical, and roughly comparable to elves or humans in silhouette. Their forms, however, are **fluid expressions of wild memory**, often bearing distinctive animal or elemental traits:
 
-- **Antlers**, branching or crystalline, often carry [resonance](/generated/20250501/resonance/resonance.md) echoes from ancestral groves.
+- **Antlers**, branching or crystalline, often carry [resonance](/structure/mechanic/resonance.md) echoes from ancestral groves.
 - **Ears** may be long and pointed, tufted like those of lynx or fox, or fringed with gill-like folds.
 - **Eyes** vary from predator-slit to fully luminous, reflecting emotional state or environmental imprint.
 - **Skin and hair** shift in texture—fur, feather, [scale](/geography/landmark/scale.md), barklike ridging—according to emotional development or geographic lineage.
 - **Hands and feet** may taper to claws, padded digits, or rootlike toes, but always retain functional dexterity.
 
-These traits are not inherited genetically—they are **expressed through [resonance](/generated/20250501/resonance/resonance.md)**, shaped by one’s life, environment, and instinctual calling. A Velkrin raised among mist-hawks may grow glider-wings. Another nurtured by earth-deep mycelium may sprout lichen along their back.
+These traits are not inherited genetically—they are **expressed through [resonance](/structure/mechanic/resonance.md)**, shaped by one’s life, environment, and instinctual calling. A Velkrin raised among mist-hawks may grow glider-wings. Another nurtured by earth-deep mycelium may sprout lichen along their back.
 
 Despite these vast surface differences, all Velkrin share the same **internal anatomy**, mental structure, and essence. They are one species, endlessly diverse.
 
@@ -52,7 +52,7 @@ To scholars and mapmakers, they are a mystery.
 To other sapient races, they are kin, myth, threat, or ancestor.
 
 - The **Thyrnari**, with their winged silk-dreams, are a high-elevation expression of Velkrin form.
-- The **Sylvachor**, etched in crystal law, are [resonance](/generated/20250501/resonance/resonance.md)-shapers who walked deep into structure but remain Velkrin in soul.
+- The **Sylvachor**, etched in crystal law, are [resonance](/structure/mechanic/resonance.md)-shapers who walked deep into structure but remain Velkrin in soul.
 - The **Veydrassi**, wandering mist-cloaked between threads of real and unreal, are Velkrin lost in the Between.
 
 All these are not new species. They are **Velkrin faces**—**distillations**, not divergences.

@@ -13,7 +13,7 @@ dateCreated: 2025-04-27T13:39:46.281Z
 
 Along the mist-swathed southern edges of the **[Mistveil Marshes](/geography/region/mistveil-marshes.md)**, where the land folds into itself and the trees grow as wide as houses, dwell the **Ogres of Glutt’thar**—a people both mighty and unexpectedly gentle. Unlike their brutish cousins found in the blasted highlands or the blood-soaked siege camps of the north, the Glutt’thar ogres have embraced a slower, humbler way of life, shaped by the endless patience demanded by the swamp they call home.
 
-Their immense forms, covered in thick, mud-caked skin and adorned with wreaths of braided reeds, move with surprising delicacy through the marsh. Each step is careful, every motion weighed, for the Mistveil does not suffer fools who stir its anger. The Glutt’thar ogres are not warriors, but **[Mudshapers](/generated/20250504/mudshaper/mudshaper.md)**—master artisans of clay, water, and slow wisdom. Their great hands, capable of crushing a boulder, are instead used to coax the swamp’s heavy clay into homes, bridges, statues, and shrines that seem to hum with the memory of the earth itself.
+Their immense forms, covered in thick, mud-caked skin and adorned with wreaths of braided reeds, move with surprising delicacy through the marsh. Each step is careful, every motion weighed, for the Mistveil does not suffer fools who stir its anger. The Glutt’thar ogres are not warriors, but **[Mudshapers](/structure/society/profession/mudshaper.md)**—master artisans of clay, water, and slow wisdom. Their great hands, capable of crushing a boulder, are instead used to coax the swamp’s heavy clay into homes, bridges, statues, and shrines that seem to hum with the memory of the earth itself.
 
 ## Way of the Marsh
 

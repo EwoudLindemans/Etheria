@@ -14,21 +14,21 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 <audio controls="1" controlslist="noplaybackrate" src="/music/heartforge_song_of_or.mp3"></audio>
 
-The [Heartforge](/generated/20250501/forge/heartforge.md) is a legendary furnace carved deeply underground on top of The [Armour of Or](/geography/scale/armour-of-or.md), the largest and most deeply excavated of [Iridia](/geography/world/iridia.md)’s magical [scales](/geography/landmark/scale.md), within the dwarven stronghold of The [City of Or](/geography/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the [Heartforge](/generated/20250505/district/heartforge.md) harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic [Resonance](/generated/20250501/resonance/resonance.md) Cycle (ARC).
+The Heartforge is a legendary furnace carved deeply underground on top of The [Armour of Or](/geography/scale/armour-of-or.md), the largest and most deeply excavated of [Iridia](/geography/world/iridia.md)’s magical [scales](/geography/landmark/scale.md), within the dwarven stronghold of The [City of Or](/geography/settlement/city/city-of-or.md). Fueled by fissures emanating from The Armour of Or. The Forge is operated by [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) (a dwarven craftsmanship). Developed through a fragile alliance between the Flatstone Family and the Order of the Veiled Current, the Heartforge harnesses Scalewrought Veins to produce extraordinary metals and alloys, its power tied to the Aurorhythmic [Resonance](/structure/mechanic/resonance.md) Cycle (ARC).
 
 ![heartforge_v2.png](/world/heartforge_v2.png =500x)
 
 ## Structure and Design
-The [Heartforge](/generated/20250501/forge/heartforge.md) is a towering edifice of two teardrop shaped stones laced with red veins from the [Armour of Or](/geography/scale/armour-of-or.md). Standing next to each other it looks like a heart, Its central chamber channels the [Scale](/geography/landmark/scale.md)'s rhythmic energy through fissures lined with Rune's that pulse with [resonance](/generated/20250501/resonance/resonance.md). Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
+The Heartforge is a towering edifice of two teardrop shaped stones laced with red veins from the [Armour of Or](/geography/scale/armour-of-or.md). Standing next to each other it looks like a heart, Its central chamber channels the [Scale](/geography/landmark/scale.md)'s rhythmic energy through fissures lined with Rune's that pulse with [resonance](/structure/mechanic/resonance.md). Dwarven runes of strength and Order sigils of secrecy adorn its surface, reflecting its dual purpose.
 
 - Height: 40 feet, dominating its cavern.
-- Fuel: The [Armour of Or](/geography/scale/armour-of-or.md)'s [Resonance](/generated/20250501/resonance/resonance.md)
+- Fuel: The [Armour of Or](/geography/scale/armour-of-or.md)'s [Resonance](/structure/mechanic/resonance.md)
 - Output: Veilsteel, Scaleforged Ores, and advanced Alloys.
 
 ## Function and Products
-The [Heartforge](/generated/20250501/forge/heartforge.md) taps into Scalewrought Veins—deep ore deposits infused with ancient [scale](/geography/landmark/scale.md) [magic](/structure/mechanic/magic.md)—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The [Heartforge](/generated/20250505/district/heartforge.md) enhances this process, amplifying the ores’ [Resonance](/generated/20250501/resonance/resonance.md).
+The Heartforge taps into Scalewrought Veins—deep ore deposits infused with ancient [scale](/geography/landmark/scale.md) [magic](/structure/mechanic/magic.md)—extracting Scaleforged Ores that grow stronger over time by absorbing ambient magic from the Heart. These ores, left unworked, bind deeper into their structure with each ARC, transforming functional items into legendary artifacts when forged at their peak. The Heartforge enhances this process, amplifying the ores’ [Resonance](/structure/mechanic/resonance.md).
 
-Durngar Coalmantle made a instruction manual on how to operate the [heartforge](/generated/20250501/forge/heartforge.md) named [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
+Durngar Coalmantle made a instruction manual on how to operate the heartforge named [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md)
 
 ### Scalewrought Veins
 Scalewrought Veins pulse with energy, their minerals altered by the lingering essence of [Irion](/being/deity/irion.md). Found only beneath The [Armour of Or](/geography/scale/armour-of-or.md), they connect directly to the Heart, radiating its influence. The dwarves and the Order refine these into:
@@ -52,13 +52,13 @@ Scalewrought Veins pulse with energy, their minerals altered by the lingering es
 |![soilarium_alloy.png](/world/alloys/soilarium_alloy.png =400x)| Soilarium Alloy   | Earth, Strength, Fire, Arcane, Tranquility, Sound | A gold-tinged ore that hums with subtle energy, blending earthy strength with fiery passion and arcane power.        | - Amplifies strength and fire [magic](/structure/mechanic/magic.md), ideal for warriors and mages.<br>- Emits a calming vibration inducing tranquility, with harmonious sounds that ease tension.<br>- Enhances arcane spells related to fire and earth. |
 
 #### Veilsteel
-A signature product of the [Heartforge](/generated/20250501/forge/heartforge.md), Veilsteel is a lightweight, near-indestructible metal forged from Scalewrought Veins and Memory Shards. Its shimmering surface shifts with faint runes tied to [Irion](/being/deity/irion.md)’s essence:
+A signature product of the Heartforge, Veilsteel is a lightweight, near-indestructible metal forged from Scalewrought Veins and Memory Shards. Its shimmering surface shifts with faint runes tied to [Irion](/being/deity/irion.md)’s essence:
 - Properties: Resists corrosion, absorbs minor magical impacts, and glows briefly when struck.
 - Uses: Blades, armor, and Vigil Tokens—commemorative discs forged during The Vigil of the Deep.
 
 ## History
 ### Origins
-The [Heartforge](/generated/20250501/forge/heartforge.md) arose after The Deepening Fracture (Arc 130), when dwarven tunneling breached a Veil Thread barrier near The [Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md), exposing the Heart’s influence on Scalewrought Veins. The Order proposed the furnace to refine these ores, with [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md) championing its construction despite resistance from Myyra Flatstone.
+The Heartforge arose after The Deepening Fracture (Arc 130), when dwarven tunneling breached a Veil Thread barrier near The [Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md), exposing the Heart’s influence on Scalewrought Veins. The Order proposed the furnace to refine these ores, with [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md) championing its construction despite resistance from Myyra Flatstone.
 
 ### Construction
 Completed over three years, it required:
@@ -67,16 +67,16 @@ Completed over three years, it required:
 - Quartz and onyx from [Triz Valley](/geography/settlement/city/triz-valley.md) to anchor the structure.
 
 ### Evolution
-Initially forging basic Veilsteel, the [Heartforge](/generated/20250501/forge/heartforge.md) adapted to process Scaleforged Ores as miners uncovered richer veins, unlocking the alloys’ potential by Arc 135.
+Initially forging basic Veilsteel, the Heartforge adapted to process Scaleforged Ores as miners uncovered richer veins, unlocking the alloys’ potential by Arc 135.
 
 ## Cultural Significance
-The [Heartforge](/generated/20250501/forge/heartforge.md) is a cornerstone of dwarven identity, revered by Heartsmiths as a sacred tool and celebrated in The Vigil of the Deep, where families forge Vigil Tokens for lost miners. Yet, its reliance on the Heart divides Or—traditionalists decry its foreign influence, while innovators hail it as a new era.
+The Heartforge is a cornerstone of dwarven identity, revered by Heartsmiths as a sacred tool and celebrated in The Vigil of the Deep, where families forge Vigil Tokens for lost miners. Yet, its reliance on the Heart divides Or—traditionalists decry its foreign influence, while innovators hail it as a new era.
 
 ## Notable Figures
-- [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md): Pushed for the [Heartforge](/generated/20250501/forge/heartforge.md)’s creation, seeing it as Or’s legacy.
+- [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md): Pushed for the Heartforge’s creation, seeing it as Or’s legacy.
 - Drenna Coalspike: Council member who, after a forging mishap, claims to sense the Heart’s rhythm.
 - The Threadwalker: A Veiled [Iridian](/being/species/iridian.md) overseeing the Memory Shards’ integration.
 
 ## Risks and Future
-The [Heartforge](/generated/20250501/forge/heartforge.md)’s draw on the Heart risks destabilizing The [Armour of Or](/geography/scale/armour-of-or.md), with tremors hinting at an awakening. The Council of Elders monitors its output, while the Merchants Guild seeks its alloys. The Order believes it could unlock [Irion](/being/deity/irion.md)’s secrets, but at what cost?
+The Heartforge’s draw on the Heart risks destabilizing The [Armour of Or](/geography/scale/armour-of-or.md), with tremors hinting at an awakening. The Council of Elders monitors its output, while the Merchants Guild seeks its alloys. The Order believes it could unlock [Irion](/being/deity/irion.md)’s secrets, but at what cost?
 

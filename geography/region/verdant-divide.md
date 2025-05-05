@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Verdant Divide
 
-The **Verdant Divide** is a fertile and magically volatile valley that runs beneath the overhang of the [Asara Plate](/geography/scale/asara-plate.md). Created by ancient tectonic upheaval during the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), this lush expanse is steeped in ambient [magic](/structure/mechanic/magic.md) runoff and crystalline [resonance](/generated/20250501/resonance/resonance.md) from the shattered [scale](/geography/landmark/scale.md) overhead.
+The **Verdant Divide** is a fertile and magically volatile valley that runs beneath the overhang of the [Asara Plate](/geography/scale/asara-plate.md). Created by ancient tectonic upheaval during the aftermath of [The Collapse](/structure/chronological/event/the-collapse.md), this lush expanse is steeped in ambient [magic](/structure/mechanic/magic.md) runoff and crystalline [resonance](/structure/mechanic/resonance.md) from the shattered [scale](/geography/landmark/scale.md) overhead.
 
 At dawn and dusk, the valley pulses with **kaleidoscopic light**, refracted through the reflective crystals of the Plate above. This has earned it the nickname “The Breathing Garden” among travelers, who say the land itself *inhales the dawn and exhales the dusk*.
 
@@ -25,13 +25,13 @@ At dawn and dusk, the valley pulses with **kaleidoscopic light**, refracted thro
 ## Inhabitants
 
 Few live permanently in the Verdant Divide, but it is heavily traveled by:
-- **Nomadic botanists and [resonance](/generated/20250501/resonance/resonance.md) scholars** studying living terrain.
+- **Nomadic botanists and [resonance](/structure/mechanic/resonance.md) scholars** studying living terrain.
 - **Smugglers and traders** using its curved roads to bypass guardposts near [Umperas Hull](/geography/scale/umperas-hull.md).
 - **Followers of [Irion](/being/deity/irion.md)**, who believe this place is a “weeping wound” in the world’s body, still raw from Irion’s fall.
 
 ## Hazards
 
-- **Surge Pockets:** Zones of unstable [resonance](/generated/20250501/resonance/resonance.md) that unpredictably amplify or nullify [magic](/structure/mechanic/magic.md).
+- **Surge Pockets:** Zones of unstable [resonance](/structure/mechanic/resonance.md) that unpredictably amplify or nullify [magic](/structure/mechanic/magic.md).
 - **Crystallings (⚠️ Non-canon):** Semi-sentient mineral creatures that sprout during flickerstorms and fade by nightfall. Rarely aggressive, but highly reactive to [magic](/structure/mechanic/magic.md) use.
 
 ## Role in Travel

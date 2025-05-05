@@ -35,7 +35,7 @@ He speaks plainly but warmly, choosing words with the same care he uses when car
 
 As **Watchwarden**, Berrun oversees operations across the Hearthring, ensuring patrol rotations, market peacekeeping, and conflict resolutions. He liaises regularly with council aides and civic guilds, and keeps a friendly working relationship with [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) of [the Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md), especially during public health concerns or festival overflows.
 
-Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate. Children wave when they see him; elders know to invite him in when the tea is ready. His presence during the **[Election Festival](/generated/20250501/festival/election-festival.md)** is often accompanied by cheers, veiled bribes in pastry form, and a running tally of how many pies he can eat without flinching.
+Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate. Children wave when they see him; elders know to invite him in when the tea is ready. His presence during the **[Election Festival](/geography/settlement/city/city-of-or/election-festival.md)** is often accompanied by cheers, veiled bribes in pastry form, and a running tally of how many pies he can eat without flinching.
 
 ## Relationships
 

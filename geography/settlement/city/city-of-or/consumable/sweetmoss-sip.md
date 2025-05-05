@@ -35,7 +35,7 @@ Sweetmoss Sip is more than a beverage—it is a quiet **celebration of collabora
 
 It is now a staple in:
 - Hearthring taverns
-- [Election Festival](/generated/20250501/festival/election-festival.md) stalls
+- [Election Festival](/geography/settlement/city/city-of-or/election-festival.md) stalls
 - Orinite homes of every shape and size
 
 Many taverns serve it with a side of bread and a story. No two versions of the story match.
