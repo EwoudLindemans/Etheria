@@ -1,13 +1,11 @@
 ---
-guid: ac5a0a5d-07c7-4595-8da3-993424687d70
 title: Backstory: “Threadbare”
 description: Fragment from Sylieth’s personal journal
 published: 1
-date: 2025-04-14T21:50:26.583Z
+date: 2025-05-06T22:03:52.455Z
 tags: backstory
 editor: markdown
 dateCreated: 2025-04-06T20:24:45.097Z
-parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Backstory: “Threadbare”
