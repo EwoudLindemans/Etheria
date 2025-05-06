@@ -1,9 +1,8 @@
 ---
-guid: d89cc422-9542-4e25-82fb-3d330e1b3ff0
 title: The Graith
 description: 
 published: 1
-date: 2025-04-14T21:44:21.113Z
+date: 2025-05-05T17:56:54.745Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-12T20:36:08.726Z
