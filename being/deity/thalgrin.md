@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:15.048Z
 tags: deity, craftsmanship, endurance, forging
 editor: markdown
 dateCreated: 2025-03-20T21:13:14.382Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 ## **Thalgrin, The Heartbound Smith**  

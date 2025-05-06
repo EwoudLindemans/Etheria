@@ -4,9 +4,10 @@ title: The Ogres of Glutt’thar
 description: 
 published: 1
 date: 2025-04-27T13:55:52.962Z
-tags: ogre, mudshaper
+tags: tribe, ogre, mudshaper
 editor: markdown
 dateCreated: 2025-04-27T13:39:46.281Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Ogres of Glutt’thar

@@ -7,6 +7,7 @@ date: 2025-04-14T21:33:07.060Z
 tags: faction
 editor: markdown
 dateCreated: 2025-04-10T21:26:07.866Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Cult of Dy

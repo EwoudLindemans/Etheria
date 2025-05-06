@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:35.132Z
 tags: tribe
 editor: markdown
 dateCreated: 2025-04-02T21:33:46.916Z
+parent: region=c7737feb-0889-4e79-9b4d-f899fad4a5b3
 ---
 
 # Gurdalk’s Gang

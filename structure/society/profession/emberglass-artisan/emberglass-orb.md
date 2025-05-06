@@ -7,7 +7,7 @@ date: 2025-04-27T13:53:33.378Z
 tags: item
 editor: markdown
 dateCreated: 2025-04-27T13:50:49.794Z
-parent: emberglass=cc4ae0d6-9cfa-44f0-a423-635e7e458df1
+parent: profession=cc4ae0d6-9cfa-44f0-a423-635e7e458df1
 ---
 
 # Emberglass Orbs

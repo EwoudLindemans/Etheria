@@ -7,6 +7,7 @@ date: 2025-04-29T10:15:18.797Z
 tags: soul, tuskbreaker
 editor: markdown
 dateCreated: 2025-04-27T14:13:37.579Z
+parent: region=57e07d00-5365-46b7-bdca-c082d990365f
 ---
 
 # Ashenfang

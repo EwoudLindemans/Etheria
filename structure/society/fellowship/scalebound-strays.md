@@ -7,6 +7,7 @@ date: 2025-04-30T20:19:32.381Z
 tags: fellowship
 editor: markdown
 dateCreated: 2025-04-12T20:53:29.444Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Scalebound Strays

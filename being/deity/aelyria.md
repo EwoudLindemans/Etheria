@@ -7,6 +7,7 @@ date: 2025-04-14T21:44:10.464Z
 tags: deity, night, beauty, arcane
 editor: markdown
 dateCreated: 2025-04-06T20:59:23.137Z
+parent: realm=f5c11b2c-e917-47b7-a226-d79f4c5ecee0
 ---
 
 # Aelyria, The Resonant Veil  

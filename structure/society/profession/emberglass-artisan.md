@@ -4,9 +4,10 @@ title: Emberglass Artisan
 description: 
 published: 1
 date: 2025-04-29T10:08:41.277Z
-tags: emberglass, memory, curse, soul, profession
+tags: profession, emberglass, memory, curse, soul
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Emberglass Artisans – The Keepers of Fire and Memory

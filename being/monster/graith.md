@@ -6,6 +6,7 @@ date: 2025-05-05T17:56:54.745Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-12T20:36:08.726Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Graith – Brine-Souled Seafarers of the Lost Wake

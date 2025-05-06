@@ -7,6 +7,7 @@ date: 2025-04-14T21:30:09.252Z
 tags: deity
 editor: markdown
 dateCreated: 2022-10-22T18:30:43.423Z
+parent: realm=f5c11b2c-e917-47b7-a226-d79f4c5ecee0
 ---
 
 # Dithrir

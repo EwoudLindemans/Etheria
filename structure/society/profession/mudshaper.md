@@ -7,6 +7,7 @@ date: 2025-04-27T12:06:19.805Z
 tags: profession
 editor: markdown
 dateCreated: 2025-03-18T15:01:06.378Z
+parent: tribe=9a78d2d8-cddd-47b4-baf6-0b660eaf6c7d
 ---
 
 # Profession: Mudshaper (Ogre Architects of Living Clay)

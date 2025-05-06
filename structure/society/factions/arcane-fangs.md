@@ -7,6 +7,7 @@ date: 2025-04-14T21:33:08.543Z
 tags: faction
 editor: markdown
 dateCreated: 2025-04-10T21:28:44.324Z
+parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Arcane Fangs
