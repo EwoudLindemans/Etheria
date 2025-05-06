@@ -4,7 +4,7 @@ title: Jarvey
 description: 
 published: 1
 date: 2025-04-14T21:43:56.484Z
-tags: firbolg, writer, bard
+tags: character, firbolg, writer, bard
 editor: markdown
 dateCreated: 2025-04-10T21:39:22.494Z
 ---
