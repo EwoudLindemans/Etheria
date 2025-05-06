@@ -148,6 +148,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/being/monster/graith.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/characters/graith.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/being/species/denslings.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -159,14 +167,6 @@
     <loc>https://wiki.hq.rockycore.com/being/species/etherial.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/species/graith.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/graith.webp</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/being/species/iridian.md</loc>
@@ -201,19 +201,6 @@
     </image:image>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/races/iridia-obsidian-crest-male.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/species/kavrethul.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/being/species/merinari.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/merinari.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1110,5 +1097,13 @@
     <loc>https://wiki.hq.rockycore.com/structure/society/tribe/gurdalks-gang.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiki.hq.rockycore.com/trash/species/merinari.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/characters/merinari.webp</image:loc>
+    </image:image>
   </url>
 </urlset>
