@@ -4,7 +4,7 @@ title: The Ornite Ring
 description: 
 published: 1
 date: 2025-04-14T21:50:50.433Z
-tags: scale
+tags: region, scale
 editor: markdown
 dateCreated: 2023-03-05T22:24:53.247Z
 parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
