@@ -1,7 +1,7 @@
 ---
 guid: 9860c403-e5ad-4c91-ba61-a9134cd07c25
 title: Cirxa
-description: 
+description: Cirxa, the Candle-Eyed Broker, is an enigmatic tiefling dealing in secrets, curses, and unusual bargains in the shadowy corners of Arkona.
 published: 1
 date: 2025-04-14T21:50:25.049Z
 tags: character, tiefling, broker

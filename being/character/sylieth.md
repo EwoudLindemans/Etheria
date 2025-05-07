@@ -1,7 +1,7 @@
 ---
 guid: d0551441-af4d-43c9-8948-148e42b493df
 title: Sylieth
-description: 
+description: Sylieth is a quiet, compassionate Tiefling cleric of Ilmater who carries the weight of suffering for others, offering healing and comfort from a life of hardship in the underbelly of Or.
 published: 1
 date: 2025-04-14T21:44:02.831Z
 tags: character, tiefling, cleric

@@ -1,7 +1,7 @@
 ---
 guid: d13593fc-8957-4330-a937-77cd69459b78
 title: Tuskbreakers
-description: 
+description: Tuskbreakers are orcish artisans who reclaim power from the past by forging brutal weapons and armor from the fossilized remains of colossal creatures and ancient warriors.
 published: 1
 date: 2025-04-27T21:49:13.212Z
 tags: profession

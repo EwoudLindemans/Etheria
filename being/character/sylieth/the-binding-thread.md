@@ -1,7 +1,7 @@
 ---
 guid: b67a5947-b54f-4195-865c-bd8d3daef6a1
 title: The Binding Thread
-description: 
+description: The Binding Thread is a seemingly mundane red cord that serves as a personal relic and spiritual tether for Sylieth, connecting them to the god Ilmater and representing their commitment to mercy.
 published: 1
 date: 2025-04-14T21:44:05.869Z
 tags: item, relic

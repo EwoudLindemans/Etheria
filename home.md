@@ -15,6 +15,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Thalgrin](/being/deity/thalgrin.md) ([deity](/t/deity))
       - [The Graith](/being/monster/graith.md) ([species](/t/species))
       - [Iridian](/being/species/iridian.md) ([species](/t/species))
+        Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
       - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
         - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md) ([region](/t/region))
@@ -26,6 +27,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [Skein of Bones](/geography/region/skein-of-bones.md) ([region](/t/region))
         - [The Ashenfang](/structure/society/clan/ashenfang.md) ([soul](/t/soul))
         - [Tuskbreakers](/structure/society/profession/tuskbreaker.md) ([profession](/t/profession))
+          Tuskbreakers are orcish artisans who reclaim power from the past by forging brutal weapons and armor from the fossilized remains of colossal creatures and ancient warriors.
       - [The Whispering Woods](/geography/region/the-whispering-woods.md) ([region](/t/region))
         - [Velkrin](/being/species/velkrin.md) ([species](/t/species))
       - [Verdant Divide](/geography/region/verdant-divide.md) ([region](/t/region))
@@ -63,6 +65,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
                 - [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md) ([journal](/t/journal))
                   Actual background information about Tallis
               - [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md) ([band](/t/band))
+                The Rusty Pluckers are a legendary, chaotic tavern band known for their raw talent, unpredictable antics, and collaboration with the Tiefling bard, Miss Terry.
               - [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md) ([scroll](/t/scroll))
           - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md) ([street](/t/street))
             Unofficial, unregulated, unforgettable brew-lab alley
@@ -108,6 +111,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [The Ornite Ring](/geography/scale/ornite-ring.md) ([region](/t/region))
       - [Umperas Hull](/geography/scale/umperas-hull.md) ([region](/t/region))
         - [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md) ([city](/t/city))
+          Innerhold Hearthstead is a welcoming city nestled within a colossal, ancient scale, offering refuge and belonging to those seeking escape and community.
         - [The Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md) ([passage](/t/passage))
           - [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) ([academy](/t/academy))
             - [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md) ([office](/t/office))
@@ -157,6 +161,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
 
 ## Uncategorized
 - [Jarvey](/being/character/jarvey.md) ([character](/t/character))
+  Jarvey is a wandering firbolg bard and former noble who now chronicles the forgotten stories of Iridia, seeking to ensure the past doesn't bury the future.
 - [Matt & Bubbles](/being/character/matt.md) ([pirate](/t/pirate))
 - [Nokk the Scale’s Chosen](/being/character/nokk.md) ([character](/t/character))
   Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
@@ -197,6 +202,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
 - [Epic Roll](/structure/mechanic/dice/epic.md) ([mechanic](/t/mechanic))
 - [Paradoxical Roll](/structure/mechanic/dice/paradoxal-recoil.md) ([mechanic](/t/mechanic))
 - [Fracture Link](/structure/mechanic/fracture-link.md) ([event](/t/event))
+  Fracture Link is a rare magical phenomenon enabling resonance and coordination between individuals, often echoes of themselves, through measurable magical frequencies.
 - [Glimmer Drift](/structure/mechanic/glimmer-drift.md) ([phenomenon](/t/phenomenon))
   A subtle magical weather phenomenon born of scale resonance.
 - [Magic](/structure/mechanic/magic.md) ([resonance](/t/resonance))

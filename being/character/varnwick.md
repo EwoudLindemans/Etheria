@@ -1,7 +1,7 @@
 ---
 guid: 5b057648-9f9b-4247-8ee1-d588d3fa1688
 title: Varnwick Twistroot
-description: 
+description: Varnwick "Twistroot" Marnel is an eccentric, root-footed gnome geomancer searching for obscure berries and possibly awakening an ancient power within him.
 published: 1
 date: 2025-04-14T21:50:28.079Z
 tags: character, gnome

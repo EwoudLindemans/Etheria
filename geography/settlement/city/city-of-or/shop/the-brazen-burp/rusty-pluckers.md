@@ -1,7 +1,7 @@
 ---
 guid: df19f5ac-1b4e-4236-8d40-ca0c5239f89a
 title: Rusty Pluckers
-description: 
+description: The Rusty Pluckers are a legendary, chaotic tavern band known for their raw talent, unpredictable antics, and collaboration with the Tiefling bard, Miss Terry.
 published: 1
 date: 2025-04-14T21:45:31.811Z
 tags: band

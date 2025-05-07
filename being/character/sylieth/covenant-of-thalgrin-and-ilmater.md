@@ -1,7 +1,7 @@
 ---
 guid: 122fa2cd-2930-4a1b-949f-6fdb3bcca3e2
 title: Covenant of Thalgrin and Ilmater
-description: 
+description: A covenant allowing Ilmater's healing power to flow through a Tiefling smith, viewed as a tempered cost for creation by the god of craft and endurance, Thalgrin.
 published: 1
 date: 2025-04-14T21:44:04.336Z
 tags: scroll

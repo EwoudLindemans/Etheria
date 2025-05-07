@@ -1,7 +1,7 @@
 ---
 guid: b7a81b9b-a8cf-44f8-8a9e-62d13b0fba8e
 title: Aurelthys
-description: 
+description: Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
 published: 1
 date: 2025-04-14T21:44:11.991Z
 tags: deity, ambition, hierarchy, greed

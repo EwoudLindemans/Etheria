@@ -1,7 +1,7 @@
 ---
 guid: 5353352c-f767-4b1f-8773-1352f37f75b6
 title: Iridian
-description: 
+description: Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
 published: 1
 date: 2025-04-14T21:50:29.642Z
 tags: species

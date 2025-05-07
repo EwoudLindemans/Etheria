@@ -1,7 +1,7 @@
 ---
 guid: 2869beb9-cae9-43c3-a965-2c2cdd62a281
 title: Matt & Bubbles
-description: 
+description: Matt 'The Phantom Swashbuckler' is a charismatic but deceptive rogue haunted by a cursed fortune and a shadowy past, skilled in combat and manipulation.
 published: 1
 date: 2025-04-14T21:31:13.687Z
 tags: pirate, rogue

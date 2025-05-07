@@ -1,7 +1,7 @@
 ---
 guid: 0999ae7c-e6d2-4268-834c-6b543741c905
 title: Innerhold Heartstead
-description: 
+description: Innerhold Hearthstead is a welcoming city nestled within a colossal, ancient scale, offering refuge and belonging to those seeking escape and community.
 published: 1
 date: 2025-04-14T21:51:08.728Z
 tags: city

@@ -1,7 +1,7 @@
 ---
 guid: b0260614-36cd-443b-8ce8-5bded0ea2eb9
 title: Fracture Link
-description: 
+description: Fracture Link is a rare magical phenomenon enabling resonance and coordination between individuals, often echoes of themselves, through measurable magical frequencies.
 published: 1
 date: 2025-04-14T21:46:12.801Z
 tags: event

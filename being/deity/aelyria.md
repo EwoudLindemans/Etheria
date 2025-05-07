@@ -1,7 +1,7 @@
 ---
 guid: 057c9e17-055e-44fa-95b5-8365a67ddf5d
 title: Aelyria
-description: 
+description: Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
 published: 1
 date: 2025-04-14T21:44:10.464Z
 tags: deity, night, beauty, arcane

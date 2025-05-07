@@ -1,7 +1,7 @@
 ---
 guid: 53d528b2-a42e-4737-9b29-c40f166bc2f2
 title: Jarvey
-description: 
+description: Jarvey is a wandering firbolg bard and former noble who now chronicles the forgotten stories of Iridia, seeking to ensure the past doesn't bury the future.
 published: 1
 date: 2025-04-14T21:43:56.484Z
 tags: character, firbolg, writer, bard
