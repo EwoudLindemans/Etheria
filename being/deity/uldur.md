@@ -1,7 +1,7 @@
 ---
 guid: 291fcaf1-9c12-4428-a9ee-9766752b3532
 title: Uldur
-description: 
+description: Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
 published: 1
 date: 2025-04-28T19:55:44.065Z
 tags: deity, balance, earth

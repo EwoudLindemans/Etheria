@@ -1,7 +1,7 @@
 ---
 guid: 31f3a52d-8a67-4b03-8f66-61b5ad7ec112
 title: Heartforge
-description: 
+description: The Heartforge is a sacred and technologically advanced dwarven furnace in Or, responsible for refining rare Scalewrought Ores into powerful alloys like Veilsteel and vital for both dwarven industry and potentially perilous exploration of Irion’s secrets.
 published: 1
 date: 2025-04-14T21:51:01.035Z
 tags: forge

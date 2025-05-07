@@ -1,7 +1,7 @@
 ---
 guid: efcad6bf-0ef2-4ff4-8535-5d6ffaed2e2d
 title: Thalgrin
-description: 
+description: Thalgrin is the dwarven deity of craftsmanship, endurance, and magical forging, revered as the eternal forge-master and patron of the city of Or.
 published: 1
 date: 2025-04-14T21:44:15.048Z
 tags: deity, craftsmanship, endurance, forging

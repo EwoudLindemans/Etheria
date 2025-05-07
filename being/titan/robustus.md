@@ -1,7 +1,7 @@
 ---
 guid: aedc6266-50b2-4006-beff-7a12db717e1c
 title: Robustus
-description: 
+description: Robustus is an ancient, colossal titan of immense strength and resilience, wandering the world in search of purpose and guarding forgotten secrets.
 published: 1
 date: 2025-04-14T21:29:35.691Z
 tags: titan

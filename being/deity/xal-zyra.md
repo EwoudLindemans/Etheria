@@ -1,7 +1,7 @@
 ---
 guid: 6dbd72b6-d3a4-42a9-9ab1-5a1cf79b244e
 title: Xal Zyra
-description: 
+description: Xal'Zyra is the deity of the Dense, shadows, and passage, guiding travelers and seekers through hidden pathways and the shifting realities between worlds.
 published: 1
 date: 2025-04-14T21:44:19.587Z
 tags: deity, the dense, shadow, passage

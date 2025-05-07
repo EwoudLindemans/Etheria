@@ -1,7 +1,7 @@
 ---
 guid: d554202b-f302-420e-943f-95e6cd301d5f
 title: Brother Ienor
-description: 
+description: Brother Ienor is a beloved, serene, and strikingly handsome elven healer leading the Order of the Woven Vein in the City of Or, renowned for his unwavering kindness and legendary ability to ease suffering.
 published: 1
 date: 2025-04-14T21:45:41.065Z
 tag: healer, elf

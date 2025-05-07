@@ -1,7 +1,7 @@
 ---
 guid: d4c93dec-d1da-4e83-aa49-9333b6bdc9c8
 title: Ythrylari
-description: 
+description: The Ythrylari are a tragic, beautiful species born from the metamorphic pressure of the Dense, existing as shimmering echoes between raw instability and transcendent harmony, destined for a final transformation into Iridian beings.
 published: 1
 date: 2025-04-24T20:10:57.215Z
 tags: species

@@ -1,7 +1,7 @@
 ---
 guid: 1280eafc-38e6-4ee8-80f4-30ba505045d0
 title: The Scales
-description: 
+description: In the world of Iridia, scales are immense, magical fragments of a shattered god that reshape reality and anchor civilization.
 published: 1
 date: 2025-04-14T21:50:39.588Z
 tags: scale

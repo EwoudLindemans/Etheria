@@ -1,7 +1,7 @@
 ---
 guid: bc0e6bee-f95e-49bc-89d5-dfc386a7fa23
 title: The Mirrorstep
-description: 
+description: A bard and a mage discover a rift to alternate versions of themselves, leading to the creation of a new being born from resonant magic.
 published: 1
 date: 2025-04-14T21:45:33.348Z
 tags: scroll

@@ -1,7 +1,7 @@
 ---
 guid: 4d381a3f-3262-4c58-b0bb-dc163f84d7ae
 title: Batès Lamina
-description: 
+description: Batès Lamina is a small, radiant red Scale and spiritual center revered by the Followers of Irion for its calming resonance and role as a neutral meeting ground.
 published: 1
 date: 2025-04-14T21:50:46.068Z
 tags: region, scale

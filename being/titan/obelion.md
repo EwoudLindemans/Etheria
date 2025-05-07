@@ -1,7 +1,7 @@
 ---
 guid: 1888b779-56c5-4acc-bdba-4a1e4d196633
 title: Obelion
-description: 
+description: Obelion is a colossal, enigmatic titan of stone, metal, and arcane energy whose very existence defies comprehension and whose power threatens to shatter reality.
 published: 1
 date: 2025-04-14T21:31:07.415Z
 tags: titan

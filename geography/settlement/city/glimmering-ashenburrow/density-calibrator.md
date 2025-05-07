@@ -1,7 +1,7 @@
 ---
 guid: 5cdc0429-be7b-4bbe-86ff-b4c2dc8bc958
 title: Density Calibrator
-description: 
+description: The Density Calibrator, created by Poppy Handyleaf, is a vital device that stabilizes the Glimmering Ashenburrow, a hidden city within The City of Or, by regulating the shifting forces of the compressed realm known as The Dense.
 published: 1
 date: 2025-04-14T21:45:47.193Z
 tags: device

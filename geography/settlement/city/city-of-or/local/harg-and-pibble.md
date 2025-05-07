@@ -1,7 +1,7 @@
 ---
 guid: 723f3a46-b18a-4b95-b5de-bff85c9cb99f
 title: Harg & Pibble
-description: 
+description: Harg and Pibble are a pair of drunken philosophers whose nonsensical debates and profound insights make the Brazen Burp tavern feel like home.
 published: 1
 date: 2025-04-14T21:51:04.144Z
 tags: philosopher, fool, human

@@ -1,7 +1,7 @@
 ---
 guid: 4675d15a-12a5-4bca-8f31-34b4b0fe2394
 title: Umperas Hull
-description: 
+description: Umperas Hull is a vast, curved crystalline Scale in Iridia, notable for its golden color, defensible shape, and role as a major landmark and strategically significant settlement site.
 published: 1
 date: 2025-04-14T21:50:52.605Z
 tags: region, scale

@@ -1,7 +1,7 @@
 ---
 guid: 5cad1505-6363-4e30-b6b2-6b4076f8b8c0
 title: The Anchored
-description: 
+description: The Anchored is the fundamental, ever-present plane of existence in Iridia and Etheria, where resonance shapes reality and all things begin to truly exist.
 published: 1
 date: 2025-04-30T20:55:49.804Z
 tags: realm

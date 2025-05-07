@@ -1,7 +1,7 @@
 ---
 guid: 75aa0a3a-118f-4c36-9f4b-b9853b0ab913
 title: Arkona
-description: 
+description: Arkona is a powerful, heavily defended city in Iridia ruled by the ruthless Lady Arkona, known for its bustling trade and iron-fisted governance.
 published: 1
 date: 2025-04-14T21:44:47.207Z
 tags: city

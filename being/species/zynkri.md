@@ -1,7 +1,7 @@
 ---
 guid: ac2c3426-022f-4195-acb4-69d8dc30dae9
 title: The Zynkri
-description: 
+description: The Zynkri are mischievous, thorn-touched spritelings who act as wardens of the jungle, known for their trickery, botanical magic, and vibrant, clan-based society.
 published: 1
 date: 2025-04-25T18:50:02.984Z
 tags: species

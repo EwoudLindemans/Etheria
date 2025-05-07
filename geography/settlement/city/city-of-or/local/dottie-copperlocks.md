@@ -1,7 +1,7 @@
 ---
 guid: 1389b1c4-f91d-4362-9656-bc2ef1b04b37
 title: Dottie Copperlocks
-description: 
+description: Dottie Copperlocks is a reclusive, eccentric dwarven scribe and former legal scholar who runs the Inkblot Bindery, weaving a network of informants and possessing unsettling knowledge of power, secrets, and the Oblique Concord.
 published: 1
 date: 2025-04-14T21:45:13.369Z
 tags: local, merchant, scribe

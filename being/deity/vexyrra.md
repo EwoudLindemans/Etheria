@@ -1,7 +1,7 @@
 ---
 guid: 620cc0f7-9129-429a-8320-6f067c5922f1
 title: Vexyrra
-description: 
+description: Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
 published: 1
 date: 2025-04-14T21:44:18.044Z
 tags: deity, resonance, creation, song

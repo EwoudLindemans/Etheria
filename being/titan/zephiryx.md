@@ -1,7 +1,7 @@
 ---
 guid: 754b82ff-4a82-4fd2-a02f-699821def10a
 title: Zephiryx
-description: 
+description: Zephiryx is a colossal, avian Titan embodying the fury of storms, possessing immense power and a mysterious past as the last of the Celestial Stormborn.
 published: 1
 date: 2025-04-14T21:31:04.277Z
 tags: titan

@@ -1,7 +1,7 @@
 ---
 guid: 070f6734-aa75-470c-a863-b2e27444d69c
 title: Dolgrin Embervein
-description: 
+description: Dolgrin Embervein, a heretic dwarven sculptor exiled from Or for his controversial art, now lives in Innerhold, quietly refining laws and carving moments into stone.
 published: 1
 date: 2025-04-14T21:51:02.595Z
 tags: local

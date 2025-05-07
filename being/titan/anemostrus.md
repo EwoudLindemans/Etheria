@@ -1,7 +1,7 @@
 ---
 guid: 601dfdea-77b4-4941-8b72-8c77f47ed041
 title: Anemostrus
-description: 
+description: Anemostrus is a colossal, wind-borne titan whose presence shapes the weather and holds ancient secrets within its swirling shell.
 published: 1
 date: 2025-04-14T21:31:05.849Z
 tags: titan

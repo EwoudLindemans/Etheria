@@ -1,7 +1,7 @@
 ---
 guid: 57e07d00-5365-46b7-bdca-c082d990365f
 title: Skein of Bones
-description: 
+description: The Skein of Bones is a vast, desolate region of Iridia, woven from the fossilized remains of ancient leviathans, haunted by a dread being and sought after by orcish clans and a mysterious scholar.
 published: 1
 date: 2025-04-27T14:08:16.758Z
 tags: region

@@ -1,7 +1,7 @@
 ---
 guid: 78e0018a-f84d-4050-8ab9-e6661caf26e4
 title: Velkrin
-description: 
+description: The Velkrin are a singular, diverse species embodying Iridia's will, whose forms shift with instinct, memory, and environment, appearing as countless expressions of wildness.
 published: 1
 date: 2025-04-25T18:23:30.876Z
 tags: species

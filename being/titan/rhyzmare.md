@@ -1,7 +1,7 @@
 ---
 guid: 1246d52a-b190-4b1d-be3c-b437437d857e
 title: Rhyzmare
-description: 
+description: Rhyzmare is a colossal, fluid titan composed of living water and coral, embodying the ocean's immense power and enduring presence.
 published: 1
 date: 2025-04-14T21:31:08.989Z
 tags: titan

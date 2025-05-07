@@ -1,7 +1,7 @@
 ---
 guid: b6823bc3-d583-4cc0-a475-d05ef55eebb1
 title: Conduit Aasimar
-description: 
+description: Conduit Aasimar are divine envoys who act as living anchors for deities, sensing and harmonizing with the shifting faiths of Iridia.
 published: 1
 date: 2025-04-14T21:50:32.705Z
 tags: species

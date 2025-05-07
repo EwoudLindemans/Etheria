@@ -1,7 +1,7 @@
 ---
 guid: 49f89a53-d82e-4247-aba9-996694f0e0b6
 title: The Fargash Gambit
-description: 
+description: The Fargash Gambit was a bold peacekeeping maneuver by Fargash Flatstone, offering refuge to warring soldiers and ultimately ending a bloody conflict through unexpected generosity.
 published: 1
 date: 2025-04-14T21:51:07.225Z
 tags: event

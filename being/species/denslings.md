@@ -1,7 +1,7 @@
 ---
 guid: 5391d3cc-08f0-4667-9c31-7f82d6e91a8e
 title: Denslings
-description: 
+description: Denslings are unsettling, semi-living echoes of trauma formed from the crushing pressures of the Dense, absorbing emotions and magic before occasionally coalescing into tragic, unstable forms.
 published: 1
 date: 2025-04-24T19:29:54.089Z
 tags: creature, ooze, the dense

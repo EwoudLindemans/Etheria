@@ -1,7 +1,7 @@
 ---
 guid: 2903a53a-b638-46ca-a101-c6fc8812a241
 title: Drink: Sweetmoss Sip
-description: 
+description: Sweetmoss Sip is a widely enjoyed, subtly sweet green ale from the City of Or, symbolizing collaboration between orcs and gnomes.
 published: 1
 date: 2025-04-24T23:08:12.683Z
 tags: beverage

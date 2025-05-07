@@ -1,7 +1,7 @@
 ---
 guid: cc75b9d4-df85-47f8-a8bf-3dfae66751a6
 title: Verdant Divide
-description: 
+description: The Verdant Divide is a fertile, magically volatile valley known as 'The Breathing Garden' due to its kaleidoscopic light displays and unstable magical energies.
 published: 1
 date: 2025-04-14T21:50:54.128Z
 tags: region

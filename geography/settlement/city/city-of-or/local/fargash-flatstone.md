@@ -1,7 +1,7 @@
 ---
 guid: 1aae8fdb-3fa6-467b-8bcb-02719ba36500
 title: 🪦 Fargash Flatstone
-description: 
+description: Fargash Flatstone is a politician known for The Fargash Gambit.
 published: 1
 date: 2025-04-24T20:33:13.022Z
 tags: politician

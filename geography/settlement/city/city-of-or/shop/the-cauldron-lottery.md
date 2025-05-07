@@ -1,7 +1,7 @@
 ---
 guid: 98a60763-1f62-4d0b-aa00-40fa1fb81362
 title: The Cauldron Lottery
-description: 
+description: The Cauldron Lottery is a chaotic and beloved potion stall in Or known for its wildly unpredictable brews and the eccentric hobgoblin, Drip, who runs it.
 published: 1
 date: 2025-04-14T21:45:34.903Z
 tags: shop

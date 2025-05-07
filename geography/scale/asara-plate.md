@@ -1,7 +1,7 @@
 ---
 guid: 38b0e138-e795-4f90-a8bf-f8d22052e7b9
 title: Asara Plate
-description: 
+description: The Asara Plate is a magically-infused, fractured landmass providing prosperity to local farmers, though recent tax hikes and corruption rumors are causing unrest.
 published: 1
 date: 2025-04-14T21:50:43.909Z
 tags: region, scale

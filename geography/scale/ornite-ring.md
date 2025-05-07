@@ -1,7 +1,7 @@
 ---
 guid: 93469731-eaa0-4f13-beb0-6c17a30d185f
 title: The Ornite Ring
-description: 
+description: The Ornite Ring is a magical, time-slowing structure orbiting a world, offering a unique perspective but posing dangers from breaches in its protective field.
 published: 1
 date: 2025-04-14T21:50:50.433Z
 tags: region, scale

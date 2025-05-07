@@ -1,7 +1,7 @@
 ---
 guid: ae3131f5-9604-4f30-a9f8-00d80d14f324
 title: The Inkblot Bindery
-description: 
+description: Tucked away in a forgotten alley, The Inkblot Bindery is a bizarre bookstore and hidden archive brimming with forgotten histories and unsettling coincidences.
 published: 1
 date: 2025-04-14T21:45:37.952Z
 tags: shop

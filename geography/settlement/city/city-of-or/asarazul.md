@@ -1,7 +1,7 @@
 ---
 guid: da7cabf2-3660-42f0-bdaa-02fc25b05f80
 title: Asarazul
-description: 
+description: Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
 published: 1
 date: 2025-04-14T21:50:57.890Z
 tags: gem, scale, artifact, item

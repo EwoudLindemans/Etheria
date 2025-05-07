@@ -1,7 +1,7 @@
 ---
 guid: 07aef3a4-a9b5-41a6-99a0-397d0021fdc8
 title: Gor’Thuun
-description: 
+description: Gor’Thuun is an ancient, nature-woven titan who serves as a powerful guardian of the wilds, capable of unleashing the wrath of the natural world upon those who threaten it.
 published: 1
 date: 2025-04-14T21:31:02.690Z
 tags: titan

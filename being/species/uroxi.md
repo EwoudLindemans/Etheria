@@ -1,7 +1,7 @@
 ---
 guid: 0ea2f7e6-70b6-495c-a027-ac093844e8a9
 title: The Uroxi
-description: 
+description: The Uroxi are a curious, bioluminescent species dwelling deep beneath the Asara Plate, known for their light-bending abilities and optimistic outlook.
 published: 1
 date: 2025-04-15T20:35:51.306Z
 tags: species, subterranean, luminescent, uroxi

@@ -1,7 +1,7 @@
 ---
 guid: 93d8bf62-6742-42ce-a34a-5d362fdf6911
 title: Vorr’Gul
-description: 
+description: Vorr’Gul is a gargantuan, storm-forged titan embodying untamed elemental fury, capable of unleashing devastating lightning attacks and manipulating the weather itself.
 published: 1
 date: 2025-04-14T21:31:01.113Z
 tags: titan

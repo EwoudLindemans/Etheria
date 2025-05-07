@@ -1,7 +1,7 @@
 ---
 guid: 78fc76a6-a837-408d-b93b-1f1c62447bcc
 title: Etherials
-description: 
+description: Etherials are small, winged, light-emitting creatures known for their powerful magic and generally peaceful nature.
 published: 1
 date: 2025-04-14T21:30:18.109Z
 tags: species

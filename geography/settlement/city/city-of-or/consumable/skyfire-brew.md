@@ -1,7 +1,7 @@
 ---
 guid: 3ec71fa8-a9c7-4949-921e-b4235bafd589
 title: Drink: Skyfire Brew
-description: 
+description: Skyfire Brew is a rare, shimmering beverage from Morakai's volcanic regions, temporarily enhancing physical abilities and rumored to grant limited geothermal manipulation.
 published: 1
 date: 2025-04-24T23:08:12.683Z
 tags: beverage

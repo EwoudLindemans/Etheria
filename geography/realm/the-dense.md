@@ -1,7 +1,7 @@
 ---
 guid: d258c794-e9d0-4d35-8917-db5703d3fda3
 title: The Dense
-description: 
+description: The Dense is a treacherous realm in Iridia, a compressed space defying logic and teeming with danger, where space is squeezed at a 1:500 ratio and survival demands constant vigilance.
 published: 1
 date: 2025-04-22T21:16:57.891Z
 tags: realm

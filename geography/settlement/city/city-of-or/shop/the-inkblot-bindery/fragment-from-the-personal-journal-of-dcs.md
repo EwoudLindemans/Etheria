@@ -1,7 +1,7 @@
 ---
 guid: cd3e009e-aa22-4c0c-aaf1-5095348719b9
 title: Fragment from the Personal Journal of D.C.S.
-description: 
+description: A fragmented journal entry reveals a cartographer's paranoid investigation into a shadowy organization called the Concord, which subtly manipulates events and erases memories.
 published: 1
 date: 2025-04-14T21:32:07.719Z
 tags: journal

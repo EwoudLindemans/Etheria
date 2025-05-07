@@ -1,7 +1,7 @@
 ---
 guid: e89ff377-4d79-4d02-9a91-ec4acf626c24
 title: Eldeviérs Shell
-description: 
+description: A colossal, opal-green dome covered in hexagonal scales, the Eldeviérs Shell houses the magical city of Mohinders and may be harboring a growing corruption.
 published: 1
 date: 2025-04-14T21:50:48.228Z
 tags: region, scale

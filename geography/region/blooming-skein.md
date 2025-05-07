@@ -1,7 +1,7 @@
 ---
 guid: 9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 title: The Blooming Skein
-description: 
+description: The Blooming Skein is a breathtakingly beautiful landscape where life and memory intertwine with the skeletal remains of colossal beasts, creating a sacred and eternally renewing ecosystem.
 published: 1
 date: 2025-04-27T14:07:02.381Z
 tags: region

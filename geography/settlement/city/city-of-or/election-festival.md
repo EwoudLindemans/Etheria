@@ -1,7 +1,7 @@
 ---
 guid: b8c25613-3e5d-4497-8c7a-5eb8b0c4fe28
 title: The Election Festival of Or
-description: 
+description: The Election Festival in Or is a chaotic and uniquely Orish tradition where leaders are chosen through a blend of satirical contests, public mockery, and surprising outcomes, reflecting the city's embrace of absurdity and flawed humanity.
 published: 1
 date: 2025-04-14T21:45:02.539Z
 tags: election, festival, tradition

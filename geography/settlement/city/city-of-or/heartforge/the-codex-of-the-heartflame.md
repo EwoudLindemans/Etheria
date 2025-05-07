@@ -1,7 +1,7 @@
 ---
 guid: 9ba40adf-9c57-4fdd-88a1-5d3806a06d28
 title: The Codex of the Heartflame
-description: 
+description: A master's guide detailing the intricate process of Harthrûn Metallurgy and the Rite of the Heartflame, a crucial craft for forging powerful artifacts within the Heartforge.
 published: 1
 date: 2025-04-14T21:45:10.285Z
 tags: guide, scroll

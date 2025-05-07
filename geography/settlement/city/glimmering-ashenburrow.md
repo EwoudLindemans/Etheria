@@ -1,7 +1,7 @@
 ---
 guid: 627b3d85-ea6e-44b2-b059-03ca394999d1
 title: Glimmering Ashenburrow
-description: 
+description: Tucked between the halls of dwarven civilization, The Glimmering Ashenburrow is an impossible city of compressed space, hidden wonders, and forgotten souls.
 published: 1
 date: 2025-04-14T21:45:45.670Z
 tags: city

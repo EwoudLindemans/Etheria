@@ -1,7 +1,7 @@
 ---
 guid: 43233b74-a64f-434e-8d70-0e9bf64b286e
 title: Armour of Or
-description: 
+description: The Armour of Or is a massive, lowest-reaching scale, excavated by the Flatstone family, which channels geothermal energy and connects to the earth's core, harboring the dwarven City of Or beneath it.
 published: 1
 date: 2025-04-14T21:50:41.119Z
 tags: region, scale

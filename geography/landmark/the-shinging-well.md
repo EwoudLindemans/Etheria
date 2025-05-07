@@ -1,7 +1,7 @@
 ---
 guid: d01be614-3fe2-4ab9-9fed-a907a74f3436
 title: The Shinging Well
-description: 
+description: A vital, yet dangerous, well near a desert outpost is plagued by rumors of a lurking, invisible stalker and a collapsed planar connection.
 published: 1
 date: 2025-04-14T21:30:04.857Z
 tags: landmark

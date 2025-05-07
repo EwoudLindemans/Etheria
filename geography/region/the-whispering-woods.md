@@ -1,7 +1,7 @@
 ---
 guid: 664d8b48-0180-46f3-b18b-0a5f0fddc7bc
 title: The Whispering Woods
-description: 
+description: The Whispering Woods is a vast, magically unstable forest in Iridia, teeming with unpredictable flora, fauna, and the potential for ancient power.
 published: 1
 date: 2025-04-25T18:23:30.876Z
 tags: region, forrest

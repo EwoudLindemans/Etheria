@@ -1,7 +1,7 @@
 ---
 guid: f1a4fb50-5e2c-4659-994d-ffaaa4514c55
 title: Drip
-description: 
+description: Drip is a quirky, chaos-embracing hobgoblin alchemist in Or, known for his unpredictable potions and the infamous 'Debating the Turnip' incident.
 published: 1
 date: 2025-04-14T21:45:36.439Z
 tags: hobgoblin, alchemist, potion, merchant

@@ -1,7 +1,7 @@
 ---
 guid: 7038ee8b-0e08-4420-962f-0cd33e50cf59
 title: Mistveil Marshes
-description: 
+description: The Mistveil Marshes are a sprawling, misty morass inhabited by the patient Mudshapers and the surprisingly wise Ogres of Glutt’thar, where strength lies in resilience and listening to the land.
 published: 1
 date: 2025-04-27T13:37:10.438Z
 tags: region

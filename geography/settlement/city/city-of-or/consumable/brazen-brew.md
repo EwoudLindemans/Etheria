@@ -1,7 +1,7 @@
 ---
 guid: fef5d939-cafc-4beb-aadc-b0c44ed0fec1
 title: Drink: The Brazen Brew
-description: 
+description: The Brazen Brew is a legendary and unpredictable drink from the City of Or, accidentally created during a chaotic tavern brawl and known for its varied and often wild effects.
 published: 1
 date: 2025-04-24T23:07:59.822Z
 tags: beverage

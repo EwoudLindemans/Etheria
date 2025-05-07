@@ -1,7 +1,7 @@
 ---
 guid: 48227406-1773-4f52-8bcd-9e4df1878fce
 title: The Threefold Bloom
-description: 
+description: The Threefold Bloom explores the Ythrylari's destiny to transform into Iridians through a process of harmonic dissonance and intentional decay, becoming a physical manifestation of meaning born from the Dense.
 published: 1
 date: 2025-04-24T19:19:06.321Z
 tags: anchoring

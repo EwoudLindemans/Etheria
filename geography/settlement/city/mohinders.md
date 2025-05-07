@@ -1,7 +1,7 @@
 ---
 guid: 23673ba2-6e63-4565-ad58-2759f4179c04
 title: Mohinders Spire
-description: 
+description: Mohinders is a magically divided city where physical proximity masks a fractured society, separated by restricted portals and simmering tensions between the controlling Council and the rebellious Veilbreakers.
 published: 1
 date: 2025-04-14T21:51:10.349Z
 tags: city
