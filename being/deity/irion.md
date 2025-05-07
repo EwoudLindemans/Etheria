@@ -1,13 +1,11 @@
 ---
-guid: 581961b4-1a14-4822-89f4-574c6bec3f7d
 title: Irion
-description: 
+description: A primordial force whose cataclysmic descent birthed Iridia
 published: 1
-date: 2025-04-29T10:23:45.334Z
-tags: creator, deity, event, transformation, cataclysm, resonance
+date: 2025-05-06T22:04:57.913Z
+tags: cataclysm, creator, deity, event, resonance, transformation
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Irion, The Fallen Titan

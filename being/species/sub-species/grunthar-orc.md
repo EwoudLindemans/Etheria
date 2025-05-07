@@ -1,13 +1,11 @@
 ---
-guid: 0a0e00bf-9b80-4e3f-b7d8-8f0bb742dfab
 title: Grunthar Orc
-description: 
+description: The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
 published: 1
-date: 2025-04-27T21:22:58.923Z
+date: 2025-05-07T12:05:32.139Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
-parent: region=9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 ---
 
 # Grunthar Orc
