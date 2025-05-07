@@ -1,7 +1,7 @@
 ---
 guid: 29e0dffd-a102-4709-999f-3706bcad12cb
 title: The Collapse
-description: 
+description: Iridia is a unique, ever-changing world born from the collision of a planet and a magical creature, now brimming with living magic and governed by a Council of Elders.
 published: 1
 date: 2025-04-29T10:25:03.123Z
 tags: event

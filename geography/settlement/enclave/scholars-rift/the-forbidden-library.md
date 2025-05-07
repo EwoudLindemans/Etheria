@@ -1,7 +1,7 @@
 ---
 guid: c9059d3f-6ec8-4397-ba3f-7ca44006e242
 title: The Forbidden Library
-description: 
+description: The Forbidden Library of The Scholar's Rift is a chaotic, magically unstable library where students freely experiment with dangerous spells and books that reset daily, embracing failure as a path to magical discovery.
 published: 1
 date: 2025-04-14T21:45:59.631Z
 tags: library

@@ -1,7 +1,7 @@
 ---
 guid: 5dbad216-17f4-4e82-9b64-1706016f0cae
 title: The Ashenfang
-description: 
+description: The Ashenfang are a corrupted Orc and Dragonborn splinter group seeking to dominate the Skein of Bones by weaponizing death and binding souls into an unstoppable army.
 published: 1
 date: 2025-04-29T10:15:18.797Z
 tags: soul, tuskbreaker

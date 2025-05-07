@@ -1,7 +1,7 @@
 ---
 guid: 145d7ce3-7ce5-4c32-8b4b-4782a1da814c
 title: The Cult of Dy
-description: 
+description: The Cult of Dy is a faction within a world, likely involved in worship or devotion to a figure or entity named Dy.
 published: 1
 date: 2025-04-14T21:33:07.060Z
 tags: faction

@@ -1,7 +1,7 @@
 ---
 guid: 3c632350-394e-4975-b4ea-cda5e1914af5
 title: The Rusted Thaumaturge
-description: 
+description: A chilling tale of a reanimated mage, twisted and corrupted into an undead threat.
 published: 1
 date: 2025-04-14T21:33:01.164Z
 tags: zombie, undead, human, mage

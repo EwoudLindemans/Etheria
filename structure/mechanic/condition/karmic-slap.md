@@ -1,7 +1,7 @@
 ---
 guid: dad8cf75-c18d-4982-81b3-15bad4e44ace
 title: Karmic Slap
-description: 
+description: The Karmic Slap is a consequence mechanic where players face immediate or severe repercussions for selfish or morally questionable actions within the game.
 published: 1
 date: 2025-04-14T21:31:39.824Z
 tags: condition

@@ -1,7 +1,7 @@
 ---
 guid: 52f984a8-ef37-4c35-a866-7327d68690e0
 title: Scholars Rift
-description: 
+description: This is a whimsical look at the magical Scholar's Rift, detailing the rigorous Ascension Exams, quirky student personalities, and the constant pursuit of mastering Resonance.
 published: 1
 date: 2025-04-14T21:45:58.122Z
 tags: academy

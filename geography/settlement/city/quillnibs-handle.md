@@ -1,7 +1,7 @@
 ---
 guid: 4c494a48-d453-4cc2-a6e6-38e3fd303424
 title: Quillnib’s Handle
-description: 
+description: Quillnib's Handle is a sprawling, navigable goblin metropolis built around a sentient book, the Book of Doors, which governs its labyrinthine pathways and districts.
 published: 1
 date: 2025-04-14T21:31:27.525Z
 tags: city

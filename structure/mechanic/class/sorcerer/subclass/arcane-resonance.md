@@ -1,7 +1,7 @@
 ---
 guid: 120f2cfc-eefd-4f16-87e2-4dca79361201
 title: Arcane Resonance
-description: 
+description: The Arcane Resonance Sorcerer subclass focuses on manipulating and resonating with magical frequencies to adapt spells, disrupt enemies, and absorb energy for potent abilities.
 published: 1
 date: 2025-04-14T21:46:09.754Z
 tags: subclass

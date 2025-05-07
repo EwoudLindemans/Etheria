@@ -1,7 +1,7 @@
 ---
 guid: 42c1a5fb-2fd1-4255-bd5d-62caf05a08cf
 title: Epic Roll
-description: 
+description: Epic Roll is a mechanic that uses two d20s and selects the result furthest from 10, creating a high-risk, high-reward system with peaks at low and high values.
 published: 1
 date: 2025-04-14T21:31:35.217Z
 tags: mechanic

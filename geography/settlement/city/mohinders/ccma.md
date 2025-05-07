@@ -1,7 +1,7 @@
 ---
 guid: c884a2e3-3e3f-44d8-b546-222e546010c4
 title: Councel of Controlled Magical Appliance
-description: 
+description: The Council of Controlled Magical Appliance (CCMA) is the ruling authority responsible for regulating and maintaining the magical energy that powers and protects the city of Mohinders.
 published: 1
 date: 2025-04-14T21:51:11.897Z
 tags: government

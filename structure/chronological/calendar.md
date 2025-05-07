@@ -1,7 +1,7 @@
 ---
 guid: 5799e3ab-4a32-476e-8e59-8893e9ba3292
 title: Calendar
-description: 
+description: The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 published: 1
 date: 2025-04-14T21:51:16.725Z
 tags: history

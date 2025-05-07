@@ -1,7 +1,7 @@
 ---
 guid: 20cf539c-c708-49f3-801f-55a5735d7041
 title: Deity
-description: 
+description: In Iridia, deities are fluid manifestations of collective belief, constantly shifting and evolving in response to the people's desires and guided by the cosmic balance of Irion's Will.
 published: 1
 date: 2025-04-14T21:51:18.231Z
 tags: deity

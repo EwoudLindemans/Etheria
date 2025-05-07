@@ -1,7 +1,7 @@
 ---
 guid: 51cb0956-964b-4468-9110-ff517e8446bb
 title: Shriekbeak
-description: 
+description: A bird-like undead creature that serves as a familiar.
 published: 1
 date: 2025-04-14T21:33:05.583Z
 tags: bird, creature, undead, familiar

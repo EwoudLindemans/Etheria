@@ -1,7 +1,7 @@
 ---
 guid: 5fe74743-ab29-4d47-9b9d-75e638c77851
 title: Magic
-description: 
+description: Magic in Iridia is a chaotic, remnant force stemming from a shattered divine being, embedded in the world and posing a constant risk of corruption and instability.
 published: 1
 date: 2025-04-14T21:51:21.324Z
 tags: resonance

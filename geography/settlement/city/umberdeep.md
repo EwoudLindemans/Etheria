@@ -1,7 +1,7 @@
 ---
 guid: 22c5c624-5d8e-4678-96f7-eeb5c3f23fae
 title: Umberdeep
-description: 
+description: Umberdeep is the sacred, spiraling subterranean city of the Uroxi, a communal stronghold carved deep within a massive cavern and steeped in tradition and echoing history.
 published: 1
 date: 2025-04-21T22:25:09.186Z
 tags: city

@@ -1,7 +1,7 @@
 ---
 guid: 8d522642-c55b-49ac-b859-0cee9714edd9
 title: The Obsession of Vorelith
-description: 
+description: A campaign setting where players must navigate a growing magical crisis caused by a sorcerer's obsession with a dangerous extradimensional realm called the Dense and its denizens, the Denslings.
 published: 1
 date: 2025-04-14T21:45:55.017Z
 tags: campaign

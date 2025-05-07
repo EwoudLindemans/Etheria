@@ -1,7 +1,7 @@
 ---
 guid: 4d74c553-61e4-42e6-91dd-843debaed6ac
 title: The Unstable Grounds
-description: 
+description: A dangerous training area where unpredictable magical effects like shifting gravity, time loops, and random launches create chaotic learning opportunities.
 published: 1
 date: 2025-04-14T21:30:31.833Z
 tags: area

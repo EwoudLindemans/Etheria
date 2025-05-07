@@ -1,7 +1,7 @@
 ---
 guid: e3acbcda-e2d8-4629-9600-651af2c929c0
 title: Carefull Roll
-description: 
+description: Carefull Roll modifies d20 rolls by using two dice and choosing the result closest to 10, promoting consistency and reducing extreme outcomes.
 published: 1
 date: 2025-04-22T00:58:18.160Z
 tags: mechanic

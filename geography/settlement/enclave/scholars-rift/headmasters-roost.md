@@ -1,7 +1,7 @@
 ---
 guid: 350b2d0b-f6cd-4e17-bfc4-aa4a623b08a2
 title: Headmasters Roost
-description: 
+description: The Headmaster's Roost is a tall tower serving as the chaotic, paperwork-filled headquarters of the Rift's surprisingly effective, albeit unqualified, leader, Barty Dunderfield.
 published: 1
 date: 2025-04-14T21:30:36.398Z
 tags: office

@@ -1,7 +1,7 @@
 ---
 guid: c4460d2b-24e4-4ce5-9347-a8b99c11b4fb
 title: Paradoxical Roll
-description: 
+description: Paradoxical Recoil is a condition causing unpredictable consequences when making checks, requiring a double d20 roll and triggering bizarre effects on matching results.
 published: 1
 date: 2025-04-14T21:31:32.197Z
 tags: mechanic

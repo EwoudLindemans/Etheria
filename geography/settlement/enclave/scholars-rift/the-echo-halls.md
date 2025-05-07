@@ -1,7 +1,7 @@
 ---
 guid: 5c1e8659-6474-4ad4-87af-b38892fe2e76
 title: The Echo Halls
-description: 
+description: The Echo Halls are a shifting maze of dorms, classrooms, and study halls where students experience uniquely chaotic and magically-infused lives due to its unpredictable Echo System.
 published: 1
 date: 2025-04-14T21:30:33.335Z
 tags: room
