@@ -1,7 +1,7 @@
 ---
 guid: 4c1bad0f-d2ee-4e4d-a484-cdf9c6b0c3f6
 title: Mud Shaper
-description: 
+description: Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
 published: 1
 date: 2025-04-27T12:06:19.805Z
 tags: profession

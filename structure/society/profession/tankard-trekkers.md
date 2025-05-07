@@ -1,7 +1,7 @@
 ---
 guid: 7b571903-f19e-41d2-8ff9-e3dd581a2219
 title: Tankard Trekkers
-description: 
+description: Tankard Trekkers are licensed halfling adventurers who roam Iridia, judging taverns, preserving stories, and settling disputes with ale and song.
 published: 1
 date: 2025-04-14T21:51:29.061Z
 tags: profession

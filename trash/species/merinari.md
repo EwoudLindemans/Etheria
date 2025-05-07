@@ -1,6 +1,6 @@
 ---
 title: Merinari
-description: 
+description: The Merinari are a hauntingly beautiful, displaced species from a lost realm whose mere presence nullifies magic, leaving them adrift in a world they struggle to belong to.
 published: 1
 date: 2025-05-05T18:06:59.738Z
 tags: species

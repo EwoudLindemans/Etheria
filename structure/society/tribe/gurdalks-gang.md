@@ -1,7 +1,7 @@
 ---
 guid: 5d18ef20-9f7d-4916-a0b8-d56d0c347411
 title: Gurdalk's Gang
-description: 
+description: Gurdalk’s Gang is a legendary goblin tribe known for their theatrical traps, unpredictable ambushes, and mastery of guerrilla warfare within the treacherous Mountains of Triz.
 published: 1
 date: 2025-04-14T21:44:35.132Z
 tags: tribe

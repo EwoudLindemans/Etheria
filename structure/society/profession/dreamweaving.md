@@ -1,7 +1,7 @@
 ---
 guid: d988ba35-2f3f-4886-a39a-827d6e7ec7ec
 title: Dreamweaving
-description: 
+description: Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
 published: 1
 date: 2025-04-14T21:46:24.912Z
 tags: profession

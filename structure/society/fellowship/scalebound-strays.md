@@ -1,7 +1,7 @@
 ---
 guid: f825a1e2-d603-4f5a-8781-89ca648a64d9
 title: The Scalebound Strays
-description: 
+description: The Scale-Bound Strays are a chaotic group of magical misfits who stumble into ancient secrets and resolve them with a mix of brilliance and accidental destruction.
 published: 1
 date: 2025-04-30T20:19:32.381Z
 tags: fellowship

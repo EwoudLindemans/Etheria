@@ -1,7 +1,7 @@
 ---
 guid: 263eeef0-5c75-41fd-ab7c-e872637a440c
 title: Hexbit Mechanics
-description: 
+description: Hexbit Mechanics are artisans who blend mechanical precision with arcane energy to craft magical calculation devices called Hexbits, capable of feats of logic, prediction, and data storage.
 published: 1
 date: 2025-04-14T21:46:33.726Z
 tags: profession

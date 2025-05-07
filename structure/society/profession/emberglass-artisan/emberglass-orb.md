@@ -1,7 +1,7 @@
 ---
 guid: 4bf41615-0026-4ef0-8980-b39b1ebe0ce1
 title: Emberglass Orbs
-description: 
+description: Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
 published: 1
 date: 2025-04-27T13:53:33.378Z
 tags: item

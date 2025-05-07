@@ -1,7 +1,7 @@
 ---
 guid: 1ff2563e-9cb3-40a1-aacd-4baceca7d2f3
 title: Harthrûn Metallurgy
-description: 
+description: Harthrûn Metallurgy is an ancient dwarven craft that blends unparalleled craftsmanship with magical resonance to forge legendary artifacts imbued with the power of the Heartforge.
 published: 1
 date: 2025-04-14T21:46:31.528Z
 tags: profession

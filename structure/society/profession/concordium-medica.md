@@ -1,7 +1,7 @@
 ---
 guid: 5e629bf1-94ea-4ae7-8363-5a57541639f8
 title: The Concordium Medica
-description: 
+description: The Concordium Medica are ancient Tiefling physicians who heal in exchange for vows, knowledge, neutrality, or sacrifices, enforcing a cosmic balance with every act of mercy.
 published: 1
 date: 2025-04-14T21:51:27.526Z
 tags: profession, healer

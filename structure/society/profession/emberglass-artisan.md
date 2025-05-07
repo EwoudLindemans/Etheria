@@ -1,7 +1,7 @@
 ---
 guid: cc4ae0d6-9cfa-44f0-a423-635e7e458df1
 title: Emberglass Artisan
-description: 
+description: Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
 published: 1
 date: 2025-04-29T10:08:41.277Z
 tags: profession, emberglass, memory, curse, soul
