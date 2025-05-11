@@ -6,6 +6,7 @@ date: 2025-05-06T22:03:52.455Z
 tags: backstory
 editor: markdown
 dateCreated: 2025-04-06T20:24:45.097Z
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Backstory: “Threadbare”
