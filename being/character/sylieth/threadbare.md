@@ -1,5 +1,15 @@
 ---
 title: Backstory: “Threadbare”
+description: Fragment from Sylieth’s personal journal.
+published: 1
+date: 2025-05-11T18:45:55.333Z
+tags: backstory
+editor: markdown
+dateCreated: 2025-04-06T20:24:45.097Z
+---
+
+---
+title: Backstory: “Threadbare”
 description: Fragment from Sylieth’s personal journal
 published: 1
 date: 2025-05-11T18:44:02.434Z
