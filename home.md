@@ -27,6 +27,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
         - [Triz Valley](/geography/settlement/city/triz-valley.md) ([town](/t/town))
           Small town near the Mountains of Triz, popular amongst travelers.
         - [Gurdalk's Gang](/structure/society/tribe/gurdalks-gang.md) ([tribe](/t/tribe))
+          Gurdalk’s Gang is a legendary goblin tribe known for their theatrical traps, unpredictable ambushes, and mastery of guerrilla warfare within the treacherous Mountains of Triz.
       - [Skein of Bones](/geography/region/skein-of-bones.md) ([region](/t/region))
         The Skein of Bones is a vast, desolate region of Iridia, woven from the fossilized remains of ancient leviathans, haunted by a dread being and sought after by orcish clans and a mysterious scholar.
         - [The Ashenfang](/structure/society/clan/ashenfang.md) ([soul](/t/soul), [tuskbreaker](/t/tuskbreaker))
@@ -112,6 +113,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
             - [The Codex of the Heartflame](/geography/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md) ([guide](/t/guide), [scroll](/t/scroll))
               A master's guide detailing the intricate process of Harthrûn Metallurgy and the Rite of the Heartflame, a crucial craft for forging powerful artifacts within the Heartforge.
             - [Harthrûn Metallurgy](/structure/society/profession/harthrûn-metallurgy.md) ([profession](/t/profession))
+              Harthrûn Metallurgy is an ancient dwarven craft that blends unparalleled craftsmanship with magical resonance to forge legendary artifacts imbued with the power of the Heartforge.
           - [Dolgrin Embervein](/geography/settlement/city/city-of-or/local/dolgrin-embervein.md) ([local](/t/local))
             Dolgrin Embervein, a heretic dwarven sculptor exiled from Or for his controversial art, now lives in Innerhold, quietly refining laws and carving moments into stone.
           - [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md) ([politician](/t/politician), [dwarf](/t/dwarf))
@@ -187,18 +189,27 @@ dateCreated: 2022-01-24T15:40:43.899Z
       - [The Oblique Concord](/structure/society/factions/the-oblique-concord.md) ([organization](/t/organization), [secret](/t/secret), [rumor](/t/rumor))
         A secretive faction born from a single act of defiance.
       - [The Scalebound Strays](/structure/society/fellowship/scalebound-strays.md) ([fellowship](/t/fellowship))
+        The Scale-Bound Strays are a chaotic group of magical misfits who stumble into ancient secrets and resolve them with a mix of brilliance and accidental destruction.
       - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) ([tribe](/t/tribe), [ogre](/t/ogre), [mudshaper](/t/mudshaper))
+        The Ogres of Glutt’thar are gentle Mudshapers who live in harmony with the Mistveil Marshes, revering the slow wisdom of the swamp and carefully guarding its sacred Emberglass Orbs.
         - [Mud Shaper](/structure/society/profession/mudshaper.md) ([profession](/t/profession))
+          Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
       - [The Concordium Medica](/structure/society/profession/concordium-medica.md) ([profession](/t/profession), [healer](/t/healer))
+        The Concordium Medica are ancient Tiefling physicians who heal in exchange for vows, knowledge, neutrality, or sacrifices, enforcing a cosmic balance with every act of mercy.
       - [Dreamweaving](/structure/society/profession/dreamweaving.md) ([profession](/t/profession))
+        Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
       - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) ([profession](/t/profession), [emberglass](/t/emberglass), [memory](/t/memory), [curse](/t/curse), [soul](/t/soul))
+        Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
         - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md) ([item](/t/item))
+          Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
       - [Fizzlemancy](/structure/society/profession/fizzlemancy.md) ([profession](/t/profession))
         A gnomish art blending alchemy, engineering, and enchanted water.
       - [Hexbit Mechanics](/structure/society/profession/hexbit-mechanics.md) ([profession](/t/profession))
+        Hexbit Mechanics are artisans who blend mechanical precision with arcane energy to craft magical calculation devices called Hexbits, capable of feats of logic, prediction, and data storage.
       - [Scroll Binder](/structure/society/profession/scroll-binder.md) ([profession](/t/profession))
         Masters of magical agreements, ensuring fairness and lasting pacts.
       - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md) ([profession](/t/profession))
+        Tankard Trekkers are licensed halfling adventurers who roam Iridia, judging taverns, preserving stories, and settling disputes with ale and song.
   - [The Dense](/geography/realm/the-dense.md) ([realm](/t/realm))
     The Dense is a treacherous realm in Iridia, a compressed space defying logic and teeming with danger, where space is squeezed at a 1:500 ratio and survival demands constant vigilance.
     - [Xal Zyra](/being/deity/xal-zyra.md) ([deity](/t/deity), [the dense](/t/the dense), [shadow](/t/shadow), [passage](/t/passage))
@@ -312,6 +323,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
 - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
   The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
 - [Merinari](/trash/species/merinari.md) ([species](/t/species))
+  The Merinari are a hauntingly beautiful, displaced species from a lost realm whose mere presence nullifies magic, leaving them adrift in a world they struggle to belong to.
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 
