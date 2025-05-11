@@ -7,7 +7,7 @@ date: 2025-04-14T21:50:57.890Z
 tags: gem, scale, artifact, item
 editor: markdown
 dateCreated: 2025-04-02T13:40:05.552Z
-parent: 59408a28-61f9-4883-92bd-922c27813926
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Asarazul

@@ -6,6 +6,7 @@ date: 2025-05-07T12:05:32.139Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
+parent: region=9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 ---
 
 # Grunthar Orc
