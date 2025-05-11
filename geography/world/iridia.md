@@ -1,6 +1,6 @@
 ---
 title: Iridia
-description: 
+description: Iridia is a world shaped by the remnants of a colossal, magical creature, where civilizations have built their lives around enormous, powerful scales and grapple with mysteries orbiting a celestial ring.
 published: 1
 date: 2025-05-11T19:50:11.452Z
 tags: world
