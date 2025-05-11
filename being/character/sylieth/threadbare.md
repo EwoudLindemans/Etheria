@@ -1,6 +1,6 @@
 ---
 title: Threadbare
-description: 
+description: A Tiefling's fragmented backstory reveals a life of survival, unexpected kindness, and a mysterious connection all symbolized by a single thread.
 published: 1
 date: 2025-05-11T19:09:55.579Z
 tags: 

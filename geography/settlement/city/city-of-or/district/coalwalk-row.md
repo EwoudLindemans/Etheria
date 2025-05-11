@@ -7,7 +7,7 @@ date: 2025-04-14T21:44:56.436Z
 tags: district
 editor: markdown
 dateCreated: 2025-03-31T20:52:30.018Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
+parent: street=50940c56-4e2d-4ce7-a570-3e9c865773ee
 ---
 
 # Coalwalk Row
