@@ -6,20 +6,10 @@ date: 2025-05-11T18:59:52.645Z
 tags: backstory
 editor: markdown
 dateCreated: 2025-04-06T20:24:45.097Z
----
-
----
-title: Backstory: Threadbare
-description: Fragment from Sylieths personal journal
-published: 1
-date: 2025-05-11T18:58:02.434Z
-tags: backstory
-editor: markdown
-dateCreated: 2025-04-06T20:24:45.097Z
 parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
-# Backstory: “Threadbare”
+# Backstory: Threadbare
 
 **Author:** [Sylieth](/being/character/sylieth.md)  
 **Location Found:** Personal journal, Red Palm Hall archive copy (non-circulating)  
