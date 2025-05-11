@@ -2,8 +2,8 @@
 title: The Fractured Keep
 description: Xalónthyr, the Concordant Tread, is a divine plane comprised of distinct, material god-territories where travel necessitates navigating the influence and rules of other deities.
 published: 1
-date: 2025-05-11T18:27:06.340Z
-tags: deity, realm
+date: 2025-05-11T18:27:13.457Z
+tags: realm
 editor: markdown
 dateCreated: 2025-04-07T21:52:26.471Z
 ---
