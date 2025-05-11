@@ -16,8 +16,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
       A world created from a collision with a magical creature.
       - [Thalgrin](/being/deity/thalgrin.md) ([deity](/t/deity), [craftsmanship](/t/craftsmanship), [endurance](/t/endurance), [forging](/t/forging))
         Thalgrin is the dwarven deity of craftsmanship, endurance, and magical forging, revered as the eternal forge-master and patron of the city of Or.
-      - [The Graith](/being/monster/graith.md) ([species](/t/species))
-        The Graith are brine-souled seafarers from the Lost Wake, adapted to endure the deepest ocean and tasked with curating the memories of the drowned.
       - [Iridian](/being/species/iridian.md) ([species](/t/species))
         Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
       - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
@@ -54,6 +52,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
               A covenant allowing Ilmater's healing power to flow through a Tiefling smith, viewed as a tempered cost for creation by the god of craft and endurance, Thalgrin.
             - [The Binding Thread](/being/character/sylieth/the-binding-thread.md) ([item](/t/item), [relic](/t/relic))
               The Binding Thread is a seemingly mundane red cord that serves as a personal relic and spiritual tether for Sylieth, connecting them to the god Ilmater and representing their commitment to mercy.
+            - [Backstory: Threadbare](/being/character/sylieth/threadbare.md) ([backstory](/t/backstory))
+              Fragment from Sylieths personal journal.
           - [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) ([government](/t/government))
             The local government of the City of Or.
             - [🪦 Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md) ([politician](/t/politician))
@@ -101,6 +101,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
           - [The Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md) ([tunnel](/t/tunnel))
             An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
           - [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md) ([district](/t/district))
+            Stonehollow is a district within a larger city.
             - [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md) ([library](/t/library), [archive](/t/archive))
               The City of Or Grand Archive and Library
               - [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md) ([halfling](/t/halfling), [librarian](/t/librarian), [scholar](/t/scholar))
@@ -243,8 +244,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Matt 'The Phantom Swashbuckler' is a charismatic but deceptive rogue haunted by a cursed fortune and a shadowy past, skilled in combat and manipulation.
 - [Nokk the Scale’s Chosen](/being/character/nokk.md) ([character](/t/character), [iridian](/t/iridian), [sorcerer](/t/sorcerer))
   Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
-- [Backstory: “Threadbare”](/being/character/sylieth/threadbare.md) ([backstory](/t/backstory))
-  Fragment from Sylieth’s personal journal
 - [Varnwick Twistroot](/being/character/varnwick.md) ([character](/t/character), [gnome](/t/gnome))
   Varnwick "Twistroot" Marnel is an eccentric, root-footed gnome geomancer searching for obscure berries and possibly awakening an ancient power within him.
 - [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
@@ -261,6 +260,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
 - [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
   Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
+- [The Graith](/being/monster/graith.md) ([monster](/t/monster))
+  The Graith are brine-souled seafarers from the Lost Wake, adapted to endure the deepest ocean and tasked with curating the memories of the drowned.
 - [Etherials](/being/species/etherial.md) ([species](/t/species))
   Etherials are small, winged, light-emitting creatures known for their powerful magic and generally peaceful nature.
 - [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md) ([species](/t/species))
