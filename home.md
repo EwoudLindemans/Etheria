@@ -20,6 +20,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
       - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
         The Blooming Skein is a breathtakingly beautiful landscape where life and memory intertwine with the skeletal remains of colossal beasts, creating a sacred and eternally renewing ecosystem.
+        - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
+          The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md) ([region](/t/region))
         The Mistveil Marshes are a sprawling, misty morass inhabited by the patient Mudshapers and the surprisingly wise Ogres of Glutt’thar, where strength lies in resilience and listening to the land.
       - [Mountains of Triz](/geography/region/mountains-of-triz.md) ([region](/t/region), [mountain](/t/mountain))
@@ -54,6 +56,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
               The Binding Thread is a seemingly mundane red cord that serves as a personal relic and spiritual tether for Sylieth, connecting them to the god Ilmater and representing their commitment to mercy.
             - [Threadbare](/being/character/sylieth/threadbare.md) 
               A Tiefling's fragmented backstory reveals a life of survival, unexpected kindness, and a mysterious connection all symbolized by a single thread.
+          - [Asarazul](/geography/settlement/city/city-of-or/asarazul.md) ([gem](/t/gem), [scale](/t/scale), [artifact](/t/artifact), [item](/t/item))
+            Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
           - [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) ([government](/t/government))
             The local government of the City of Or.
             - [🪦 Fargash Flatstone](/geography/settlement/city/city-of-or/local/fargash-flatstone.md) ([politician](/t/politician))
@@ -182,6 +186,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
               A tavern in Scholar’s Rift where magic is strongly discouraged.
             - [The Unstable Grounds](/geography/settlement/enclave/scholars-rift/the-unstable-grounds.md) ([area](/t/area))
               A dangerous training area where unpredictable magical effects like shifting gravity, time loops, and random launches create chaotic learning opportunities.
+      - [Manifistation](/structure/chronological/event/manifestation.md) ([event](/t/event))
+        Manifestation is an event tagged as such.
       - [The Arcane Fangs](/structure/society/factions/arcane-fangs.md) ([faction](/t/faction))
         The Arcane Fangs are a faction within the world, details of which are yet to be defined.
       - [The Cult of Dy](/structure/society/factions/cult-of-dy.md) ([faction](/t/faction))
@@ -268,8 +274,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Etherials are small, winged, light-emitting creatures known for their powerful magic and generally peaceful nature.
 - [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md) ([species](/t/species))
   Conduit Aasimar are divine envoys who act as living anchors for deities, sensing and harmonizing with the shifting faiths of Iridia.
-- [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
-  The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
 - [Ythrylari](/being/species/ythrylari.md) ([species](/t/species))
   The Ythrylari are a tragic, beautiful species born from the metamorphic pressure of the Dense, existing as shimmering echoes between raw instability and transcendent harmony, destined for a final transformation into Iridian beings.
 - [The Zynkri](/being/species/zynkri.md) ([species](/t/species))
@@ -294,14 +298,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
   In the world of Iridia, scales are immense, magical fragments of a shattered god that reshape reality and anchor civilization.
 - [The Shinging Well](/geography/landmark/the-shinging-well.md) ([landmark](/t/landmark))
   A vital, yet dangerous, well near a desert outpost is plagued by rumors of a lurking, invisible stalker and a collapsed planar connection.
-- [Asarazul](/geography/settlement/city/city-of-or/asarazul.md) ([gem](/t/gem), [scale](/t/scale), [artifact](/t/artifact), [item](/t/item))
-  Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) ([orc](/t/orc), [barbarian](/t/barbarian))
   Gorgath the Brute, the Orcish Barbarian
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
-- [Manifistation](/structure/chronological/event/manifestation.md) ([event](/t/event))
-  Manifestation is an event tagged as such.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
   The Arcane Resonance Sorcerer subclass focuses on manipulating and resonating with magical frequencies to adapt spells, disrupt enemies, and absorb energy for potent abilities.
 - [Karmic Slap](/structure/mechanic/condition/karmic-slap.md) ([condition](/t/condition))
