@@ -244,6 +244,20 @@ dateCreated: 2022-01-24T15:40:43.899Z
       Quillnib's Handle is a sprawling, navigable goblin metropolis built around a sentient book, the Book of Doors, which governs its labyrinthine pathways and districts.
   - [The Fractured Keep](/geography/realm/the-fractured-keep.md) ([realm](/t/realm))
     Xalónthyr, the Concordant Tread, is a divine plane comprised of distinct, material god-territories where travel necessitates navigating the influence and rules of other deities.
+    - [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
+      Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+    - [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
+      Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
+    - [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
+      Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
+    - [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
+      Dithrir is a deity, detailed within the realm identified by the GUID f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+    - [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
+      Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+    - [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
+      Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
+    - [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
+      Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
 
 ## Uncategorized
 - [Jarvey](/being/character/jarvey.md) ([character](/t/character), [firbolg](/t/firbolg), [writer](/t/writer), [bard](/t/bard))
@@ -254,20 +268,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
 - [Varnwick Twistroot](/being/character/varnwick.md) ([character](/t/character), [gnome](/t/gnome))
   Varnwick "Twistroot" Marnel is an eccentric, root-footed gnome geomancer searching for obscure berries and possibly awakening an ancient power within him.
-- [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
-  Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-- [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
-  Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
-- [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
-  Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
-- [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
-  Dithrir is a deity, detailed within the realm identified by the GUID f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-- [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
-  Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-- [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
-  Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
-- [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
-  Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
 - [The Graith](/being/monster/graith.md) ([monster](/t/monster))
   The Graith are brine-souled seafarers from the Lost Wake, adapted to endure the deepest ocean and tasked with curating the memories of the drowned.
 - [Etherials](/being/species/etherial.md) ([species](/t/species))
