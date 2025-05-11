@@ -5,6 +5,7 @@ published: 1
 date: 2025-05-11T18:44:02.434Z
 tags: backstory
 editor: markdown
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 dateCreated: 2025-04-06T20:24:45.097Z
 ---
 
