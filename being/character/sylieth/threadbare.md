@@ -1,11 +1,12 @@
 ---
-title: Backstory: “Threadbare”
-description: Fragment from Sylieth’s personal journal.
+title: Backstory: Threadbare
+description: Fragment from Sylieths personal journal
 published: 1
-date: 2025-05-11T18:47:34.536Z
+date: 2025-05-11T18:58:02.434Z
 tags: backstory
 editor: markdown
 dateCreated: 2025-04-06T20:24:45.097Z
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Backstory: “Threadbare”
