@@ -198,6 +198,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         Take what works, consequences be damned
         - [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md) ([bird](/t/bird), [creature](/t/creature), [undead](/t/undead), [familiar](/t/familiar))
           A bird-like undead creature that serves as a familiar.
+        - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
+          The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
         - [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md) ([undead](/t/undead), [human](/t/human))
           The Crowstrider is an undead human entity, likely associated with the faction identified by guid d338254f-45c3-4a7e-8a10-770154f2074a.
         - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md) ([human](/t/human))
@@ -322,8 +324,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Magic in Iridia is a chaotic, remnant force stemming from a shattered divine being, embedded in the world and posing a constant risk of corruption and instability.
 - [Resonance](/structure/mechanic/resonance.md) ([resonance](/t/resonance))
   The magical current that flows from the scales and shapes Iridia.
-- [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
-  The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
 - [Merinari](/trash/species/merinari.md) ([species](/t/species))
   The Merinari are a hauntingly beautiful, displaced species from a lost realm whose mere presence nullifies magic, leaving them adrift in a world they struggle to belong to.
 ## Attributions
