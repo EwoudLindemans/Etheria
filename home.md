@@ -60,34 +60,34 @@ dateCreated: 2022-01-24T15:40:43.899Z
               Fargash Flatstone is a politician known for The Fargash Gambit.
             - [🪦 Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) ([politician](/t/politician), [dwarf](/t/dwarf))
               The founder and first leader of the City of Or.
+          - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md) ([district](/t/district))
+            Loud, proud, working-class heart of Or
+            - [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md) ([tavern](/t/tavern))
+              A Legendary Tavern in The City of Or
+              - [Miss Terry](/being/character/miss-terry.md) ([character](/t/character), [musician](/t/musician), [bard](/t/bard), [thiefling](/t/thiefling), [singer](/t/singer))
+                The embodiment of charm, wit, and endless tales, shrouded in mystery.
+              - [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md) ([beverage](/t/beverage))
+                The Brazen Brew is a legendary and unpredictable drink from the City of Or, accidentally created during a chaotic tavern brawl and known for its varied and often wild effects.
+              - [Drink: Skyfire Brew](/geography/settlement/city/city-of-or/consumable/skyfire-brew.md) ([beverage](/t/beverage))
+                Skyfire Brew is a rare, shimmering beverage from Morakai's volcanic regions, temporarily enhancing physical abilities and rumored to grant limited geothermal manipulation.
+              - [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md) ([beverage](/t/beverage))
+                Sweetmoss Sip is a widely enjoyed, subtly sweet green ale from the City of Or, symbolizing collaboration between orcs and gnomes.
+              - [Harg & Pibble](/geography/settlement/city/city-of-or/local/harg-and-pibble.md) ([philosopher](/t/philosopher), [fool](/t/fool), [human](/t/human))
+                Harg and Pibble are a pair of drunken philosophers whose nonsensical debates and profound insights make the Brazen Burp tavern feel like home.
+              - [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) ([bard](/t/bard), [musician](/t/musician), [half-elf](/t/half-elf), [historian](/t/historian), [poet](/t/poet), [legend](/t/legend))
+                Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
+                - [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) ([item](/t/item))
+                  Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
+                - [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md) ([item](/t/item))
+                  Wondrous Item (unique), legendary, soulbound
+                - [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md) ([journal](/t/journal))
+                  Actual background information about Tallis
+              - [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md) ([band](/t/band))
+                The Rusty Pluckers are a legendary, chaotic tavern band known for their raw talent, unpredictable antics, and collaboration with the Tiefling bard, Miss Terry.
+              - [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md) ([scroll](/t/scroll))
+                A bard and a mage discover a rift to alternate versions of themselves, leading to the creation of a new being born from resonant magic.
           - [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md) ([street](/t/street))
             Unofficial, unregulated, unforgettable brew-lab alley
-            - [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md) ([district](/t/district))
-              Loud, proud, working-class heart of Or
-              - [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md) ([tavern](/t/tavern))
-                A Legendary Tavern in The City of Or
-                - [Miss Terry](/being/character/miss-terry.md) ([character](/t/character), [musician](/t/musician), [bard](/t/bard), [thiefling](/t/thiefling), [singer](/t/singer))
-                  The embodiment of charm, wit, and endless tales, shrouded in mystery.
-                - [Drink: The Brazen Brew](/geography/settlement/city/city-of-or/consumable/brazen-brew.md) ([beverage](/t/beverage))
-                  The Brazen Brew is a legendary and unpredictable drink from the City of Or, accidentally created during a chaotic tavern brawl and known for its varied and often wild effects.
-                - [Drink: Skyfire Brew](/geography/settlement/city/city-of-or/consumable/skyfire-brew.md) ([beverage](/t/beverage))
-                  Skyfire Brew is a rare, shimmering beverage from Morakai's volcanic regions, temporarily enhancing physical abilities and rumored to grant limited geothermal manipulation.
-                - [Drink: Sweetmoss Sip](/geography/settlement/city/city-of-or/consumable/sweetmoss-sip.md) ([beverage](/t/beverage))
-                  Sweetmoss Sip is a widely enjoyed, subtly sweet green ale from the City of Or, symbolizing collaboration between orcs and gnomes.
-                - [Harg & Pibble](/geography/settlement/city/city-of-or/local/harg-and-pibble.md) ([philosopher](/t/philosopher), [fool](/t/fool), [human](/t/human))
-                  Harg and Pibble are a pair of drunken philosophers whose nonsensical debates and profound insights make the Brazen Burp tavern feel like home.
-                - [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) ([bard](/t/bard), [musician](/t/musician), [half-elf](/t/half-elf), [historian](/t/historian), [poet](/t/poet), [legend](/t/legend))
-                  Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
-                  - [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) ([item](/t/item))
-                    Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
-                  - [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md) ([item](/t/item))
-                    Wondrous Item (unique), legendary, soulbound
-                  - [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md) ([journal](/t/journal))
-                    Actual background information about Tallis
-                - [Rusty Pluckers](/geography/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md) ([band](/t/band))
-                  The Rusty Pluckers are a legendary, chaotic tavern band known for their raw talent, unpredictable antics, and collaboration with the Tiefling bard, Miss Terry.
-                - [The Mirrorstep](/geography/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md) ([scroll](/t/scroll))
-                  A bard and a mage discover a rift to alternate versions of themselves, leading to the creation of a new being born from resonant magic.
             - [The Cauldron Lottery](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery.md) ([shop](/t/shop))
               The Cauldron Lottery is a chaotic and beloved potion stall in Or known for its wildly unpredictable brews and the eccentric hobgoblin, Drip, who runs it.
               - [Drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md) ([hobgoblin](/t/hobgoblin), [alchemist](/t/alchemist), [potion](/t/potion), [merchant](/t/merchant))
@@ -98,6 +98,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
                 Dottie Copperlocks is a reclusive, eccentric dwarven scribe and former legal scholar who runs the Inkblot Bindery, weaving a network of informants and possessing unsettling knowledge of power, secrets, and the Oblique Concord.
               - [Fragment from the Personal Journal of D.C.S.](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md) ([journal](/t/journal))
                 A fragmented journal entry reveals a cartographer's paranoid investigation into a shadowy organization called the Concord, which subtly manipulates events and erases memories.
+            - [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md) ([shop](/t/shop))
+              A Reputable Laboratory
           - [The Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md) ([tunnel](/t/tunnel))
             An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
           - [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md) ([district](/t/district))
@@ -296,8 +298,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) ([orc](/t/orc), [barbarian](/t/barbarian))
   Gorgath the Brute, the Orcish Barbarian
-- [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md) ([shop](/t/shop))
-  A Reputable Laboratory
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Manifistation](/structure/chronological/event/manifestation.md) ([event](/t/event))

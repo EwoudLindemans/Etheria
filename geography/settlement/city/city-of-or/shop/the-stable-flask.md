@@ -7,7 +7,7 @@ date: 2025-04-14T21:45:42.597Z
 tags: shop
 editor: markdown
 dateCreated: 2025-04-04T14:06:53.152Z
-parent: region:50940c56-4e2d-4ce7-a570-3e9c865773ee
+parent: region=50940c56-4e2d-4ce7-a570-3e9c865773ee
 ---
 
 # The Stable Flask
