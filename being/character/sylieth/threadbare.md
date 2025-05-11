@@ -6,6 +6,7 @@ date: 2025-05-11T19:09:55.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-11T19:09:36.050Z
+parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Backstory: Threadbare
