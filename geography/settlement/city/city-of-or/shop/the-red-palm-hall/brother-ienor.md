@@ -16,7 +16,7 @@ parent: infirmary=e112e23a-8f38-4808-9e2f-fecc89dae088
 **Race:** Elf  
 **Affiliation:** Order of the Woven Vein  
 **Role:** Lead Healer of [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md)  
-**Residence:** Stonehollow District, The [City of Or](/geography/settlement/city/city-of-or.md)  
+**Residence:** [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md) District, The [City of Or](/geography/settlement/city/city-of-or.md)  
 **Notable Traits:** Celibate, strikingly handsome, ancient calm, unshakably kind
 **Nickname(s):** "The Palm of Mercy" (colloquial), "The Saint Who Blushes Not" (poetic)
 
@@ -48,7 +48,7 @@ His composure under flirtation has become the subject of many tales: it is said 
 
 ## Role at the Red Palm Hall
 
-As the lead healer, Ienor oversees treatment, spiritual counselling, magical affliction diagnosis, and the training of new acolytes. The **Red Palm Hall**, nestled in the **Stonehollow** district, is a sanctuary of calm red light and flowing water, its architecture designed to feel like a place outside of time. Under his care, it has become one of the most trusted institutions in Or.
+As the lead healer, Ienor oversees treatment, spiritual counselling, magical affliction diagnosis, and the training of new acolytes. The **Red Palm Hall**, nestled in the **[Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md)** district, is a sanctuary of calm red light and flowing water, its architecture designed to feel like a place outside of time. Under his care, it has become one of the most trusted institutions in Or.
 
 He is often seen late into the night, tending to patients others have given up on, whispering ancient elven prayers over the fevered and forgotten.
 

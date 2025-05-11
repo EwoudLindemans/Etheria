@@ -7,11 +7,12 @@ date: 2025-04-14T21:51:05.679Z
 tags: library, archive
 editor: markdown
 dateCreated: 2025-04-08T08:23:40.268Z
+parent: district=e80c29f1-ab1a-48d1-a14a-03e13aa686d2
 ---
 
 # Runehollow Hall
 
-**Runehollow Hall** is the oldest and most revered Grand Archive and Library in the [City of Or](/geography/settlement/city/city-of-or.md). Carved into the stone just beyond the gates of the Undercity and directly across from the entrance into Stonehollow, this great archive was created to preserve the city’s written legacy. Built by dwarves in honour of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) himself, it stands as a monument to knowledge, craftsmanship, and the enduring power of memory.
+**Runehollow Hall** is the oldest and most revered Grand Archive and Library in the [City of Or](/geography/settlement/city/city-of-or.md). Carved into the stone just beyond the gates of the Undercity and directly across from the entrance into [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md), this great archive was created to preserve the city’s written legacy. Built by dwarves in honour of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md) himself, it stands as a monument to knowledge, craftsmanship, and the enduring power of memory.
 
 Unlike the chaotic brilliance of gnomish design or the fluid grace of elven scriptoria, Runehollow is *sturdy*, *structured*, and *sacred*. It contains volumes on mining, engineering, metallurgy, rune-lore, city records, magical theory, religious scrolls, and histories predating [The Collapse](/structure/chronological/event/the-collapse.md)—some of which exist nowhere else in [Iridia](/geography/world/iridia.md).
 

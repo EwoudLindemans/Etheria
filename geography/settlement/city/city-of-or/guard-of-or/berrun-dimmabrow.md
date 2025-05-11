@@ -39,7 +39,7 @@ Among the folk of the Hearthring, Berrun is regarded as a guardian and advocate.
 
 ## Relationships
 
-- **[Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Berrun respects the healer deeply, both as a professional and a personal friend. The two have often been seen in gentle conversation, sometimes sitting together in silence beneath one of the older flame-statues of Stonehollow.
+- **[Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md)** – Berrun respects the healer deeply, both as a professional and a personal friend. The two have often been seen in gentle conversation, sometimes sitting together in silence beneath one of the older flame-statues of [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md).
 
 - **Gundric "Gundy" Alebrow** – While Gundy rarely speaks, the two share an unspoken rapport. Berrun is one of the few people permitted behind [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md)’s bar without question, often fetching his own mug while Gundy raises a brow in approval.
 

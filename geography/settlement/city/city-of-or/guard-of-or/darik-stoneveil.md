@@ -21,7 +21,7 @@ Darik represents the **newer generation of Orinite Guards**—those raised on st
 
 ## Guard Duties
 
-Assigned to the **Runehollow Beat**, Darik’s regular patrol covers the stretch from the Undercity’s outer gate into the heart of Stonehollow, including the steps of **[Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)**. His beat includes overseeing scholar traffic, assisting visiting researchers, safeguarding civic relics, and responding to minor disturbances—often involving passionate debates that spill out of libraries, taverns, or temple halls.
+Assigned to the **Runehollow Beat**, Darik’s regular patrol covers the stretch from the Undercity’s outer gate into the heart of [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md), including the steps of **[Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)**. His beat includes overseeing scholar traffic, assisting visiting researchers, safeguarding civic relics, and responding to minor disturbances—often involving passionate debates that spill out of libraries, taverns, or temple halls.
 
 He carries standard Guard-issue gear, though his cloak is often dusted with fine stone powder from leaning against ancient walls while reading during breaks. His eyes are sharp but not intimidating, and his style of enforcement is rooted in de-escalation and empathy rather than show of force.
 

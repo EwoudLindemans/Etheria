@@ -22,7 +22,7 @@ The Council of Or consists of **seventeen members**:
 - **Twelve permanent seats** are held by members of the **Flatstone family**, who have governed since the city’s founding.
 - **Five elected seats** are filled by **citizens of Or** through a competitive, chaotic, and much-loved process known as the **Election Trials**.
 
-The council chamber is carved into a polished cavern at the heart of **Stonehollow**, the city’s interior centre. Runes of listening, honesty, and binding debate line the walls, and a floating lantern of red crystal casts gentle light during every session.
+The council chamber is carved into a polished cavern at the heart of **[Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md)**, the city’s interior centre. Runes of listening, honesty, and binding debate line the walls, and a floating lantern of red crystal casts gentle light during every session.
 
 ## Permanent Seats – The Flatstones
 The Flatstone family holds an ancestral claim to governance, tracing their roots to **[Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)**, the city’s founder. Each generation of Flatstones selects twelve representatives to serve as lifelong councillors, though individuals may be replaced in cases of incapacity or disgrace.
@@ -44,7 +44,7 @@ The current Flatstone councillors are:
 - **Garvi Flatstone** – A young firebrand focused on innovation and magical integration into mining tools.
 - **Morgran Flatstone** – Head of foreign trade and stubbornly suspicious of non-dwarves (especially elves).
 - **Isri Flatstone** – The most diplomatic of the twelve, often chosen to speak with elected members and settle disputes.
-- **Dworra Flatstone** – Oversees infrastructure and engineering; rumoured to be designing a fourth-tier expansion of Stonehollow.
+- **Dworra Flatstone** – Oversees infrastructure and engineering; rumoured to be designing a fourth-tier expansion of [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md).
 - **Tarnik Flatstone** – Manages enforcement and justice, known for fair rulings and unshakable calm.
 - **Bellga Flatstone** – A brewer by trade and former festival champion; represents cultural affairs and festival planning.
 - **Nundrik Flatstone** – Keeps detailed ledgers on city finances, population shifts, and daily council proceedings. Possibly immortal.
@@ -83,5 +83,5 @@ Most Orfolk agree that while the Flatstones are powerful, their grip is not abso
 - [Election Festival](/geography/settlement/city/city-of-or/election-festival.md)
 - [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md)
 - The Flatstone Family
-- Stonehollow
+- [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md)
 - [The Oblique Concord](/structure/society/factions/the-oblique-concord.md) (rumoured influence)

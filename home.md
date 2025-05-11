@@ -10,6 +10,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
 # Wiki Index
   - [The Anchored](/geography/realm/the-anchored.md) ([realm](/t/realm))
     The Anchored is the fundamental, ever-present plane of existence in Iridia and Etheria, where resonance shapes reality and all things begin to truly exist.
+    - [Irion](/being/deity/irion.md) ([cataclysm](/t/cataclysm), [creator](/t/creator), [deity](/t/deity), [event](/t/event), [resonance](/t/resonance), [transformation](/t/transformation))
+      A primordial force whose cataclysmic descent birthed Iridia
     - [Iridia](/geography/world/iridia.md) ([world](/t/world))
       A world created from a collision with a magical creature.
       - [Thalgrin](/being/deity/thalgrin.md) ([deity](/t/deity), [craftsmanship](/t/craftsmanship), [endurance](/t/endurance), [forging](/t/forging))
@@ -98,6 +100,15 @@ dateCreated: 2022-01-24T15:40:43.899Z
                 A fragmented journal entry reveals a cartographer's paranoid investigation into a shadowy organization called the Concord, which subtly manipulates events and erases memories.
           - [The Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md) ([tunnel](/t/tunnel))
             An unfinished tunnel through the Mountains of Triz, that's going to connect the City of Or to Triz Valley.
+          - [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md) ([district](/t/district))
+            - [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md) ([library](/t/library), [archive](/t/archive))
+              The City of Or Grand Archive and Library
+              - [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md) ([halfling](/t/halfling), [librarian](/t/librarian), [scholar](/t/scholar))
+                Keeper of Runehollow Hall
+            - [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md) ([infirmary](/t/infirmary))
+              The primary centre of healing and divine care in The City of Or
+              - [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) 
+                Brother Ienor is a beloved, serene, and strikingly handsome elven healer leading the Order of the Woven Vein in the City of Or, renowned for his unwavering kindness and legendary ability to ease suffering.
           - [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md) ([district](/t/district))
             Or’s chaotic, ever-moving trade chute
           - [The Election Festival of Or](/geography/settlement/city/city-of-or/election-festival.md) ([election](/t/election), [festival](/t/festival), [tradition](/t/tradition))
@@ -210,6 +221,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         Masters of magical agreements, ensuring fairness and lasting pacts.
       - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md) ([profession](/t/profession))
         Tankard Trekkers are licensed halfling adventurers who roam Iridia, judging taverns, preserving stories, and settling disputes with ale and song.
+    - [The Collapse](/structure/chronological/event/the-collapse.md) ([event](/t/event))
+      Iridia is a unique, ever-changing world born from the collision of a planet and a magical creature, now brimming with living magic and governed by a Council of Elders.
   - [The Dense](/geography/realm/the-dense.md) ([realm](/t/realm))
     The Dense is a treacherous realm in Iridia, a compressed space defying logic and teeming with danger, where space is squeezed at a 1:500 ratio and survival demands constant vigilance.
     - [Xal Zyra](/being/deity/xal-zyra.md) ([deity](/t/deity), [the dense](/t/the dense), [shadow](/t/shadow), [passage](/t/passage))
@@ -220,22 +233,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
       The Threefold Bloom explores the Ythrylari's destiny to transform into Iridians through a process of harmonic dissonance and intentional decay, becoming a physical manifestation of meaning born from the Dense.
     - [Quillnib’s Handle](/geography/settlement/city/quillnibs-handle.md) ([city](/t/city))
       Quillnib's Handle is a sprawling, navigable goblin metropolis built around a sentient book, the Book of Doors, which governs its labyrinthine pathways and districts.
-  - [The Fractured Keep](/geography/realm/the-fractured-keep.md) ([the fractured keep](/t/the fractured keep), [deity](/t/deity), [realm](/t/realm))
+  - [The Fractured Keep](/geography/realm/the-fractured-keep.md) ([realm](/t/realm))
     Xalónthyr, the Concordant Tread, is a divine plane comprised of distinct, material god-territories where travel necessitates navigating the influence and rules of other deities.
-    - [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
-      Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
-      Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
-    - [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
-      Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
-    - [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
-      Dithrir is a deity, detailed within the realm identified by the GUID f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
-      Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
-      Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
-    - [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
-      Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
 
 ## Uncategorized
 - [Jarvey](/being/character/jarvey.md) ([character](/t/character), [firbolg](/t/firbolg), [writer](/t/writer), [bard](/t/bard))
@@ -248,8 +247,20 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Fragment from Sylieth’s personal journal
 - [Varnwick Twistroot](/being/character/varnwick.md) ([character](/t/character), [gnome](/t/gnome))
   Varnwick "Twistroot" Marnel is an eccentric, root-footed gnome geomancer searching for obscure berries and possibly awakening an ancient power within him.
-- [Irion](/being/deity/irion.md) ([cataclysm](/t/cataclysm), [creator](/t/creator), [deity](/t/deity), [event](/t/event), [resonance](/t/resonance), [transformation](/t/transformation))
-  A primordial force whose cataclysmic descent birthed Iridia
+- [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
+  Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+- [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
+  Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
+- [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
+  Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
+- [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
+  Dithrir is a deity, detailed within the realm identified by the GUID f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+- [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
+  Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+- [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
+  Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
+- [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
+  Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
 - [Etherials](/being/species/etherial.md) ([species](/t/species))
   Etherials are small, winged, light-emitting creatures known for their powerful magic and generally peaceful nature.
 - [Conduit Aasimar](/being/species/sub-species/conduit-aasimar.md) ([species](/t/species))
@@ -284,22 +295,12 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) ([orc](/t/orc), [barbarian](/t/barbarian))
   Gorgath the Brute, the Orcish Barbarian
-- [Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md) ([library](/t/library), [archive](/t/archive))
-  The City of Or Grand Archive and Library
-- [Stonfin Dustbinder](/geography/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md) ([halfling](/t/halfling), [librarian](/t/librarian), [scholar](/t/scholar))
-  Keeper of Runehollow Hall
-- [The Red Palm Hall](/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md) ([infirmary](/t/infirmary))
-  The primary centre of healing and divine care in The City of Or
-- [Brother Ienor](/geography/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md) 
-  Brother Ienor is a beloved, serene, and strikingly handsome elven healer leading the Order of the Woven Vein in the City of Or, renowned for his unwavering kindness and legendary ability to ease suffering.
 - [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md) ([shop](/t/shop))
   A Reputable Laboratory
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Manifistation](/structure/chronological/event/manifestation.md) ([event](/t/event))
   Manifestation is an event tagged as such.
-- [The Collapse](/structure/chronological/event/the-collapse.md) ([event](/t/event))
-  Iridia is a unique, ever-changing world born from the collision of a planet and a magical creature, now brimming with living magic and governed by a Council of Elders.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
   The Arcane Resonance Sorcerer subclass focuses on manipulating and resonating with magical frequencies to adapt spells, disrupt enemies, and absorb energy for potent abilities.
 - [Karmic Slap](/structure/mechanic/condition/karmic-slap.md) ([condition](/t/condition))

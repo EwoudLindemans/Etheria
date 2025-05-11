@@ -27,7 +27,7 @@ The Guard is composed of interconnected posts and specialist teams, each designe
 
 - **Hearthring Post** – Focused on the surface-level outer city, including marketplaces, festivals, and public ceremonies. Renowned for conflict mediation and crowd navigation.
 
-- **Runehollow Beat** – Patrolling the region from the Stonehollow gate to the ancient halls of knowledge. Guards here are often chosen for their literacy, calm temperament, and reverence for the city’s past.
+- **Runehollow Beat** – Patrolling the region from the [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md) gate to the ancient halls of knowledge. Guards here are often chosen for their literacy, calm temperament, and reverence for the city’s past.
 
 - **Deepward Keepers** – Operating in the lower Undercity where forge smoke blurs light and the clang of metal never sleeps. These guards face dangers from smuggling to tunnel creatures.
 
@@ -56,7 +56,7 @@ Many Guard members are born into multi-generational service families, though the
 
 ## Public Perception
 
-The Guard is generally beloved in the [City of Or](/geography/settlement/city/city-of-or.md). Jokes, stories, and small tokens of appreciation are common—especially in Hearthring and Stonehollow. Their authority is tempered by tradition, oversight, and visibility: many citizens know their local guards by name.
+The Guard is generally beloved in the [City of Or](/geography/settlement/city/city-of-or.md). Jokes, stories, and small tokens of appreciation are common—especially in Hearthring and [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md). Their authority is tempered by tradition, oversight, and visibility: many citizens know their local guards by name.
 
 Criticism, when it arises, tends to centre around bureaucratic slowness or uneven representation in newer districts. However, internal correction is swift and reputations are taken seriously.
 

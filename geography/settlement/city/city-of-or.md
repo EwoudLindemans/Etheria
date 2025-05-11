@@ -37,9 +37,9 @@ Homes were built into the underground caves of Or where the mines were depleted 
 The City of Or is a city of layered stone and shifting depth, with districts expanding both outward and inward from the original mines. Some are official, others informal—each with its own character, tone, and voice.
 
 ### Stonehollow
-Immediately beyond the great gate into the mountains lies Stonehollow—a massive vaulted chamber that acts as the **interior city centre** of the Undercity. It is a hub for commerce, ritual, and movement deeper into the mountain.
+Immediately beyond the great gate into the mountains lies [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md)—a massive vaulted chamber that acts as the **interior city centre** of the Undercity. It is a hub for commerce, ritual, and movement deeper into the mountain.
 
-The red-glowing crystal embedded in the vaulted ceiling of Stonehollow—formed from the exposed underside of the [Armour of Or](/geography/scale/armour-of-or.md)—is commonly referred to in Orfolk songs and poetry as “the Armour’s Red Moon.” This name captures the way its radiant beams filter through the Undercity like a second sun, casting angled shadows and suffusing the district with warm, magical twilight.
+The red-glowing crystal embedded in the vaulted ceiling of [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md)—formed from the exposed underside of the [Armour of Or](/geography/scale/armour-of-or.md)—is commonly referred to in Orfolk songs and poetry as “the Armour’s Red Moon.” This name captures the way its radiant beams filter through the Undercity like a second sun, casting angled shadows and suffusing the district with warm, magical twilight.
 
 ### Hearthring
 The central and oldest surface district of Or, wrapped around the original mine gate. Hearthring is the heart of civic life and the stage for festivals, politics, music, and tavern chaos. It is home to the Stone Council Hall and [The Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md).

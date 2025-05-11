@@ -12,7 +12,7 @@ parent: library=f64d545e-f7ba-4a32-8b95-fef6493ea48c
 
 # Stonfin Dustbinder
 
-Stonfin Dustbinder is the cheerful and ever-curious halfling librarian who oversees **[Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)**, the ancient and revered library at the entrance of the Undercity of Or. A beloved fixture of the district of Stonehollow, Stonfin is known for his gentle wit, encyclopaedic recall, and the quiet joy he brings to the dusty work of knowledge preservation.
+Stonfin Dustbinder is the cheerful and ever-curious halfling librarian who oversees **[Runehollow Hall](/geography/settlement/city/city-of-or/shop/runehollow-hall.md)**, the ancient and revered library at the entrance of the Undercity of Or. A beloved fixture of the district of [Stonehollow](/geography/settlement/city/city-of-or/district/stonehollow.md), Stonfin is known for his gentle wit, encyclopaedic recall, and the quiet joy he brings to the dusty work of knowledge preservation.
 
 Though the dwarves originally built the hall in honour of [Or Flatstone](/geography/settlement/city/city-of-or/local/or-flatstone.md), Stonfin has become a natural guardian of its contents—respected by scholars, craftsmen, and council scribes alike. His presence bridges generations of lore with a humility and humour that keeps the great stone vault of knowledge feeling remarkably alive.
 
