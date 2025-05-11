@@ -2,11 +2,10 @@
 title: The Graith
 description: The Graith are brine-souled seafarers from the Lost Wake, adapted to endure the deepest ocean and tasked with curating the memories of the drowned.
 published: 1
-date: 2025-05-05T17:56:54.745Z
-tags: species
+date: 2025-05-11T18:31:06.313Z
+tags: monster
 editor: markdown
 dateCreated: 2025-04-12T20:36:08.726Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Graith – Brine-Souled Seafarers of the Lost Wake
