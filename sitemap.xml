@@ -712,6 +712,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://wiki.hq.rockycore.com/world/nyzzrix.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://wiki.hq.rockycore.com/geography/settlement/city/city-of-or/shop/the-red-palm-hall.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -302,6 +302,7 @@ dateCreated: 2022-01-24T15:40:43.899Z
   A vital, yet dangerous, well near a desert outpost is plagued by rumors of a lurking, invisible stalker and a collapsed planar connection.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) ([orc](/t/orc), [barbarian](/t/barbarian))
   Gorgath the Brute, the Orcish Barbarian
+- [Nyzzrix](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md) 
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
