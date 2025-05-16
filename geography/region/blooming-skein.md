@@ -14,7 +14,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 In the future, the [Skein of Bones](/geography/region/skein-of-bones.md) transforms into the Blooming Skein—a place of profound, aching beauty. Here, death, memory, and stubborn hope weave together into a vast, living tapestry. Though the bones remain, they no longer speak only of desolation; they are celebrated, honored, and reborn.
 
-![the_blooming_skein.png](/world/the_blooming_skein.png =500x)
+![the_blooming_skein.png](/images/world/the_blooming_skein.png =500x)
 
 ## Visual Description
 

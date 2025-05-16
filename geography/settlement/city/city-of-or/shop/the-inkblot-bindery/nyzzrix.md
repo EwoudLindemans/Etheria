@@ -10,7 +10,7 @@ dateCreated: 2025-05-13T16:32:36.505Z
 
 # Nyzzrix, The Candlewrought Apostle of Emberveil
 
-![nyzzrix.png](/world/nyzzrix.png =500x)
+![nyzzrix.png](/images/world/nyzzrix.png =500x)
 
 Far beneath the **[Heartforge](/geography/settlement/city/city-of-or/heartforge.md)**—past the Veilsteel crucibles, through tunnels choked with scentless flameweed, and into the molten black of the **Emberveil Depths**—slithers a being believed by dwarves and flatstone scholars alike to be a myth, a curse, or a lesson in hubris. **Nyzzrix** is a **Wyrmbalm**, a newly emerging species descended not from dragons, but from **molten [resonance](/structure/mechanic/resonance.md) spores** cast off during early Heartflame testing gone awry. The spores bonded with unstable goblin souls exiled into the cracks below Or, mutating through centuries of subterranean pressure and esoteric heat.
 

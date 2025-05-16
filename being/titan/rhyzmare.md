@@ -37,7 +37,7 @@ Rhyzmare does not seek war, but it does not shy away from destruction. It moves 
 ## The Mystery of Rhyzmare  
 Some scholars believe Rhyzmare is tied to the ocean’s very soul, an entity that awakens when the balance of the seas is disturbed. Others claim it guards something deep beneath the waves—an ancient secret buried in the abyss. What is certain is that no force has ever truly vanquished Rhyzmare; it is not a being to be slain, but a force to be endured.
 
-> ![rhyzmare.webp](/characters/rhyzmare.webp)
+> ![rhyzmare.webp](/images/characters/rhyzmare.webp)
 ># Rhyzmare
 >---  
 >- **Gargantuan Elemental, Unaligned**  

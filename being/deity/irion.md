@@ -12,7 +12,7 @@ parent: realm=5cad1505-6363-4e30-b6b2-6b4076f8b8c0
 
 # Irion, The Fallen Titan
 *[Deity](/structure/mechanic/deity.md) of Cataclysm, Transformation, and [Resonance](/structure/mechanic/resonance.md)*  
-![irion.png](/world/irion.png)
+![irion.png](/images/world/irion.png)
 
 The creature that collapsed with the world [Iridia](/geography/world/iridia.md) is called Irion. The origin of Irion is unknown, but there are many theories about what it may be. Some say that it is a dragon that was petrified by powerful [magic](/structure/mechanic/magic.md), while others say that it is a giant creature created by the gods. Whatever the truth may be, Irion remains a mystery and its impact on the world is still felt today.
 

@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Dreamweaving: Weaving the Resonance Patterns
 
-![dreamweaving.webp](/professions/dreamweaving.webp =500x)
+![dreamweaving.webp](/images/professions/dreamweaving.webp =500x)
 
 Dreamweaving is a unique elven art that transforms the abstract language of dreams into tangible enchantments. Rather than forging with fire or weaving raw magical fibers, elven Dreamweavers journey into a deep, meditative slumber to perceive intricate patterns that arise from the land’s inherent magical [scales](/geography/landmark/scale.md). These scales, the resonant energies that blanket the world, manifest in vivid patterns during their dreams—and it is these patterns that guide the creation of enchanted artifacts.
 

@@ -12,7 +12,7 @@ dateCreated: 2025-03-18T13:31:39.616Z
 # Nokk, The Scale’s Chosen
 *"[Resonance](/structure/mechanic/resonance.md) should be free, chaotic, and powerful. Just… not in my hands. Seriously, get behind cover."*
 
-![nokk.webp](/characters/nokk.webp =500x)
+![nokk.webp](/images/characters/nokk.webp =500x)
 
 ## Origins & Legend  
 Legends speak of a sorcerer whose [resonance](/structure/mechanic/resonance.md) bends the very elements, shaping water, air, and flame with raw, unpredictable force. Nokk was not born with resonance—it was thrust upon him in a moment of chaotic fate when he swallowed a fish infused with the power of [the Dense](/geography/realm/the-dense.md). 

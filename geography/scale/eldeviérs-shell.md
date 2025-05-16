@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Eldeviérs Shell
 
-![Eldeviérs Shell](/world/eldeviers-shell.webp =500x)
+![Eldeviérs Shell](/images/world/eldeviers-shell.webp =500x)
 
 Eldeviérs Shell is a massive, otherworldly structure—a colossal, opal-green dome covered in hexagonal [scales](/geography/landmark/scale.md), glowing with an ethereal luminescence. Jagged spires and towering structures rise from its surface, blending ancient architecture with alien design. A feathery crest of dark, crystalline protrusions adorns the upper ridge, giving it a regal and intimidating presence.
 

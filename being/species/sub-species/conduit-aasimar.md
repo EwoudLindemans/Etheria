@@ -11,7 +11,7 @@ dateCreated: 2025-03-21T20:04:39.819Z
 
 # **Conduit Aasimar**  
 
-![conduit-aasimar.webp](/world/conduit-aasimar.webp =500x)
+![conduit-aasimar.webp](/images/world/conduit-aasimar.webp =500x)
 
 **Divine envoys and living echoes of belief, Conduit Aasimar serve as the will of their patron [deity](/structure/mechanic/deity.md) while resonating with the shifting faiths of [Iridia](/geography/world/iridia.md).** Unlike other aasimar, who are permanently tied to a celestial influence, Conduits act as **living anchors** for deities, ensuring their presence lingers even as faith fluctuates.  
 

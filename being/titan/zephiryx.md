@@ -36,7 +36,7 @@ Zephiryx is neither benevolent nor malevolent—it is the storm itself, fierce a
 ## The Mystery of Zephiryx  
 Some claim that Zephiryx is the last of the Celestial Stormborn, titans that once ruled the skies. Others whisper that it is merely a harbinger of something far greater, a vanguard of the endless tempests that will one day reclaim the world. Whatever the truth, none who have seen Zephiryx in its full glory have lived to tell the tale.
 
-> ![zephiryx_(2).webp](/characters/zephiryx_(2).webp)
+> ![zephiryx_(2).webp](/images/characters/zephiryx_(2).webp)
 ># Zephiryx  
 >---  
 >- **Gargantuan Elemental, Chaotic Neutral**  

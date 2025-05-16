@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # The Scalebound Strays
 
-![scalebound-strays.webp](/world/scalebound-strays.webp =500x)
+![scalebound-strays.webp](/images/world/scalebound-strays.webp =500x)
 
 Once laughed off as a “walking hazard of magical misfits,” the **[Scale](/geography/landmark/scale.md)-Bound Strays** have become a household name among Etherian traders, treasure-seekers, and even low-ranking members of the Sisterhood of Assassination—mostly because they’ve survived more arcane catastrophes than most seasoned warbands. Each member is unmistakable, unforgettable, and—depending on whom you ask—either a savior or a walking diplomatic incident. Spotted most recently near the whispering ruins of Kin’Darei, the Strays continue their chaotic trek across [Iridia](/geography/world/iridia.md)’s most unstable regions.
 

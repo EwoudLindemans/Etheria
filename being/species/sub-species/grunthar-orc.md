@@ -13,7 +13,7 @@ parent: region=9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 
 |[Resonance](/structure/mechanic/resonance.md) Wielder|Warrior|
 | -- | -- |
-|![grunthar-orc.webp](/world/grunthar-orc.webp =500x)|![grunthar.webp](/world/grunthar.webp =500x)|
+|![grunthar-orc.webp](/world/grunthar-orc.webp =500x)|![grunthar.webp](/images/world/grunthar.webp =500x)|
 
 
 In the deep labyrinths of the The [Blooming Skein](/geography/region/blooming-skein.md), where the roots of trees pierce even into the sleeping bones of the world, the **Grunthar Orcs** were not born—they **awakened**. Unlike their more brutish cousins, the Grunthar are creatures of wild intellect and feral [magic](/structure/mechanic/magic.md), woven together by the will of the ancient Demeriún, who once whispered into the soil to craft guardians against the decay of time itself.

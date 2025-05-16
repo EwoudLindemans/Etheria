@@ -11,7 +11,7 @@ dateCreated: 2025-04-25T18:48:34.068Z
 
 # The Zynkri – Thorn-Touched Spritelings of the Jungle Veil
 
-![zynkri.webp](/world/zynkri.webp =500x)
+![zynkri.webp](/images/world/zynkri.webp =500x)
 
 In the sprawling emerald labyrinths of the [Verdant Divide](/geography/region/verdant-divide.md), where the vines weave their own borders and even the sunlight gets lost, live the cunning and luminous-eyed **Zynkri**—a people whose laughter is the music of mischief and whose wisdom is rooted deep in the pulse of growing things.
 

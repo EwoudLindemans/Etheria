@@ -10,7 +10,7 @@ dateCreated: 2022-01-21T21:10:42.256Z
 ---
 
 # Robustus – The Titanborn Behemoth
-"Mountains tremble at its steps, the earth groans beneath its weight. It does not fight for survival—it fights because it was made to endure."
+> "Mountains tremble at its steps, the earth groans beneath its weight. It does not fight for survival—it fights because it was made to endure."
 
 ## Origins & Legend
 Robustus is an ancient creature of unmatched resilience and power, a living fortress of muscle and stone. Legends say it was sculpted from the very bones of the earth by forgotten gods, meant to be an unyielding guardian of the land. However, when the gods vanished, Robustus remained, wandering the world as an unstoppable force, seeking a purpose that was never given.
@@ -33,10 +33,11 @@ Despite its intimidating presence, Robustus is not inherently violent. It moves 
 ## The Mystery of Robustus
 Some scholars believe that Robustus is searching for its lost creators, while others claim it is simply following a forgotten command, endlessly patrolling the lands it was once meant to protect. There are whispers that deep within its core lies an ancient power, one that could either save or destroy the world—should anyone discover how to awaken it.
 
+{.dnd}
 ># Robustus
 > | Defensive  | Offensive |
 > | --- | --- |
-> | ![robustus.webp](/characters/robustus.webp) | ![robustus_(2).webp](/characters/robustus_(2).webp) |
+> | ![robustus.webp](/characters/robustus.webp) | ![robustus_(2).webp](/images/characters/robustus_(2).webp) |
 >---
 >- **Gargantuan Titan, Lawful Neutral**
 >- **Armor Class** 22 (Titanic Resilience)
@@ -99,4 +100,3 @@ Some scholars believe that Robustus is searching for its lost creators, while ot
 >A creature grappled by Robustus takes 36 (8d8) bludgeoning damage.
 >
 >---
->{.dnd}

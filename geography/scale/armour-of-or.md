@@ -28,4 +28,4 @@ The deep connection between the [scale](/geography/landmark/scale.md) and the pl
 - Beneath the Armour of Or you find The [City of Or](/geography/settlement/city/city-of-or.md) 
 
 
-![armour-of-or.png](/world/armour-of-or-v2.png)
+![armour-of-or.png](/images/images/world/armour-of-or-v2.png)

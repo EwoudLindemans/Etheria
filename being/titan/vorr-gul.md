@@ -46,7 +46,7 @@ Vorr’Gul is wild and unpredictable, much like the storm itself. He is neither 
 ## **The Mystery of Vorr’Gul**  
 Some say Vorr’Gul is the last remnant of an ancient experiment gone wrong, while others believe he is a fragment of a god’s wrath, a storm given form and fury. Those who seek to control him always meet the same fate—reduced to cinders, their ambitions lost to the howling winds.  
 
->![vorr’gul.webp](/characters/vorr’gul.webp)
+>![vorr’gul.webp](/images/characters/vorr’gul.webp)
 ># Vorr’Gul  
 >- **Gargantuan Elemental Titan, Chaotic Neutral**  
 >- **Armor Class** 22 (Stormborn Defense)  

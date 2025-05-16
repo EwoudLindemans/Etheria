@@ -12,7 +12,7 @@ parent: city=22c5c624-5d8e-4678-96f7-eeb5c3f23fae
 
 # The Uroxi – Lantern-Blooded of the Hollow Veins
 
-![uroxi.webp](/characters/uroxi.webp =500x)
+![uroxi.webp](/images/characters/uroxi.webp =500x)
 
 Deep beneath the crust of the [Asara Plate](/geography/scale/asara-plate.md), in the glass-veined chasms known only as the **Umbral Seep**, thrives a race that glimmers like molten shadow and pulses with stolen light: the **Uroxi**. At first glance, surfacefolk might mistake them for deep gnomes or duergar—but the Uroxi are neither stone nor sullen. They are **biolux sentients**, shaped by subterranean [resonance](/structure/mechanic/resonance.md), light-eating fungi, and forgotten glimmers buried since [The Collapse](/structure/chronological/event/the-collapse.md).
 

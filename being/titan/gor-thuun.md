@@ -35,7 +35,7 @@ Though a being of immense power, Gor’Thuun is not an aggressor. It moves with 
 ## The Mystery of Gor’Thuun
 Some believe Gor’Thuun is the last remnant of an ancient age when nature ruled supreme, waiting for a time when the balance is truly lost. Others whisper of a hidden grove where it slumbers, its roots entwined with the heart of the world. It is said that those who seek the wisdom of the ancients may find answers within its emerald gaze—but only if they prove themselves worthy.
 
-> ![gor’thuun.webp](/characters/gor’thuun.webp)
+> ![gor’thuun.webp](/images/characters/gor’thuun.webp)
 ># Gor’Thuun
 >---
 >- **Gargantuan Elemental, Neutral**

@@ -13,7 +13,7 @@ parent: profession=1c6b422f-7b2a-4cd0-87d3-0fde182b689a
 # Darik Stoneveil  
 *Guardling of the Runehollow Beat, student of law, lore, and lives between*
 
-![Darik Stoneveil](/world/darik-stoneveil.png)
+![Darik Stoneveil](/images/world/darik-stoneveil.png)
 
 Darik Stoneveil is a young dwarf currently serving as a **Guardling** on the Runehollow Beat in the [City of Or](/geography/settlement/city/city-of-or.md). Though newly stationed, he has already earned quiet praise from superiors and citizens alike for his calm under pressure, his thoughtful manner, and his keen observational skills.
 

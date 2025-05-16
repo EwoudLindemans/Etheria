@@ -12,7 +12,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 # Asarazul
 
-![azurazul.jpg](/world/ores/azurazul.jpg =500x)
+![azurazul.jpg](/images/world/ores/azurazul.jpg =500x)
 
 Long before the [City of Or](/geography/settlement/city/city-of-or.md) was a name whispered through the mountain halls, and long before the undercity glowed red beneath the [Scale](/geography/landmark/scale.md), there was a gem—cut from the frozen depths of the **[Asara Plate](/geography/scale/asara-plate.md)**, said to hold the stillness of a thousand winters.
 

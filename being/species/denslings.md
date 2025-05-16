@@ -13,7 +13,7 @@ parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 # Densling
 The Squallborn Sludge
 
-![denslings.png](/world/denslings.png =500x)
+![denslings.png](/images/world/denslings.png =500x)
 
 > *“You cannot reason with a Densling.  
 > But you can feel when it remembers you.”*  

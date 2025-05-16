@@ -49,7 +49,7 @@ Skul’Kruk is not mindless, but his intelligence is ancient and alien. He under
 ## **The Mystery of Skul’Kruk**  
 Some believe that deep within his marrow lies the last memories of the fallen titans, fragments of an age before gods and mortals. Others say he is the key to an ancient power, waiting for the right warlord to awaken his full might. Whatever the truth, one thing is certain—Skul’Kruk does not rest, and the battlefield will always call him back.  
 
-> ![skulkruk.webp](/characters/skulkruk.webp)
+> ![skulkruk.webp](/images/characters/skulkruk.webp)
 ># Skul’Kruk  
 >- **Huge Titan, Neutral**  
 >- **Armor Class** 24 (Petrified Titanbone)  

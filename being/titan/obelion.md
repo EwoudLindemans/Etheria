@@ -35,7 +35,7 @@ Obelion does not act with malice or purpose—it simply exists. It does not comm
 ## The Mystery of Obelion  
 Scholars and mages alike have attempted to decipher the sigils that dance across Obelion’s body, but no known language matches their form. Some claim it is a record of an era before recorded history, while others fear that unlocking its secrets may awaken something even more dangerous than the titan itself.
 
-> ![obelion.webp](/characters/obelion.webp)
+> ![obelion.webp](/images/characters/obelion.webp)
 ># Obelion  
 >---  
 >- **Gargantuan Construct, Unaligned**  

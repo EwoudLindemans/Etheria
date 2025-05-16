@@ -13,7 +13,7 @@ dateCreated: 2025-04-07T21:52:26.471Z
 
 > *“To walk from war into light is not a journey. It is a negotiation.” — Inscription on the border pillar between Askarath’s Blight and Vennalune’s Dawnreach*
 
-![the-concordant-thread.webp](/world/the-concordant-thread.webp =500x)
+![the-concordant-thread.webp](/images/world/the-concordant-thread.webp =500x)
 
 The **Concordant Tread** is a divine plane formed entirely by the presence and interplay of [Iridia](/geography/world/iridia.md)’s deities. It is not a single, unified realm—but a **stitched continent of god-territories**, each one an exact spatial [manifestation](/structure/chronological/event/manifestation.md) of a [deity](/structure/mechanic/deity.md)’s domain. These domains are not metaphors or symbols—they are *real*, material, and deeply territorial.
 

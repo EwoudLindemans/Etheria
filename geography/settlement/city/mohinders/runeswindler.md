@@ -11,7 +11,7 @@ parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # **Runeswindler, Collector of Passage**  
-![runeswindler.png](/characters/runeswindler.webp =500x)
+![runeswindler.png](/images/characters/runeswindler.webp =500x)
 
 In [Mohinders](/geography/settlement/city/mohinders.md), travel is not a right—it is a privilege **taxed, monitored, and controlled** by the **Council of Controlled Magical Appliance**. At the heart of this lucrative system stands the **Runeswindler**, an Kavrethul responsible for ensuring **no portal functions without payment**.  
 

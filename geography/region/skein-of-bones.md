@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Skein of Bones
 
-![the_skein_of_bones.png](/world/the_skein_of_bones.png =500x)
+![the_skein_of_bones.png](/images/world/the_skein_of_bones.png =500x)
 
 Far across the western expanse of [Iridia](/geography/world/iridia.md) sprawls the **Skein of Bones**—a vast, wind-tattered tapestry of fossil and dust, where the earth is woven together from the twisted ribcages of forgotten leviathans. The soil here crumbles into a powder the color of pale red ash, steeped in the bitter memory of ancient marrow. The sun, cruel and glaring, scours the plains with a relentless zeal, as if trying to erase the last evidence of whatever cataclysm once birthed this desolation. It is here that the mighty **[Tuskbreakers](/structure/society/profession/tuskbreaker.md)** ply their sacred trade, hacking and hauling the ossified remains of beasts said to have roamed before even Etheria breathed its first, before the whisper of [the Dense](/geography/realm/the-dense.md) ever wormed into mortal dreams.
 
