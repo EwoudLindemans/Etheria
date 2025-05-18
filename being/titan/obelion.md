@@ -13,7 +13,7 @@ dateCreated: 2025-03-12T23:53:21.455Z
 "The earth quakes at its approach, the air hums with raw power. It is not a mere construct—it is a force beyond mortal comprehension."
 
 ## Origins & Legend  
-No one knows who created Obelion or why it exists. Some say it was forged by an ancient civilization as a guardian of forgotten knowledge, while others believe it emerged from the fabric of reality itself, a [manifestation](/structure/chronological/event/manifestation.md) of the world's untapped magical forces. What is certain is that Obelion does not belong to any single era—it has always been, watching, waiting, and reshaping the land with every step.
+No one knows who created Obelion or why it exists. Some say it was forged by an ancient civilization as a guardian of forgotten knowledge, while others believe it emerged from the fabric of reality itself, a manifestation of the world's untapped magical forces. What is certain is that Obelion does not belong to any single era—it has always been, watching, waiting, and reshaping the land with every step.
 
 ## Physical Description  
 - **Height:** 100+ feet, towering over mountains  

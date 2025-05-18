@@ -5,7 +5,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/cirxa.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/cirxa.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/jarvey.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/jarvey.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -21,7 +21,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/matt.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/matt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -29,7 +29,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/miss_terry_cartoon.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/miss_terry_cartoon.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -37,7 +37,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/nokk.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/nokk.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -45,7 +45,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/poppy-handyleaf/poppy-handyleaf.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/poppy-handyleaf.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -53,7 +53,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/sylieth.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/sylieth.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -79,7 +79,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/varnwick.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/varnwick.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -92,7 +92,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/aelyria.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/aelyria.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -100,7 +100,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/aurelthys.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/aurelthys.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -113,7 +113,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/irion.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/irion.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -121,7 +121,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/thalgrin.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/thalgrin.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -144,7 +144,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/xalzyra.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/xalzyra.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -152,7 +152,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/graith.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/graith.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -160,7 +160,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/denslings.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/denslings.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -173,34 +173,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-armor-of-or.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-armor-of-or.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-armor-of-or-male.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-armor-of-or-male.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-eldeviérs-shell.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-eldeviérs-shell.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-batès-lamina-female.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-batès-lamina-female.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-batès-lamina.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-batès-lamina.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-umperas-hull-male.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-umperas-hull-male.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-umperas-hull.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-umperas-hull.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-asara-plate.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-asara-plate.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-obsidian-crest-female.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-obsidian-crest-female.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/races/iridia-obsidian-crest-male.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/races/iridia-obsidian-crest-male.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -208,7 +208,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/conduit-aasimar.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/conduit-aasimar.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -219,7 +219,7 @@
       <image:loc>https://wiki.hq.rockycore.com/world/grunthar-orc.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/grunthar.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/grunthar.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -227,7 +227,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/uroxi.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/uroxi.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -235,13 +235,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/veydr.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/veydr.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/sylvachor.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/sylvachor.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/thyrnari.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/thyrnari.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -249,7 +249,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/ythrylari.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/ythrylari.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -257,7 +257,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/zynkri.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/zynkri.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -265,7 +265,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/anemostrus.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/anemostrus.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -273,7 +273,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/gor’thuun.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/gor’thuun.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -281,7 +281,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/obelion.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/obelion.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -289,7 +289,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/rhyzmare.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/rhyzmare.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -300,7 +300,7 @@
       <image:loc>https://wiki.hq.rockycore.com/characters/robustus.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/robustus_(2</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/robustus_(2</image:loc>
     </image:image>
   </url>
   <url>
@@ -308,7 +308,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/skulkruk.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/skulkruk.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -316,7 +316,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/vorr’gul.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/vorr’gul.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -324,7 +324,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/zephiryx_(2</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/zephiryx_(2</image:loc>
     </image:image>
   </url>
   <url>
@@ -347,22 +347,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_dense.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_dense.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/denslings.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/denslings.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_dense_red.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_dense_red.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_dense_trees.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_dense_trees.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_dense_deity.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_dense_deity.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_dense_rift.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_dense_rift.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -375,7 +375,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the-concordant-thread.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the-concordant-thread.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -383,7 +383,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_blooming_skein.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_blooming_skein.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -401,7 +401,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_skein_of_bones.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_skein_of_bones.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -419,7 +419,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/armour-of-or-v2.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/images/world/armour-of-or-v2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -437,7 +437,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/eldeviers-shell.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/eldeviers-shell.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -460,7 +460,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_city_of_or_v2.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_city_of_or_v2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -468,7 +468,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/ores/azurazul.jpg</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/ores/azurazul.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -526,7 +526,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/guard-of-or.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/guard-of-or.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -534,7 +534,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/berrun-dimmabrow.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/berrun-dimmabrow.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -542,7 +542,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/darik-stoneveil.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/darik-stoneveil.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -550,7 +550,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/heartforge_v2.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/heartforge_v2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://wiki.hq.rockycore.com/world/ores/infernumite_ore.png</image:loc>
@@ -616,7 +616,7 @@
       <image:loc>https://wiki.hq.rockycore.com/characters/harg_pibble.jpeg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/pibble_harg.jpeg</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/pibble_harg.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -634,7 +634,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/thalis-thorne.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/thalis-thorne.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -672,7 +672,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/rusty_pluckers_with_miss_terry.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/rusty_pluckers_with_miss_terry.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -680,7 +680,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the-rusty-pluckers.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the-rusty-pluckers.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -703,7 +703,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the-inkblot-bindery.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the-inkblot-bindery.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -716,7 +716,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/nyzzrix.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/nyzzrix.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -744,7 +744,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_glimmering_ashenburrow.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_glimmering_ashenburrow.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -752,7 +752,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the_density_calibrator.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the_density_calibrator.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -765,7 +765,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/eldeviers-shell.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/eldeviers-shell.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -778,7 +778,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/runeswindler.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/characters/runeswindler.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -801,7 +801,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/umberdeep.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/umberdeep.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -844,7 +844,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/etheria_v2.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/etheria_v2.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -876,7 +876,7 @@
       <image:loc>https://wiki.hq.rockycore.com/classes/subclasses/arcane_resonance_sorcerer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/classes/subclasses/arcane_resonance_sorceress_(3</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/classes/subclasses/arcane_resonance_sorceress_(3</image:loc>
     </image:image>
   </url>
   <url>
@@ -929,7 +929,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/ashenfang-orc.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/ashenfang-orc.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -952,7 +952,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/the-ragged-goons.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/the-ragged-goons.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -990,10 +990,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/oblique-concord.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/oblique-concord.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/oblique-concord-logo.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/oblique-concord-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1001,7 +1001,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/scalebound-strays.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/scalebound-strays.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1019,7 +1019,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/dreamweaving.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/dreamweaving.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1036,16 +1036,16 @@
       <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-necromancer.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-undead.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/profession/emberglass-shaper/emberglass-undead.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-mirror.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/profession/emberglass-shaper/emberglass-mirror.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-orb.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/profession/emberglass-shaper/emberglass-orb.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-fractured-prism.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/profession/emberglass-shaper/emberglass-fractured-prism.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1053,7 +1053,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/world/profession/emberglass-shaper/emberglass-orb.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/world/profession/emberglass-shaper/emberglass-orb.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1061,7 +1061,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/fizzlemancy.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/fizzlemancy.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1079,7 +1079,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/mud-shaper.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/mud-shaper.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1087,7 +1087,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/scissorshaped-rock_paper.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/scissorshaped-rock_paper.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -1095,7 +1095,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/tankard-tracker.png</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/tankard-tracker.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1103,20 +1103,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/professions/tuskbreaker.webp</image:loc>
+      <image:loc>https://wiki.hq.rockycore.com/images/professions/tuskbreaker.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://wiki.hq.rockycore.com/structure/society/tribe/gurdalks-gang.md</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wiki.hq.rockycore.com/trash/species/merinari.md</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://wiki.hq.rockycore.com/characters/merinari.webp</image:loc>
-    </image:image>
   </url>
 </urlset>

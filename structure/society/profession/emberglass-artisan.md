@@ -12,13 +12,13 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Emberglass Artisans – The Keepers of Fire and Memory
 
-| Memory Path | Hexfire Path | Graveflame Path | [Ashenfang](/structure/society/clan/ashenfang.md) Path|
+| Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
 | ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp =300x) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp =300x) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp =300x) | ![emberglass-undead.webp](/images/world/profession/emberglass-shaper/emberglass-undead.webp =300x) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
-The **Emberglass Artisans** are Dragonborn artisans who wield fire and [magic](/structure/mechanic/magic.md) to shape glass into objects of beauty, power, and remembrance. Their craft is more than simple glassblowing—it is an ancient art passed down through generations, a sacred duty to preserve history and illuminate the future. Their mirrors reflect more than just faces, their jewels pulse with captured energy, and their memory-glass holds echoes of lost voices.
+The **Emberglass Artisans** are Dragonborn artisans who wield fire and magic to shape glass into objects of beauty, power, and remembrance. Their craft is more than simple glassblowing—it is an ancient art passed down through generations, a sacred duty to preserve history and illuminate the future. Their mirrors reflect more than just faces, their jewels pulse with captured energy, and their memory-glass holds echoes of lost voices.
 
 A true Emberglass Artisan does not just create; they bind fire, shape light, and forge stories into glass.
 
@@ -40,7 +40,7 @@ The darkest of their order, Graveflame Artisans **imprison souls within embergla
 
 ### **4. Emberglass Ashenfang Artisans – Weavers of the Unquiet Dead**  
 *"Fire may cleanse, but embers smolder still."*  
-Where Graveflame Artisans imprison souls, **[Ashenfang](/structure/society/clan/ashenfang.md) Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
+Where Graveflame Artisans imprison souls, **Ashenfang Artisans bind them into form**. Masters of the lingering energies between life and death, they craft **boneglass constructs**, ember-eyed specters, and **flickering revenants**, shaping the undead as artisans sculpt clay. Unlike crude necromancers who simply raise corpses, Ashenfang Artisans imbue their creations with purpose—whether as guardians, messengers, or cursed relics that whisper secrets from beyond the grave.
 
 Their most feared works are the **Hollowflame Effigies**, statues of emberglass and ash that, when shattered, release the bound dead in a final burst of spectral wrath.
 
@@ -64,9 +64,9 @@ The **Emberglass Artisans** see themselves as his successors, continuing his wor
 ## The Ways of the Emberglass Artisans
 
 ### Forging the Flameglass
-Creating Emberglass is no simple task. It begins with the gathering of **rare sands**—some from volcanic shores, others from the depths of the desert, and the rarest, from the bones of fallen dragons. These materials are melted with **dragonfire breath**, infused with [magic](/structure/mechanic/magic.md), and shaped through both precision and instinct.
+Creating Emberglass is no simple task. It begins with the gathering of **rare sands**—some from volcanic shores, others from the depths of the desert, and the rarest, from the bones of fallen dragons. These materials are melted with **dragonfire breath**, infused with magic, and shaped through both precision and instinct.
 
-The result is not ordinary glass, but something **alive**—glass that holds light within it, that shimmers like dragon [scales](/geography/landmark/scale.md), that remembers the touch of those who wield it.
+The result is not ordinary glass, but something **alive**—glass that holds light within it, that shimmers like dragon scales, that remembers the touch of those who wield it.
 
 ---
 
@@ -80,7 +80,7 @@ Crafted from the purest Emberglass, these mirrors reveal more than just reflecti
 
 ### **Emberglass Orbs**  
 *"Voices of the past, never silenced."*  
-Each [emberglass orb](/structure/society/profession/emberglass-artisan/emberglass-orb.md) is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
+Each emberglass orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
 
 ![emberglass-orb.webp](/images/world/profession/emberglass-shaper/emberglass-orb.webp =150x)
 
@@ -90,7 +90,7 @@ These flawless gemstones hold a sliver of flame within them. Some act as magical
 
 ### **Runewrought Lenses**  
 *"The world seen through fire."*  
-These finely cut glass lenses are inscribed with draconic runes, granting the wearer enhanced vision, the ability to see [magic](/structure/mechanic/magic.md), or even to read lost scripts. Some thieves and spies seek these lenses for more illicit purposes.
+These finely cut glass lenses are inscribed with draconic runes, granting the wearer enhanced vision, the ability to see magic, or even to read lost scripts. Some thieves and spies seek these lenses for more illicit purposes.
 
 ### **The Everflame Lantern**  
 *"A light that never dies."*  

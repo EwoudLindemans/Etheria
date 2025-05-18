@@ -12,11 +12,11 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # Umperas Hull
 
-**Umperas Hull** is one of the five major [Scales](/geography/landmark/scale.md) of [Iridia](/geography/world/iridia.md). It is a vast, curved crystalline structure with its top broken off, giving it the appearance of a long, golden wall. Its unusual formation creates a natural arc that has proven ideal for settlement and defence.
+**Umperas Hull** is one of the five major Scales of Iridia. It is a vast, curved crystalline structure with its top broken off, giving it the appearance of a long, golden wall. Its unusual formation creates a natural arc that has proven ideal for settlement and defence.
 
 ## Appearance
 
-The [Scale](/geography/landmark/scale.md) is a **beautiful yellow with slight hints of orange**, making it visually distinct among [Iridia](/geography/world/iridia.md)’s major Scales. The curvature of Umperas Hull gives the impression of a colossal protective structure, as if part of a circular monument torn from the earth.
+The Scale is a **beautiful yellow with slight hints of orange**, making it visually distinct among Iridia’s major Scales. The curvature of Umperas Hull gives the impression of a colossal protective structure, as if part of a circular monument torn from the earth.
 
 The fractured top lends the Hull a jagged, unfinished aesthetic, while its sheer face curves outward, suggesting it may have once been part of a larger, more complete form.
 
@@ -26,4 +26,4 @@ A city has formed around and within the arc of Umperas Hull, taking advantage of
 
 ## Significance
 
-The structure’s massive size, defensible shape, and warm coloration make it one of the most recognisable landmarks in [Iridia](/geography/world/iridia.md). As one of the five [Scales](/geography/landmark/scale.md) that pierce the world’s surface, Umperas Hull plays a vital role in the geographical and magical balance of the realm.
+The structure’s massive size, defensible shape, and warm coloration make it one of the most recognisable landmarks in Iridia. As one of the five Scales that pierce the world’s surface, Umperas Hull plays a vital role in the geographical and magical balance of the realm.

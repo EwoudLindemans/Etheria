@@ -21,13 +21,13 @@ parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 
 Hi Harg, Hi Pibble
 
-To call Harg a drunk would be to miss the point entirely—he is a philosopher of the highest disorder, a bard of unspoken sorrows, a sage of suds. He is thickset and warm like a half-soggy hearthrug, eyes sparkling with clarity despite the ale-soaked fog he lives in. His cloak was once a curtain, his shoes were once his neighbor’s, and his seat at [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md) might as well be nailed to the floor.
+To call Harg a drunk would be to miss the point entirely—he is a philosopher of the highest disorder, a bard of unspoken sorrows, a sage of suds. He is thickset and warm like a half-soggy hearthrug, eyes sparkling with clarity despite the ale-soaked fog he lives in. His cloak was once a curtain, his shoes were once his neighbor’s, and his seat at the Brazen Burp might as well be nailed to the floor.
 
 He believes deeply in the importance of “gut-thinkin’,” and treats each sip of ale as a ritualistic uncovering of truth. Sometimes those truths are brilliant. Sometimes they are SPLORP. And always, Harg insists the opposite of a thing is rarely what you think it is.
 
-Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a [scale](/geography/landmark/scale.md)’s very soul… or just got lucky mid-ramble.
+Despite what one might expect, Harg is not a fool—he simply does not trust things that make too much sense. His insight comes in bursts, and when it strikes, even seasoned scholars have found themselves wondering whether the man has peered into a scale’s very soul… or just got lucky mid-ramble.
 
-He is beloved in the tavern for his grand, sweeping gestures, his ability to toast to anything (“To socks!”), and his maddening yet magnetic monologues. Some say he once drank a thimbleful of condensed [scale](/geography/landmark/scale.md) essence, mistaking it for syrup. He says that’s nonsense—and if it were true, “I’d probably be even *more* brilliant.”
+He is beloved in the tavern for his grand, sweeping gestures, his ability to toast to anything (“To socks!”), and his maddening yet magnetic monologues. Some say he once drank a thimbleful of condensed scale essence, mistaking it for syrup. He says that’s nonsense—and if it were true, “I’d probably be even *more* brilliant.”
 
 ## Traits
 - **Wisdom Beyond Words** – Can intuit complex truths, but rarely explain them usefully.
@@ -56,8 +56,8 @@ Together, Harg and Pibble are more than a pair of fools. They are a phenomenon. 
 
 Their debates have stopped fights, started romances, inspired poetry, and, on one memorable night, resulted in the spontaneous naming of a child (“Welcome, lil’ Splorpina.”)
 
-Some say they are touched by a [scale](/geography/landmark/scale.md).
+Some say they are touched by a scale.
 Others say they are cursed by one.
 
 But everyone agrees:
-They make [the Brazen Burp](/geography/settlement/city/city-of-or/shop/the-brazen-burp.md) feel like home.
+They make the Brazen Burp feel like home.

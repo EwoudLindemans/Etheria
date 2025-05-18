@@ -13,7 +13,7 @@ dateCreated: 2025-04-25T18:48:34.068Z
 
 ![zynkri.webp](/images/world/zynkri.webp =500x)
 
-In the sprawling emerald labyrinths of the [Verdant Divide](/geography/region/verdant-divide.md), where the vines weave their own borders and even the sunlight gets lost, live the cunning and luminous-eyed **Zynkri**—a people whose laughter is the music of mischief and whose wisdom is rooted deep in the pulse of growing things.
+In the sprawling emerald labyrinths of the Verdant Divide, where the vines weave their own borders and even the sunlight gets lost, live the cunning and luminous-eyed **Zynkri**—a people whose laughter is the music of mischief and whose wisdom is rooted deep in the pulse of growing things.
 
 Though their small stature, broad noses, and sharp teeth might suggest kinship to goblins of old song and warning, the Zynkri are no mere scavengers. They are **wardens of the living jungle**, children of primal whimsy and ancient earth-pacts older than the memory of mountains.
 
@@ -21,7 +21,7 @@ Their skin gleams like polished dark jade, dappled with freckles of gold that sh
 
 ## Origins: Born of Thorn and Song
 
-Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of [the Fractured Keep](/geography/realm/the-fractured-keep.md) had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
+Legend says the first Zynkri hatched from pods sewn by the Worldroot Trees, after a time when the great beasts of the Fractured Keep had trampled all but the hardiest jungles into mulch. The spirits of the Wild Growth, furious yet clever, needed champions—small enough to hide, fierce enough to bite, and wild enough to survive anything.
 
 Thus were the Zynkri seeded: not of womb or egg, but of sprouted defiance and grinning chaos.
 
@@ -40,15 +40,15 @@ Among their customs:
 ## Traits and Traditions
 
 - **Armor** is a patchwork miracle: shimmering beetle shells, braided reeds, thorny vines, and stubborn optimism stitched together with surprising grace.
-- **Weapons** are grown rather than forged—barbed spears whose tips [drip](/geography/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md) with crystallized venom harvested from dream-stung vipers.
+- **Weapons** are grown rather than forged—barbed spears whose tips drip with crystallized venom harvested from dream-stung vipers.
 - Their **teeth** are often etched with decorative tribal runes, recounting the number of successful tricks, hunts, or particularly scandalous love affairs.
-- **[Magic](/structure/mechanic/magic.md)** among the Zynkri is botanical—growing snare-vines, whispering to ferns, or calling down clouds of blinding pollen with a sharp whistle.
+- **Magic** among the Zynkri is botanical—growing snare-vines, whispering to ferns, or calling down clouds of blinding pollen with a sharp whistle.
 
 ## Interaction with Outsiders
 
 The Zynkri are naturally suspicious of "straight-walkers"—those who move boldly through the jungle without respect for its wild will. They are known to pester, redirect, or outright baffle would-be invaders with labyrinthine paths, false trails, and the occasional falling branch perfectly timed to dunk an explorer into swamp muck.
 
-Still, merchants from [City of Or](/geography/settlement/city/city-of-or.md) and [Quillnibs Handle](/geography/settlement/city/quillnibs-handle.md) value Zynkri for their rare alchemical reagents, dream-fruit, and beetle-forged finery, often trading strange songs and spicy sweets in exchange.
+Still, merchants from City of Or and Quillnibs Handle value Zynkri for their rare alchemical reagents, dream-fruit, and beetle-forged finery, often trading strange songs and spicy sweets in exchange.
 
 ---
 

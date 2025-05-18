@@ -80,8 +80,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
                 Harg and Pibble are a pair of drunken philosophers whose nonsensical debates and profound insights make the Brazen Burp tavern feel like home.
               - [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md) ([bard](/t/bard), [musician](/t/musician), [half-elf](/t/half-elf), [historian](/t/historian), [poet](/t/poet), [legend](/t/legend))
                 Bard Extraordinaire, Living Legend, Voice of Iridia, Definitely Not a Narcissist
-                - [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) ([item](/t/item))
-                  Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
                 - [Item: The Library Between Names](/geography/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md) ([item](/t/item))
                   Wondrous Item (unique), legendary, soulbound
                 - [Background: The Truth Between the Tales](/geography/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md) ([journal](/t/journal))
@@ -302,7 +300,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
   A vital, yet dangerous, well near a desert outpost is plagued by rumors of a lurking, invisible stalker and a collapsed planar connection.
 - [Gorgrath the Brute](/geography/settlement/city/city-of-or/local/gorgrath-the-brute.md) ([orc](/t/orc), [barbarian](/t/barbarian))
   Gorgath the Brute, the Orcish Barbarian
+- [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) ([item](/t/item))
+  Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
 - [Nyzzrix](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md) 
+  Nyzzrix is a unique Wyrmbalm dwelling in the Emberveil Depths, collecting forgotten memories and building a library of living candles fueled by melted truths.
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
@@ -325,8 +326,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Magic in Iridia is a chaotic, remnant force stemming from a shattered divine being, embedded in the world and posing a constant risk of corruption and instability.
 - [Resonance](/structure/mechanic/resonance.md) ([resonance](/t/resonance))
   The magical current that flows from the scales and shapes Iridia.
-- [Merinari](/trash/species/merinari.md) ([species](/t/species))
-  The Merinari are a hauntingly beautiful, displaced species from a lost realm whose mere presence nullifies magic, leaving them adrift in a world they struggle to belong to.
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 

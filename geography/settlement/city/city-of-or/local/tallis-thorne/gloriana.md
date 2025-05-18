@@ -9,7 +9,7 @@ dateCreated: 2025-04-04T12:55:49.420Z
 ---
 
 ## **Gloriana**  
-*Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to [Tallis Thorne](/geography/settlement/city/city-of-or/local/tallis-thorne.md)*
+*Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne*
 
 Gloriana is a radiant twelve-string lyre-harp of rare craftsmanship, her frame forged from golden wood that hums faintly when no one listens. Her strings glisten with a soft light that shifts in colour and intensity based on the emotional truth behind the music. When Tallis sings praises of himself, she glows in theatrical delight; when he performs in grief or sincerity, her tone deepens, revealing echoes far older than the bard himself.
 
@@ -34,7 +34,7 @@ Though most see her as a finely enchanted instrument, **Gloriana is much more**.
   
 ### **Hidden Lore**
 
-What Tallis does not know—and what no [magic](/structure/mechanic/magic.md) can currently reveal—is that Gloriana once belonged to a *dear friend now lost*. Not to death, but to something worse: **erasure**. She was cast into isolation so profound that even her existence has been removed from history, from memory, from song. Only Tallis’s unspoken love for her remains, unknowingly preserved in his bond with Gloriana.
+What Tallis does not know—and what no magic can currently reveal—is that Gloriana once belonged to a *dear friend now lost*. Not to death, but to something worse: **erasure**. She was cast into isolation so profound that even her existence has been removed from history, from memory, from song. Only Tallis’s unspoken love for her remains, unknowingly preserved in his bond with Gloriana.
 
 Though he believes he found or inherited the harp, the truth is more tragic: **Gloriana is the last remnant of a connection he cannot name.** She remembers her true owner. She remembers Tallis. And she waits.
 

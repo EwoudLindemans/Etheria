@@ -14,7 +14,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 ![poppy-handyleaf.webp](/images/characters/poppy-handyleaf.webp =500x)
 
-Poppy Handyleaf was never quite like the others. Among the chattering gnomes of The [City of OR](/geography/settlement/city/city-of-or.md) winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
+Poppy Handyleaf was never quite like the others. Among the chattering gnomes of The City of OR winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
 
 She was found as an infant, swaddled in strange silken cloth, tucked in a basket outside the bustling workshop of Silke Handyleaf, a gnome whose sharp wit and sharper tongue made her the most successful informant in Or. Rather than question fate, Silke took the baby in as her own, naming her Poppy, after the bright, stubborn little flowers that forced their way through the cracks in dwarven stone.
 
@@ -23,10 +23,10 @@ Poppy's childhood was a cacophony of hammer strikes and bubbling alchemical brew
 Yet, for all her talent and brilliance, there was always something offbeat about her. She was too methodical for the gnomes and too unpredictable for the dwarves. She spoke too precisely, worked too quickly, and thought too deeply. A product of two worlds, yet belonging fully to neither.
 
 ## Creations
-In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave [magic](/structure/mechanic/magic.md) into metal, breathe life into gears, and create things that should not have existed.
+In time, she honed her craft, becoming a skilled artificer, wielding her intelligence like a chisel against the unshaped stone of reality. She could weave magic into metal, breathe life into gears, and create things that should not have existed.
 
 ### The Density Calibrator
-At the heart of the [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md), the [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of [The Dense](/geography/realm/the-dense.md), the compressed, unstable realm that exists within Or.
+At the heart of the Glimmering Ashenburrow, the Density Calibrator is an unassuming yet vital device that ensures the stability of this hidden city within a city. It is a delicate balance between magical engineering and arcane craftsmanship, designed to regulate the shifting forces of The Dense, the compressed, unstable realm that exists within Or.
 
 ### Vexley (Homunculus)
 Her prized companion Vexley, a homunculus construct, was forged from a large, ancient tooth she had found deep in the markets of Or. Some said it belonged to a dragon, others to something even older, but Poppy simply saw potential. She shaped it, coaxed it into being, and now it follows her, a tiny, chittering presence ever at her side.

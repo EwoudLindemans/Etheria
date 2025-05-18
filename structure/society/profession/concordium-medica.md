@@ -51,7 +51,7 @@ A **sigil of fire** is placed upon the healed—a brand of **glowing infernal sc
 ### **3. Oath of Neutrality – The Bound Hands (Life-Threatening Wounds)**  
 *"If I am to heal you, you must swear to harm no more than balance allows."*  
 
-For **mortal wounds, death’s edge, and irreversible damage**, the healed must **swear an Oath of Neutrality**—ensuring they do not **tip the [scales](/geography/landmark/scale.md) of power unjustly**.  
+For **mortal wounds, death’s edge, and irreversible damage**, the healed must **swear an Oath of Neutrality**—ensuring they do not **tip the scales of power unjustly**.  
 
 - A warlord **healed by the Concordium** must **withdraw from battle** for a time equal to their recovery.  
 - A noble **restored to life** must vow **never to use their second chance for vengeance**.  
@@ -99,7 +99,7 @@ A Tiefling healer of the Concordium Medica is **a walking contract**, a physicia
 - They step into the halls of kings, speaking **truths that cannot be denied**.  
 - They **watch, record, and balance**, ensuring that no one escapes **the price of their survival.**  
 
-Their sigil is **a golden [scale](/geography/landmark/scale.md) held by a skeletal hand**—a symbol of both **judgment and mercy, healing and consequence.**  
+Their sigil is **a golden scale held by a skeletal hand**—a symbol of both **judgment and mercy, healing and consequence.**  
 
 To seek their aid is to **seal a pact with forces beyond mortal understanding**—for in the world of the Concordium Medica, **every wound has a price, and every price must be paid.**  
 

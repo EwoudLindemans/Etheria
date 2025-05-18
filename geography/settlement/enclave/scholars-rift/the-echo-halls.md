@@ -11,10 +11,10 @@ parent: acedemy=52f984a8-ef37-4c35-a866-7327d68690e0
 ---
 
 # The Echo Halls (Dormitories & Learning Spaces)
-A constantly shifting labyrinth of **dorms, classrooms, and study halls** where students **live, study, and argue about [magic](/structure/mechanic/magic.md)**.  
+A constantly shifting labyrinth of **dorms, classrooms, and study halls** where students **live, study, and argue about magic**.  
 Due to its **Echo System**, no two students have identical dorm experiences, creating a bizarre mix of wisdom, chaos, and *near-daily existential crises*.  
 
 - The hallways **rearrange themselves overnight**, meaning students **frequently wake up somewhere new**.  
 - Some rooms have **mysterious, unopenable doors**, and no one knows why.  
 
-Despite the **occasional teleportation mishap**, the Echo Halls remain the **center of student life**, buzzing with [magic](/structure/mechanic/magic.md) and confusion.
+Despite the **occasional teleportation mishap**, the Echo Halls remain the **center of student life**, buzzing with magic and confusion.

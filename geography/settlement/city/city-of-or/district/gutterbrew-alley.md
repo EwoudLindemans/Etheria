@@ -15,12 +15,12 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 > *“If it fizzes and glows, drink slow.”*
 
 ## Overview
-**Gutterbrew Alley** is a narrow, twisting corridor of alchemical chaos wedged between [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md) and [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md) in the [City of Or](/geography/settlement/city/city-of-or.md). Unclaimed by either district and officially absent from all city maps, the alley is a haven for **experimental brewers, rogue potion-makers, and fringe alchemists**.
+**Gutterbrew Alley** is a narrow, twisting corridor of alchemical chaos wedged between Coalwalk Row and The Spillway in the City of Or. Unclaimed by either district and officially absent from all city maps, the alley is a haven for **experimental brewers, rogue potion-makers, and fringe alchemists**.
 
 Locals describe it as "too strange to be ours" and "exactly where it belongs." Though short in length, it is rich in lore, odour, and questionable legality.
 
 ## Geography & Access
-- **Location:** A sloped passage between [Coalwalk Row](/geography/settlement/city/city-of-or/district/coalwalk-row.md) and [The Spillway](/geography/settlement/city/city-of-or/district/the-spillway.md)  
+- **Location:** A sloped passage between Coalwalk Row and The Spillway  
 - **Claimed by:** No official district  
 - **Notable Feature:** Constant aromatic haze from potion steam and bubbling street stills
 

@@ -12,4 +12,4 @@ parent: government=63678415-9470-45aa-8d86-205ee81442a0
 
 # Fargash Flatstone
 
-Known for [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md)
+Known for The Fargash Gambit

@@ -12,7 +12,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 # Dolgrin Embervein – The Heretic Sculptor
 
-Born deep in the **[City of Or](/geography/settlement/city/city-of-or.md)**, beneath the white-red glow of the **[Armour of Or](/geography/scale/armour-of-or.md)**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **[Harthrûn metallurgy](/structure/society/profession/harthrûn-metallurgy.md)**. He was expected to join the [Heartforge](/geography/settlement/city/city-of-or/heartforge.md) like his kin, shaping runes into steel and hammering alloys that sang with [arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md).
+Born deep in the **City of Or**, beneath the white-red glow of the **Armour of Or**, Dolgrin Embervein was never meant to leave the forges. He was the third son of a metallurgist line proud of its mastery of **Harthrûn metallurgy**. He was expected to join the Heartforge like his kin, shaping runes into steel and hammering alloys that sang with arcane resonance.
 
 But Dolgrin's heart never beat for the hammer's strike alone. He heard music in stone—silence in shape. His art was not in weaponry, but in form. Though trained in runes, he spent his days carving scraps into faces—dwarves, orcs, even elves. He claimed stone had memory, and his fingers listened.
 
@@ -49,7 +49,7 @@ This time it wasn’t just art—it was seen as revisionism, sacrilege, or (in t
 
 ## The Exile He Chose
 
-Technically, Dolgrin wasn’t *banished*. The Council never slammed a gavel or threw him into the snow. There was no dramatic expulsion, no flaming hammers or ceremonial un-bearding. [Karath Flatstone](/geography/settlement/city/city-of-or/local/karath-flatstone.md)’s statement was more of a poetic sigh than a legal order:
+Technically, Dolgrin wasn’t *banished*. The Council never slammed a gavel or threw him into the snow. There was no dramatic expulsion, no flaming hammers or ceremonial un-bearding. Karath Flatstone’s statement was more of a poetic sigh than a legal order:
 
 > “Dolgrin Embervein is not to be struck by steel. He is unworthy of steel. Let him face the silence his chisel mocks.”
 
@@ -65,7 +65,7 @@ Some say Dolgrin left behind a message not in words, but in smirks and stone.
 
 ## The Stair He Chose
 
-Dolgrin wandered until he reached the **[Umperas Hull](/geography/scale/umperas-hull.md)**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow [scale](/geography/landmark/scale.md)'s broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
+Dolgrin wandered until he reached the **Umperas Hull**, drawn by dreams of golden light and silence unbroken. When he saw the winding stair carved into the yellow scale's broken wall, he wept. It reminded him of a chisel’s spiral path into stone.
 
 He climbed.
 
@@ -82,7 +82,7 @@ He is known to argue with the **Concord Ring**, not to challenge their rulings�
 ## Current Threads
 
 - Dolgrin is unknowingly watched by an agent of the **Oblique Concord**, who suspects his quiet ideology is more contagious than any revolution.
-- His elven statue, thought destroyed, has *reappeared* at the edge of **[Triz Valley](/geography/settlement/city/triz-valley.md)**, polished and standing upright. No one admits to moving it, yet fresh flowers appear at its base daily.
+- His elven statue, thought destroyed, has *reappeared* at the edge of **Triz Valley**, polished and standing upright. No one admits to moving it, yet fresh flowers appear at its base daily.
 - **Myyra Flatstone** once visited Innerhold incognito. She recognized Dolgrin but said nothing. A small rune of forgiveness—carved in old ironwood—now lies unclaimed at the edge of the Stone of One Voice. Dolgrin passes it each day without a word.
 
 ---

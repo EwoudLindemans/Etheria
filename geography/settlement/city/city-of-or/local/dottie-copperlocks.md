@@ -19,11 +19,11 @@ Once known with respect across the learned circles as **Dame Dorvessa Copperlock
 
 And then… one day, she simply **stopped**.
 
-She left the law behind and vanished into [Gutterbrew Alley](/geography/settlement/city/city-of-or/district/gutterbrew-alley.md), dragging behind her a chest of red ink and a library of books *that no one remembers authoring*.
+She left the law behind and vanished into Gutterbrew Alley, dragging behind her a chest of red ink and a library of books *that no one remembers authoring*.
 
 ## Present Persona: Mad Dottie of the Inkblot
 
-Now called **Mad Dottie** by locals (sometimes lovingly, sometimes not), she exists as the soul of [the Inkblot Bindery](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery.md). She mutters about the alphabet’s betrayal, argues with books about their own endings, and brews tea that somehow smells like warnings.
+Now called **Mad Dottie** by locals (sometimes lovingly, sometimes not), she exists as the soul of the Inkblot Bindery. She mutters about the alphabet’s betrayal, argues with books about their own endings, and brews tea that somehow smells like warnings.
 
 She wears multiple cloaks at once, usually with notes sewn into the linings. Her glasses are perpetually cracked. Her cane doubles as both pointer and defence mechanism.
 
@@ -57,7 +57,7 @@ She only ever says, “Oh. It’s you.”
 
 And then offers them a biscuit.
 
-- Knows Silke Handyleaf (Mother of [Poppy Handyleaf](/being/character/poppy-handyleaf.md))
+- Knows Silke Handyleaf (Mother of Poppy Handyleaf)
 
 ## Personality Notes (Observed)
 

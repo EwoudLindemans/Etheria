@@ -14,7 +14,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 *"A machine does not think, nor does it cast spells. But it can do what neither alone can achieve."*
 
-The **Hexbit Mechanics** are an enigmatic group of artisans who blend mechanical precision with arcane energy, crafting small but powerful **calculation devices** infused with [magic](/structure/mechanic/magic.md). Unlike traditional spellcasters, they do not wield raw magic themselves but encode it into tools—allowing them to perform feats of logic, prediction, and data storage beyond mortal limits.
+The **Hexbit Mechanics** are an enigmatic group of artisans who blend mechanical precision with arcane energy, crafting small but powerful **calculation devices** infused with magic. Unlike traditional spellcasters, they do not wield raw magic themselves but encode it into tools—allowing them to perform feats of logic, prediction, and data storage beyond mortal limits.
 
 Hexbits, the devices they create, are intricate constructs made from **crystal lattices, brass circuitry, and enchanted runes**. These devices can analyze magical flows, predict likely outcomes, store vast knowledge, and even run simulations of possible futures based on real-world data.
 
@@ -52,7 +52,7 @@ A precision-calibrated Hexbit that can **redirect or stabilize magical energy** 
 
 ### **5. The Curse Compiler**
 *"Reverse the weave, untangle the spell."*  
-A device that breaks down complex enchantments into their **component runes**, allowing for the study, modification, or dispelling of harmful [magic](/structure/mechanic/magic.md).  
+A device that breaks down complex enchantments into their **component runes**, allowing for the study, modification, or dispelling of harmful magic.  
 
 ### **6. The Simulacrum Frame**
 *"What if I had taken a different path?"*  
@@ -60,7 +60,7 @@ A rare and advanced Hexbit that creates **temporary etheric projections** of an 
 
 ### **7. The Whisper Codex**
 *"A message that only one may read."*  
-A personal encryption device that encodes spoken or written messages into **[arcane resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) patterns**, which can only be deciphered by a designated recipient.  
+A personal encryption device that encodes spoken or written messages into **arcane resonance patterns**, which can only be deciphered by a designated recipient.  
 
 ### **8. The Fractal Compass**
 *"Follow the unseen path."*  
@@ -76,6 +76,6 @@ A controversial and experimental Hexbit rumored to **connect with forgotten reli
 
 A **Hexbit Mechanic** is part engineer, part mage, and part scholar. Their devices are used in everything from warfare and exploration to record-keeping and espionage. Some work alone, lost in their calculations, while others form collectives, building **vast arcane data networks** that span entire cities.
 
-The greatest of them seek to uncover the **First Algorithm**, a mythical sequence said to hold the key to understanding all of [magic](/structure/mechanic/magic.md) and logic as one. Whether they seek to unravel the past or predict the future, all Hexbit Mechanics share one belief:
+The greatest of them seek to uncover the **First Algorithm**, a mythical sequence said to hold the key to understanding all of magic and logic as one. Whether they seek to unravel the past or predict the future, all Hexbit Mechanics share one belief:
 
 **"With the right sequence, anything is possible."**
