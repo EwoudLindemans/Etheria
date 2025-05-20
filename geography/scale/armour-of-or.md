@@ -10,6 +10,8 @@ dateCreated: 2025-04-14T21:50:39.619Z
 parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
+# Armour of Or
+
 ## History
 While it is the largest scale with a crossection of about 30.000 feet, it is also the lowest. It got excavated underneath a mountain by the Flatstone family. The lands surrounding it are mostly tundra with a bit of fertile land here and there, with some mountains present. The color is white red-ish. with a few spikes that are faintly red/orange. Underneath the armor lies the City of Or that is Build by Dwarves
 
