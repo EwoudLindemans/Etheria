@@ -12,7 +12,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 # The Ragged Goons
 
-![the-ragged-goons.webp](/images/world/the-ragged-goons.webp =500x)
+![the-ragged-goons.webp](/images/world/the-ragged-goons.webp)
 
 The **Ragged Goons** are a rogue faction of outcasts, scavengers, and scale-exploiters who thrive on the chaos of Iridia’s fringes. Born in the wake of a catastrophic scale experiment in **Arc 131**, they reject the sanctity of Irion’s relics, viewing the scales as tools to be stripped and wielded. Their history is one of reckless raids, bloody rivalries, and a stubborn refusal to bow to the world’s order—a legacy that endures even as their numbers dwindle in the **Arc of Corruption**.
 

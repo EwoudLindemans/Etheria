@@ -13,7 +13,7 @@ parent: district=f8061dd3-8bf0-449e-8b2d-b67d857f2660
 # The Brazen Burp  
 *A Legendary Tavern in The City of Or*
 
-![rusty_pluckers_with_miss_terry.png](/images/world/rusty_pluckers_with_miss_terry.png =500x)
+![rusty_pluckers_with_miss_terry.png](/images/world/rusty_pluckers_with_miss_terry.png)
 
 Nestled along the cobbled edge of **Coalwalk Row**, just beyond the Heartforge's residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 

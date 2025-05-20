@@ -12,7 +12,7 @@ parent: tribe=9a78d2d8-cddd-47b4-baf6-0b660eaf6c7d
 
 # Profession: Mudshaper (Ogre Architects of Living Clay)
 
-![mud-shaper.webp](/images/professions/mud-shaper.webp =500x)
+![mud-shaper.webp](/images/professions/mud-shaper.webp)
 
 ## Concept & Fantasy Twist:
 Deep in the swampy heartlands where stone is scarce but **earth is alive**, the ogres of Glutt’thar have perfected a profession both sacred and practical—the **Mudshaper**. These towering artisans use their immense strength and deep connection to the land to **mold entire homes, forge living armor, and breathe crude life into lumbering golems** using enchanted mud, clay, and swamp essence. Their work is revered, for they do not simply build—they **grow** their creations, shaping structures that shift over time, armor that repairs itself when fed with fresh earth, and golems that stir to life when given purpose.

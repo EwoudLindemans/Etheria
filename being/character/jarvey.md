@@ -11,7 +11,7 @@ dateCreated: 2025-04-10T21:39:22.494Z
 
 # Jarvey – The Scribe of Wandering Hearts
 
-![jarvey.webp](/images/world/jarvey.webp =500x)
+![jarvey.webp](/images/world/jarvey.webp)
 
 **Race:** Firbolg  
 **Class:** Bard  

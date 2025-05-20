@@ -14,7 +14,7 @@ parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 
 > *"Everything has a price. Even silence. Especially silence."*
 
-![cirxa.webp](/images/characters/cirxa.webp =500x)
+![cirxa.webp](/images/characters/cirxa.webp)
 
 In the mist-drenched corridors of Arkona, where whispered rumors flicker brighter than lanterns, a figure drifts like a wisp of smoke through back alleys and midnight markets. This is **Cirxa**, the enigmatic tiefling known as the **Candle-Eyed Broker**, a dealer of secrets, curses, and unusually well-mannered spirits. Few know where she came from, fewer still know where she truly lives—but all know to come with coin *and* caution.
 

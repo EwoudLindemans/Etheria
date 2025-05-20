@@ -13,7 +13,7 @@ parent: realm=f5c11b2c-e917-47b7-a226-d79f4c5ecee0
 ## **Aurelthys, The Argent Arbiter**  
 *Deity of Ambition, Hierarchy and Greed*
 
-![aurelthys.webp](/images/world/aurelthys.webp =500x)
+![aurelthys.webp](/images/world/aurelthys.webp)
 
 Aurelthys is the singular divine force presiding over Mohinders Spire, embodying the structured mastery of magic and the careful distribution of knowledge. Neither wholly benevolent nor oppressive, Aurelthys represents the intricate balance between the pursuit of wisdom and the necessity of control. The city thrives under the weight of secrets, its power centralized in the hands of those deemed worthy to wield it.  
 

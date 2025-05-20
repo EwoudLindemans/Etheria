@@ -12,7 +12,7 @@ parent: scale=e89ff377-4d79-4d02-9a91-ec4acf626c24
 
 # Mohinders Spire: A City of Arcane Supremacy
 
-![eldeviers-shell.webp](/images/world/eldeviers-shell.webp =500x)
+![eldeviers-shell.webp](/images/world/eldeviers-shell.webp)
 
 Mohinders Spire with its Veilsteel Tail is a city unlike any other, suspended upon the immense, opalescent form of **Eldeviér’s Shell**. Its foundations are bound to the colossal structure by the **Veilsteel Tail**—an awe-inspiring, dragon-like framework of dark, iridescent metal, forged to honor the mythical being, **Irion**. This immense construct coils around the lower ridges of the Shell like the tail of a slumbering beast, its razor-edged plates etched with glowing sigils that hum with arcane energy. Massive iron rings and enchanted chains secure the city in place, preventing it from drifting into the unpredictable forces that swirl around the Shell’s glowing surface.
 

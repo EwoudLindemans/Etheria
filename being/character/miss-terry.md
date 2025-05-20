@@ -13,7 +13,7 @@ parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 # Miss Terry
 **The Enigma of the Brazen Burp**
 
-![miss_terry_cartoon.webp](/images/characters/miss_terry_cartoon.webp =500x)
+![miss_terry_cartoon.webp](/images/characters/miss_terry_cartoon.webp)
 
 Few names in The City of Or carry as much simultaneous reverence and bewilderment as Miss Terry, the jolly Tiefling bard of the Brazen Burp. She is often called “Mystery” by those slurring their words too hard to get it right. To call her simply a performer would be a grave understatement—she is the heart of the tavern, the spark that keeps its fire burning, and the unsolvable riddle that keeps its regulars guessing.
 

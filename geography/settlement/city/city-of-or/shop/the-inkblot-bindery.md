@@ -12,7 +12,7 @@ parent: region=50940c56-4e2d-4ce7-a570-3e9c865773ee
 
 # The Inkblot Bindery
 
-![the-inkblot-bindery.png](/images/world/the-inkblot-bindery.png =500x)
+![the-inkblot-bindery.png](/images/world/the-inkblot-bindery.png)
 
 ## Introduction: A Bookstore Where There Should Be None
 

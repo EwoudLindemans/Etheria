@@ -10,7 +10,7 @@ dateCreated: 2025-04-12T20:36:08.726Z
 
 # The Graith – Brine-Souled Seafarers of the Lost Wake
 
-![graith.webp](/images/characters/graith.webp =500x)
+![graith.webp](/images/characters/graith.webp)
 
 To the untrained eye, the **Graith** could be mistaken for tritons—those noble sea-dwellers sung of in bardic tales. But to assume that would be like confusing driftwood for a sea-worn shrine. The Graith are not born of coral courts or oceanic treaties. They come from **the Lost Wake**, a subaquatic trench rumored to lie beneath the Folded Current between a region of ocean where time hiccups, ships vanish, and **waves flow in reverse** during moonless nights.
 

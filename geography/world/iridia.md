@@ -12,7 +12,7 @@ connections: creator=581961b4-1a14-4822-89f4-574c6bec3f7d
 ---
 
 # Iridia
-![etheria_v2.webp](/images/world/etheria_v2.webp =500x)
+![etheria_v2.webp](/images/world/etheria_v2.webp)
 In the old days past, a barren world collided with the magical creature Irion. Rupturing the planet and shattering it into a thousand fragments. But with time the planet healed through the magical residue that the creature left behind. This event that created the world is now known as The Collapse, This event shattered reality and created enormous, interlocked scales each possessing unique properties. This world exists in a stable yet improbable formation, suspended in the cosmos by forces beyond comprehension.
 
 The origin of the ancient creature is unknown, but there are many theories. Some say that it is a dragon that was petrified by a powerful magic. Thus causing a collision Others say that it is a giant creature that was created by the gods. Whatever the truth may be, the ancient creature remains a mystery.

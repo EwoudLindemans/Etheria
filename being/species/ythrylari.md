@@ -12,7 +12,7 @@ dateCreated: 2025-04-24T19:21:08.661Z
 # Ythrylari
 The Echo Between Star and Scale
 
-![ythrylari.webp](/images/world/ythrylari.webp =500x)
+![ythrylari.webp](/images/world/ythrylari.webp)
 
 > *“We are not what the Dense made.  
 > We are what the Dense regrets.”*  

@@ -13,7 +13,7 @@ parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 # Xal'Zyra, the Veil Between  
 **Deity of the Dense, Shadows, and Passage**  
 
-![xalzyra.webp](/images/world/xalzyra.webp =500x)
+![xalzyra.webp](/images/world/xalzyra.webp)
 
 Xal'Zyra, the Veil Between, is the divine guide of **shrouded pathways, hidden spaces, and the unseen forces that weave through existence**. A guardian of **the Dense**, Xal'Zyra teaches that all things move between states—**from light to dark, from one place to another, from ignorance to understanding**. It is neither a god of absolute knowledge nor of chaos, but of **navigation and adaptation**, helping those who step into the unknown.  
 

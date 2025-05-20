@@ -11,7 +11,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Sylieth
-![sylieth.png](/images/characters/sylieth.png =500x)
+![sylieth.png](/images/characters/sylieth.png)
 **Race:** Tiefling  
 **Class:** Cleric (Life Domain)  
 **Background:** Urchin  
