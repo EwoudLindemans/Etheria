@@ -13,7 +13,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 # The Oblique Concord
 | In Action | Logo |
 | --- | --- |
-| ![oblique-concord.webp](/images/world/oblique-concord.webp =250x)|![oblique-concord-logo.webp](/images/world/oblique-concord-logo.webp =250x)|
+| ![oblique-concord.webp](/images/world/oblique-concord.webp)|![oblique-concord-logo.webp](/images/world/oblique-concord-logo.webp)|
 
 It began with a single act of mischief—one that should have been forgotten.
 
