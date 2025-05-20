@@ -7,6 +7,7 @@ date: 2025-04-27T21:57:34.235Z
 tags: character, iridian, sorcerer
 editor: markdown
 dateCreated: 2025-03-18T13:31:39.616Z
+parent: academy=52f984a8-ef37-4c35-a866-7327d68690e0
 ---
 
 # Nokk, The Scale’s Chosen
