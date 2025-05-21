@@ -14,7 +14,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 | Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
-| ![emberglass-profession.webp](/world/profession/emberglass-shaper/emberglass-profession.webp) | ![emberglass-cursed.webp](/world/profession/emberglass-shaper/emberglass-cursed.webp) | ![emberglass-necromancer.webp](/world/profession/emberglass-shaper/emberglass-necromancer.webp) | ![emberglass-undead.webp](/images/world/profession/emberglass-shaper/emberglass-undead.webp) |
+| ![emberglass-profession.webp](/images/profession/emberglass-shaper/emberglass-profession.webp) | ![emberglass-cursed.webp](/images/profession/emberglass-shaper/emberglass-cursed.webp) | ![emberglass-necromancer.webp](/images/profession/emberglass-shaper/emberglass-necromancer.webp) | ![emberglass-undead.webp](/images/profession/emberglass-shaper/emberglass-undead.webp) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
