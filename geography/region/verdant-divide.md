@@ -7,7 +7,7 @@ date: 2025-04-14T21:50:54.128Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-09T19:13:41.132Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
+parent: region=38b0e138-e795-4f90-a8bf-f8d22052e7b9
 ---
 
 # Verdant Divide
