@@ -14,7 +14,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 South of the crossroads-laden **Triz Valley**, the land surrenders into the **Mistveil Marshes**—a sprawling morass of grey water, stubborn reeds, and slow, sucking earth. The mist hangs heavy like a second sky, folding itself around the knees of the ancient trees, veiling everything in a shifting, uncertain gloom. Beneath this blanket of damp, the ground thrums faintly with the buried threads of resonance, leaking into the world from wounds cut by the Dense.
 
-![mistveil-marshes.png](/images/region/mistveil-marshes.png)
+![mistveil-marshes.png](/images/world/mistveil-marshes.png)
 
 The **Mudshapers** dwell here, their art born not of high sorcery but of hard-won patience and bone-deep understanding of the marsh’s moods. They coax the heavy, mineral-rich clay into living structures—huts that rise squat and strong against the creeping damp, bridges that sway but never fall, pillars that groan under their own weight but never yield. Their craft is an alliance between will and material, a labor of hands and heart, whispered lessons passed mouth to ear over uncounted generations.
 
