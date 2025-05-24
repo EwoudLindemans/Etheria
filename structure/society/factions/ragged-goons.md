@@ -7,7 +7,7 @@ date: 2025-04-14T21:51:24.435Z
 tags: faction
 editor: markdown
 dateCreated: 2025-03-11T20:16:23.594Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
+parent: region=c7737feb-0889-4e79-9b4d-f899fad4a5b3
 ---
 
 # The Ragged Goons
