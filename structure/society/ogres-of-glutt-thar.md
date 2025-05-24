@@ -7,7 +7,7 @@ date: 2025-04-27T13:55:52.962Z
 tags: tribe, ogre, mudshaper
 editor: markdown
 dateCreated: 2025-04-27T13:39:46.281Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
+parent: region=7038ee8b-0e08-4420-962f-0cd33e50cf59
 ---
 
 # The Ogres of Glutt’thar
