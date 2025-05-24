@@ -7,6 +7,7 @@ date: 2025-04-25T18:50:02.984Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-25T18:48:34.068Z
+parent: region=7038ee8b-0e08-4420-962f-0cd33e50cf59
 ---
 
 # The Zynkri – Thorn-Touched Spritelings of the Jungle Veil
