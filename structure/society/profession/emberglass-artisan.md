@@ -7,7 +7,7 @@ date: 2025-04-29T10:08:41.277Z
 tags: profession, emberglass, memory, curse, soul
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
+parent: region=d0c9761b-ad0d-46b8-8515-da1f98abf5cb
 ---
 
 # Emberglass Artisans – The Keepers of Fire and Memory
