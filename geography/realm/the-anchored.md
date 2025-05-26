@@ -11,7 +11,7 @@ dateCreated: 2025-04-30T20:55:49.804Z
 
 # The Anchored Realm
 
-**The Anchored**, short for The Anchored Realm, is the foundational plane of existence where all of Iridia and Etheria unfold—a realm not hidden or distant, but *present*, immediate, and inevitable. It is not a higher realm, nor a deep one—it is the **baseline**, the place where resonance finds form, and where all magic, myth, and meaning draw their weight. Everything that exists resonates within the Anchored. It is the reason things *have shape*, the reason fire burns the same way twice, and the reason names hold power.
+**The Anchored**, short for The Anchored Realm, is the foundational plane of existence where all of Iridia unfold—a realm not hidden or distant, but *present*, immediate, and inevitable. It is not a higher realm, nor a deep one—it is the **baseline**, the place where resonance finds form, and where all magic, myth, and meaning draw their weight. Everything that exists resonates within the Anchored. It is the reason things *have shape*, the reason fire burns the same way twice, and the reason names hold power.
 
 Here, the **law of Becoming** reigns. When something echoes—through word, ritual, emotion, or memory—it begins to tether itself to the Anchored. And when that resonance becomes strong enough, the Anchored responds. It *settles* the thing. It *finalizes* it. A creature long whispered into fear becomes a real monster. A prayer spoken by millions becomes a god. Even lies can become truth, if told loudly and often enough.
 
