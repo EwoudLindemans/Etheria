@@ -12,7 +12,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 
 # Asarazul
 
-![azurazul.jpg](/images/world/ores/azurazul.jpg)
+![azurazul.webp](/images/world/ores/azurazul.webp)
 
 Long before the City of Or was a name whispered through the mountain halls, and long before the undercity glowed red beneath the Scale, there was a gem—cut from the frozen depths of the **Asara Plate**, said to hold the stillness of a thousand winters.
 

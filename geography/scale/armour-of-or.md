@@ -30,4 +30,4 @@ The deep connection between the scale and the planet’s core causes a faint but
 - Beneath the Armour of Or you find The City of Or 
 
 
-![armour-of-or.png](/images/images/world/armour-of-or-v2.png)
+![armour-of-or.webp](/images/images/world/armour-of-or-v2.webp)

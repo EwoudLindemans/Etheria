@@ -88,4 +88,4 @@ Nokk
 Jarvey
 
 ## Geography
-![worldmap.png](/images/world/worldmap.png)
+![worldmap.webp](/images/world/worldmap.webp)

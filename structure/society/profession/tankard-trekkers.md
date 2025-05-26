@@ -13,7 +13,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 # Tankard Trekker
 *Licensed Alebound Adventurer*
 
-![tankard-tracker.png](/images/professions/tankard-tracker.png)
+![tankard-tracker.webp](/images/professions/tankard-tracker.webp)
 
 ## Overview  
 Tankard Trekkers are **licensed adventurers**, most commonly halflings, who journey across Iridia in search of **legendary drinks and legendary taverns**. Originating in the City of Or, these individuals serve as roaming drinkers, judges of hospitality, preservers of stories, and occasional mediators of ale-fueled disputes.

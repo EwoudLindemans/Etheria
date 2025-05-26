@@ -13,7 +13,7 @@ parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 # Tallis Thorne  
 *A Half-Elf of Undisputed Mystery and Self-Endorsed Greatness*
 
-![thalis-thorne.png](/images/characters/thalis-thorne.png)
+![thalis-thorne.webp](/images/characters/thalis-thorne.webp)
 
 > “History is best told by those who made it, and I—modestly—made most of it worth telling.”*  
 > — **Tallis Thorne**, in *An Autobiography So Good It Wrote Itself*

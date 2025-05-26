@@ -13,7 +13,7 @@ parent: city=59408a28-61f9-4883-92bd-922c27813926
 # The Guard of the City of Or  
 *A tradition of watchful kindness beneath the glowing stone*
 
-![The Guard of Or on patrol](/images/world/guard-of-or.png)
+![The Guard of Or on patrol](/images/world/guard-of-or.webp)
 
 The Guard of the City of Or is the official civic force tasked with upholding the peace, ensuring safety, and maintaining the deep trust between Orfolk and their mountain. Though often simply called “the Guard,” their presence is as layered as the city they serve—ring by ring, gate by gate, voice by voice.
 

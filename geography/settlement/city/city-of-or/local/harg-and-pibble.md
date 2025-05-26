@@ -12,7 +12,7 @@ parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 
 | Before Philosotankard | Existential Dread |
 | -- | -- |
-|![harg_pibble.jpeg](/characters/harg_pibble.jpeg)|![pibble_harg.jpeg](/images/characters/pibble_harg.jpeg)|
+|![harg_pibble.webp](/characters/harg_pibble.webp)|![pibble_harg.webp](/images/characters/pibble_harg.webp)|
 
 
 

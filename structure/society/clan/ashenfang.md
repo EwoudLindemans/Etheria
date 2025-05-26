@@ -12,7 +12,7 @@ parent: region=57e07d00-5365-46b7-bdca-c082d990365f
 
 # Ashenfang
 
-![Ashenfang Orc](/images/world/ashenfang-orc.png)
+![Ashenfang Orc](/images/world/ashenfang-orc.webp)
 
 The Ashenfang are a corrupted splinter of the once-proud Tuskbreaker lineage. Where the Tuskbreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
 
