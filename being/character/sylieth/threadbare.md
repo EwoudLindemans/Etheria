@@ -41,7 +41,7 @@ They let me stay at **The Red Palm Hall**. They gave me work, food, a bed with a
 
 That’s when I found the **thread**.
 
-A scrap of red cord, torn from a bandage I’d used to bind a boy’s hand. It stuck to my sleeve. I meant to throw it away. Instead, I kept it. Wrapped it around my wrist. It felt like something important. That night, while the others prayed to names carved in Etherian stone, I whispered into the dark and asked if anyone else was listening.
+A scrap of red cord, torn from a bandage I’d used to bind a boy’s hand. It stuck to my sleeve. I meant to throw it away. Instead, I kept it. Wrapped it around my wrist. It felt like something important. That night, while the others prayed to names carved in Iridian stone, I whispered into the dark and asked if anyone else was listening.
 
 Someone was.
 
