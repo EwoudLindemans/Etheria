@@ -7,7 +7,7 @@ date: 2025-04-14T21:51:29.061Z
 tags: profession
 editor: markdown
 dateCreated: 2025-03-29T22:59:43.792Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
+parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Tankard Trekker
