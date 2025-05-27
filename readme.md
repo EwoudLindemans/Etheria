@@ -349,4 +349,4 @@ And now… so are you.
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 
-© 2025 Ewoud & Stefan. All rights reserved.
+© 2025 Ewoud & Solen. All rights reserved.
