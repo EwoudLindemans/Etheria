@@ -7,6 +7,7 @@ date: 2025-04-14T21:51:18.231Z
 tags: deity
 editor: markdown
 dateCreated: 2025-03-21T08:04:44.894Z
+parent: realm=f5c11b2c-e917-47b7-a226-d79f4c5ecee0
 ---
 
 # The Deities and the Will of Iridia
