@@ -14,6 +14,8 @@ parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
 
 Tucked impossibly between the great halls and towering homes of The City of Or, The Glimmering Ashenburrow is a city that should not exist. A sliver of space, hidden in plain sight, compressed between the cracks of dwarven civilization—a place wedged between reality itself. It defies architecture, logic, and even common sense. Buildings lean at odd angles but never collapse. Streets spiral in ways that shouldn't connect, yet somehow always lead exactly where one needs to go. It's as if the city was never built but rather *grew* between Or’s structures, forming its own impossible, secret world.  
 
+![the_glimmering_ashenburrow.webp](/images/world/the_glimmering_ashenburrow.webp)
+
 ## A Place of Impossible Space
 The Ashenburrow is a fragment of The Dense, a place where reality folds inward, creating a compressed, half-forgotten pocket of existence. While The Dense is a realm of peril, decay, and crushing weight, the gnomes of the Ashenburrow found a way to tame a sliver of it, shaping it into a home where compressed space became a gift rather than a curse.  
 
@@ -33,6 +35,3 @@ At the heart of the burrow lies the Hearthcore, a great glowing engine, pulsing 
 
 ## A Home for the Forgotten  
 The Ashenburrow is a refuge for the strange, the misplaced, and the impossible. Gnomes who never quite fit in among the dwarves, tinkerers who push the limits of what should be built, outcasts who slip between the cracks of history itself. It is a city that does not belong, yet refuses to be erased—an anomaly hidden in plain sight, thriving in the sliver of space where logic has forgotten to look.
-
-![the_glimmering_ashenburrow.webp](/images/world/the_glimmering_ashenburrow.webp)
-
