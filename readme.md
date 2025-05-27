@@ -1,26 +1,26 @@
 # World Introduction
 
-In the beginning, there was resonance.
+	In the beginning, there was resonance.
 
-Before stone held weight, before stars learned to burn, before names held meaning—resonance hummed across the void. It did not ask to be noticed. It simply was, unshaped and untethered, awaiting the first to listen.
+	Before stone held weight, before stars learned to burn, before names held meaning—resonance hummed across the void. It did not ask to be noticed. It simply was, unshaped and untethered, awaiting the first to listen.
 
-That first was Irion—not a god, but a descent. A fall so profound it shattered stillness into possibility. From that cataclysm bloomed Iridia, a world stitched together by memory and metamorphosis, by the friction of collision and the grace of what remained.
+	That first was Irion—not a god, but a descent. A fall so profound it shattered stillness into possibility. From that cataclysm bloomed Iridia, a world stitched together by memory and metamorphosis, by the friction of collision and the grace of what remained.
 
-Iridia does not stand alone. It floats within The Anchored, the foundational realm where ideas are born into bone, and myths can bleed. Beneath its surface, dwarves hammer songs into metal and call it endurance. In its shadowed corners, goblins trap echoes in laughter and call it war. Trees whisper forgotten names, and tides carry fragments of dying gods. Here, resonance is not merely power—it is breath, binding emotion, matter, and meaning.
+	Iridia does not stand alone. It floats within The Anchored, the foundational realm where ideas are born into bone, and myths can bleed. Beneath its surface, dwarves hammer songs into metal and call it endurance. In its shadowed corners, goblins trap echoes in laughter and call it war. Trees whisper forgotten names, and tides carry fragments of dying gods. Here, resonance is not merely power—it is breath, binding emotion, matter, and meaning.
 
-But Iridia is not fixed. The Dense looms—a realm crushed inward upon itself, a place where space collapses and truth becomes layered and uncertain. From there come creatures of sorrow, and possibilities too tightly wound to survive unraveling. And deeper still lies the Fractured Keep, where gods are not distant but territorial, their domains shaped by belief and balanced by their own capricious rules.
+	But Iridia is not fixed. The Dense looms—a realm crushed inward upon itself, a place where space collapses and truth becomes layered and uncertain. From there come creatures of sorrow, and possibilities too tightly wound to survive unraveling. And deeper still lies the Fractured Keep, where gods are not distant but territorial, their domains shaped by belief and balanced by their own capricious rules.
 
-Life in Iridia clings, not because it must—but because it chooses to. From the bioluminescent caverns of Umberdeep to the spiraling madness of Mohinders Spire; from the laughter-filled gutters of the City of Or to the silent, haunted bones of ancient titans stretched across the Skein—every soul shapes the song of the world. Some sing to create. Some sing to remember. Others sing just to be heard.
+	Life in Iridia clings, not because it must—but because it chooses to. From the bioluminescent caverns of Umberdeep to the spiraling madness of Mohinders Spire; from the laughter-filled gutters of the City of Or to the silent, haunted bones of ancient titans stretched across the Skein—every soul shapes the song of the world. Some sing to create. Some sing to remember. Others sing just to be heard.
 
-Yet, resonance listens to all.
+	Yet, resonance listens to all.
 
-This is not a safe world. It is not meant to be.
-But if you walk carefully, with open heart and wondering step, Iridia will shape itself around you.
-And you may, if the rhythm takes you, shape it in return.
+	This is not a safe world. It is not meant to be.
+	But if you walk carefully, with open heart and wondering step, Iridia will shape itself around you.
+	And you may, if the rhythm takes you, shape it in return.
 
-Welcome, traveler. You’ve entered a world that is still becoming.
+	Welcome, traveler. You’ve entered a world that is still becoming.
 
-And now… so are you.
+	And now… so are you.
 ## Index
 
   - [The Anchored](/geography/realm/the-anchored.md) ([realm](/t/realm))
@@ -75,6 +75,7 @@ And now… so are you.
           The Ashenfang are a corrupted Orc and Dragonborn splinter group seeking to dominate the Skein of Bones by weaponizing death and binding souls into an unstoppable army.
         - [Tuskbreakers](/structure/society/profession/tuskbreaker.md) ([profession](/t/profession))
           Tuskbreakers are orcish artisans who reclaim power from the past by forging brutal weapons and armor from the fossilized remains of colossal creatures and ancient warriors.
+      - [Sorhadjin](/geography/region/sorhadjin.md) ([region](/t/region))
       - [The Whispering Woods](/geography/region/the-whispering-woods.md) ([region](/t/region), [forrest](/t/forrest))
         The Whispering Woods is a vast, magically unstable forest in Iridia, teeming with unpredictable flora, fauna, and the potential for ancient power.
         - [Velkrin](/being/species/velkrin.md) ([species](/t/species))
@@ -141,6 +142,8 @@ And now… so are you.
                 Dottie Copperlocks is a reclusive, eccentric dwarven scribe and former legal scholar who runs the Inkblot Bindery, weaving a network of informants and possessing unsettling knowledge of power, secrets, and the Oblique Concord.
               - [Fragment from the Personal Journal of D.C.S.](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md) ([journal](/t/journal))
                 A fragmented journal entry reveals a cartographer's paranoid investigation into a shadowy organization called the Concord, which subtly manipulates events and erases memories.
+              - [Nyzzrix](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md) 
+                Nyzzrix is a unique Wyrmbalm dwelling in the Emberveil Depths, collecting forgotten memories and building a library of living candles fueled by melted truths.
             - [The Stable Flask](/geography/settlement/city/city-of-or/shop/the-stable-flask.md) ([shop](/t/shop))
               A Reputable Laboratory
           - [The Passage of Or](/geography/settlement/city/city-of-or/district/passage-of-or.md) ([tunnel](/t/tunnel))
@@ -299,6 +302,7 @@ And now… so are you.
   Conduit Aasimar are divine envoys who act as living anchors for deities, sensing and harmonizing with the shifting faiths of Iridia.
 - [Ythrylari](/being/species/ythrylari.md) ([species](/t/species))
   The Ythrylari are a tragic, beautiful species born from the metamorphic pressure of the Dense, existing as shimmering echoes between raw instability and transcendent harmony, destined for a final transformation into Iridian beings.
+- [Zorathi](/being/species/zorathi.md) ([region](/t/region))
 - [Anemostrus](/being/titan/anemostrus.md) ([titan](/t/titan))
   Anemostrus is a colossal, wind-borne titan whose presence shapes the weather and holds ancient secrets within its swirling shell.
 - [Gor’Thuun](/being/titan/gor-thuun.md) ([titan](/t/titan))
@@ -323,9 +327,7 @@ And now… so are you.
   Gorgath the Brute, the Orcish Barbarian
 - [Item: Gloriana](/geography/settlement/city/city-of-or/local/tallis-thorne/gloriana.md) ([item](/t/item))
   Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
-- [Nyzzrix](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md) 
-  Nyzzrix is a unique Wyrmbalm dwelling in the Emberveil Depths, collecting forgotten memories and building a library of living candles fueled by melted truths.
-- [Home](/readme.md) 
+- [Readme](/readme.md) 
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
