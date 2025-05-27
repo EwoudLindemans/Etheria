@@ -6,6 +6,7 @@ date: 2025-05-13T16:32:36.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-13T16:32:36.505Z
+parent: shop=ae3131f5-9604-4f30-a9f8-00d80d14f324
 ---
 
 # Nyzzrix, The Candlewrought Apostle of Emberveil
