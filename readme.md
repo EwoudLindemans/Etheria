@@ -9,27 +9,27 @@ dateCreated: 2022-01-24T15:40:43.899Z
 ---
 # World Introduction
 
-	In the beginning, there was resonance.
+In the beginning, there was resonance.
 
-	Before stone held weight, before stars learned to burn, before names held meaning—resonance hummed across the void. It did not ask to be noticed. It simply was, unshaped and untethered, awaiting the first to listen.
+Before stone held weight, before stars learned to burn, before names held meaning—resonance hummed across the void. It did not ask to be noticed. It simply was, unshaped and untethered, awaiting the first to listen.
 
-	That first was Irion—not a god, but a descent. A fall so profound it shattered stillness into possibility. From that cataclysm bloomed Iridia, a world stitched together by memory and metamorphosis, by the friction of collision and the grace of what remained.
+That first was Irion—not a god, but a descent. A fall so profound it shattered stillness into possibility. From that cataclysm bloomed Iridia, a world stitched together by memory and metamorphosis, by the friction of collision and the grace of what remained.
 
-	Iridia does not stand alone. It floats within The Anchored, the foundational realm where ideas are born into bone, and myths can bleed. Beneath its surface, dwarves hammer songs into metal and call it endurance. In its shadowed corners, goblins trap echoes in laughter and call it war. Trees whisper forgotten names, and tides carry fragments of dying gods. Here, resonance is not merely power—it is breath, binding emotion, matter, and meaning.
+Iridia does not stand alone. It floats within The Anchored, the foundational realm where ideas are born into bone, and myths can bleed. Beneath its surface, dwarves hammer songs into metal and call it endurance. In its shadowed corners, goblins trap echoes in laughter and call it war. Trees whisper forgotten names, and tides carry fragments of dying gods. Here, resonance is not merely power—it is breath, binding emotion, matter, and meaning.
 
-	But Iridia is not fixed. The Dense looms—a realm crushed inward upon itself, a place where space collapses and truth becomes layered and uncertain. From there come creatures of sorrow, and possibilities too tightly wound to survive unraveling. And deeper still lies the Fractured Keep, where gods are not distant but territorial, their domains shaped by belief and balanced by their own capricious rules.
+But Iridia is not fixed. The Dense looms—a realm crushed inward upon itself, a place where space collapses and truth becomes layered and uncertain. From there come creatures of sorrow, and possibilities too tightly wound to survive unraveling. And deeper still lies the Fractured Keep, where gods are not distant but territorial, their domains shaped by belief and balanced by their own capricious rules.
 
-	Life in Iridia clings, not because it must—but because it chooses to. From the bioluminescent caverns of Umberdeep to the spiraling madness of Mohinders Spire; from the laughter-filled gutters of the City of Or to the silent, haunted bones of ancient titans stretched across the Skein—every soul shapes the song of the world. Some sing to create. Some sing to remember. Others sing just to be heard.
+Life in Iridia clings, not because it must—but because it chooses to. From the bioluminescent caverns of Umberdeep to the spiraling madness of Mohinders Spire; from the laughter-filled gutters of the City of Or to the silent, haunted bones of ancient titans stretched across the Skein—every soul shapes the song of the world. Some sing to create. Some sing to remember. Others sing just to be heard.
 
-	Yet, resonance listens to all.
+Yet, resonance listens to all.
 
-	This is not a safe world. It is not meant to be.
-	But if you walk carefully, with open heart and wondering step, Iridia will shape itself around you.
-	And you may, if the rhythm takes you, shape it in return.
+This is not a safe world. It is not meant to be.
+But if you walk carefully, with open heart and wondering step, Iridia will shape itself around you.
+And you may, if the rhythm takes you, shape it in return.
 
-	Welcome, traveler. You’ve entered a world that is still becoming.
+Welcome, traveler. You’ve entered a world that is still becoming.
 
-	And now… so are you.
+And now… so are you.
 ## Index
 
   - [The Anchored](/geography/realm/the-anchored.md) ([realm](/t/realm))
