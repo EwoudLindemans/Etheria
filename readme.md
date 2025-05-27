@@ -7,27 +7,75 @@ tags:
 editor: markdown
 dateCreated: 2022-01-24T15:40:43.899Z
 ---
-# Wiki Index
+# World Introduction
+
+	In the beginning, there was resonance.
+
+	Before stone held weight, before stars learned to burn, before names held meaning—resonance hummed across the void. It did not ask to be noticed. It simply was, unshaped and untethered, awaiting the first to listen.
+
+	That first was Irion—not a god, but a descent. A fall so profound it shattered stillness into possibility. From that cataclysm bloomed Iridia, a world stitched together by memory and metamorphosis, by the friction of collision and the grace of what remained.
+
+	Iridia does not stand alone. It floats within The Anchored, the foundational realm where ideas are born into bone, and myths can bleed. Beneath its surface, dwarves hammer songs into metal and call it endurance. In its shadowed corners, goblins trap echoes in laughter and call it war. Trees whisper forgotten names, and tides carry fragments of dying gods. Here, resonance is not merely power—it is breath, binding emotion, matter, and meaning.
+
+	But Iridia is not fixed. The Dense looms—a realm crushed inward upon itself, a place where space collapses and truth becomes layered and uncertain. From there come creatures of sorrow, and possibilities too tightly wound to survive unraveling. And deeper still lies the Fractured Keep, where gods are not distant but territorial, their domains shaped by belief and balanced by their own capricious rules.
+
+	Life in Iridia clings, not because it must—but because it chooses to. From the bioluminescent caverns of Umberdeep to the spiraling madness of Mohinders Spire; from the laughter-filled gutters of the City of Or to the silent, haunted bones of ancient titans stretched across the Skein—every soul shapes the song of the world. Some sing to create. Some sing to remember. Others sing just to be heard.
+
+	Yet, resonance listens to all.
+
+	This is not a safe world. It is not meant to be.
+	But if you walk carefully, with open heart and wondering step, Iridia will shape itself around you.
+	And you may, if the rhythm takes you, shape it in return.
+
+	Welcome, traveler. You’ve entered a world that is still becoming.
+
+	And now… so are you.
+## Index
+
   - [The Anchored](/geography/realm/the-anchored.md) ([realm](/t/realm))
     The Anchored is the fundamental, ever-present plane of existence in Iridia and Etheria, where resonance shapes reality and all things begin to truly exist.
     - [Irion](/being/deity/irion.md) ([cataclysm](/t/cataclysm), [creator](/t/creator), [deity](/t/deity), [event](/t/event), [resonance](/t/resonance), [transformation](/t/transformation))
       A primordial force whose cataclysmic descent birthed Iridia
     - [Iridia](/geography/world/iridia.md) ([world](/t/world))
       A world created from a collision with a magical creature.
-      - [Thalgrin](/being/deity/thalgrin.md) ([deity](/t/deity), [craftsmanship](/t/craftsmanship), [endurance](/t/endurance), [forging](/t/forging))
-        Thalgrin is the dwarven deity of craftsmanship, endurance, and magical forging, revered as the eternal forge-master and patron of the city of Or.
       - [Iridian](/being/species/iridian.md) ([species](/t/species))
         Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
       - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
         The Blooming Skein is a breathtakingly beautiful landscape where life and memory intertwine with the skeletal remains of colossal beasts, creating a sacred and eternally renewing ecosystem.
         - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
           The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
+      - [Duskreach](/geography/region/duskreach.md) ([region](/t/region))
+        In the west, where the sun forgets to rise cleanly and the gulls call more softly than they should, there lies Duskreach. You will not find it eager. But it is there.
+        - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) ([profession](/t/profession), [emberglass](/t/emberglass), [memory](/t/memory), [curse](/t/curse), [soul](/t/soul))
+          Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
+          - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md) ([item](/t/item))
+            Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
       - [Mistveil Marshes](/geography/region/mistveil-marshes.md) ([region](/t/region))
         The Mistveil Marshes are a sprawling, misty morass inhabited by the patient Mudshapers and the surprisingly wise Ogres of Glutt’thar, where strength lies in resilience and listening to the land.
+        - [The Zynkri](/being/species/zynkri.md) ([species](/t/species))
+          The Zynkri are mischievous, thorn-touched spritelings who act as wardens of the jungle, known for their trickery, botanical magic, and vibrant, clan-based society.
+        - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) ([tribe](/t/tribe), [ogre](/t/ogre), [mudshaper](/t/mudshaper))
+          The Ogres of Glutt’thar are gentle Mudshapers who live in harmony with the Mistveil Marshes, revering the slow wisdom of the swamp and carefully guarding its sacred Emberglass Orbs.
+          - [Mud Shaper](/structure/society/profession/mudshaper.md) ([profession](/t/profession))
+            Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
       - [Mountains of Triz](/geography/region/mountains-of-triz.md) ([region](/t/region), [mountain](/t/mountain))
         A mountainous area near the city of Triz Valley.
         - [Triz Valley](/geography/settlement/city/triz-valley.md) ([town](/t/town))
           Small town near the Mountains of Triz, popular amongst travelers.
+        - [The Ragged Goons](/structure/society/factions/ragged-goons.md) ([faction](/t/faction))
+          Take what works, consequences be damned
+          - [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md) ([bird](/t/bird), [creature](/t/creature), [undead](/t/undead), [familiar](/t/familiar))
+            A bird-like undead creature that serves as a familiar.
+          - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
+            The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
+          - [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md) ([undead](/t/undead), [human](/t/human))
+            The Crowstrider is an undead human entity, likely associated with the faction identified by guid d338254f-45c3-4a7e-8a10-770154f2074a.
+          - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md) ([human](/t/human))
+            The Pale Scholar is a human faction detailed within this document.
+          - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human), [mage](/t/mage))
+            A chilling tale of a reanimated mage, twisted and corrupted into an undead threat.
+          - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human))
+            The Scythe Lass is a zombie or undead human entity, potentially belonging to the faction with ID d338254f-45c3-4a7e-8a10-770154f2074a.
         - [Gurdalk's Gang](/structure/society/tribe/gurdalks-gang.md) ([tribe](/t/tribe))
           Gurdalk’s Gang is a legendary goblin tribe known for their theatrical traps, unpredictable ambushes, and mastery of guerrilla warfare within the treacherous Mountains of Triz.
       - [Skein of Bones](/geography/region/skein-of-bones.md) ([region](/t/region))
@@ -40,8 +88,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
         The Whispering Woods is a vast, magically unstable forest in Iridia, teeming with unpredictable flora, fauna, and the potential for ancient power.
         - [Velkrin](/being/species/velkrin.md) ([species](/t/species))
           The Velkrin are a singular, diverse species embodying Iridia's will, whose forms shift with instinct, memory, and environment, appearing as countless expressions of wildness.
-      - [Verdant Divide](/geography/region/verdant-divide.md) ([region](/t/region))
-        The Verdant Divide is a fertile, magically volatile valley known as 'The Breathing Garden' due to its kaleidoscopic light displays and unstable magical energies.
+        - [Dreamweaving](/structure/society/profession/dreamweaving.md) ([profession](/t/profession))
+          Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
       - [Armour of Or](/geography/scale/armour-of-or.md) ([region](/t/region), [scale](/t/scale))
         The Armour of Or is a massive, lowest-reaching scale, excavated by the Flatstone family, which channels geothermal energy and connects to the earth's core, harboring the dwarven City of Or beneath it.
         - [The City of Or](/geography/settlement/city/city-of-or.md) ([city](/t/city))
@@ -56,6 +104,8 @@ dateCreated: 2022-01-24T15:40:43.899Z
               The Binding Thread is a seemingly mundane red cord that serves as a personal relic and spiritual tether for Sylieth, connecting them to the god Ilmater and representing their commitment to mercy.
             - [Threadbare](/being/character/sylieth/threadbare.md) 
               A Tiefling's fragmented backstory reveals a life of survival, unexpected kindness, and a mysterious connection all symbolized by a single thread.
+          - [Thalgrin](/being/deity/thalgrin.md) ([deity](/t/deity), [craftsmanship](/t/craftsmanship), [endurance](/t/endurance), [forging](/t/forging))
+            Thalgrin is the dwarven deity of craftsmanship, endurance, and magical forging, revered as the eternal forge-master and patron of the city of Or.
           - [Asarazul](/geography/settlement/city/city-of-or/asarazul.md) ([gem](/t/gem), [scale](/t/scale), [artifact](/t/artifact), [item](/t/item))
             Asarazul is a legendary, deep-blue gem steeped in dwarven lore, rumored to hold ancient power and a connection to the Scales, passed down through the Flatstone lineage of Or.
           - [The Council of Or](/geography/settlement/city/city-of-or/council-of-or.md) ([government](/t/government))
@@ -138,12 +188,16 @@ dateCreated: 2022-01-24T15:40:43.899Z
             The legendary mines that fuel the City of Or's prosperity.
           - [The Fargash Gambit](/geography/settlement/city/city-of-or/the-fargash-gambit.md) ([event](/t/event))
             The Fargash Gambit was a bold peacekeeping maneuver by Fargash Flatstone, offering refuge to warring soldiers and ultimately ending a bloody conflict through unexpected generosity.
+          - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md) ([profession](/t/profession))
+            Tankard Trekkers are licensed halfling adventurers who roam Iridia, judging taverns, preserving stories, and settling disputes with ale and song.
         - [Glimmering Ashenburrow](/geography/settlement/city/glimmering-ashenburrow.md) ([city](/t/city))
           Tucked between the halls of dwarven civilization, The Glimmering Ashenburrow is an impossible city of compressed space, hidden wonders, and forgotten souls.
           - [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) ([device](/t/device))
             The Density Calibrator, created by Poppy Handyleaf, is a vital device that stabilizes the Glimmering Ashenburrow, a hidden city within The City of Or, by regulating the shifting forces of the compressed realm known as The Dense.
       - [Asara Plate](/geography/scale/asara-plate.md) ([region](/t/region), [scale](/t/scale))
         The Asara Plate is a magically-infused, fractured landmass providing prosperity to local farmers, though recent tax hikes and corruption rumors are causing unrest.
+        - [Verdant Divide](/geography/region/verdant-divide.md) ([region](/t/region))
+          The Verdant Divide is a fertile, magically volatile valley known as 'The Breathing Garden' due to its kaleidoscopic light displays and unstable magical energies.
         - [Umberdeep](/geography/settlement/city/umberdeep.md) ([city](/t/city))
           Umberdeep is the sacred, spiraling subterranean city of the Uroxi, a communal stronghold carved deep within a massive cavern and steeped in tradition and echoing history.
           - [The Uroxi](/being/species/uroxi.md) ([species](/t/species), [subterranean](/t/subterranean), [luminescent](/t/luminescent), [uroxi](/t/uroxi))
@@ -164,16 +218,22 @@ dateCreated: 2022-01-24T15:40:43.899Z
             A Kavrethul who controls the portals of Mohinders with an iron grip.
           - [The Obsession of Vorelith](/geography/settlement/city/mohinders/the-obsession-of-vorelith.md) ([campaign](/t/campaign))
             A campaign setting where players must navigate a growing magical crisis caused by a sorcerer's obsession with a dangerous extradimensional realm called the Dense and its denizens, the Denslings.
+          - [Scroll Binder](/structure/society/profession/scroll-binder.md) ([profession](/t/profession))
+            Masters of magical agreements, ensuring fairness and lasting pacts.
       - [The Ornite Ring](/geography/scale/ornite-ring.md) ([region](/t/region), [scale](/t/scale))
         The Ornite Ring is a magical, time-slowing structure orbiting a world, offering a unique perspective but posing dangers from breaches in its protective field.
       - [Umperas Hull](/geography/scale/umperas-hull.md) ([region](/t/region), [scale](/t/scale))
         Umperas Hull is a vast, curved crystalline Scale in Iridia, notable for its golden color, defensible shape, and role as a major landmark and strategically significant settlement site.
         - [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md) ([city](/t/city))
           Innerhold Hearthstead is a welcoming city nestled within a colossal, ancient scale, offering refuge and belonging to those seeking escape and community.
+          - [The Scalebound Strays](/structure/society/fellowship/scalebound-strays.md) ([fellowship](/t/fellowship))
+            The Scale-Bound Strays are a chaotic group of magical misfits who stumble into ancient secrets and resolve them with a mix of brilliance and accidental destruction.
         - [The Rift Gate](/geography/settlement/enclave/scholars-rift/the-rift-gate.md) ([passage](/t/passage))
           The Rift Gate is a mysterious and temperamental portal, the only way into The Scholar’s Rift, that judges those seeking entry with unpredictable and often humiliating methods.
           - [Scholars Rift](/geography/settlement/enclave/scholars-rift/scholars-rift.md) ([academy](/t/academy))
             This is a whimsical look at the magical Scholar's Rift, detailing the rigorous Ascension Exams, quirky student personalities, and the constant pursuit of mastering Resonance.
+            - [Nokk the Scale’s Chosen](/being/character/nokk.md) ([character](/t/character), [iridian](/t/iridian), [sorcerer](/t/sorcerer))
+              Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
             - [Headmasters Roost](/geography/settlement/enclave/scholars-rift/headmasters-roost.md) ([office](/t/office))
               The Headmaster's Roost is a tall tower serving as the chaotic, paperwork-filled headquarters of the Rift's surprisingly effective, albeit unqualified, leader, Barty Dunderfield.
             - [The Echo Halls](/geography/settlement/enclave/scholars-rift/the-echo-halls.md) ([room](/t/room))
@@ -186,50 +246,10 @@ dateCreated: 2022-01-24T15:40:43.899Z
               A dangerous training area where unpredictable magical effects like shifting gravity, time loops, and random launches create chaotic learning opportunities.
       - [Manifistation](/structure/chronological/event/manifestation.md) ([event](/t/event))
         Manifestation is an event tagged as such.
-      - [The Arcane Fangs](/structure/society/factions/arcane-fangs.md) ([faction](/t/faction))
-        The Arcane Fangs are a faction within the world, details of which are yet to be defined.
-      - [The Cult of Dy](/structure/society/factions/cult-of-dy.md) ([faction](/t/faction))
-        The Cult of Dy is a faction within a world, likely involved in worship or devotion to a figure or entity named Dy.
-      - [Followers of Irion](/structure/society/factions/followers-of-irion.md) ([faith](/t/faith), [faction](/t/faction))
-        A faith-based faction dedicated to the tenets of Irion.
-      - [The Ragged Goons](/structure/society/factions/ragged-goons.md) ([faction](/t/faction))
-        Take what works, consequences be damned
-        - [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md) ([bird](/t/bird), [creature](/t/creature), [undead](/t/undead), [familiar](/t/familiar))
-          A bird-like undead creature that serves as a familiar.
-        - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
-          The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
-        - [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md) ([undead](/t/undead), [human](/t/human))
-          The Crowstrider is an undead human entity, likely associated with the faction identified by guid d338254f-45c3-4a7e-8a10-770154f2074a.
-        - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md) ([human](/t/human))
-          The Pale Scholar is a human faction detailed within this document.
-        - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human), [mage](/t/mage))
-          A chilling tale of a reanimated mage, twisted and corrupted into an undead threat.
-        - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human))
-          The Scythe Lass is a zombie or undead human entity, potentially belonging to the faction with ID d338254f-45c3-4a7e-8a10-770154f2074a.
       - [The Oblique Concord](/structure/society/factions/the-oblique-concord.md) ([organization](/t/organization), [secret](/t/secret), [rumor](/t/rumor))
         A secretive faction born from a single act of defiance.
-      - [The Scalebound Strays](/structure/society/fellowship/scalebound-strays.md) ([fellowship](/t/fellowship))
-        The Scale-Bound Strays are a chaotic group of magical misfits who stumble into ancient secrets and resolve them with a mix of brilliance and accidental destruction.
-      - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) ([tribe](/t/tribe), [ogre](/t/ogre), [mudshaper](/t/mudshaper))
-        The Ogres of Glutt’thar are gentle Mudshapers who live in harmony with the Mistveil Marshes, revering the slow wisdom of the swamp and carefully guarding its sacred Emberglass Orbs.
-        - [Mud Shaper](/structure/society/profession/mudshaper.md) ([profession](/t/profession))
-          Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
       - [The Concordium Medica](/structure/society/profession/concordium-medica.md) ([profession](/t/profession), [healer](/t/healer))
         The Concordium Medica are ancient Tiefling physicians who heal in exchange for vows, knowledge, neutrality, or sacrifices, enforcing a cosmic balance with every act of mercy.
-      - [Dreamweaving](/structure/society/profession/dreamweaving.md) ([profession](/t/profession))
-        Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
-      - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) ([profession](/t/profession), [emberglass](/t/emberglass), [memory](/t/memory), [curse](/t/curse), [soul](/t/soul))
-        Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
-        - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md) ([item](/t/item))
-          Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
-      - [Fizzlemancy](/structure/society/profession/fizzlemancy.md) ([profession](/t/profession))
-        A gnomish art blending alchemy, engineering, and enchanted water.
-      - [Hexbit Mechanics](/structure/society/profession/hexbit-mechanics.md) ([profession](/t/profession))
-        Hexbit Mechanics are artisans who blend mechanical precision with arcane energy to craft magical calculation devices called Hexbits, capable of feats of logic, prediction, and data storage.
-      - [Scroll Binder](/structure/society/profession/scroll-binder.md) ([profession](/t/profession))
-        Masters of magical agreements, ensuring fairness and lasting pacts.
-      - [Tankard Trekkers](/structure/society/profession/tankard-trekkers.md) ([profession](/t/profession))
-        Tankard Trekkers are licensed halfling adventurers who roam Iridia, judging taverns, preserving stories, and settling disputes with ale and song.
     - [The Collapse](/structure/chronological/event/the-collapse.md) ([event](/t/event))
       Iridia is a unique, ever-changing world born from the collision of a planet and a magical creature, now brimming with living magic and governed by a Council of Elders.
   - [The Dense](/geography/realm/the-dense.md) ([realm](/t/realm))
@@ -244,28 +264,40 @@ dateCreated: 2022-01-24T15:40:43.899Z
       Quillnib's Handle is a sprawling, navigable goblin metropolis built around a sentient book, the Book of Doors, which governs its labyrinthine pathways and districts.
   - [The Fractured Keep](/geography/realm/the-fractured-keep.md) ([realm](/t/realm))
     Xalónthyr, the Concordant Tread, is a divine plane comprised of distinct, material god-territories where travel necessitates navigating the influence and rules of other deities.
-    - [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
-      Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
-      Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
-    - [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
-      Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
-    - [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
-      Dithrir is a deity, detailed within the realm identified by the GUID f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
-      Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
-    - [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
-      Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
-    - [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
-      Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
+    - [Deity](/structure/mechanic/deity.md) ([deity](/t/deity))
+      In Iridia, deities are fluid manifestations of collective belief, constantly shifting and evolving in response to the people's desires and guided by the cosmic balance of Irion's Will.
+      - [Aelfar](/being/deity/aelfar.md) ([deity](/t/deity))
+        Aelfar is a deity, likely associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+      - [Aelyria](/being/deity/aelyria.md) ([deity](/t/deity), [night](/t/night), [beauty](/t/beauty), [arcane](/t/arcane))
+        Aelyria is the enigmatic deity of beauty, night, and the transformative power of arcane magic, embodying the exquisite and secret truths found in reflection and dreams.
+      - [Aurelthys](/being/deity/aurelthys.md) ([deity](/t/deity), [ambition](/t/ambition), [hierarchy](/t/hierarchy), [greed](/t/greed))
+        Aurelthys is the deity of ambition, hierarchy, and greed, silently governing Mohinders Spire through a system of controlled magic and strict social order.
+      - [Dithrir](/being/deity/dithrir.md) ([deity](/t/deity))
+        Dithrir is a deity, detailed within the realm
+      - [Tophix](/being/deity/tophix.md) ([deity](/t/deity))
+        Tophix is a deity associated with the realm f5c11b2c-e917-47b7-a226-d79f4c5ecee0.
+      - [Uldur](/being/deity/uldur.md) ([deity](/t/deity), [balance](/t/balance), [earth](/t/earth))
+        Uldur is the deity of Balance and Earth, revered by healers and earth-shaping Ogres alike, embodying the creation and preservation of life through natural forces.
+      - [Vexyrra](/being/deity/vexyrra.md) ([deity](/t/deity), [resonance](/t/resonance), [creation](/t/creation), [song](/t/song))
+        Vexyrra is the deity of accidental creation and resonant echoes, born from the collision of fractured selves within the Fracture Realm.
+  - [Unparented](/geography/realm/unparented.md) ([realm](/t/realm))
+    Unparented content
+    - [The Arcane Fangs](/structure/society/factions/arcane-fangs.md) ([faction](/t/faction))
+      The Arcane Fangs are a faction within the world, details of which are yet to be defined.
+    - [The Cult of Dy](/structure/society/factions/cult-of-dy.md) ([faction](/t/faction))
+      The Cult of Dy is a faction within a world, likely involved in worship or devotion to a figure or entity named Dy.
+    - [Followers of Irion](/structure/society/factions/followers-of-irion.md) ([faith](/t/faith), [faction](/t/faction))
+      A faith-based faction dedicated to the tenets of Irion.
+    - [Fizzlemancy](/structure/society/profession/fizzlemancy.md) ([profession](/t/profession))
+      A gnomish art blending alchemy, engineering, and enchanted water.
+    - [Hexbit Mechanics](/structure/society/profession/hexbit-mechanics.md) ([profession](/t/profession))
+      Hexbit Mechanics are artisans who blend mechanical precision with arcane energy to craft magical calculation devices called Hexbits, capable of feats of logic, prediction, and data storage.
 
 ## Uncategorized
 - [Jarvey](/being/character/jarvey.md) ([character](/t/character), [firbolg](/t/firbolg), [writer](/t/writer), [bard](/t/bard))
   Jarvey is a wandering firbolg bard and former noble who now chronicles the forgotten stories of Iridia, seeking to ensure the past doesn't bury the future.
 - [Matt & Bubbles](/being/character/matt.md) ([pirate](/t/pirate), [rogue](/t/rogue))
   Matt 'The Phantom Swashbuckler' is a charismatic but deceptive rogue haunted by a cursed fortune and a shadowy past, skilled in combat and manipulation.
-- [Nokk the Scale’s Chosen](/being/character/nokk.md) ([character](/t/character), [iridian](/t/iridian), [sorcerer](/t/sorcerer))
-  Nokk is a chaos resonance sorcerer and the embodyment of a disaster waiting to happen.
 - [Varnwick Twistroot](/being/character/varnwick.md) ([character](/t/character), [gnome](/t/gnome))
   Varnwick "Twistroot" Marnel is an eccentric, root-footed gnome geomancer searching for obscure berries and possibly awakening an ancient power within him.
 - [The Graith](/being/monster/graith.md) ([monster](/t/monster))
@@ -276,8 +308,6 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Conduit Aasimar are divine envoys who act as living anchors for deities, sensing and harmonizing with the shifting faiths of Iridia.
 - [Ythrylari](/being/species/ythrylari.md) ([species](/t/species))
   The Ythrylari are a tragic, beautiful species born from the metamorphic pressure of the Dense, existing as shimmering echoes between raw instability and transcendent harmony, destined for a final transformation into Iridian beings.
-- [The Zynkri](/being/species/zynkri.md) ([species](/t/species))
-  The Zynkri are mischievous, thorn-touched spritelings who act as wardens of the jungle, known for their trickery, botanical magic, and vibrant, clan-based society.
 - [Anemostrus](/being/titan/anemostrus.md) ([titan](/t/titan))
   Anemostrus is a colossal, wind-borne titan whose presence shapes the weather and holds ancient secrets within its swirling shell.
 - [Gor’Thuun](/being/titan/gor-thuun.md) ([titan](/t/titan))
@@ -304,14 +334,13 @@ dateCreated: 2022-01-24T15:40:43.899Z
   Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
 - [Nyzzrix](/geography/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md) 
   Nyzzrix is a unique Wyrmbalm dwelling in the Emberveil Depths, collecting forgotten memories and building a library of living candles fueled by melted truths.
+- [Home](/readme.md) 
 - [Calendar](/structure/chronological/calendar.md) ([history](/t/history))
   The Calendar of Iridia tracks time through 'ARCs,' cycles resonating with magical energies leftover from a cataclysmic event called 'The Collapse,' and details a history marked by magical discovery, technological advancement, and a growing corruption of the world's magical scales.
 - [Arcane Resonance](/structure/mechanic/class/sorcerer/subclass/arcane-resonance.md) ([subclass](/t/subclass))
   The Arcane Resonance Sorcerer subclass focuses on manipulating and resonating with magical frequencies to adapt spells, disrupt enemies, and absorb energy for potent abilities.
 - [Karmic Slap](/structure/mechanic/condition/karmic-slap.md) ([condition](/t/condition))
   The Karmic Slap is a consequence mechanic where players face immediate or severe repercussions for selfish or morally questionable actions within the game.
-- [Deity](/structure/mechanic/deity.md) ([deity](/t/deity))
-  In Iridia, deities are fluid manifestations of collective belief, constantly shifting and evolving in response to the people's desires and guided by the cosmic balance of Irion's Will.
 - [Carefull Roll](/structure/mechanic/dice/carefull.md) ([mechanic](/t/mechanic))
   Carefull Roll modifies d20 rolls by using two dice and choosing the result closest to 10, promoting consistency and reducing extreme outcomes.
 - [Epic Roll](/structure/mechanic/dice/epic.md) ([mechanic](/t/mechanic))
@@ -329,4 +358,4 @@ dateCreated: 2022-01-24T15:40:43.899Z
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 
-© 2025 Ewoud & Solen. All rights reserved.
+© 2025 Ewoud & Stefan. All rights reserved.
