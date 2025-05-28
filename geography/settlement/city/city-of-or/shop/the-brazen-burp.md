@@ -13,7 +13,7 @@ parent: district=f8061dd3-8bf0-449e-8b2d-b67d857f2660
 # The Brazen Burp  
 *A Legendary Tavern in The City of Or*
 
-![rusty_pluckers_with_miss_terry.webp](/images/world/rusty_pluckers_with_miss_terry.webp)
+![the-brazen-burp.webp](/images/world/the-brazen-burp.webp)
 
 Nestled along the cobbled edge of **Coalwalk Row**, just beyond the Heartforge's residual warmth, stands **The Brazen Burp**—a famed tavern that has withstood riots, revolutions, and at least one minor **planar misalignment**. Revered by **miners, mages, and misfits alike**, it pulses with laughter, ale, and the kind of philosophy only possible after your third tankard.
 
@@ -27,6 +27,8 @@ The entire structure leans slightly to the left—either due to decades of singi
 
 ## The Rusty Pluckers  
 The tavern's infamous house band The Rusty Pluckers, composed of **two half-orc brothers** and a **goblin fiddler** with a twitch. Their chaotic melodies have been known to **cause or quell fights**, depending on how in tune they are. Their rendition of *"Don't Trust a Troll with Your Teapot"* is banned in five neighboring inns.
+
+![rusty_pluckers_with_miss_terry.webp](/images/world/rusty_pluckers_with_miss_terry.webp)
 
 ## Notable Regulars  
 - **Miss Terry** – Tiefling bard, **heartbreaker and harmony-bringer**. Wields a lute and sarcasm with equal flair.  
