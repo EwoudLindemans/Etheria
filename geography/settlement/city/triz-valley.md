@@ -16,6 +16,8 @@ A small town at the foot of the Mountains of Triz, limited in its growth by the 
 
 At the entrance to the valley of Triz is a wide path leading through an area of thick plates of stone. This path leads on to the peak of a mountain and then it turns and moves over to mountain of an almost impossible height. In its lower part is a short tunnel which leads out of the valley. It is only about 10 meters long. It is said that the mountain coveres a Scale
 
+![triz-valley.webp](/images/world/triz-valley.webp)
+
 ## A Town Built on Deals and Dirt
 
 The people of Triz Valley have learned to build fast, dig deep, and argue louder than their neighbours. Dwarves arrived first, tunnelling out the mountains for gems and iron veins, followed by humans fleeing war, looking to forge something better. Then came the goblins—sly, nimble, business-savvy creatures who offered to guide travellers through the treacherous passes… for a price, of course.
