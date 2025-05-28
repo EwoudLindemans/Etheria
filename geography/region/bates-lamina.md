@@ -14,7 +14,7 @@ parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 
 **Batès Lamina** is the smallest of the five major Scales in Iridia. A radiant red crystalline structure that rises from the centre of a lake, it is a place of deep spiritual resonance and pilgrimage. Its unique properties and peaceful inhabitants have made it one of the most respected and sacred locations in the world.
 
-![bates-lamina.webp](/images/world/bates-lamina.webp.webp)
+![bates-lamina.webp](/images/world/bates-lamina.webp)
 
 
 ## Appearance and Structure
