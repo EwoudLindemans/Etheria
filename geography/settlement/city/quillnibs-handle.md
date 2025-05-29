@@ -15,6 +15,8 @@ parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ### Overview
 Quillnib’s Handle is a sprawling goblin metropolis built atop and around the legendary **Book of Doors**, a sentient tome that serves as both the city’s heart and its passageways. The Handle is a city of narrow corridors, suspended bridges, and stacked buildings that spiral into the sky, all interwoven through a vast labyrinth that would be impossible to navigate—if not for the Book. 
 
+![quilnibbs-handle.webp](/images/world/quilnibbs-handle.webp)
+
 At first glance, it appears to be a chaotic warren of twisting alleys and clustered towers, but beneath the disarray lies a methodical network of pathways, maintained by an order of goblins known as the **Rift-Sniffers**. They alone understand the shifting pages of the Book, using it to open doorways to every district, shortcut, and hidden vault within the Handle.
 
 ### The Book of Doors
