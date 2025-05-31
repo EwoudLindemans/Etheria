@@ -20,9 +20,6 @@ Few names in The City of Or carry as much simultaneous reverence and bewildermen
 Among the Brazen Burp’s regulars, Miss Terry is a revered figure. Many an outsider has learned that any insult directed at her will earn  a reputation so tarnished that no  tavern in The City of Or will serve them again. Yet, for all their fierce loyalty, Miss Terry needs no protection. Those who mistake her for helpless quickly find themselves on the receiving end of a sharp tongue, sharper wit, and if needed, a perfectly thrown tankard. Still, she humors her self-appointed guardians, accepting their watchful eyes with a knowing smirk. After all, a queen must have her devoted subjects.
 
 She occasionaly works the taproom at the Rusty Keg in Triz Valley.
-
-<iframe src="https://www.dndbeyond.com/characters/147215367"></iframe>
-
 ## The Eternal Mystery
 
 Miss Terry’s origins are a topic of heated debate among patrons, and she enjoys nothing more than fueling the confusion. To the curious, she spins a new tale each time:
