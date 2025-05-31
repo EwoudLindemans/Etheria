@@ -21,6 +21,8 @@ Among the Brazen Burp’s regulars, Miss Terry is a revered figure. Many an outs
 
 She occasionaly works the taproom at the Rusty Keg in Triz Valley.
 
+<iframe src="https://www.dndbeyond.com/characters/147215367"></iframe>
+
 ## The Eternal Mystery
 
 Miss Terry’s origins are a topic of heated debate among patrons, and she enjoys nothing more than fueling the confusion. To the curious, she spins a new tale each time:
