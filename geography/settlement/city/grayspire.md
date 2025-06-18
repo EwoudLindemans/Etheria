@@ -7,7 +7,7 @@ date: 2025-04-21T22:25:09.186Z
 tags: city
 editor: markdown
 dateCreated: 2025-04-15T20:29:38.060Z
-parent: scale=38b0e138-e795-4f90-a8bf-f8d22052e7b9
+parent: region=d0c9761b-ad0d-46b8-8515-da1f98abf5cb
 ---
 
 # Grayspire – Harbor of Betrayal and Brine
