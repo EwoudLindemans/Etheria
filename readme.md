@@ -31,58 +31,7 @@
       A world created from a collision with a magical creature.
       - [Iridian](/being/species/iridian.md) ([species](/t/species))
         Iridian are unique, sentient beings formed from surges of magic and organic matter, resonating with magical scales and shifting their abilities in response.
-      - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
-        The Blooming Skein is a breathtakingly beautiful landscape where life and memory intertwine with the skeletal remains of colossal beasts, creating a sacred and eternally renewing ecosystem.
-        - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
-          The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
-      - [Duskreach](/geography/region/duskreach.md) ([region](/t/region))
-        In the west, where the sun forgets to rise cleanly and the gulls call more softly than they should, there lies Duskreach. You will not find it eager. But it is there.
-        - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) ([profession](/t/profession), [emberglass](/t/emberglass), [memory](/t/memory), [curse](/t/curse), [soul](/t/soul))
-          Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
-          - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md) ([item](/t/item))
-            Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
-      - [Mistveil Marshes](/geography/region/mistveil-marshes.md) ([region](/t/region))
-        The Mistveil Marshes are a sprawling, misty morass inhabited by the patient Mudshapers and the surprisingly wise Ogres of Glutt’thar, where strength lies in resilience and listening to the land.
-        - [The Zynkri](/being/species/zynkri.md) ([species](/t/species))
-          The Zynkri are mischievous, thorn-touched spritelings who act as wardens of the jungle, known for their trickery, botanical magic, and vibrant, clan-based society.
-        - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) ([tribe](/t/tribe), [ogre](/t/ogre), [mudshaper](/t/mudshaper))
-          The Ogres of Glutt’thar are gentle Mudshapers who live in harmony with the Mistveil Marshes, revering the slow wisdom of the swamp and carefully guarding its sacred Emberglass Orbs.
-          - [Mud Shaper](/structure/society/profession/mudshaper.md) ([profession](/t/profession))
-            Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
-      - [Mountains of Triz](/geography/region/mountains-of-triz.md) ([region](/t/region), [mountain](/t/mountain))
-        A mountainous area near the city of Triz Valley.
-        - [Triz Valley](/geography/settlement/city/triz-valley.md) ([town](/t/town))
-          Small town near the Mountains of Triz, popular amongst travelers.
-        - [The Ragged Goons](/structure/society/factions/ragged-goons.md) ([faction](/t/faction))
-          Take what works, consequences be damned
-          - [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md) ([bird](/t/bird), [creature](/t/creature), [undead](/t/undead), [familiar](/t/familiar))
-            A bird-like undead creature that serves as a familiar.
-          - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
-            The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
-          - [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md) ([undead](/t/undead), [human](/t/human))
-            The Crowstrider is an undead human entity, likely associated with the faction identified by guid d338254f-45c3-4a7e-8a10-770154f2074a.
-          - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md) ([human](/t/human))
-            The Pale Scholar is a human faction detailed within this document.
-          - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human), [mage](/t/mage))
-            A chilling tale of a reanimated mage, twisted and corrupted into an undead threat.
-          - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human))
-            The Scythe Lass is a zombie or undead human entity, potentially belonging to the faction with ID d338254f-45c3-4a7e-8a10-770154f2074a.
-        - [Gurdalk's Gang](/structure/society/tribe/gurdalks-gang.md) ([tribe](/t/tribe))
-          Gurdalk’s Gang is a legendary goblin tribe known for their theatrical traps, unpredictable ambushes, and mastery of guerrilla warfare within the treacherous Mountains of Triz.
-      - [Skein of Bones](/geography/region/skein-of-bones.md) ([region](/t/region))
-        The Skein of Bones is a vast, desolate region of Iridia, woven from the fossilized remains of ancient leviathans, haunted by a dread being and sought after by orcish clans and a mysterious scholar.
-        - [The Ashenfang](/structure/society/clan/ashenfang.md) ([soul](/t/soul), [tuskbreaker](/t/tuskbreaker))
-          The Ashenfang are a corrupted Orc and Dragonborn splinter group seeking to dominate the Skein of Bones by weaponizing death and binding souls into an unstoppable army.
-        - [Tuskbreakers](/structure/society/profession/tuskbreaker.md) ([profession](/t/profession))
-          Tuskbreakers are orcish artisans who reclaim power from the past by forging brutal weapons and armor from the fossilized remains of colossal creatures and ancient warriors.
-      - [Sorhadjin](/geography/region/sorhadjin.md) ([region](/t/region))
-      - [The Whispering Woods](/geography/region/the-whispering-woods.md) ([region](/t/region), [forrest](/t/forrest))
-        The Whispering Woods is a vast, magically unstable forest in Iridia, teeming with unpredictable flora, fauna, and the potential for ancient power.
-        - [Velkrin](/being/species/velkrin.md) ([species](/t/species))
-          The Velkrin are a singular, diverse species embodying Iridia's will, whose forms shift with instinct, memory, and environment, appearing as countless expressions of wildness.
-        - [Dreamweaving](/structure/society/profession/dreamweaving.md) ([profession](/t/profession))
-          Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
-      - [Armour of Or](/geography/scale/armour-of-or.md) ([region](/t/region), [scale](/t/scale))
+      - [Armour of Or](/geography/region/armour-of-or.md) ([region](/t/region), [scale](/t/scale))
         The Armour of Or is a massive, lowest-reaching scale, excavated by the Flatstone family, which channels geothermal energy and connects to the earth's core, harboring the dwarven City of Or beneath it.
         - [The City of Or](/geography/settlement/city/city-of-or.md) ([city](/t/city))
           The largest city of Iridia, built beneath The Armour of Or.
@@ -188,7 +137,7 @@
           Tucked between the halls of dwarven civilization, The Glimmering Ashenburrow is an impossible city of compressed space, hidden wonders, and forgotten souls.
           - [Density Calibrator](/geography/settlement/city/glimmering-ashenburrow/density-calibrator.md) ([device](/t/device))
             The Density Calibrator, created by Poppy Handyleaf, is a vital device that stabilizes the Glimmering Ashenburrow, a hidden city within The City of Or, by regulating the shifting forces of the compressed realm known as The Dense.
-      - [Asara Plate](/geography/scale/asara-plate.md) ([region](/t/region), [scale](/t/scale))
+      - [Asara Plate](/geography/region/asara-plate.md) ([region](/t/region), [scale](/t/scale))
         The Asara Plate is a magically-infused, fractured landmass providing prosperity to local farmers, though recent tax hikes and corruption rumors are causing unrest.
         - [Verdant Divide](/geography/region/verdant-divide.md) ([region](/t/region))
           The Verdant Divide is a fertile, magically volatile valley known as 'The Breathing Garden' due to its kaleidoscopic light displays and unstable magical energies.
@@ -196,11 +145,22 @@
           Umberdeep is the sacred, spiraling subterranean city of the Uroxi, a communal stronghold carved deep within a massive cavern and steeped in tradition and echoing history.
           - [The Uroxi](/being/species/uroxi.md) ([species](/t/species), [subterranean](/t/subterranean), [luminescent](/t/luminescent), [uroxi](/t/uroxi))
             The Uroxi are a curious, bioluminescent species dwelling deep beneath the Asara Plate, known for their light-bending abilities and optimistic outlook.
-      - [Batès Lamina](/geography/scale/bates-lamina.md) ([region](/t/region), [scale](/t/scale))
+      - [Batès Lamina](/geography/region/bates-lamina.md) ([region](/t/region), [scale](/t/scale))
         Batès Lamina is a small, radiant red Scale and spiritual center revered by the Followers of Irion for its calming resonance and role as a neutral meeting ground.
         - [Arkona](/geography/settlement/city/arkona.md) ([city](/t/city))
           Arkona is a powerful, heavily defended city in Iridia ruled by the ruthless Lady Arkona, known for its bustling trade and iron-fisted governance.
-      - [Eldeviérs Shell](/geography/scale/eldeviérs-shell.md) ([region](/t/region), [scale](/t/scale))
+      - [The Blooming Skein](/geography/region/blooming-skein.md) ([region](/t/region))
+        The Blooming Skein is a breathtakingly beautiful landscape where life and memory intertwine with the skeletal remains of colossal beasts, creating a sacred and eternally renewing ecosystem.
+        - [Grunthar Orc](/being/species/sub-species/grunthar-orc.md) ([species](/t/species))
+          The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
+      - [Duskreach](/geography/region/duskreach.md) ([region](/t/region))
+        In the west, where the sun forgets to rise cleanly and the gulls call more softly than they should, there lies Duskreach. You will not find it eager. But it is there.
+        - [Grayspire](/geography/settlement/city/grayspire.md) ([city](/t/city))
+        - [Emberglass Artisan](/structure/society/profession/emberglass-artisan.md) ([profession](/t/profession), [emberglass](/t/emberglass), [memory](/t/memory), [curse](/t/curse), [soul](/t/soul))
+          Emberglass Artisans are Dragonborn craftspeople who shape rare, flame-infused glass to create magical artifacts preserving memories, revealing truths, and safeguarding legacies.
+          - [Emberglass Orbs](/structure/society/profession/emberglass-artisan/emberglass-orb.md) ([item](/t/item))
+            Soulglass Orbs are beautiful but unstable spheres crafted from Emberglass, containing trapped memories, souls, or cursed historical fragments, forged through a perilous and ancient tradition.
+      - [Eldeviérs Shell](/geography/region/eldeviérs-shell.md) ([region](/t/region), [scale](/t/scale))
         A colossal, opal-green dome covered in hexagonal scales, the Eldeviérs Shell houses the magical city of Mohinders and may be harboring a growing corruption.
         - [Mohinders Spire](/geography/settlement/city/mohinders.md) ([city](/t/city))
           Mohinders is a magically divided city where physical proximity masks a fractured society, separated by restricted portals and simmering tensions between the controlling Council and the rebellious Veilbreakers.
@@ -214,9 +174,52 @@
             A campaign setting where players must navigate a growing magical crisis caused by a sorcerer's obsession with a dangerous extradimensional realm called the Dense and its denizens, the Denslings.
           - [Scroll Binder](/structure/society/profession/scroll-binder.md) ([profession](/t/profession))
             Masters of magical agreements, ensuring fairness and lasting pacts.
-      - [The Ornite Ring](/geography/scale/ornite-ring.md) ([region](/t/region), [scale](/t/scale))
+      - [Mistveil Marshes](/geography/region/mistveil-marshes.md) ([region](/t/region))
+        The Mistveil Marshes are a sprawling, misty morass inhabited by the patient Mudshapers and the surprisingly wise Ogres of Glutt’thar, where strength lies in resilience and listening to the land.
+        - [The Zynkri](/being/species/zynkri.md) ([species](/t/species))
+          The Zynkri are mischievous, thorn-touched spritelings who act as wardens of the jungle, known for their trickery, botanical magic, and vibrant, clan-based society.
+        - [The Ogres of Glutt’thar](/structure/society/ogres-of-glutt-thar.md) ([tribe](/t/tribe), [ogre](/t/ogre), [mudshaper](/t/mudshaper))
+          The Ogres of Glutt’thar are gentle Mudshapers who live in harmony with the Mistveil Marshes, revering the slow wisdom of the swamp and carefully guarding its sacred Emberglass Orbs.
+          - [Mud Shaper](/structure/society/profession/mudshaper.md) ([profession](/t/profession))
+            Ogre Mudshapers are revered artisans who use earth magic and living clay to build self-repairing homes, forge living armor, and animate lumbering golems.
+      - [Mountains of Triz](/geography/region/mountains-of-triz.md) ([region](/t/region), [mountain](/t/mountain))
+        A mountainous area near the city of Triz Valley.
+        - [Triz Valley](/geography/settlement/city/triz-valley.md) ([town](/t/town))
+          Small town near the Mountains of Triz, popular amongst travelers.
+        - [The Ragged Goons](/structure/society/factions/ragged-goons.md) ([faction](/t/faction))
+          Take what works, consequences be damned
+          - [Shriekbeak](/structure/society/factions/ragged-goons/shriekbeak.md) ([bird](/t/bird), [creature](/t/creature), [undead](/t/undead), [familiar](/t/familiar))
+            A bird-like undead creature that serves as a familiar.
+          - [The Bone Marshal](/structure/society/factions/ragged-goons/the-bone-marshal.md) ([human](/t/human), [necromancer](/t/necromancer))
+            The Bone Marshal is a necromancer-themed story or article, likely exploring themes of manipulating bones and raising the dead.
+          - [The Crowstrider](/structure/society/factions/ragged-goons/the-crowstrider.md) ([undead](/t/undead), [human](/t/human))
+            The Crowstrider is an undead human entity, likely associated with the faction identified by guid d338254f-45c3-4a7e-8a10-770154f2074a.
+          - [The Pale Scholar](/structure/society/factions/ragged-goons/the-pale-scholar.md) ([human](/t/human))
+            The Pale Scholar is a human faction detailed within this document.
+          - [The Rusted Thaumaturge](/structure/society/factions/ragged-goons/the-rusted-thaumaturge.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human), [mage](/t/mage))
+            A chilling tale of a reanimated mage, twisted and corrupted into an undead threat.
+          - [The Scythe Lass](/structure/society/factions/ragged-goons/the-scythe-lass.md) ([zombie](/t/zombie), [undead](/t/undead), [human](/t/human))
+            The Scythe Lass is a zombie or undead human entity, potentially belonging to the faction with ID d338254f-45c3-4a7e-8a10-770154f2074a.
+        - [Gurdalk's Gang](/structure/society/tribe/gurdalks-gang.md) ([tribe](/t/tribe))
+          Gurdalk’s Gang is a legendary goblin tribe known for their theatrical traps, unpredictable ambushes, and mastery of guerrilla warfare within the treacherous Mountains of Triz.
+      - [The Ornite Ring](/geography/region/ornite-ring.md) ([region](/t/region), [scale](/t/scale))
         The Ornite Ring is a magical, time-slowing structure orbiting a world, offering a unique perspective but posing dangers from breaches in its protective field.
-      - [Umperas Hull](/geography/scale/umperas-hull.md) ([region](/t/region), [scale](/t/scale))
+      - [Skein of Bones](/geography/region/skein-of-bones.md) ([region](/t/region))
+        The Skein of Bones is a vast, desolate region of Iridia, woven from the fossilized remains of ancient leviathans, haunted by a dread being and sought after by orcish clans and a mysterious scholar.
+        - [The Ashenfang](/structure/society/clan/ashenfang.md) ([soul](/t/soul), [tuskbreaker](/t/tuskbreaker))
+          The Ashenfang are a corrupted Orc and Dragonborn splinter group seeking to dominate the Skein of Bones by weaponizing death and binding souls into an unstoppable army.
+        - [Tuskbreakers](/structure/society/profession/tuskbreaker.md) ([profession](/t/profession))
+          Tuskbreakers are orcish artisans who reclaim power from the past by forging brutal weapons and armor from the fossilized remains of colossal creatures and ancient warriors.
+      - [Sorhadjin](/geography/region/sorhadjin.md) ([region](/t/region))
+        The Desert That Remembers
+        - [Zorathi](/being/species/zorathi.md) ([region](/t/region))
+      - [The Whispering Woods](/geography/region/the-whispering-woods.md) ([region](/t/region), [forrest](/t/forrest))
+        The Whispering Woods is a vast, magically unstable forest in Iridia, teeming with unpredictable flora, fauna, and the potential for ancient power.
+        - [Velkrin](/being/species/velkrin.md) ([species](/t/species))
+          The Velkrin are a singular, diverse species embodying Iridia's will, whose forms shift with instinct, memory, and environment, appearing as countless expressions of wildness.
+        - [Dreamweaving](/structure/society/profession/dreamweaving.md) ([profession](/t/profession))
+          Dreamweaving is an elven art that transforms dream patterns into tangible enchantments by weaving intricate designs drawn from the land's magical resonance.
+      - [Umperas Hull](/geography/region/umperas-hull.md) ([region](/t/region), [scale](/t/scale))
         Umperas Hull is a vast, curved crystalline Scale in Iridia, notable for its golden color, defensible shape, and role as a major landmark and strategically significant settlement site.
         - [Innerhold Heartstead](/geography/settlement/city/innerhold-heartstead.md) ([city](/t/city))
           Innerhold Hearthstead is a welcoming city nestled within a colossal, ancient scale, offering refuge and belonging to those seeking escape and community.
@@ -302,7 +305,6 @@
   Conduit Aasimar are divine envoys who act as living anchors for deities, sensing and harmonizing with the shifting faiths of Iridia.
 - [Ythrylari](/being/species/ythrylari.md) ([species](/t/species))
   The Ythrylari are a tragic, beautiful species born from the metamorphic pressure of the Dense, existing as shimmering echoes between raw instability and transcendent harmony, destined for a final transformation into Iridian beings.
-- [Zorathi](/being/species/zorathi.md) ([region](/t/region))
 - [Anemostrus](/being/titan/anemostrus.md) ([titan](/t/titan))
   Anemostrus is a colossal, wind-borne titan whose presence shapes the weather and holds ancient secrets within its swirling shell.
 - [Gor’Thuun](/being/titan/gor-thuun.md) ([titan](/t/titan))
@@ -351,4 +353,4 @@
 ## Attributions
 Attributions are provided based on the content as it existed at the time of publication. As the content evolves, some attributions may no longer be relevant or necessary and are subject to change or removal.
 
-© 2025 Ewoud & Solen. All rights reserved.
+© 2026 Ewoud & Solen. All rights reserved.
