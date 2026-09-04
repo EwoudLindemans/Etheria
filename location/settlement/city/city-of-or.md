@@ -7,13 +7,12 @@ date: 2025-04-14T21:50:56.384Z
 tags: city
 editor: markdown
 dateCreated: 2022-01-24T11:47:02.222Z
-parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
 ---
 
 # The City of Or
 Not long after The Collapse, an opportunistic dwarf named Or Flatstone gathered a band of miners and started digging and hewing beneath one of the scales what is now called The Armour of Or. The Mines of Or provided magical scales, rare metals, jewels and riches beyond imagination and attracted many foreign workers. Besides other Dwarves, many Orcs and Humans found their way to the employ of the Flatstone Family.
 
-![the_city_of_or.webp](/assets/images/world/the_city_of_or_v2.webp)
+![the_city_of_or.webp](../../../assets/images/world/the_city_of_or_v2.webp)
 
 ## Harthrûn Metallurgy "The Dwarven Craft"
 Harthrûn Metallurgy or Heartscale Runemagic Metallurgy in full is a Dwarven craftsmanship that has always been renowned, but under the vast influence and resonance of The Armour of Or it has achieved unparalleled craftmanship. The Core Heat from the scale allows dwarves to craft magical alloys that are imbued with elemental powers and arcane properties, beyond anything previously possible. The magical properties embedded in the alloys include fire resistance, earth manipulation, and the ability to channel arcane energies.

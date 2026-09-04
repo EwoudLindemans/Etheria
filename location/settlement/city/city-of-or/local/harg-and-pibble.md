@@ -7,12 +7,11 @@ date: 2025-04-14T21:51:04.144Z
 tags: philosopher, fool, human
 editor: markdown
 dateCreated: 2025-03-29T23:54:35.079Z
-parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 | Before Philosotankard | Existential Dread |
 | -- | -- |
-|![harg_pibble.webp](/characters/harg_pibble.webp)|![pibble_harg.webp](/assets/images/characters/pibble_harg.webp)|
+|![harg_pibble.webp](../../../../../assets/images/characters/harg_pibble.webp)|![pibble_harg.webp](../../../../../assets/images/characters/pibble_harg.webp)|
 
 
 

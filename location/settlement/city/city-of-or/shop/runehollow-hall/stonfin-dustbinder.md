@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:28.686Z
 tags: halfling, librarian, scholar
 editor: markdown
 dateCreated: 2025-04-08T08:26:45.660Z
-parent: library=f64d545e-f7ba-4a32-8b95-fef6493ea48c
 ---
 
 # Stonfin Dustbinder

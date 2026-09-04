@@ -7,7 +7,6 @@ date: 2025-04-14T21:44:18.044Z
 tags: deity, resonance, creation, song
 editor: markdown
 dateCreated: 2025-04-03T21:16:02.528Z
-parent: deity=20cf539c-c708-49f3-801f-55a5735d7041
 ---
 
 # ⚛️ Vexyrra, The Harmonic Core  

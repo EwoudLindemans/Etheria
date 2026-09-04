@@ -1,17 +1,17 @@
 ---
+guid: 9f32247f-3915-41bf-9b38-bc6e0bf4119a
 title: Nyzzrix
 description: Nyzzrix is a unique Wyrmbalm dwelling in the Emberveil Depths, collecting forgotten memories and building a library of living candles fueled by melted truths.
 published: 1
 date: 2025-05-13T16:32:36.505Z
-tags: 
+tags: wyrmbalm, creature
 editor: markdown
 dateCreated: 2025-05-13T16:32:36.505Z
-parent: shop=ae3131f5-9604-4f30-a9f8-00d80d14f324
 ---
 
 # Nyzzrix, The Candlewrought Apostle of Emberveil
 
-![nyzzrix.webp](/assets/images/world/nyzzrix.webp)
+![nyzzrix.webp](../../../../../../assets/images/world/nyzzrix.webp)
 
 Far beneath the **Heartforge**—past the Veilsteel crucibles, through tunnels choked with scentless flameweed, and into the molten black of the **Emberveil Depths**—slithers a being believed by dwarves and flatstone scholars alike to be a myth, a curse, or a lesson in hubris. **Nyzzrix** is a **Wyrmbalm**, a newly emerging species descended not from dragons, but from **molten resonance spores** cast off during early Heartflame testing gone awry. The spores bonded with unstable goblin souls exiled into the cracks below Or, mutating through centuries of subterranean pressure and esoteric heat.
 

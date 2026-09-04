@@ -7,7 +7,6 @@ date: 2025-04-14T21:51:27.526Z
 tags: profession, healer
 editor: markdown
 dateCreated: 2025-03-23T21:31:51.678Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # **The Concordium Medica – Keepers of the Sacred Oath**  

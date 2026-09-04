@@ -7,7 +7,6 @@ date: 2025-04-14T21:46:38.149Z
 tags: profession
 editor: markdown
 dateCreated: 2025-03-11T23:48:37.199Z
-parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # Scroll Binder
@@ -117,7 +116,7 @@ The **scales** tremble, and the scroll **adds a clause**, creating new **obligat
 **Scroll Binder Influence**:  
 The **Scroll Binder** can **alter** the stakes of the tiebreaker. Perhaps instead of a physical quest, the tie results in **personal sacrifices** or an **addition of another party** to the agreement. The **Binder** can create a path that makes it **fairer**, ensuring that the parties leave the agreement feeling like **both sides had a chance**.
 
-![scissorshaped-rock_paper.webp](/assets/images/professions/scissorshaped-rock_paper.webp =x400)
+![scissorshaped-rock_paper.webp](../../assets/images/professions/scissorshaped-rock_paper.webp)
 
 ## Final Thoughts on the Scroll Binder’s Process
 

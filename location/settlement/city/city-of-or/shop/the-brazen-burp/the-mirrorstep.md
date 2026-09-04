@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:33.348Z
 tags: scroll
 editor: markdown
 dateCreated: 2025-04-03T21:36:45.104Z
-parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # The Mirrorstep  

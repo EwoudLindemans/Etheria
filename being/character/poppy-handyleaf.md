@@ -7,12 +7,11 @@ date: 2025-04-30T20:09:44.836Z
 tags: character, crafter, gnome
 editor: markdown
 dateCreated: 2025-03-04T11:49:03.230Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Poppy Handyleaf – The Tinkering Star of OR  
 
-![poppy-handyleaf.webp](/assets/images/characters/poppy-handyleaf.webp)
+![poppy-handyleaf.webp](../../assets/images/characters/poppy-handyleaf.webp)
 
 Poppy Handyleaf was never quite like the others. Among the chattering gnomes of The City of OR winding streets, she blended in being the same size, her luminous eyes hinting at something otherworldly. Raised in the heart of the Gnomish quarter of the great dwarven city, she was a peculiar blend of angelic blood and gnomish mischief, her mind a constant whir of curiosity and invention.
 

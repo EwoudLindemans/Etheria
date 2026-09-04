@@ -1,0 +1,1247 @@
+{
+  "$comment": "Source of truth for world structure. Prose, titles and tags stay in the .md files; every relation lives here. Edges are [subject, relation, object] plus an optional 4th object {since, until, note} dated in ARC.",
+  "epoch": {
+    "unit": "ARC",
+    "zero": "The Collapse",
+    "nexus_every": 17,
+    "source": "calendar.md"
+  },
+  "kinds": ["place", "being", "group", "thing", "event", "concept", "page"],
+  "relations": {
+    "location": {
+      "label": "Contains",
+      "inverse": "Located in",
+      "max": 1,
+      "transitive": true,
+      "domain": "place",
+      "range": "place"
+    },
+    "found_at": {
+      "label": "Residents",
+      "inverse": "Found at",
+      "rollup": "location"
+    },
+    "range": {
+      "label": "Native species",
+      "inverse": "Ranges across",
+      "rollup": "location"
+    },
+    "seat_of": {
+      "label": "Seated here",
+      "inverse": "Seat of",
+      "rollup": "location"
+    },
+    "operates_in": {
+      "label": "Operates here",
+      "inverse": "Operates in",
+      "rollup": "location"
+    },
+    "originates_in": {
+      "label": "Originates here",
+      "inverse": "Originates in",
+      "rollup": "location"
+    },
+    "practiced_at": {
+      "label": "Practiced here",
+      "inverse": "Practiced at",
+      "rollup": "location"
+    },
+    "practiced_by": {
+      "label": "Practices",
+      "inverse": "Practiced by"
+    },
+    "member_of": {
+      "label": "Members",
+      "inverse": "Member of"
+    },
+    "venerated_in": {
+      "label": "Venerated here",
+      "inverse": "Venerated in",
+      "rollup": "location"
+    },
+    "happened_at": {
+      "label": "Events",
+      "inverse": "Happened at",
+      "rollup": "location"
+    },
+    "manifests_in": {
+      "label": "Manifests here",
+      "inverse": "Manifests in",
+      "rollup": "location"
+    },
+    "kept_at": {
+      "label": "Kept here",
+      "inverse": "Kept at",
+      "rollup": "location"
+    },
+    "sold_at": {
+      "label": "For sale",
+      "inverse": "Sold at",
+      "rollup": "location"
+    },
+    "owned_by": {
+      "label": "Owns",
+      "inverse": "Owned by"
+    },
+    "created_by": {
+      "label": "Created",
+      "inverse": "Created by"
+    },
+    "friend_of": {
+      "label": "Friends",
+      "inverse": "Friends",
+      "symmetric": true
+    },
+    "rival_of": {
+      "label": "Rivals",
+      "inverse": "Rivals",
+      "symmetric": true
+    },
+    "knows": {
+      "label": "Known by",
+      "inverse": "Knows"
+    },
+    "mentored_by": {
+      "label": "Mentored",
+      "inverse": "Mentored by"
+    },
+    "adjacent_to": {
+      "label": "Neighbouring",
+      "inverse": "Neighbouring",
+      "symmetric": true
+    },
+    "wants": {
+      "label": "Wanted by",
+      "inverse": "Wants"
+    },
+    "parent_of": {
+      "label": "Children",
+      "inverse": "Parent of"
+    }
+  },
+  "nodes": {
+    "aelfar": {
+      "guid": "db259447-15e8-4a62-8f03-860c4882b4db",
+      "file": "being/deity/aelfar.md",
+      "kind": "being",
+      "title": "Aelfar"
+    },
+    "aelyria": {
+      "guid": "057c9e17-055e-44fa-95b5-8365a67ddf5d",
+      "file": "being/deity/aelyria.md",
+      "kind": "being",
+      "title": "Aelyria"
+    },
+    "anemostrus": {
+      "guid": "601dfdea-77b4-4941-8b72-8c77f47ed041",
+      "file": "being/titan/anemostrus.md",
+      "kind": "being",
+      "title": "Anemostrus"
+    },
+    "arcane-fangs": {
+      "guid": "04071fac-0560-4e7e-bc6c-fd304af32b48",
+      "file": "society/factions/arcane-fangs.md",
+      "kind": "group",
+      "title": "The Arcane Fangs"
+    },
+    "arcane-resonance": {
+      "guid": "120f2cfc-eefd-4f16-87e2-4dca79361201",
+      "file": "mechanic/class/sorcerer/subclass/arcane-resonance.md",
+      "kind": "concept",
+      "title": "Arcane Resonance"
+    },
+    "arkona": {
+      "guid": "75aa0a3a-118f-4c36-9f4b-b9853b0ab913",
+      "file": "location/settlement/city/arkona.md",
+      "kind": "place",
+      "title": "Arkona"
+    },
+    "armour-of-or": {
+      "guid": "43233b74-a64f-434e-8d70-0e9bf64b286e",
+      "file": "location/region/armour-of-or.md",
+      "kind": "place",
+      "title": "Armour of Or"
+    },
+    "asara-plate": {
+      "guid": "38b0e138-e795-4f90-a8bf-f8d22052e7b9",
+      "file": "location/region/asara-plate.md",
+      "kind": "place",
+      "title": "Asara Plate"
+    },
+    "asarazul": {
+      "guid": "da7cabf2-3660-42f0-bdaa-02fc25b05f80",
+      "file": "location/settlement/city/city-of-or/asarazul.md",
+      "kind": "thing",
+      "title": "Asarazul"
+    },
+    "ashenfang": {
+      "guid": "5dbad216-17f4-4e82-9b64-1706016f0cae",
+      "file": "society/clan/ashenfang.md",
+      "kind": "group",
+      "title": "The Ashenfang"
+    },
+    "aurelthys": {
+      "guid": "b7a81b9b-a8cf-44f8-8a9e-62d13b0fba8e",
+      "file": "being/deity/aurelthys.md",
+      "kind": "being",
+      "title": "Aurelthys"
+    },
+    "bates-lamina": {
+      "guid": "4d381a3f-3262-4c58-b0bb-dc163f84d7ae",
+      "file": "location/region/bates-lamina.md",
+      "kind": "place",
+      "title": "Batès Lamina"
+    },
+    "berrun-dimmabrow": {
+      "guid": "e051ca38-4ade-4476-80c1-c6bf4a0e1860",
+      "file": "location/settlement/city/city-of-or/guard-of-or/berrun-dimmabrow.md",
+      "kind": "being",
+      "title": "Berrun Dimmabrow"
+    },
+    "blooming-skein": {
+      "guid": "9d7e7788-38e1-49fd-97b6-ef55c10f6cd9",
+      "file": "location/region/blooming-skein.md",
+      "kind": "place",
+      "title": "The Blooming Skein"
+    },
+    "brazen-brew": {
+      "guid": "fef5d939-cafc-4beb-aadc-b0c44ed0fec1",
+      "file": "location/settlement/city/city-of-or/consumable/brazen-brew.md",
+      "kind": "thing",
+      "title": "Drink: The Brazen Brew"
+    },
+    "brother-ienor": {
+      "guid": "d554202b-f302-420e-943f-95e6cd301d5f",
+      "file": "location/settlement/city/city-of-or/shop/the-red-palm-hall/brother-ienor.md",
+      "kind": "being",
+      "title": "Brother Ienor"
+    },
+    "calendar": {
+      "guid": "5799e3ab-4a32-476e-8e59-8893e9ba3292",
+      "file": "calendar.md",
+      "kind": "concept",
+      "title": "Calendar"
+    },
+    "carefull": {
+      "guid": "e3acbcda-e2d8-4629-9600-651af2c929c0",
+      "file": "mechanic/dice/carefull.md",
+      "kind": "concept",
+      "title": "Carefull Roll"
+    },
+    "ccma": {
+      "guid": "c884a2e3-3e3f-44d8-b546-222e546010c4",
+      "file": "location/settlement/city/mohinders/ccma.md",
+      "kind": "group",
+      "title": "Councel of Controlled Magical Appliance"
+    },
+    "cirxa": {
+      "guid": "9860c403-e5ad-4c91-ba61-a9134cd07c25",
+      "file": "being/character/cirxa.md",
+      "kind": "being",
+      "title": "Cirxa"
+    },
+    "city-of-or": {
+      "guid": "59408a28-61f9-4883-92bd-922c27813926",
+      "file": "location/settlement/city/city-of-or.md",
+      "kind": "place",
+      "title": "The City of Or"
+    },
+    "coalwalk-row": {
+      "guid": "f8061dd3-8bf0-449e-8b2d-b67d857f2660",
+      "file": "location/settlement/city/city-of-or/district/coalwalk-row.md",
+      "kind": "place",
+      "title": "Coalwalk Row"
+    },
+    "concordium-medica": {
+      "guid": "5e629bf1-94ea-4ae7-8363-5a57541639f8",
+      "file": "society/profession/concordium-medica.md",
+      "kind": "group",
+      "title": "The Concordium Medica"
+    },
+    "conduit-aasimar": {
+      "guid": "b6823bc3-d583-4cc0-a475-d05ef55eebb1",
+      "file": "being/species/sub-species/conduit-aasimar.md",
+      "kind": "being",
+      "title": "Conduit Aasimar"
+    },
+    "council-of-or": {
+      "guid": "63678415-9470-45aa-8d86-205ee81442a0",
+      "file": "location/settlement/city/city-of-or/council-of-or.md",
+      "kind": "group",
+      "title": "The Council of Or"
+    },
+    "covenant-of-thalgrin-and-ilmater": {
+      "guid": "122fa2cd-2930-4a1b-949f-6fdb3bcca3e2",
+      "file": "being/character/sylieth/covenant-of-thalgrin-and-ilmater.md",
+      "kind": "thing",
+      "title": "Covenant of Thalgrin and Ilmater"
+    },
+    "cult-of-dy": {
+      "guid": "145d7ce3-7ce5-4c32-8b4b-4782a1da814c",
+      "file": "society/factions/cult-of-dy.md",
+      "kind": "group",
+      "title": "The Cult of Dy"
+    },
+    "darik-stoneveil": {
+      "guid": "12ebce88-c3ce-430e-9c4a-6f49c3de22b0",
+      "file": "location/settlement/city/city-of-or/guard-of-or/darik-stoneveil.md",
+      "kind": "being",
+      "title": "Darik Stoneveil"
+    },
+    "deity": {
+      "guid": "20cf539c-c708-49f3-801f-55a5735d7041",
+      "file": "mechanic/deity.md",
+      "kind": "concept",
+      "title": "Deity"
+    },
+    "density-calibrator": {
+      "guid": "5cdc0429-be7b-4bbe-86ff-b4c2dc8bc958",
+      "file": "location/settlement/city/glimmering-ashenburrow/density-calibrator.md",
+      "kind": "thing",
+      "title": "Density Calibrator"
+    },
+    "denslings": {
+      "guid": "5391d3cc-08f0-4667-9c31-7f82d6e91a8e",
+      "file": "being/species/denslings.md",
+      "kind": "being",
+      "title": "Denslings"
+    },
+    "dithrir": {
+      "guid": "0130c8d9-239c-4504-9d5a-d70f2e6fbc2a",
+      "file": "being/deity/dithrir.md",
+      "kind": "being",
+      "title": "Dithrir"
+    },
+    "dolgrin-embervein": {
+      "guid": "070f6734-aa75-470c-a863-b2e27444d69c",
+      "file": "location/settlement/city/city-of-or/local/dolgrin-embervein.md",
+      "kind": "being",
+      "title": "Dolgrin Embervein"
+    },
+    "dottie-copperlocks": {
+      "guid": "1389b1c4-f91d-4362-9656-bc2ef1b04b37",
+      "file": "location/settlement/city/city-of-or/local/dottie-copperlocks.md",
+      "kind": "being",
+      "title": "Dottie Copperlocks"
+    },
+    "dreamweaving": {
+      "guid": "d988ba35-2f3f-4886-a39a-827d6e7ec7ec",
+      "file": "society/profession/dreamweaving.md",
+      "kind": "group",
+      "title": "Dreamweaving"
+    },
+    "drip": {
+      "guid": "f1a4fb50-5e2c-4659-994d-ffaaa4514c55",
+      "file": "location/settlement/city/city-of-or/shop/the-cauldron-lottery/drip.md",
+      "kind": "being",
+      "title": "Drip"
+    },
+    "duskreach": {
+      "guid": "d0c9761b-ad0d-46b8-8515-da1f98abf5cb",
+      "file": "location/region/duskreach.md",
+      "kind": "place",
+      "title": "Duskreach"
+    },
+    "eldeviérs-shell": {
+      "guid": "e89ff377-4d79-4d02-9a91-ec4acf626c24",
+      "file": "location/region/eldeviérs-shell.md",
+      "kind": "place",
+      "title": "Eldeviérs Shell"
+    },
+    "election-festival": {
+      "guid": "b8c25613-3e5d-4497-8c7a-5eb8b0c4fe28",
+      "file": "location/settlement/city/city-of-or/election-festival.md",
+      "kind": "event",
+      "title": "The Election Festival of Or"
+    },
+    "emberglass-artisan": {
+      "guid": "cc4ae0d6-9cfa-44f0-a423-635e7e458df1",
+      "file": "society/profession/emberglass-artisan.md",
+      "kind": "group",
+      "title": "Emberglass Artisan"
+    },
+    "emberglass-orb": {
+      "guid": "4bf41615-0026-4ef0-8980-b39b1ebe0ce1",
+      "file": "society/profession/emberglass-artisan/emberglass-orb.md",
+      "kind": "thing",
+      "title": "Emberglass Orbs"
+    },
+    "epic": {
+      "guid": "42c1a5fb-2fd1-4255-bd5d-62caf05a08cf",
+      "file": "mechanic/dice/epic.md",
+      "kind": "concept",
+      "title": "Epic Roll"
+    },
+    "etherial": {
+      "guid": "78fc76a6-a837-408d-b93b-1f1c62447bcc",
+      "file": "being/species/etherial.md",
+      "kind": "being",
+      "title": "Etherials"
+    },
+    "fargash-flatstone": {
+      "guid": "1aae8fdb-3fa6-467b-8bcb-02719ba36500",
+      "file": "location/settlement/city/city-of-or/local/fargash-flatstone.md",
+      "kind": "being",
+      "title": "🪦 Fargash Flatstone"
+    },
+    "fizzlemancy": {
+      "guid": "da38496a-bfec-4b6f-ac3b-27606eb58c61",
+      "file": "society/profession/fizzlemancy.md",
+      "kind": "group",
+      "title": "Fizzlemancy"
+    },
+    "followers-of-irion": {
+      "guid": "f6d9e945-cfd4-4cf6-b05f-d8a319546ed4",
+      "file": "society/factions/followers-of-irion.md",
+      "kind": "group",
+      "title": "Followers of Irion"
+    },
+    "fracture-link": {
+      "guid": "b0260614-36cd-443b-8ce8-5bded0ea2eb9",
+      "file": "mechanic/fracture-link.md",
+      "kind": "event",
+      "title": "Fracture Link"
+    },
+    "fragment-from-the-personal-journal-of-dcs": {
+      "guid": "cd3e009e-aa22-4c0c-aaf1-5095348719b9",
+      "file": "location/settlement/city/city-of-or/shop/the-inkblot-bindery/fragment-from-the-personal-journal-of-dcs.md",
+      "kind": "thing",
+      "title": "Fragment from the Personal Journal of D.C.S."
+    },
+    "glimmer-drift": {
+      "guid": "b08e2e93-93e4-49e1-a8f8-92b5d4f76cea",
+      "file": "mechanic/glimmer-drift.md",
+      "kind": "concept",
+      "title": "Glimmer Drift"
+    },
+    "glimmering-ashenburrow": {
+      "guid": "627b3d85-ea6e-44b2-b059-03ca394999d1",
+      "file": "location/settlement/city/glimmering-ashenburrow.md",
+      "kind": "place",
+      "title": "Glimmering Ashenburrow"
+    },
+    "gloriana": {
+      "guid": "3b39f3e3-dd09-4ae2-8859-34d9f48f359b",
+      "file": "location/settlement/city/city-of-or/local/tallis-thorne/gloriana.md",
+      "kind": "thing",
+      "title": "Item: Gloriana"
+    },
+    "gor-thuun": {
+      "guid": "07aef3a4-a9b5-41a6-99a0-397d0021fdc8",
+      "file": "being/titan/gor-thuun.md",
+      "kind": "being",
+      "title": "Gor’Thuun"
+    },
+    "gorgrath-the-brute": {
+      "guid": "3d9bead3-dd37-4b5a-ae9c-c87b6d46a664",
+      "file": "location/settlement/city/city-of-or/local/gorgrath-the-brute.md",
+      "kind": "being",
+      "title": "Gorgrath the Brute"
+    },
+    "graith": {
+      "guid": "4138fa78-d817-4997-9b06-ca773594a838",
+      "file": "being/monster/graith.md",
+      "kind": "being",
+      "title": "The Graith"
+    },
+    "grayspire": {
+      "guid": "7b47e8f0-e54b-4ec9-b1df-423a4c139574",
+      "file": "location/settlement/city/grayspire.md",
+      "kind": "place",
+      "title": "Grayspire"
+    },
+    "grunthar-orc": {
+      "guid": "d227a0bb-a577-4bf4-be6e-1758f5193033",
+      "file": "being/species/sub-species/grunthar-orc.md",
+      "kind": "being",
+      "title": "Grunthar Orc"
+    },
+    "guard-of-or": {
+      "guid": "1c6b422f-7b2a-4cd0-87d3-0fde182b689a",
+      "file": "location/settlement/city/city-of-or/guard-of-or.md",
+      "kind": "group",
+      "title": "The Guard of the City of Or"
+    },
+    "gurdalks-gang": {
+      "guid": "5d18ef20-9f7d-4916-a0b8-d56d0c347411",
+      "file": "society/tribe/gurdalks-gang.md",
+      "kind": "group",
+      "title": "Gurdalk's Gang"
+    },
+    "gutterbrew-alley": {
+      "guid": "50940c56-4e2d-4ce7-a570-3e9c865773ee",
+      "file": "location/settlement/city/city-of-or/district/gutterbrew-alley.md",
+      "kind": "place",
+      "title": "Gutterbrew Alley"
+    },
+    "harg-and-pibble": {
+      "guid": "723f3a46-b18a-4b95-b5de-bff85c9cb99f",
+      "file": "location/settlement/city/city-of-or/local/harg-and-pibble.md",
+      "kind": "being",
+      "title": "Harg & Pibble"
+    },
+    "harthrûn-metallurgy": {
+      "guid": "1ff2563e-9cb3-40a1-aacd-4baceca7d2f3",
+      "file": "society/profession/harthrûn-metallurgy.md",
+      "kind": "group",
+      "title": "Harthrûn Metallurgy"
+    },
+    "headmasters-roost": {
+      "guid": "350b2d0b-f6cd-4e17-bfc4-aa4a623b08a2",
+      "file": "location/settlement/enclave/scholars-rift/headmasters-roost.md",
+      "kind": "place",
+      "title": "Headmasters Roost"
+    },
+    "heartforge": {
+      "guid": "31f3a52d-8a67-4b03-8f66-61b5ad7ec112",
+      "file": "location/settlement/city/city-of-or/heartforge.md",
+      "kind": "place",
+      "title": "Heartforge"
+    },
+    "hexbit-mechanics": {
+      "guid": "263eeef0-5c75-41fd-ab7c-e872637a440c",
+      "file": "society/profession/hexbit-mechanics.md",
+      "kind": "group",
+      "title": "Hexbit Mechanics"
+    },
+    "innerhold-heartstead": {
+      "guid": "0999ae7c-e6d2-4268-834c-6b543741c905",
+      "file": "location/settlement/city/innerhold-heartstead.md",
+      "kind": "place",
+      "title": "Innerhold Heartstead"
+    },
+    "iridia": {
+      "guid": "7960bb3a-a9f9-47fa-8126-556041ba1c55",
+      "file": "location/world/iridia.md",
+      "kind": "place",
+      "title": "Iridia"
+    },
+    "iridian": {
+      "guid": "5353352c-f767-4b1f-8773-1352f37f75b6",
+      "file": "being/species/iridian.md",
+      "kind": "being",
+      "title": "Iridian"
+    },
+    "irion": {
+      "guid": "dc1065f5-5d1b-4353-a031-09a418c3bbe4",
+      "file": "being/deity/irion.md",
+      "kind": "being",
+      "title": "Irion"
+    },
+    "jarvey": {
+      "guid": "53d528b2-a42e-4737-9b29-c40f166bc2f2",
+      "file": "being/character/jarvey.md",
+      "kind": "being",
+      "title": "Jarvey"
+    },
+    "karath-flatstone": {
+      "guid": "3cd5386b-cb8e-4efa-b3d8-b91b68bd6f15",
+      "file": "location/settlement/city/city-of-or/local/karath-flatstone.md",
+      "kind": "being",
+      "title": "Karath Flatstone"
+    },
+    "karmic-slap": {
+      "guid": "dad8cf75-c18d-4982-81b3-15bad4e44ace",
+      "file": "mechanic/condition/karmic-slap.md",
+      "kind": "concept",
+      "title": "Karmic Slap"
+    },
+    "library-between-names": {
+      "guid": "1c09cff1-43c3-445a-ac5f-8cd89ebd592e",
+      "file": "location/settlement/city/city-of-or/local/tallis-thorne/library-between-names.md",
+      "kind": "thing",
+      "title": "Item: The Library Between Names"
+    },
+    "magic": {
+      "guid": "5fe74743-ab29-4d47-9b9d-75e638c77851",
+      "file": "mechanic/magic.md",
+      "kind": "concept",
+      "title": "Magic"
+    },
+    "manifestation": {
+      "guid": "e5d2503d-689f-497a-a6b4-0d32f1cbff07",
+      "file": "event/manifestation.md",
+      "kind": "event",
+      "title": "Manifistation"
+    },
+    "matt": {
+      "guid": "2869beb9-cae9-43c3-a965-2c2cdd62a281",
+      "file": "being/character/matt.md",
+      "kind": "being",
+      "title": "Matt & Bubbles"
+    },
+    "mines-of-or": {
+      "guid": "e64676c5-0dac-4cc8-b87a-8b5581f86f32",
+      "file": "location/settlement/city/city-of-or/mines-of-or.md",
+      "kind": "place",
+      "title": "Mines of Or"
+    },
+    "miss-terry": {
+      "guid": "689633b0-9821-4ed4-a715-f946c66a8827",
+      "file": "being/character/miss-terry.md",
+      "kind": "being",
+      "title": "Miss Terry"
+    },
+    "mistveil-marshes": {
+      "guid": "7038ee8b-0e08-4420-962f-0cd33e50cf59",
+      "file": "location/region/mistveil-marshes.md",
+      "kind": "place",
+      "title": "Mistveil Marshes"
+    },
+    "mohinders": {
+      "guid": "23673ba2-6e63-4565-ad58-2759f4179c04",
+      "file": "location/settlement/city/mohinders.md",
+      "kind": "place",
+      "title": "Mohinders Spire"
+    },
+    "mountains-of-triz": {
+      "guid": "c7737feb-0889-4e79-9b4d-f899fad4a5b3",
+      "file": "location/region/mountains-of-triz.md",
+      "kind": "place",
+      "title": "Mountains of Triz"
+    },
+    "mudshaper": {
+      "guid": "4c1bad0f-d2ee-4e4d-a484-cdf9c6b0c3f6",
+      "file": "society/profession/mudshaper.md",
+      "kind": "group",
+      "title": "Mud Shaper"
+    },
+    "nokk": {
+      "guid": "a02b1b2d-a82c-4328-bea9-c950edad8c66",
+      "file": "being/character/nokk.md",
+      "kind": "being",
+      "title": "Nokk the Scale’s Chosen"
+    },
+    "nyzzrix": {
+      "guid": "9f32247f-3915-41bf-9b38-bc6e0bf4119a",
+      "file": "location/settlement/city/city-of-or/shop/the-inkblot-bindery/nyzzrix.md",
+      "kind": "being",
+      "title": "Nyzzrix"
+    },
+    "obelion": {
+      "guid": "1888b779-56c5-4acc-bdba-4a1e4d196633",
+      "file": "being/titan/obelion.md",
+      "kind": "being",
+      "title": "Obelion"
+    },
+    "ogres-of-glutt-thar": {
+      "guid": "9a78d2d8-cddd-47b4-baf6-0b660eaf6c7d",
+      "file": "society/ogres-of-glutt-thar.md",
+      "kind": "group",
+      "title": "The Ogres of Glutt’thar"
+    },
+    "or-flatstone": {
+      "guid": "c0653893-135f-4704-b45f-fe7edd42fb8f",
+      "file": "location/settlement/city/city-of-or/local/or-flatstone.md",
+      "kind": "being",
+      "title": "🪦 Or Flatstone"
+    },
+    "ornite-ring": {
+      "guid": "93469731-eaa0-4f13-beb0-6c17a30d185f",
+      "file": "location/region/ornite-ring.md",
+      "kind": "place",
+      "title": "The Ornite Ring"
+    },
+    "paradoxal-recoil": {
+      "guid": "c4460d2b-24e4-4ce5-9347-a8b99c11b4fb",
+      "file": "mechanic/dice/paradoxal-recoil.md",
+      "kind": "concept",
+      "title": "Paradoxical Roll"
+    },
+    "passage-of-or": {
+      "guid": "6769e58e-9284-4a47-b196-8e5389664d97",
+      "file": "location/settlement/city/city-of-or/district/passage-of-or.md",
+      "kind": "place",
+      "title": "The Passage of Or"
+    },
+    "poppy-handyleaf": {
+      "guid": "fbe6bf65-eba3-4ef2-bf13-8a7b626602e8",
+      "file": "being/character/poppy-handyleaf.md",
+      "kind": "being",
+      "title": "Poppy Handyleaf"
+    },
+    "quillnibs-handle": {
+      "guid": "4c494a48-d453-4cc2-a6e6-38e3fd303424",
+      "file": "location/settlement/city/quillnibs-handle.md",
+      "kind": "place",
+      "title": "Quillnib’s Handle"
+    },
+    "ragged-goons": {
+      "guid": "d338254f-45c3-4a7e-8a10-770154f2074a",
+      "file": "society/factions/ragged-goons.md",
+      "kind": "group",
+      "title": "The Ragged Goons"
+    },
+    "readme": {
+      "guid": null,
+      "file": "readme.md",
+      "kind": "page",
+      "title": null
+    },
+    "resonance": {
+      "guid": "a5477bc0-72f0-4b2a-aab4-f44c50931ea2",
+      "file": "mechanic/resonance.md",
+      "kind": "concept",
+      "title": "Resonance"
+    },
+    "rhyzmare": {
+      "guid": "1246d52a-b190-4b1d-be3c-b437437d857e",
+      "file": "being/titan/rhyzmare.md",
+      "kind": "being",
+      "title": "Rhyzmare"
+    },
+    "robustus": {
+      "guid": "aedc6266-50b2-4006-beff-7a12db717e1c",
+      "file": "being/titan/robustus.md",
+      "kind": "being",
+      "title": "Robustus"
+    },
+    "runehollow-hall": {
+      "guid": "f64d545e-f7ba-4a32-8b95-fef6493ea48c",
+      "file": "location/settlement/city/city-of-or/shop/runehollow-hall.md",
+      "kind": "place",
+      "title": "Runehollow Hall"
+    },
+    "runeswindler": {
+      "guid": "1ca393fe-b50e-4ee1-a6de-772f85bf048d",
+      "file": "location/settlement/city/mohinders/runeswindler.md",
+      "kind": "being",
+      "title": "Runeswindler"
+    },
+    "rusty-pluckers": {
+      "guid": "df19f5ac-1b4e-4236-8d40-ca0c5239f89a",
+      "file": "location/settlement/city/city-of-or/shop/the-brazen-burp/rusty-pluckers.md",
+      "kind": "group",
+      "title": "Rusty Pluckers"
+    },
+    "scale": {
+      "guid": "1280eafc-38e6-4ee8-80f4-30ba505045d0",
+      "file": "location/landmark/scale.md",
+      "kind": "concept",
+      "title": "The Scales"
+    },
+    "scalebound-strays": {
+      "guid": "f825a1e2-d603-4f5a-8781-89ca648a64d9",
+      "file": "society/fellowship/scalebound-strays.md",
+      "kind": "group",
+      "title": "The Scalebound Strays"
+    },
+    "scholars-rift": {
+      "guid": "52f984a8-ef37-4c35-a866-7327d68690e0",
+      "file": "location/settlement/enclave/scholars-rift/scholars-rift.md",
+      "kind": "place",
+      "title": "Scholars Rift"
+    },
+    "scroll-binder": {
+      "guid": "61e06349-1499-4ad8-9a24-21165ef034a1",
+      "file": "society/profession/scroll-binder.md",
+      "kind": "group",
+      "title": "Scroll Binder"
+    },
+    "shriekbeak": {
+      "guid": "51cb0956-964b-4468-9110-ff517e8446bb",
+      "file": "society/factions/ragged-goons/shriekbeak.md",
+      "kind": "being",
+      "title": "Shriekbeak"
+    },
+    "skein-of-bones": {
+      "guid": "57e07d00-5365-46b7-bdca-c082d990365f",
+      "file": "location/region/skein-of-bones.md",
+      "kind": "place",
+      "title": "Skein of Bones"
+    },
+    "skul-kruk": {
+      "guid": "f9945b9a-d6dc-4230-8a37-c122b10be201",
+      "file": "being/titan/skul-kruk.md",
+      "kind": "being",
+      "title": "Skul’Kruk"
+    },
+    "skyfire-brew": {
+      "guid": "3ec71fa8-a9c7-4949-921e-b4235bafd589",
+      "file": "location/settlement/city/city-of-or/consumable/skyfire-brew.md",
+      "kind": "thing",
+      "title": "Drink: Skyfire Brew"
+    },
+    "sorhadjin": {
+      "guid": "c0213780-b5e7-4c81-baf9-ca09a2f0b1ce",
+      "file": "location/region/sorhadjin.md",
+      "kind": "place",
+      "title": "Sorhadjin"
+    },
+    "stonehollow": {
+      "guid": "e80c29f1-ab1a-48d1-a14a-03e13aa686d2",
+      "file": "location/settlement/city/city-of-or/district/stonehollow.md",
+      "kind": "place",
+      "title": "Stonehollow"
+    },
+    "stonfin-dustbinder": {
+      "guid": "e900b1ee-cae7-4328-9532-f3e849b7e788",
+      "file": "location/settlement/city/city-of-or/shop/runehollow-hall/stonfin-dustbinder.md",
+      "kind": "being",
+      "title": "Stonfin Dustbinder"
+    },
+    "sweetmoss-sip": {
+      "guid": "2903a53a-b638-46ca-a101-c6fc8812a241",
+      "file": "location/settlement/city/city-of-or/consumable/sweetmoss-sip.md",
+      "kind": "thing",
+      "title": "Drink: Sweetmoss Sip"
+    },
+    "sylieth": {
+      "guid": "d0551441-af4d-43c9-8948-148e42b493df",
+      "file": "being/character/sylieth.md",
+      "kind": "being",
+      "title": "Sylieth"
+    },
+    "tallis-thorne": {
+      "guid": "ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3",
+      "file": "location/settlement/city/city-of-or/local/tallis-thorne.md",
+      "kind": "being",
+      "title": "Tallis Thorne"
+    },
+    "tankard-trekkers": {
+      "guid": "7b571903-f19e-41d2-8ff9-e3dd581a2219",
+      "file": "society/profession/tankard-trekkers.md",
+      "kind": "group",
+      "title": "Tankard Trekkers"
+    },
+    "thalgrin": {
+      "guid": "efcad6bf-0ef2-4ff4-8535-5d6ffaed2e2d",
+      "file": "being/deity/thalgrin.md",
+      "kind": "being",
+      "title": "Thalgrin"
+    },
+    "the-anchored": {
+      "guid": "5cad1505-6363-4e30-b6b2-6b4076f8b8c0",
+      "file": "location/realm/the-anchored.md",
+      "kind": "place",
+      "title": "The Anchored"
+    },
+    "the-binding-thread": {
+      "guid": "b67a5947-b54f-4195-865c-bd8d3daef6a1",
+      "file": "being/character/sylieth/the-binding-thread.md",
+      "kind": "thing",
+      "title": "The Binding Thread"
+    },
+    "the-bone-marshal": {
+      "guid": "d3f65f59-5cc0-4ca3-afef-cf558a31d7bc",
+      "file": "society/factions/ragged-goons/the-bone-marshal.md",
+      "kind": "being",
+      "title": "The Bone Marshal"
+    },
+    "the-brazen-burp": {
+      "guid": "efd16b68-e53b-480a-8bf0-b8efd129b310",
+      "file": "location/settlement/city/city-of-or/shop/the-brazen-burp.md",
+      "kind": "place",
+      "title": "The Brazen Burp"
+    },
+    "the-cauldron-lottery": {
+      "guid": "98a60763-1f62-4d0b-aa00-40fa1fb81362",
+      "file": "location/settlement/city/city-of-or/shop/the-cauldron-lottery.md",
+      "kind": "place",
+      "title": "The Cauldron Lottery"
+    },
+    "the-codex-of-the-heartflame": {
+      "guid": "9ba40adf-9c57-4fdd-88a1-5d3806a06d28",
+      "file": "location/settlement/city/city-of-or/heartforge/the-codex-of-the-heartflame.md",
+      "kind": "thing",
+      "title": "The Codex of the Heartflame"
+    },
+    "the-collapse": {
+      "guid": "29e0dffd-a102-4709-999f-3706bcad12cb",
+      "file": "event/the-collapse.md",
+      "kind": "event",
+      "title": "The Collapse"
+    },
+    "the-crowstrider": {
+      "guid": "9ad8e2e0-20c1-406e-b18e-c243a33c67eb",
+      "file": "society/factions/ragged-goons/the-crowstrider.md",
+      "kind": "being",
+      "title": "The Crowstrider"
+    },
+    "the-dense": {
+      "guid": "d258c794-e9d0-4d35-8917-db5703d3fda3",
+      "file": "location/realm/the-dense.md",
+      "kind": "place",
+      "title": "The Dense"
+    },
+    "the-echo-halls": {
+      "guid": "5c1e8659-6474-4ad4-87af-b38892fe2e76",
+      "file": "location/settlement/enclave/scholars-rift/the-echo-halls.md",
+      "kind": "place",
+      "title": "The Echo Halls"
+    },
+    "the-fargash-gambit": {
+      "guid": "49f89a53-d82e-4247-aba9-996694f0e0b6",
+      "file": "location/settlement/city/city-of-or/the-fargash-gambit.md",
+      "kind": "event",
+      "title": "The Fargash Gambit"
+    },
+    "the-forbidden-library": {
+      "guid": "c9059d3f-6ec8-4397-ba3f-7ca44006e242",
+      "file": "location/settlement/enclave/scholars-rift/the-forbidden-library.md",
+      "kind": "place",
+      "title": "The Forbidden Library"
+    },
+    "the-fractured-keep": {
+      "guid": "f5c11b2c-e917-47b7-a226-d79f4c5ecee0",
+      "file": "location/realm/the-fractured-keep.md",
+      "kind": "place",
+      "title": "The Fractured Keep"
+    },
+    "the-inkblot-bindery": {
+      "guid": "ae3131f5-9604-4f30-a9f8-00d80d14f324",
+      "file": "location/settlement/city/city-of-or/shop/the-inkblot-bindery.md",
+      "kind": "place",
+      "title": "The Inkblot Bindery"
+    },
+    "the-mirrorstep": {
+      "guid": "bc0e6bee-f95e-49bc-89d5-dfc386a7fa23",
+      "file": "location/settlement/city/city-of-or/shop/the-brazen-burp/the-mirrorstep.md",
+      "kind": "thing",
+      "title": "The Mirrorstep"
+    },
+    "the-oblique-concord": {
+      "guid": "acadb407-04e5-48db-8f3a-e55a0a3afe20",
+      "file": "society/factions/the-oblique-concord.md",
+      "kind": "group",
+      "title": "The Oblique Concord"
+    },
+    "the-obsession-of-vorelith": {
+      "guid": "8d522642-c55b-49ac-b859-0cee9714edd9",
+      "file": "location/settlement/city/mohinders/the-obsession-of-vorelith.md",
+      "kind": "event",
+      "title": "The Obsession of Vorelith"
+    },
+    "the-pale-scholar": {
+      "guid": "292ddf9c-5c54-40a1-b12f-4a57d5fa1984",
+      "file": "society/factions/ragged-goons/the-pale-scholar.md",
+      "kind": "being",
+      "title": "The Pale Scholar"
+    },
+    "the-red-palm-hall": {
+      "guid": "e112e23a-8f38-4808-9e2f-fecc89dae088",
+      "file": "location/settlement/city/city-of-or/shop/the-red-palm-hall.md",
+      "kind": "place",
+      "title": "The Red Palm Hall"
+    },
+    "the-rift-gate": {
+      "guid": "1b7f3025-c079-4d23-af74-1453b39727e1",
+      "file": "location/settlement/enclave/scholars-rift/the-rift-gate.md",
+      "kind": "place",
+      "title": "The Rift Gate"
+    },
+    "the-rusted-thaumaturge": {
+      "guid": "3c632350-394e-4975-b4ea-cda5e1914af5",
+      "file": "society/factions/ragged-goons/the-rusted-thaumaturge.md",
+      "kind": "being",
+      "title": "The Rusted Thaumaturge"
+    },
+    "the-scythe-lass": {
+      "guid": "d5d99238-20b2-4a52-942c-2b2be4c0660d",
+      "file": "society/factions/ragged-goons/the-scythe-lass.md",
+      "kind": "being",
+      "title": "The Scythe Lass"
+    },
+    "the-shinging-well": {
+      "guid": "d01be614-3fe2-4ab9-9fed-a907a74f3436",
+      "file": "location/landmark/the-shinging-well.md",
+      "kind": "place",
+      "title": "The Shinging Well"
+    },
+    "the-spillway": {
+      "guid": "901cf149-5efd-4488-9ca5-82286d44a012",
+      "file": "location/settlement/city/city-of-or/district/the-spillway.md",
+      "kind": "place",
+      "title": "The Spillway"
+    },
+    "the-stable-flask": {
+      "guid": "a18e1465-b98e-4eb3-9548-81fc704cf0c0",
+      "file": "location/settlement/city/city-of-or/shop/the-stable-flask.md",
+      "kind": "place",
+      "title": "The Stable Flask"
+    },
+    "the-tipping-point": {
+      "guid": "0c471005-49b2-443c-9f17-467ce032111a",
+      "file": "location/settlement/enclave/scholars-rift/the-tipping-point.md",
+      "kind": "place",
+      "title": "The Tipping Point"
+    },
+    "the-unstable-grounds": {
+      "guid": "4d74c553-61e4-42e6-91dd-843debaed6ac",
+      "file": "location/settlement/enclave/scholars-rift/the-unstable-grounds.md",
+      "kind": "place",
+      "title": "The Unstable Grounds"
+    },
+    "the-whispering-woods": {
+      "guid": "664d8b48-0180-46f3-b18b-0a5f0fddc7bc",
+      "file": "location/region/the-whispering-woods.md",
+      "kind": "place",
+      "title": "The Whispering Woods"
+    },
+    "threadbare": {
+      "guid": "20af8dc5-b551-407e-af1c-bee394bc93bc",
+      "file": "being/character/sylieth/threadbare.md",
+      "kind": "thing",
+      "title": "Threadbare"
+    },
+    "threefold-bloom": {
+      "guid": "48227406-1773-4f52-8bcd-9e4df1878fce",
+      "file": "location/realm/the-dense/threefold-bloom.md",
+      "kind": "event",
+      "title": "The Threefold Bloom"
+    },
+    "tophix": {
+      "guid": "16756ed0-d325-4238-872b-4a4acbf9b7ea",
+      "file": "being/deity/tophix.md",
+      "kind": "being",
+      "title": "Tophix"
+    },
+    "triz-valley": {
+      "guid": "d25a858b-4404-4eef-abf8-295f3be32172",
+      "file": "location/settlement/city/triz-valley.md",
+      "kind": "place",
+      "title": "Triz Valley"
+    },
+    "truth-between-the-tales": {
+      "guid": "91ae676e-a98e-417a-aefc-6a663bb185d8",
+      "file": "location/settlement/city/city-of-or/local/tallis-thorne/truth-between-the-tales.md",
+      "kind": "thing",
+      "title": "Background: The Truth Between the Tales"
+    },
+    "tuskbreaker": {
+      "guid": "d13593fc-8957-4330-a937-77cd69459b78",
+      "file": "society/profession/tuskbreaker.md",
+      "kind": "group",
+      "title": "Tuskbreakers"
+    },
+    "uldur": {
+      "guid": "291fcaf1-9c12-4428-a9ee-9766752b3532",
+      "file": "being/deity/uldur.md",
+      "kind": "being",
+      "title": "Uldur"
+    },
+    "umberdeep": {
+      "guid": "22c5c624-5d8e-4678-96f7-eeb5c3f23fae",
+      "file": "location/settlement/city/umberdeep.md",
+      "kind": "place",
+      "title": "Umberdeep"
+    },
+    "umperas-hull": {
+      "guid": "4675d15a-12a5-4bca-8f31-34b4b0fe2394",
+      "file": "location/region/umperas-hull.md",
+      "kind": "place",
+      "title": "Umperas Hull"
+    },
+    "unparented": {
+      "guid": "2100480f-d397-4a6d-b50f-9a4808d57eaa",
+      "file": "location/realm/unparented.md",
+      "kind": "place",
+      "title": "Unparented"
+    },
+    "uroxi": {
+      "guid": "0ea2f7e6-70b6-495c-a027-ac093844e8a9",
+      "file": "being/species/uroxi.md",
+      "kind": "being",
+      "title": "The Uroxi"
+    },
+    "varnwick": {
+      "guid": "5b057648-9f9b-4247-8ee1-d588d3fa1688",
+      "file": "being/character/varnwick.md",
+      "kind": "being",
+      "title": "Varnwick Twistroot"
+    },
+    "velkrin": {
+      "guid": "78e0018a-f84d-4050-8ab9-e6661caf26e4",
+      "file": "being/species/velkrin.md",
+      "kind": "being",
+      "title": "Velkrin"
+    },
+    "verdant-divide": {
+      "guid": "cc75b9d4-df85-47f8-a8bf-3dfae66751a6",
+      "file": "location/region/verdant-divide.md",
+      "kind": "place",
+      "title": "Verdant Divide"
+    },
+    "vexyrra": {
+      "guid": "620cc0f7-9129-429a-8320-6f067c5922f1",
+      "file": "being/deity/vexyrra.md",
+      "kind": "being",
+      "title": "Vexyrra"
+    },
+    "vorr-gul": {
+      "guid": "93d8bf62-6742-42ce-a34a-5d362fdf6911",
+      "file": "being/titan/vorr-gul.md",
+      "kind": "being",
+      "title": "Vorr’Gul"
+    },
+    "xal-zyra": {
+      "guid": "6dbd72b6-d3a4-42a9-9ab1-5a1cf79b244e",
+      "file": "being/deity/xal-zyra.md",
+      "kind": "being",
+      "title": "Xal Zyra"
+    },
+    "ythrylari": {
+      "guid": "d4c93dec-d1da-4e83-aa49-9333b6bdc9c8",
+      "file": "being/species/ythrylari.md",
+      "kind": "being",
+      "title": "Ythrylari"
+    },
+    "zephiryx": {
+      "guid": "754b82ff-4a82-4fd2-a02f-699821def10a",
+      "file": "being/titan/zephiryx.md",
+      "kind": "being",
+      "title": "Zephiryx"
+    },
+    "zorathi": {
+      "guid": "cb88ef54-d680-452f-b7bf-40c1169a8825",
+      "file": "being/species/zorathi.md",
+      "kind": "being",
+      "title": "Zorathi"
+    },
+    "zynkri": {
+      "guid": "ac2c3426-022f-4195-acb4-69d8dc30dae9",
+      "file": "being/species/zynkri.md",
+      "kind": "being",
+      "title": "The Zynkri"
+    }
+  },
+  "edges": [
+    ["arkona", "location", "bates-lamina"],
+    ["armour-of-or", "location", "iridia"],
+    ["asara-plate", "location", "iridia"],
+    ["bates-lamina", "location", "iridia"],
+    ["blooming-skein", "location", "iridia"],
+    ["city-of-or", "location", "armour-of-or"],
+    ["coalwalk-row", "location", "city-of-or"],
+    ["duskreach", "location", "iridia"],
+    ["eldeviérs-shell", "location", "iridia"],
+    ["glimmering-ashenburrow", "location", "armour-of-or"],
+    ["grayspire", "location", "duskreach"],
+    ["gutterbrew-alley", "location", "city-of-or"],
+    ["headmasters-roost", "location", "scholars-rift"],
+    ["heartforge", "location", "city-of-or"],
+    ["innerhold-heartstead", "location", "umperas-hull"],
+    ["iridia", "location", "the-anchored"],
+    ["mines-of-or", "location", "city-of-or"],
+    ["mistveil-marshes", "location", "iridia"],
+    ["mohinders", "location", "eldeviérs-shell"],
+    ["mountains-of-triz", "location", "iridia"],
+    ["ornite-ring", "location", "iridia"],
+    ["passage-of-or", "location", "city-of-or"],
+    ["quillnibs-handle", "location", "the-dense"],
+    ["runehollow-hall", "location", "stonehollow"],
+    ["scholars-rift", "location", "the-rift-gate"],
+    ["skein-of-bones", "location", "iridia"],
+    ["sorhadjin", "location", "iridia"],
+    ["stonehollow", "location", "city-of-or"],
+    ["the-brazen-burp", "location", "coalwalk-row"],
+    ["the-cauldron-lottery", "location", "gutterbrew-alley"],
+    ["the-echo-halls", "location", "scholars-rift"],
+    ["the-forbidden-library", "location", "scholars-rift"],
+    ["the-inkblot-bindery", "location", "gutterbrew-alley"],
+    ["the-red-palm-hall", "location", "stonehollow"],
+    ["the-rift-gate", "location", "umperas-hull"],
+    ["the-spillway", "location", "city-of-or"],
+    ["the-stable-flask", "location", "gutterbrew-alley"],
+    ["the-tipping-point", "location", "scholars-rift"],
+    ["the-unstable-grounds", "location", "scholars-rift"],
+    ["the-whispering-woods", "location", "iridia"],
+    ["triz-valley", "location", "mountains-of-triz"],
+    ["umberdeep", "location", "asara-plate"],
+    ["umperas-hull", "location", "iridia"],
+    ["verdant-divide", "location", "asara-plate"],
+    ["brother-ienor", "found_at", "the-red-palm-hall"],
+    ["cirxa", "found_at", "mohinders"],
+    ["dolgrin-embervein", "found_at", "city-of-or"],
+    ["dottie-copperlocks", "found_at", "the-inkblot-bindery"],
+    ["drip", "found_at", "the-cauldron-lottery"],
+    ["gorgrath-the-brute", "found_at", "city-of-or"],
+    ["harg-and-pibble", "found_at", "the-brazen-burp"],
+    ["karath-flatstone", "found_at", "city-of-or"],
+    ["miss-terry", "found_at", "the-brazen-burp"],
+    ["nokk", "found_at", "scholars-rift"],
+    ["poppy-handyleaf", "found_at", "city-of-or"],
+    ["runeswindler", "found_at", "mohinders"],
+    ["stonfin-dustbinder", "found_at", "runehollow-hall"],
+    ["sylieth", "found_at", "city-of-or"],
+    ["tallis-thorne", "found_at", "the-brazen-burp"],
+    ["denslings", "range", "the-dense"],
+    ["grunthar-orc", "range", "blooming-skein"],
+    ["iridian", "range", "iridia"],
+    ["nyzzrix", "range", "the-inkblot-bindery"],
+    ["uroxi", "range", "umberdeep"],
+    ["velkrin", "range", "the-whispering-woods"],
+    ["zorathi", "range", "sorhadjin"],
+    ["zynkri", "range", "mistveil-marshes"],
+    ["ccma", "seat_of", "mohinders"],
+    ["council-of-or", "seat_of", "city-of-or"],
+    ["guard-of-or", "seat_of", "city-of-or"],
+    ["rusty-pluckers", "seat_of", "the-brazen-burp"],
+    ["scalebound-strays", "seat_of", "innerhold-heartstead"],
+    ["ashenfang", "operates_in", "skein-of-bones"],
+    ["gurdalks-gang", "operates_in", "mountains-of-triz"],
+    ["ogres-of-glutt-thar", "operates_in", "mistveil-marshes"],
+    ["ragged-goons", "operates_in", "mountains-of-triz"],
+    ["the-oblique-concord", "operates_in", "iridia"],
+    ["concordium-medica", "originates_in", "iridia"],
+    ["dreamweaving", "originates_in", "the-whispering-woods"],
+    ["emberglass-artisan", "originates_in", "duskreach"],
+    ["tuskbreaker", "originates_in", "skein-of-bones"],
+    ["harthrûn-metallurgy", "practiced_at", "heartforge"],
+    ["scroll-binder", "practiced_at", "mohinders"],
+    ["tankard-trekkers", "practiced_at", "city-of-or"],
+    ["mudshaper", "practiced_by", "ogres-of-glutt-thar"],
+    ["berrun-dimmabrow", "member_of", "guard-of-or"],
+    ["darik-stoneveil", "member_of", "guard-of-or"],
+    ["fargash-flatstone", "member_of", "council-of-or"],
+    ["karath-flatstone", "member_of", "council-of-or"],
+    ["or-flatstone", "member_of", "council-of-or"],
+    ["shriekbeak", "member_of", "ragged-goons"],
+    ["the-bone-marshal", "member_of", "ragged-goons"],
+    ["the-crowstrider", "member_of", "ragged-goons"],
+    ["the-pale-scholar", "member_of", "ragged-goons"],
+    ["the-rusted-thaumaturge", "member_of", "ragged-goons"],
+    ["the-scythe-lass", "member_of", "ragged-goons"],
+    ["irion", "venerated_in", "the-anchored"],
+    ["thalgrin", "venerated_in", "city-of-or"],
+    ["xal-zyra", "venerated_in", "the-dense"],
+    ["election-festival", "happened_at", "city-of-or"],
+    ["manifestation", "happened_at", "iridia"],
+    ["the-collapse", "happened_at", "the-anchored"],
+    ["the-fargash-gambit", "happened_at", "city-of-or"],
+    ["the-obsession-of-vorelith", "happened_at", "mohinders"],
+    ["threefold-bloom", "happened_at", "the-dense"],
+    ["deity", "manifests_in", "the-fractured-keep"],
+    ["asarazul", "kept_at", "city-of-or"],
+    ["density-calibrator", "kept_at", "glimmering-ashenburrow"],
+    ["fragment-from-the-personal-journal-of-dcs", "kept_at", "the-inkblot-bindery"],
+    ["the-codex-of-the-heartflame", "kept_at", "heartforge"],
+    ["the-mirrorstep", "kept_at", "the-brazen-burp"],
+    ["brazen-brew", "sold_at", "the-brazen-burp"],
+    ["skyfire-brew", "sold_at", "the-brazen-burp"],
+    ["sweetmoss-sip", "sold_at", "the-brazen-burp"],
+    ["covenant-of-thalgrin-and-ilmater", "owned_by", "sylieth"],
+    ["gloriana", "owned_by", "tallis-thorne"],
+    ["library-between-names", "owned_by", "tallis-thorne"],
+    ["the-binding-thread", "owned_by", "sylieth"],
+    ["density-calibrator", "created_by", "poppy-handyleaf"],
+    ["emberglass-orb", "created_by", "emberglass-artisan"],
+    ["iridia", "created_by", "irion"],
+    ["threadbare", "created_by", "sylieth"],
+    ["truth-between-the-tales", "created_by", "tallis-thorne"],
+    ["berrun-dimmabrow", "friend_of", "brother-ienor"],
+    ["darik-stoneveil", "friend_of", "stonfin-dustbinder"],
+    ["miss-terry", "friend_of", "tallis-thorne"],
+    ["sylieth", "friend_of", "miss-terry"],
+    ["sylieth", "friend_of", "dottie-copperlocks"],
+    ["ashenfang", "rival_of", "tuskbreaker"],
+    ["ashenfang", "rival_of", "ogres-of-glutt-thar"],
+    ["darik-stoneveil", "knows", "brother-ienor"],
+    ["miss-terry", "knows", "brother-ienor"],
+    ["miss-terry", "knows", "sylieth"],
+    ["darik-stoneveil", "mentored_by", "berrun-dimmabrow"],
+    ["sylieth", "mentored_by", "brother-ienor"],
+    ["coalwalk-row", "adjacent_to", "gutterbrew-alley"],
+    ["coalwalk-row", "adjacent_to", "the-spillway"]
+  ]
+}

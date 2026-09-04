@@ -1,0 +1,164 @@
+WORLD REFACTOR - OPEN QUESTIONS
+===============================
+Deliberately NOT fixed. Each is a judgement call about the world, not a
+mechanical error. world.json currently reflects the CURRENT state described
+under each item, so nothing here is lost - it is just possibly wrong.
+
+Not a .md file on purpose: ServeDMD would publish it as a wiki page.
+
+
+A. WRONG EDGES
+--------------
+
+A1. Nyzzrix - wrong on three counts
+    now:  nyzzrix --range--> the-inkblot-bindery
+    His page says he dwells in "the Emberveil Depths", far beneath the
+    Heartforge. The bindery link looks thematic (memories, books), not spatial.
+    He is also an individual, not a species, so `range` is the wrong relation
+    (he got it because I tagged him `wyrmbalm, creature` and `creature`
+    routes to range).
+    likely: nyzzrix --found_at--> heartforge   ... or Emberveil Depths needs
+            its own place node, with Nyzzrix found_at that.
+
+A2. The Uroxi ranges into a city, not a region
+    now:  uroxi --range--> umberdeep        (umberdeep is a city)
+    Every other species ranges across a region. Should this be asara-plate,
+    the region Umberdeep sits in? Or do the Uroxi genuinely live only in
+    that one city?
+
+A3. The Deity concept page has a location
+    now:  deity --manifests_in--> the-fractured-keep
+    `deity` is mechanic/deity.md, a "what is a deity" explainer, not a being.
+    A concept does not manifest anywhere. Recommend dropping this edge; the
+    page can list deities by tag query instead.
+    This is the last survivor of the old is_a chain - the other 7 deities
+    pointed at this page purely to say "I am a deity", and those were dropped.
+
+A4. The Threefold Bloom: event or ongoing state?
+    now:  threefold-bloom --happened_at--> the-dense
+    Tagged `anchoring`. If it is a standing condition rather than a moment,
+    `manifests_in` fits better than `happened_at`.
+
+
+B. A RELATION SPLIT I AM NOT CONFIDENT IN
+-----------------------------------------
+
+B1. practiced_at vs originates_in
+    I split professions by the SCALE of their target, not by meaning:
+      practiced_at  (specific places)   harthrun-metallurgy -> heartforge
+                                        scroll-binder       -> mohinders
+                                        tankard-trekkers    -> city-of-or
+      originates_in (regions/worlds)    dreamweaving        -> whispering-woods
+                                        emberglass-artisan  -> duskreach
+                                        tuskbreakers        -> skein-of-bones
+                                        concordium-medica   -> iridia
+    That is a size distinction wearing a meaning distinction's clothes. If
+    Dreamweaving is still practiced in the Whispering Woods today, then
+    `originates_in` is simply the wrong word for it.
+    Options: (a) collapse both into practiced_at
+             (b) keep both, re-sort by whether the craft ORIGINATED there or
+                 is PRACTICED there now - some will need both edges
+             (c) practiced_at + originates_in + still_practiced_in
+
+
+C. MISSING EDGES (mechanical, but I did not invent them)
+--------------------------------------------------------
+
+C1. gloriana            -> owned_by tallis-thorne
+    File sits in tallis-thorne/, description says "attuned only to Tallis
+    Thorne". Has no edges at all right now.
+
+C2. gorgrath-the-brute  -> found_at city-of-or
+    File sits in city-of-or/local/. Has no edges at all.
+
+C3. the-shinging-well   -> location ???
+    A landmark with no location. Where is it?
+
+
+D. PENDING DELETION
+-------------------
+
+D1. location/realm/unparented.md
+    The fake realm that existed only because the old schema demanded a parent.
+    It now has zero edges and nothing points at it. Deleting it was denied
+    during the refactor, so it is still on disk and still a node in
+    world.json. Delete the file, then regenerate.
+
+
+E. TYPOS AND NAMING
+-------------------
+
+E1. "The Shinging Well"     -> Shining          (title + filename)
+E2. "Manifistation"         -> Manifestation    (title + filename)
+E3. "Councel of Controlled Magical Appliance" -> Council
+E4. "Carefull Roll"         -> Careful          (title + filename carefull.md)
+E5. "paradoxal-recoil.md" holds "Paradoxical Roll" - filename/title disagree
+
+E6. Kind-prefixed titles. Now that `kind` is a real field, these prefixes
+    duplicate it in the display name:
+      "Drink: Skyfire Brew", "Drink: Sweetmoss Sip", "Drink: The Brazen Brew"
+      "Item: Gloriana", "Item: The Library Between Names"
+      "Background: The Truth Between the Tales"
+
+E7. Graveyard emoji in titles: "* Fargash Flatstone", "* Or Flatstone"
+    (both prefixed with the headstone emoji). This encodes "dead" into the
+    title string. Now that edges carry {since, until} in ARC, death is better
+    modelled as an `until` on their member_of edge - which also makes them
+    show up correctly on a timeline later.
+
+
+F. ISOLATED NODES (42) - no edges in either direction
+-----------------------------------------------------
+Many are correct: mechanics and concepts genuinely connect to nothing, and
+the 8 titans may be deliberately unplaced. Listed so you can spot the ones
+that are actually oversights.
+
+  being   (23)  aelfar, aelyria, anemostrus, aurelthys, conduit-aasimar, dithrir, etherial, gor-thuun, gorgrath-the-brute, graith, jarvey, matt, obelion, rhyzmare, robustus, skul-kruk, tophix, uldur, varnwick, vexyrra, vorr-gul, ythrylari, zephiryx
+  concept (10)  arcane-resonance, calendar, carefull, epic, glimmer-drift, karmic-slap, magic, paradoxal-recoil, resonance, scale
+  event   (1)  fracture-link
+  group   (5)  arcane-fangs, cult-of-dy, fizzlemancy, followers-of-irion, hexbit-mechanics
+  place   (2)  the-shinging-well, unparented
+  thing   (1)  gloriana
+
+  Worth a look specifically:
+    graith        - "from the Lost Wake", which is not a node. Create it?
+    etherial, ythrylari, conduit-aasimar - species with no range
+    jarvey, matt, varnwick - characters with no location at all
+    arcane-fangs, cult-of-dy, followers-of-irion, fizzlemancy,
+      hexbit-mechanics - these 5 pointed at "Unparented". Legitimately
+      placeless, or just never placed?
+
+
+G. STRUCTURAL, FOR LATER
+------------------------
+
+G1. Species range is single-valued today. Every species has exactly one
+    `range` edge because the old schema allowed one parent. Real ranges
+    probably span several regions - the schema now permits that, the data
+    does not use it yet.
+
+G2. Three realms exist: the-anchored, the-dense, the-fractured-keep.
+    Only the first two are roots of the location tree. the-fractured-keep
+    contains nothing at all (its only edge is A3 above, which should go).
+
+G3. `scale` is doing two jobs: a tag on regions (armour-of-or is
+    "region, scale") and a standalone concept page at
+    location/landmark/scale.md titled "The Scales". The concept page is
+    filed under location/ but is classified `concept`, not `place`.
+
+G4. calendar.md already dates events in ARC in prose - Or Flatstone's dig at
+    ARC 58, first public Iridian manifestation at ARC 51, Council of Elders
+    at ARC 86. Those are `since` values waiting to be extracted onto edges
+    and event nodes. The epoch block in world.json is ready for them.
+
+G5. Rollup depth is unlimited, and it shows on Iridia.
+    Relations declaring "rollup": "location" surface their subject on EVERY
+    ancestor place, not just the immediate one. That is what makes Brother
+    Ienor (found_at the Red Palm Hall) appear correctly under The City of Or.
+    But it also carries all the way up: Iridia's page now lists 14 Residents,
+    7 Native species, 3 drinks For sale and 5 Kept here - every drink in
+    every tavern in the world.
+    Fine for a 164-node world; will not stay fine. Options when it stops
+    being useful: cap the depth per relation ("rollup_depth": 2), or roll up
+    only to the nearest ancestor of a given kind - which is what the old
+    RelationBuilder.In(targetTags) did before it was superseded.

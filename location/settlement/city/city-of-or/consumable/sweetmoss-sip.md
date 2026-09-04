@@ -7,7 +7,6 @@ date: 2025-04-24T23:08:12.683Z
 tags: beverage
 editor: markdown
 dateCreated: 2025-04-07T19:42:32.314Z
-parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Drink: Sweetmoss Sip

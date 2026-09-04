@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:58.122Z
 tags: academy
 editor: markdown
 dateCreated: 2025-04-01T21:45:37.357Z
-parent: passage=1b7f3025-c079-4d23-af74-1453b39727e1
 ---
 
 # The Scholar’s Rift

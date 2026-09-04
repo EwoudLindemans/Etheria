@@ -4,15 +4,14 @@ title: The Ashenfang
 description: The Ashenfang are a corrupted Orc and Dragonborn splinter group seeking to dominate the Skein of Bones by weaponizing death and binding souls into an unstoppable army.
 published: 1
 date: 2025-04-29T10:15:18.797Z
-tags: soul, tuskbreaker
+tags: clan, soul, tuskbreaker
 editor: markdown
 dateCreated: 2025-04-27T14:13:37.579Z
-parent: region=57e07d00-5365-46b7-bdca-c082d990365f
 ---
 
 # Ashenfang
 
-![Ashenfang Orc](/assets/images/world/ashenfang-orc.webp)
+![Ashenfang Orc](../../assets/images/world/ashenfang-orc.webp)
 
 The Ashenfang are a corrupted splinter of the once-proud Tuskbreaker lineage. Where the Tuskbreakers honored death as an end and a memory, the Ashenfang saw only potential—a resource to be weaponized. Seduced by the forbidden crafts of the Ashenfang Artisans, they broke from their kin, discarding old traditions in favor of darker ambitions. Now, they walk clad in ash and bone, a mockery of the life they once cherished.
 

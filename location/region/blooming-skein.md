@@ -7,14 +7,13 @@ date: 2025-04-27T14:07:02.381Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-27T14:07:02.381Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Blooming Skein
 
 In the future, the Skein of Bones transforms into the Blooming Skein—a place of profound, aching beauty. Here, death, memory, and stubborn hope weave together into a vast, living tapestry. Though the bones remain, they no longer speak only of desolation; they are celebrated, honored, and reborn.
 
-![the_blooming_skein.webp](/assets/images/world/the_blooming_skein.webp)
+![the_blooming_skein.webp](../../assets/images/world/the_blooming_skein.webp)
 
 ## Visual Description
 

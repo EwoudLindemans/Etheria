@@ -7,11 +7,10 @@ date: 2025-04-14T21:45:53.418Z
 tags: character, spy
 editor: markdown
 dateCreated: 2025-03-18T20:54:14.829Z
-parent: city=23673ba2-6e63-4565-ad58-2759f4179c04
 ---
 
 # **Runeswindler, Collector of Passage**  
-![runeswindler.webp](/assets/images/characters/runeswindler.webp)
+![runeswindler.webp](../../../../assets/images/characters/runeswindler.webp)
 
 In Mohinders, travel is not a right—it is a privilege **taxed, monitored, and controlled** by the **Council of Controlled Magical Appliance**. At the heart of this lucrative system stands the **Runeswindler**, an Kavrethul responsible for ensuring **no portal functions without payment**.  
 

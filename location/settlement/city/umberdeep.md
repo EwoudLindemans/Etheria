@@ -7,13 +7,12 @@ date: 2025-04-21T22:25:09.186Z
 tags: city
 editor: markdown
 dateCreated: 2025-04-15T20:29:38.060Z
-parent: scale=38b0e138-e795-4f90-a8bf-f8d22052e7b9
 ---
 
 # Umberdeep
 *Burrowed Cradle of the Uroxi*
 
-![umberdeep.webp](/assets/images/world/umberdeep.webp)
+![umberdeep.webp](../../../assets/images/world/umberdeep.webp)
 
 Beneath ten thousand tons of silence, where the weight of the world presses down like the grip of a god, there lies **Umberdeep**—the sacred subterranean city of the Uroxi. More than just shelter, it is a memory carved into stone and root, a living monument to survival, unity, and stubborn defiance.
 

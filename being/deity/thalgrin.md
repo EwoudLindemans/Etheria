@@ -7,13 +7,12 @@ date: 2025-04-14T21:44:15.048Z
 tags: deity, craftsmanship, endurance, forging
 editor: markdown
 dateCreated: 2025-03-20T21:13:14.382Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 ## **Thalgrin, The Heartbound Smith**  
 *Deity of Craftsmanship, Endurance, and Forging*  
 
-![thalgrin.webp](/assets/images/world/thalgrin.webp)
+![thalgrin.webp](../../assets/images/world/thalgrin.webp)
 
 Thalgrin, the Heartbound Smith, is the patron deity of the dwarves of Or and the master of all magical metallurgy. His presence is felt in every strike of the hammer upon enchanted metal, in the heat of the Heartforge, and in the rhythmic pulse of the Scalewrought Veins. He is both guardian and guide, ensuring that those who wield the power of the forge do so with skill and wisdom.
 

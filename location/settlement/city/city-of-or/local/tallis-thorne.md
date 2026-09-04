@@ -7,13 +7,12 @@ date: 2025-04-14T21:45:21.018Z
 tags: bard, musician, half-elf, historian, poet, legend
 editor: markdown
 dateCreated: 2025-03-31T09:25:15.203Z
-parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Tallis Thorne  
 *A Half-Elf of Undisputed Mystery and Self-Endorsed Greatness*
 
-![thalis-thorne.webp](/assets/images/characters/thalis-thorne.webp)
+![thalis-thorne.webp](../../../../../assets/images/characters/thalis-thorne.webp)
 
 > “History is best told by those who made it, and I—modestly—made most of it worth telling.”*  
 > — **Tallis Thorne**, in *An Autobiography So Good It Wrote Itself*

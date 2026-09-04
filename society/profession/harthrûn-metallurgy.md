@@ -7,7 +7,6 @@ date: 2025-04-14T21:46:31.528Z
 tags: profession
 editor: markdown
 dateCreated: 2025-03-11T22:47:20.407Z
-parent: forge=31f3a52d-8a67-4b03-8f66-61b5ad7ec112
 ---
 
 # Harthrûn Metallurgy

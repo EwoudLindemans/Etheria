@@ -7,13 +7,12 @@ date: 2025-04-14T21:31:24.423Z
 tags: organization, secret, rumor
 editor: markdown
 dateCreated: 2025-03-21T20:50:13.053Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # The Oblique Concord
 | In Action | Logo |
 | --- | --- |
-| ![oblique-concord.webp](/assets/images/world/oblique-concord.webp)|![oblique-concord-logo.webp](/assets/images/world/oblique-concord-logo.webp)|
+| ![oblique-concord.webp](../../assets/images/world/oblique-concord.webp)|![oblique-concord-logo.webp](../../assets/images/world/oblique-concord-logo.webp)|
 
 It began with a single act of mischief—one that should have been forgotten.
 

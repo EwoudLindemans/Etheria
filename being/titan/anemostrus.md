@@ -35,7 +35,7 @@ Anemostrus is a contemplative and ancient being, rarely engaging in battle unles
 ## The Mystery of Anemostrus  
 Some scholars believe that Anemostrus holds knowledge of the world’s oldest secrets, having witnessed the rise and fall of civilizations from above. Others whisper that its shell contains the lost histories of the wind gods, inscribed in the ever-changing patterns of its carapace. Whatever the truth, those who seek it must first weather the storms that follow in Anemostrus’s wake.
 
-> ![anemostrus.webp](/assets/images/characters/anemostrus.webp)
+> ![anemostrus.webp](../../assets/images/characters/anemostrus.webp)
 ># Anemostrus  
 >---  
 >- **Gargantuan Elemental Beast, Neutral**  

@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:10.285Z
 tags: guide, scroll
 editor: markdown
 dateCreated: 2025-03-11T21:35:30.530Z
-parent: forge=31f3a52d-8a67-4b03-8f66-61b5ad7ec112
 ---
 
 # The Codex of the Heartflame

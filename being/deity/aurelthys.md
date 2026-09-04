@@ -7,13 +7,12 @@ date: 2025-04-14T21:44:11.991Z
 tags: deity, ambition, hierarchy, greed
 editor: markdown
 dateCreated: 2025-03-20T21:00:49.370Z
-parent: deity=20cf539c-c708-49f3-801f-55a5735d7041
 ---
 
 ## **Aurelthys, The Argent Arbiter**  
 *Deity of Ambition, Hierarchy and Greed*
 
-![aurelthys.webp](/assets/images/world/aurelthys.webp)
+![aurelthys.webp](../../assets/images/world/aurelthys.webp)
 
 Aurelthys is the singular divine force presiding over Mohinders Spire, embodying the structured mastery of magic and the careful distribution of knowledge. Neither wholly benevolent nor oppressive, Aurelthys represents the intricate balance between the pursuit of wisdom and the necessity of control. The city thrives under the weight of secrets, its power centralized in the hands of those deemed worthy to wield it.  
 

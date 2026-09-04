@@ -7,13 +7,12 @@ date: 2025-04-14T21:44:10.464Z
 tags: deity, night, beauty, arcane
 editor: markdown
 dateCreated: 2025-04-06T20:59:23.137Z
-parent: deity=20cf539c-c708-49f3-801f-55a5735d7041
 ---
 
 # Aelyria, The Resonant Veil  
 **Deity of Beauty, Night, and the Arcane**
 
-![aelyria.webp](/assets/images/world/aelyria.webp)
+![aelyria.webp](../../assets/images/world/aelyria.webp)
 
 In the velvet folds between starlight and silence, where the air tastes of dreams and forgotten spells, there dwells a goddess not born of creation—but of reflection. **Aelyria**, *The Resonant Veil*, did not come from a womb or a war or a wish. She bloomed the moment a stargazer cried from wonder, a spell miscast turned into poetry, and a mirror dared to love its own image.
 

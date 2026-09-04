@@ -7,7 +7,6 @@ date: 2025-04-14T21:46:33.726Z
 tags: profession
 editor: markdown
 dateCreated: 2025-03-23T20:48:09.231Z
-parent: realm=2100480f-d397-4a6d-b50f-9a4808d57eaa
 ---
 
 # Hexbit Mechanics – The Makers of Living Calculation

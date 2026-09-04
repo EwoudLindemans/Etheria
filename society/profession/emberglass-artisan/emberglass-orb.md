@@ -7,12 +7,11 @@ date: 2025-04-27T13:53:33.378Z
 tags: item
 editor: markdown
 dateCreated: 2025-04-27T13:50:49.794Z
-parent: profession=cc4ae0d6-9cfa-44f0-a423-635e7e458df1
 ---
 
 # Emberglass Orbs
 
-![emberglass-orb.webp](/assets/images/profession/emberglass-shaper/emberglass-orb.webp)
+![emberglass-orb.webp](../../../assets/images/profession/emberglass-shaper/emberglass-orb.webp)
 
 Among the countless wonders whispered of in the hallowed halls of Scholar’s Rift, few artifacts stir the imagination—or the nightmares—like the **Soulglass Orbs**. Born from the ancient, layered traditions of the Emberglass Artisans, these spheres are not merely baubles of beauty, but vessels of trapped memories, condensed regrets, and clinging echoes of the dead.
 

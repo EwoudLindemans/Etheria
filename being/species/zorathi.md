@@ -4,14 +4,13 @@ title: Zorathi
 description:
 published: 1
 date: 2025-04-27T14:08:16.758Z
-tags: region
+tags: species, nomad
 editor: markdown
 dateCreated: 2025-04-27T11:55:22.008Z
-parent: region=c0213780-b5e7-4c81-baf9-ca09a2f0b1ce
 ---
 
 # The Zorathi Nomads
-![zorathi.webp](/assets/images/world/zorathi.webp)
+![zorathi.webp](../../assets/images/world/zorathi.webp)
 
 ## Description
 The Zorathi are a race of towering, muscular nomads who traverse the desert not as conquerors, but as protectors. Known as the “Sun’s Kin” in ancient tongue, they are revered for their immense strength, ageless wisdom, and unwavering kindness. Despite their intimidating appearance, the Zorathi are considered sacred allies by many desert peoples, often appearing in times of dire need.

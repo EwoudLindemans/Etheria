@@ -7,7 +7,6 @@ date: 2025-04-25T18:23:30.876Z
 tags: region, forrest
 editor: markdown
 dateCreated: 2025-04-25T17:53:00.521Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 

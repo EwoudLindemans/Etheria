@@ -7,7 +7,6 @@ date: 2025-04-14T21:51:08.728Z
 tags: city
 editor: markdown
 dateCreated: 2025-04-01T15:38:56.246Z
-parent: scale=4675d15a-12a5-4bca-8f31-34b4b0fe2394
 ---
 
 # Innerhold Hearthstead

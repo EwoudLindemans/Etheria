@@ -7,7 +7,6 @@ date: 2025-04-14T21:46:01.193Z
 tags: passage
 editor: markdown
 dateCreated: 2025-03-05T00:21:54.523Z
-parent: scale=4675d15a-12a5-4bca-8f31-34b4b0fe2394
 ---
 
 # The Rift Gate

@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:24.082Z
 tags: item
 editor: markdown
 dateCreated: 2025-04-04T13:04:12.697Z
-parent: bard=ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3
 ---
 
 ## **Item: The Library Between Names**  

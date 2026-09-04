@@ -7,14 +7,13 @@ date: 2025-04-29T10:08:41.277Z
 tags: profession, emberglass, memory, curse, soul
 editor: markdown
 dateCreated: 2025-03-23T12:04:06.602Z
-parent: region=d0c9761b-ad0d-46b8-8515-da1f98abf5cb
 ---
 
 # Emberglass Artisans – The Keepers of Fire and Memory
 
 | Memory Path | Hexfire Path | Graveflame Path | Ashenfang Path|
 | --- | --- | --- | --- | 
-| ![emberglass-profession.webp](/assets/images/profession/emberglass-shaper/emberglass-profession.webp) | ![emberglass-cursed.webp](/assets/images/profession/emberglass-shaper/emberglass-cursed.webp) | ![emberglass-necromancer.webp](/assets/images/profession/emberglass-shaper/emberglass-necromancer.webp) | ![emberglass-undead.webp](/assets/images/profession/emberglass-shaper/emberglass-undead.webp) |
+| ![emberglass-profession.webp](../../assets/images/profession/emberglass-shaper/emberglass-profession.webp) | ![emberglass-cursed.webp](../../assets/images/profession/emberglass-shaper/emberglass-cursed.webp) | ![emberglass-necromancer.webp](../../assets/images/profession/emberglass-shaper/emberglass-necromancer.webp) | ![emberglass-undead.webp](../../assets/images/profession/emberglass-shaper/emberglass-undead.webp) |
 
 *"Glass is more than sand and heat. It is light given form, fire made eternal, and memory trapped in crystal."*
 
@@ -76,13 +75,13 @@ The result is not ordinary glass, but something **alive**—glass that holds lig
 *"A mirror that does not lie."*  
 Crafted from the purest Emberglass, these mirrors reveal more than just reflections. They can show hidden truths, uncover illusions, and even capture fleeting visions of the past or future. Some rulers and nobles refuse to stand before one, fearing what may be revealed.
 
-![emberglass-mirror.webp](/assets/images/world/profession/emberglass-shaper/emberglass-mirror.webp)
+![emberglass-mirror.webp](../../assets/images/profession/emberglass-shaper/emberglass-mirror.webp)
 
 ### **Emberglass Orbs**  
 *"Voices of the past, never silenced."*  
 Each emberglass orb is imbued with the essence of a person’s memory, preserving their words, emotions, or even a fragment of their soul. Used by scholars, oracles, and grieving families, they ensure that knowledge and love do not fade with time.
 
-![emberglass-orb.webp](/assets/images/world/profession/emberglass-shaper/emberglass-orb.webp)
+![emberglass-orb.webp](../../assets/images/profession/emberglass-shaper/emberglass-orb.webp)
 
 ### **Dragon’s Eye Jewels**  
 *"A jewel that sees."*  
@@ -100,7 +99,7 @@ A relic of old, these lanterns burn with a glass-encased fire that never extingu
 *"Each shard holds a different truth."*  
 An experimental work, these strange, multi-faceted crystals warp perception, revealing hidden layers of reality. A warrior might see an enemy’s next strike before it lands. A sage might glimpse a hidden riddle within a text. But such power is unpredictable, and some shards show things best left unseen.
 
-![emberglass-fractured-prism.webp](/assets/images/world/profession/emberglass-shaper/emberglass-fractured-prism.webp)
+![emberglass-fractured-prism.webp](../../assets/images/profession/emberglass-shaper/emberglass-fractured-prism.webp)
 
 ---
 

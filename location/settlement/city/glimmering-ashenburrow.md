@@ -7,14 +7,13 @@ date: 2025-04-14T21:45:45.670Z
 tags: city
 editor: markdown
 dateCreated: 2025-03-09T17:13:54.304Z
-parent: scale=43233b74-a64f-434e-8d70-0e9bf64b286e
 ---
 
 # The Glimmering Ashenburrow – The City Between Walls  
 
 Tucked impossibly between the great halls and towering homes of The City of Or, The Glimmering Ashenburrow is a city that should not exist. A sliver of space, hidden in plain sight, compressed between the cracks of dwarven civilization—a place wedged between reality itself. It defies architecture, logic, and even common sense. Buildings lean at odd angles but never collapse. Streets spiral in ways that shouldn't connect, yet somehow always lead exactly where one needs to go. It's as if the city was never built but rather *grew* between Or’s structures, forming its own impossible, secret world.  
 
-![the_glimmering_ashenburrow.webp](/assets/images/world/the_glimmering_ashenburrow.webp)
+![the_glimmering_ashenburrow.webp](../../../assets/images/world/the_glimmering_ashenburrow.webp)
 
 ## A Place of Impossible Space
 The Ashenburrow is a fragment of The Dense, a place where reality folds inward, creating a compressed, half-forgotten pocket of existence. While The Dense is a realm of peril, decay, and crushing weight, the gnomes of the Ashenburrow found a way to tame a sliver of it, shaping it into a home where compressed space became a gift rather than a curse.  

@@ -1,0 +1,158 @@
+RELATIONS RECOVERED FROM PROSE
+==============================
+Found by scanning every page for mentions of other nodes, then reading the
+surrounding sentences. Section 1 is already in world.json. Sections 2 and 3
+are not - they need your judgement.
+
+Method note: your pages carry no markdown links between each other (ServeDMD
+auto-links by title), so all of this had to come from bare prose.
+
+
+1. ADDED TO world.json (19 edges, 2 new relation types)
+-------------------------------------------------------
+New relation types: mentored_by (Mentored / Mentored by)
+                    adjacent_to (Neighbouring, symmetric)
+
+  iridia --created_by--> irion
+      RECOVERED FROM A ROTTED POINTER, not prose. iridia.md carried
+      "connections: creator=581961b4-1a14-4822-89f4-574c6bec3f7d". That guid
+      matches no node. git log -S shows it was Irion's guid until commit
+      95c78fb changed it; the reference in iridia.md was never updated.
+      This is the failure mode the refactor exists to prevent.
+
+  density-calibrator --created_by--> poppy-handyleaf
+      "the Density Calibrator is an unassuming yet vital device, created by
+       Poppy Handyleaf, that ensures the stability..."
+
+  gloriana --owned_by--> tallis-thorne          (was item C1 in world-review)
+      "Wondrous Item (instrument, unique), legendary, soul-bound, attuned
+       only to Tallis Thorne"
+
+  gorgrath-the-brute --found_at--> city-of-or   (was item C2 in world-review)
+      File sits in city-of-or/local/. Note he was BORN in the Skein of Bones
+      ("He was born in the Skein of Bones") - see section 2.
+
+  karath-flatstone --member_of--> council-of-or
+      "Karath Flatstone - The oldest sitting member and presumed patriarch"
+
+  miss-terry --friend_of--> tallis-thorne
+      Both pages declare it under a Relations heading:
+      miss-terry.md   "### Tallis Thorne - Friend"
+      tallis-thorne.md "### Miss Terry - Friend"
+      Note: miss-terry.md also calls it "equal parts bardic rivalry and
+      deep-rooted camaraderie". Only friend_of was recorded. If you want the
+      rivalry too, add a rival_of edge alongside - the pair can hold both.
+
+  sylieth --friend_of--> miss-terry
+  sylieth --friend_of--> dottie-copperlocks
+  sylieth --mentored_by--> brother-ienor
+      From sylieth.md "## Known Allies":
+      "**Miss Terry** - Tiefling bard who first showed Sylieth compassion."
+      "**Brother Ienor** - ...elven healer who became a mentor."
+      "**Dottie Copperlocks** - ...gave Sylieth their first role in the world."
+      Confirmed from the other side in brother-ienor.md: "He has remained a
+      steady mentor in Sylieth's life, guiding without control."
+
+  berrun-dimmabrow --friend_of--> brother-ienor
+      "Berrun respects the healer deeply, both as a professional and a
+       personal friend."
+
+  darik-stoneveil --mentored_by--> berrun-dimmabrow
+      berrun's page: "He offers the young guard mentorship through quiet
+      assignments and gentle nudges."
+      darik's page:  "Darik's commanding officer, who sees great potential."
+
+  darik-stoneveil --friend_of--> stonfin-dustbinder
+      "The halfling librarian of Runehollow Hall and a quiet friend to Darik."
+
+  darik-stoneveil --knows--> brother-ienor
+      "Darik respects the healer deeply, and occasionally visits the Red
+       Palm Hall."
+
+  miss-terry --knows--> brother-ienor
+      "The bard **Miss Terry** wrote the song *I Need A Healer* about him."
+
+  miss-terry --knows--> sylieth
+      "When **Miss Terry** discovered a Tiefling urchin named **Sylieth**,
+       she brought them to the Hall instead of the authorities."
+
+  ashenfang --rival_of--> tuskbreaker
+      "**Tuskbreakers:** Viewed as weak, nostalgic fools clinging to dead
+       honor."
+
+  ashenfang --rival_of--> ogres-of-glutt-thar
+      "**Ogres of Glutt'thar:** Once respected as fellow death-keepers, now
+       seen as hoarders of power to be seized."
+
+  coalwalk-row --adjacent_to--> gutterbrew-alley
+  coalwalk-row --adjacent_to--> the-spillway
+      From "## Relationship with Other Districts" in coalwalk-row.md.
+      Only Coalwalk Row documents its neighbours; the other districts have
+      no such section, so the district adjacency map is one-sided so far.
+
+
+2. FOUND BUT NOT ADDED - needs your call
+----------------------------------------
+
+2a. gorgrath-the-brute BORN IN skein-of-bones
+    "He was born in the Skein of Bones"
+    He is now found_at city-of-or. Birthplace is a different fact from
+    current location, and the vocabulary has no word for it. Add `born_in`?
+    It would also fit Or Flatstone ("Born in poverty in a post-apocalyptic
+    world") and would pair naturally with {since} once you date them.
+
+2b. dottie-copperlocks <--?--> the-oblique-concord
+    Deliberately ambiguous in the source, so I did not guess:
+    "It is difficult to say whether Dottie fears the Oblique Concord, or
+     admires them. Perhaps both. She never claims to oppose them."
+    "She might be their creation. She might be their counterweight."
+    "When asked if she serves them, she often laughs: I'd know... unless I
+     wouldn't."
+    Candidates: knows, member_of, rival_of - or nothing, if the uncertainty
+    is the point. An edge with a {note} could record the ambiguity itself.
+
+2c. drip <--?--> the-stable-flask
+    "His relationship with **Professor Marwa Krindlenut** of *The Stable
+     Flask* is both cordial and competitive."
+    The relation is really Drip <-> Marwa, but Marwa has no page (see 3).
+    rival_of the-stable-flask would be a stand-in for a person-to-person tie.
+
+2d. ashenfang vs blooming-skein
+    "The unchecked expansion of the Blooming Skein threatens to bury the
+     Skein of Bones under living roots."
+    A faction in conflict with a *region*. rival_of is declared for beings
+    and groups; pointing it at a place may or may not be what you want.
+
+2e. runehollow-hall and or-flatstone
+    "Built by dwarves in honour of Or Flatstone himself"
+    That is dedication, not authorship - so created_by would be wrong.
+    Worth its own relation (dedicated_to) if this recurs.
+
+
+3. NAMED ENTITIES WITH NO PAGE
+------------------------------
+Each is named in bold in the prose as though it were a real thing, but has
+no node. They cannot be linked until they exist.
+
+  Gundric "Gundy" Alebrow      barkeep of the Brazen Burp; Berrun is one of
+                               the few allowed behind his bar
+  Professor Marwa Krindlenut   of The Stable Flask; Drip's cordial rival
+  The Verdant Claws            faction the Ashenfang hate "coldly"
+  Hearthring                   district Coalwalkers commute to for work
+  The Ashcup Hearth            communal oven in Coalwalk Row
+  The Cleftstep Market         market in Coalwalk Row
+
+
+4. WHAT WAS NOT MINED
+---------------------
+The scan found 718 pairs where one page mentions another with no edge
+between them. Most are ordinary prose reference, not structure - the City of
+Or is named on dozens of pages without being related to them. Only mentions
+sitting in a sentence with a relationship cue (created by, friend, mentor,
+member, rival, worships, dwells in...) were promoted to candidates, which
+narrowed 718 to 84, and reading those left the 19 in section 1.
+
+The remaining gap worth attention: calendar.md dates roughly 20 events in ARC
+in prose. Those are `since` values for edges and event nodes, and extracting
+them is the obvious next pass - it would turn the epoch block in world.json
+from a declaration into a working timeline.

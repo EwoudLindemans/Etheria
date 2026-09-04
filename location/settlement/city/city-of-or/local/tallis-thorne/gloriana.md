@@ -1,4 +1,5 @@
 ---
+guid: 3b39f3e3-dd09-4ae2-8859-34d9f48f359b
 title: Item: Gloriana
 description: Wondrous Item (instrument, unique), legendary, soul-bound, attuned only to Tallis Thorne
 published: 1

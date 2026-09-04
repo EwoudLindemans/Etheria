@@ -7,7 +7,6 @@ date: 2025-04-14T21:50:41.119Z
 tags: region, scale
 editor: markdown
 dateCreated: 2025-04-14T21:50:39.619Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 # Armour of Or
@@ -30,4 +29,4 @@ The deep connection between the scale and the planet’s core causes a faint but
 - Beneath the Armour of Or you find The City of Or 
 
 
-![armour-of-or.webp](/assets/images/images/world/armour-of-or-v2.webp)
+![armour-of-or.webp](../../assets/images/world/armour-of-or-v2.webp)

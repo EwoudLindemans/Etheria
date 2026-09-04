@@ -7,7 +7,6 @@ date: 2025-04-14T21:51:13.430Z
 tags: town
 editor: markdown
 dateCreated: 2022-01-27T08:44:37.050Z
-parent: mountain=c7737feb-0889-4e79-9b4d-f899fad4a5b3
 ---
 
 # Triz Valley
@@ -16,7 +15,7 @@ A small town at the foot of the Mountains of Triz, limited in its growth by the 
 
 At the entrance to the valley of Triz is a wide path leading through an area of thick plates of stone. This path leads on to the peak of a mountain and then it turns and moves over to mountain of an almost impossible height. In its lower part is a short tunnel which leads out of the valley. It is only about 10 meters long. It is said that the mountain coveres a Scale
 
-![triz-valley.webp](/assets/images/world/triz-valley.webp)
+![triz-valley.webp](../../../assets/images/world/triz-valley.webp)
 
 ## A Town Built on Deals and Dirt
 

@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:02.539Z
 tags: election, festival, tradition
 editor: markdown
 dateCreated: 2025-04-03T20:45:42.986Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # The Election Festival of Or

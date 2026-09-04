@@ -7,7 +7,6 @@ date: 2025-04-14T21:51:02.595Z
 tags: local
 editor: markdown
 dateCreated: 2025-04-01T15:57:54.846Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Dolgrin Embervein – The Heretic Sculptor

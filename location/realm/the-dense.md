@@ -24,8 +24,8 @@ A canvas of forgotten constellations—breathing. Watching. Waiting.
 
 |The dense with its Denslings|||
 | --- | --- | --- | --- |
-|![the_dense.webp](/assets/images/world/the_dense.webp)|![denslings.webp](/assets/images/world/denslings.webp)|![the_dense.webp](/assets/images/world/the_dense_red.webp)|
-|![the_dense_trees.webp](/assets/images/world/the_dense_trees.webp)|![the_dense_deity.webp](/assets/images/world/the_dense_deity.webp)|![denslings.webp](/assets/images/world/the_dense_rift.webp)
+|![the_dense.webp](../../assets/images/world/the_dense.webp)|![denslings.webp](../../assets/images/world/denslings.webp)|![the_dense.webp](../../assets/images/world/the_dense_red.webp)|
+|![the_dense_trees.webp](../../assets/images/world/the_dense_trees.webp)|![the_dense_deity.webp](../../assets/images/world/the_dense_deity.webp)|![denslings.webp](../../assets/images/world/the_dense_rift.webp)
 
 ## Deity Xal'Zyra, the Veil Between  
 **Deity of the Dense, Shadows, and Passage**  

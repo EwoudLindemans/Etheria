@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:39.479Z
 tags: infirmary
 editor: markdown
 dateCreated: 2025-04-04T13:59:16.850Z
-parent: district=e80c29f1-ab1a-48d1-a14a-03e13aa686d2
 ---
 
 # The Red Palm Hall

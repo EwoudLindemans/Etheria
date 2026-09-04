@@ -7,7 +7,6 @@ date: 2025-04-24T19:19:06.321Z
 tags: anchoring
 editor: markdown
 dateCreated: 2025-04-24T19:19:06.321Z
-parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ---
 
 # The Threefold Bloom of the Dense

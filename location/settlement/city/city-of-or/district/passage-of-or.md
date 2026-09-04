@@ -7,7 +7,6 @@ date: 2025-04-14T21:44:59.430Z
 tags: tunnel
 editor: markdown
 dateCreated: 2022-01-27T08:59:54.902Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 ## The Passage of Or

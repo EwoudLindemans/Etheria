@@ -7,12 +7,11 @@ date: 2025-05-06T22:04:57.913Z
 tags: cataclysm, creator, deity, event, resonance, transformation
 editor: markdown
 dateCreated: 2022-10-23T21:54:48.390Z
-parent: realm=5cad1505-6363-4e30-b6b2-6b4076f8b8c0
 ---
 
 # Irion, The Fallen Titan
 *Deity of Cataclysm, Transformation, and Resonance*  
-![irion.webp](/assets/images/world/irion.webp)
+![irion.webp](../../assets/images/world/irion.webp)
 
 The creature that collapsed with the world Iridia is called Irion. The origin of Irion is unknown, but there are many theories about what it may be. Some say that it is a dragon that was petrified by powerful magic, while others say that it is a giant creature created by the gods. Whatever the truth may be, Irion remains a mystery and its impact on the world is still felt today.
 

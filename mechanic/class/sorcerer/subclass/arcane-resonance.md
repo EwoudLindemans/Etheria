@@ -91,4 +91,4 @@ By 14th level, you'll be able to manipulate multiple frequencies, creating a ver
 
 |  |  |  |  |
 | -------- | ------- | ------- | ------- |
-![arcane_resonance_sorceress.webp](/classes/subclasses/arcane_resonance_sorceress.webp) | ![arcane_resonance_sorceress_(2).webp](/classes/subclasses/arcane_resonance_sorceress_(2).webp) | ![arcane_resonance_sorcerer.webp](/classes/subclasses/arcane_resonance_sorcerer.webp) | ![arcane_resonance_sorceress_(3).webp](/assets/images/classes/subclasses/arcane_resonance_sorceress_(3).webp)
+![arcane_resonance_sorceress.webp](../../../../assets/images/classes/subclasses/arcane_resonance_sorceress.webp) | ![arcane_resonance_sorceress_(2).webp](../../../../assets/images/classes/subclasses/arcane_resonance_sorceress_%282%29.webp) | ![arcane_resonance_sorcerer.webp](../../../../assets/images/classes/subclasses/arcane_resonance_sorcerer.webp) | ![arcane_resonance_sorceress_(3).webp](../../../../assets/images/classes/subclasses/arcane_resonance_sorceress_%283%29.webp)

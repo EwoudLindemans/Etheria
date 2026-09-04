@@ -37,7 +37,7 @@ Some scholars believe that Robustus is searching for its lost creators, while ot
 ># Robustus
 > | Defensive  | Offensive |
 > | --- | --- |
-> | ![robustus.webp](/characters/robustus.webp) | ![robustus_(2).webp](/assets/images/characters/robustus_(2).webp) |
+> | ![robustus.webp](../../assets/images/characters/robustus.webp) | ![robustus_(2).webp](../../assets/images/characters/robustus_%282%29.webp) |
 >---
 >- **Gargantuan Titan, Lawful Neutral**
 >- **Armor Class** 22 (Titanic Resilience)

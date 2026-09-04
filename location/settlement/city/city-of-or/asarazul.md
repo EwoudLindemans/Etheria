@@ -7,12 +7,11 @@ date: 2025-04-14T21:50:57.890Z
 tags: gem, scale, artifact, item
 editor: markdown
 dateCreated: 2025-04-02T13:40:05.552Z
-parent: city=59408a28-61f9-4883-92bd-922c27813926
 ---
 
 # Asarazul
 
-![azurazul.webp](/assets/images/ores/azurazul.webp)
+![azurazul.webp](../../../../assets/images/ores/azurazul.webp)
 
 Long before the City of Or was a name whispered through the mountain halls, and long before the undercity glowed red beneath the Scale, there was a gem—cut from the frozen depths of the **Asara Plate**, said to hold the stillness of a thousand winters.
 

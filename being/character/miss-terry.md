@@ -4,16 +4,15 @@ title: Miss Terry
 description: The embodiment of charm, wit, and endless tales, shrouded in mystery.
 published: 1
 date: 2025-04-29T10:32:23.316Z
-tags: character, musician, bard, thiefling, singer
+tags: character, musician, bard, tiefling, singer
 editor: markdown
 dateCreated: 2025-03-29T19:39:09.285Z
-parent: tavern=efd16b68-e53b-480a-8bf0-b8efd129b310
 ---
 
 # Miss Terry
 **The Enigma of the Brazen Burp**
 
-![miss_terry_cartoon.webp](/assets/images/characters/miss_terry_cartoon.webp)
+![miss_terry_cartoon.webp](../../assets/images/characters/miss_terry_cartoon.webp)
 
 Few names in The City of Or carry as much simultaneous reverence and bewilderment as Miss Terry, the jolly Tiefling bard of the Brazen Burp. She is often called “Mystery” by those slurring their words too hard to get it right. To call her simply a performer would be a grave understatement—she is the heart of the tavern, the spark that keeps its fire burning, and the unsolvable riddle that keeps its regulars guessing.
 

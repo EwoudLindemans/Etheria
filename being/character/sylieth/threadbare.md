@@ -1,12 +1,12 @@
 ---
+guid: 20af8dc5-b551-407e-af1c-bee394bc93bc
 title: Threadbare
 description: A Tiefling's fragmented backstory reveals a life of survival, unexpected kindness, and a mysterious connection all symbolized by a single thread.
 published: 1
 date: 2025-05-11T19:09:55.579Z
-tags: 
+tags: journal, backstory
 editor: markdown
 dateCreated: 2025-05-11T19:09:36.050Z
-parent: character=d0551441-af4d-43c9-8948-148e42b493df
 ---
 
 # Backstory: Threadbare

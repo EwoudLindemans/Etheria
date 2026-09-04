@@ -7,13 +7,12 @@ date: 2025-04-24T19:29:54.089Z
 tags: creature, ooze, the dense
 editor: markdown
 dateCreated: 2025-04-24T19:25:27.530Z
-parent: realm=d258c794-e9d0-4d35-8917-db5703d3fda3
 ---
 
 # Densling
 The Squallborn Sludge
 
-![denslings.webp](/assets/images/world/denslings.webp)
+![denslings.webp](../../assets/images/world/denslings.webp)
 
 > *“You cannot reason with a Densling.  
 > But you can feel when it remembers you.”*  

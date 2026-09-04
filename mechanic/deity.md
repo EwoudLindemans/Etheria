@@ -7,13 +7,12 @@ date: 2025-04-14T21:51:18.231Z
 tags: deity
 editor: markdown
 dateCreated: 2025-03-21T08:04:44.894Z
-parent: realm=f5c11b2c-e917-47b7-a226-d79f4c5ecee0
 ---
 
 # The Deities and the Will of Iridia
 Deities in Iridia are manifestations of collective belief, embodying the desires, fears, and values of the people. Each Scale supports one deity at a time, but belief is fluid—deities may fade, migrate, or be replaced. However, they leave behind **imprints**, resonances of their past influence, allowing for their potential return if faith realigns. The borders of each Scale shift in response to changing beliefs, ensuring a dynamic divine balance.
 
-![deity.webp](/assets/images/world/deity.webp)
+![deity.webp](../assets/images/world/deity.webp)
 
 When a deity weakens, it does not vanish entirely but lingers as an imprint. If belief later realigns with its essence, the deity may return without needing to be recreated. For example, a Deity of Protection may fade in times of peace, giving way to a Deity of Prosperity, only to reawaken when war rekindles the need for protection.
 

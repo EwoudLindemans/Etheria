@@ -7,7 +7,6 @@ date: 2025-04-14T21:45:25.655Z
 tags: journal
 editor: markdown
 dateCreated: 2025-04-04T13:19:13.463Z
-parent: bard=ad1d44e6-6bb9-4dcf-a1f1-ca42ab45f6f3
 ---
 
 # Background: The Truth Between the Tales  

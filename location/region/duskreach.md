@@ -7,7 +7,6 @@ date: 2025-05-22T22:35:00.007Z
 tags: region
 editor: markdown
 dateCreated: 2025-04-27T14:07:02.381Z
-parent: world=7960bb3a-a9f9-47fa-8126-556041ba1c55
 ---
 
 Duskreach is the name given to the long, salt-bitten peninsula that juts into the cold western waters of Iridia like a hand that once beckoned and then thought better of it. Its shores are stone and shale, not sand, and its cliffs bear the grooved marks of centuries of wind—not erosion, but inscription. The locals say the wind here is old enough to remember names that even the gods forgot.

@@ -1,4 +1,5 @@
 ---
+guid: d227a0bb-a577-4bf4-be6e-1758f5193033
 title: Grunthar Orc
 description: The Grunthar Orcs are moss-clad, antler-crowned guardians shaped by ancient magic, blending wild intellect with primal power to protect the fading green of the world.
 published: 1
@@ -6,14 +7,13 @@ date: 2025-05-07T12:05:32.139Z
 tags: species
 editor: markdown
 dateCreated: 2025-04-27T21:13:21.693Z
-parent: region=9d7e7788-38e1-49fd-97b6-ef55c10f6cd9
 ---
 
 # Grunthar Orc
 
 |Resonance Wielder|Warrior|
 | -- | -- |
-|![grunthar-orc.webp](/world/grunthar-orc.webp)|![grunthar.webp](/assets/images/world/grunthar.webp)|
+|![grunthar-orc.webp](../../../assets/images/world/grunthar-orc.webp)|![grunthar.webp](../../../assets/images/world/grunthar.webp)|
 
 
 In the deep labyrinths of the The Blooming Skein, where the roots of trees pierce even into the sleeping bones of the world, the **Grunthar Orcs** were not born—they **awakened**. Unlike their more brutish cousins, the Grunthar are creatures of wild intellect and feral magic, woven together by the will of the ancient Demeriún, who once whispered into the soil to craft guardians against the decay of time itself.
