@@ -14,7 +14,7 @@ parent: region=664d8b48-0180-46f3-b18b-0a5f0fddc7bc
 
 | Veydrassi | Sylvachor | Thyrnari |
 | -- | -- | -- |
-| ![veydr.webp](/images/world/veydr.webp) | ![sylvachor.webp](/images/world/sylvachor.webp) | ![thyrnari.webp](/images/world/thyrnari.webp) 
+| ![veydr.webp](/assets/images/world/veydr.webp) | ![sylvachor.webp](/assets/images/world/sylvachor.webp) | ![thyrnari.webp](/assets/images/world/thyrnari.webp) 
 ## Overview
 
 The **Velkrin** are not many races—they are **one species**, **one people**, whose forms ripple with the dreaming breath of Iridia itself. Though their appearances vary wildly—some bearing antlers of crystal, others sprouting velvet wings or lupine ears—these are not subspecies or kinfolk. They are all **Velkrin**, shaped by instinct, memory, and the resonance of place.
